@@ -1,0 +1,9 @@
+title: "daily-news-by-yukkuri | ずんだもんのニュース解説"
+description: "ずんだもん＆四国めたんが解説する毎日のニュースポッドキャスト"
+baseurl: "/daily-news-by-yukkuri"
+url: "https://lambda-knight.github.io"
+theme: minima
+lang: ja
+
+plugins:
+  - jekyll-feed
