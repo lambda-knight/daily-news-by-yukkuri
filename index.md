@@ -9,9 +9,10 @@ layout: default
 
 ## 番組一覧
 
-| 番組 | RSS | Spotify | Apple Podcasts |
-|---|---|---|---|
-| 生成AIニュース | [RSS](feeds/ai.xml) | 登録予定 | 登録予定 |
-| 7カ国メディア比較 | [RSS](feeds/compare.xml) | 登録予定 | 登録予定 |
-| 国内8紙くらべ読み | [RSS](feeds/domestic.xml) | 登録予定 | 登録予定 |
-| 海外では大ニュース・日本はスルー | [RSS](feeds/intl_jp.xml) | 登録予定 | 登録予定 |
+| 番組 | RSS |
+|---|---|
+| ずんだもんの生成AIニュース | [RSS](feeds/ai.xml) |
+| 7カ国メディア比較ニュース | [RSS](feeds/compare.xml) |
+| 国内8紙くらべ読みニュース | [RSS](feeds/domestic.xml) |
+| 海外では大ニュース・日本はスルー | [RSS](feeds/intl_jp.xml) |
+| 世界の珍ニュース by ずんだもん | [RSS](feeds/weird.xml) |
