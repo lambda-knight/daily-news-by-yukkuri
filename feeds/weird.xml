@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>世界の珍ニュース by ずんだもん</title>
+    <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
+    <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/weird.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <copyright>© 2026 daily-news-by-yukkuri</copyright>
+    <description>世界中から集めた笑えるニュースをずんだもんと四国めたんが毎日解説。深刻な事件は除外、クスッと笑えるネタだけ。</description>
+    <itunes:author>daily-news-by-yukkuri</itunes:author>
+    <itunes:summary>世界中から集めた笑えるニュースをずんだもんと四国めたんが毎日解説。深刻な事件は除外、クスッと笑えるネタだけ。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/weird.png"/>
+    <itunes:category text="Comedy"/>
+    <itunes:owner>
+      <itunes:name>daily-news-by-yukkuri</itunes:name>
+      <itunes:email>tokomakoma123@gmail.com</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://lambda-knight.github.io/daily-news-by-yukkuri/art/weird.png</url>
+      <title>世界の珍ニュース by ずんだもん</title>
+      <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
+    </image>
+    <item>
+      <title>世界の珍ニュース — 2026年6月19日</title>
+      <description>世界の珍ニュース — 2026年6月19日
+
+今日は「日本が変すぎる」「お金の使い方が謎」「鳩が音楽家になる」の3本柱でお届け！
+
+
+
+1万3千ドルのロボットトイレが寝室まで自走してくる件
+
+ 中国のスタートアップ「越伴（ユエバン）」が開発した自律型スマートトイレ「小伴（シャオバン）」
+ 価格：約1万3千ドル（約200万円）
+ 障害物を自動回避しながらベッドサイドまで自走してくる
+ AIで汚れを検知、自動洗浄・乾燥機能搭載
+ 深夜にドアが開いてトイレが入ってくる時代
+ 出典: [Oddity Central](https://www.odditycentral.com/)
+
+カビで覆われたマグロ「モルドエイジド・ツナ」が日本の珍味として注目
+
+ 本マグロをカビの厚い層でコーティングして乾燥熟成させる調理法
+ 表面が「毛が生えた」ように見える見た目がインパクト大
+ 日本の一部の高級寿司店で提供されている「レアで物議を醸す珍味」
+ 熟成によりうま味が凝縮、独特の風味が生まれる（らしい）
+ 出典: [Oddity Central](https://www.odditycentral.com/</description>
+      <enclosure url="https://lambda-knight.github.io/daily-news-by-yukkuri/audio/2026-06-19/weird_yukkuri.m4a" length="2822201" type="audio/mp4"/>
+      <guid isPermaLink="false">weird-2026-06-19</guid>
+      <pubDate>Fri, 19 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
