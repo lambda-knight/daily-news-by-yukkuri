@@ -26,6 +26,32 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AI最前線 2026年6月20日号</title>
+      <description>生成AI最前線 2026年6月20日号
+
+AIと婚活 ── 米国シングルの半数近くがAIマッチングに拒否感
+
+ マッチグループの調査によると、アメリカのシングルの約47%がAIを使った婚活に否定的な印象を持つ
+ 一方でプロフィール改善や会話の切り出しをAIに任せることには一定の理解もあり、意見が割れる状況
+ AIが人間の感情・信頼・出会いの領域に踏み込むことへの根強い抵抗感が浮き彫りに
+
+Slowtech運動 ── スマホが壊した注意力をAIが取り戻す？
+
+ スマートフォン時代に生まれた注意力危機への反動として「Slowtech」運動が広がりつつある
+ デジタルの通知・刺激から距離を置き、自分の時間と集中力を取り戻すことを重視する考え方
+ AIをあえて「通知を減らすツール」として活用する逆転の発想も登場し注目を集める
+
+クィア・アイのライフコーチがAIアバターアプリを起動 ── 「Kē」でウェルネス支援
+
+ Netflixの「クィア・アイ」でおなじみのライフコーチ、カラモ・ブラウン氏が新アプリ「Kē」を発表
+ 本人のデジタルクローン（AIアバター）がフィットネス・栄養・瞑想・人間関係ま</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-20-ai/ai_yukkuri.m4a" length="5257554" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-20</guid>
+      <pubDate>Sat, 20 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】ベースティン15億ドル調達・サンダース7兆ドル公有化・シャドーAI73%　生成AI最前線 2026/06/19</title>
       <description>ずんだもんと四国めたんが今日の生成AIニュースを軽快に解説！インフェレンス基盤への投資加速、オープンエーアイのアイピーオー前大型補強、アマゾンのエヌビディア挑戦、政府によるデータセンター優遇、そして「牧歌的なエーアイ開発の時代が終わった」という警告まで盛りだくさんでお届けします。
 
@@ -100,6 +126,664 @@
       <enclosure url="https://archive.org/download/news-pickup-2026-06-18-ai/ai_yukkuri.m4a" length="2884472" type="audio/mp4"/>
       <guid isPermaLink="false">ai-2026-06-18</guid>
       <pubDate>Thu, 18 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI最前線 2026年6月17日号</title>
+      <description>生成AI最前線 2026年6月17日号
+
+SpaceXがCursorを600億ドルで買収 ── AIコーディング市場に激震
+
+SpaceXがエーアイコーディングツールの「Cursor」を600億ドル（約9兆円）の全株式取引で買収することを発表しました。この取引は第3四半期中に完了する見通しで、先日のSpaceX上場からわずか2日後という驚くべきスピードでの発表となりました。
+
+CursorはAnthropicやOpenAIのモデルを活用したAIコーディング支援ツールとして急成長を遂げており、その買収はエーアイコーディングアシスタント市場における覇権争いを一段と激化させます。SpaceXとxAIが合併した後、イーロン・マスク率いるグループがAnthropicやOpenAIに正面から対抗するという構図が鮮明になってきました。
+
+ SpaceXがCursorを600億ドルで買収、全株式取引で第3四半期完了予定
+ SpaceX上場からわずか2日での発表という電光石火の動き
+ AnthropicやOpenAIへの対抗軸として「エーアイコーディング」を強化
+
+OpenAIの財務実態 ── 漏洩した</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-17-ai/ai_yukkuri.m4a" length="4312621" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-17</guid>
+      <pubDate>Wed, 17 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI最前線 2026年6月16日号</title>
+      <description>生成AI最前線 2026年6月16日号
+
+Anthropicモデル禁止の真相 ── ジェイルブレイクではなく政治的報復か
+
+米政府によるAnthropicの最上位モデル「Fable 5」「Mythos 5」への輸出規制は、表向きは「AIジェイルブレークによる安全保障上のリスク」を理由としていますが、TechCrunchの深掘り取材によりその実態が浮かび上がってきました。報道によると、今回の禁止措置は技術的な脆弱性への対応ではなく、トランプ政権とAnthropicの関係悪化を背景にした「反動的、あるいは報復的」な側面が強いとみられています。
+
+AI業界はもはや米政府の介入から無縁ではいられない——こうしたメッセージが今回の措置に込められているとする見方が専門家の間で広がっています。政策と技術が交錯する状況はますます複雑さを増しており、Anthropicをはじめとした企業は今後、地政学的リスクをビジネス上の主要変数として組み込む必要に迫られています。
+
+ 禁止の真の動機はジェイルブレイク問題ではなく政治的関係にある可能性
+ トランプ政権のAI産業への介入が前例を作る危険性
+ Anthrop</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-16-ai/ai_yukkuri.m4a" length="3517196" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-16</guid>
+      <pubDate>Tue, 16 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI最前線 2026年6月15日号</title>
+      <description>生成AI最前線 2026年6月15日号
+
+Anthropic停止の波紋 ── インドが自国AI政策を議論
+
+Fable 5・Mythos 5の全面停止事件を受け、インドのテック界では「他国のAIに依存するリスク」を巡る議論が沸き起こっています。インドのAI研究者や政策立案者たちは、Anthropicの停止を「目覚ましのアラーム」と表現し、自国AI開発への投資強化を訴え始めました。
+
+TechCrunchの報道によると、インドは現在、米国のAIスタートアップへの依存度を下げる独自のAI政策を模索中です。米政府が輸出規制を発動すれば、インドのような新興市場は一夜にして最先端AIへのアクセスを失う可能性があると認識が広がっています。日本も含めた非米国圏全体にとって、今回の事件は「AIサプライチェーン」の脆弱性を浮き彫りにしました。
+
+ Fable 5・Mythos 5の停止は外国籍ユーザーを直撃
+ インド政府・テック界が「AIの独立性」を緊急議題に
+ 非英語圏・非米国圏のAI自主開発議論が世界規模で再燃
+
+MetaのManus買収（20億ドル）、北京の要求で解体へ
+
+Metaが20億ドル（約</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-15-ai/ai_yukkuri.m4a" length="4630042" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-15</guid>
+      <pubDate>Mon, 15 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI最前線 2026年6月14日号</title>
+      <description>生成AI最前線 2026年6月14日号
+
+Anthropic Fable 5・Mythos 5 全面停止 ── トランプ政権の輸出規制が直撃
+
+米Anthropicは6月12日、最上位モデル「Claude Fable 5」と「Claude Mythos 5」の提供を全世界で停止した。米商務省が「潜在的なジェイルブレイクが国家安全保障上のリスクになりうる」として輸出規制指令を発動したためだ。
+
+Anthropic側は「わずかな脆弱性を理由に、数億人が利用する商用モデルを回収するのは過剰だ」と強く反発。早期復旧を宣言したが、外国籍ユーザーを含む全アクセスが即日停止された。同社の安全性に関する警告が、かえって政府の介入を招いた可能性も指摘されており、「安全性の主張が自らの首を絞めた」という皮肉な見方もある。他のClaudeモデルへの影響はないとされている。
+
+ モデル: Fable 5・Mythos 5 (最上位クラス)
+ 停止理由: 商務省による輸出管理指令
+ Anthropicの立場: 「誤解だ、措置は不均衡」
+
+AmazonCEOが政府介入の引き金を引いた？
+
+TechCrunchの報</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-14-ai/ai_yukkuri.m4a" length="6671983" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-14</guid>
+      <pubDate>Sun, 14 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI ニュース 2026-06-13</title>
+      <description>生成AI ニュース 20260613
+
+Mistral、3000億円超調達へ ── 評価額が倍増
+
+フランスの生成AIスタートアップMistral AIが、30億ユーロ（約4800億円）の資金調達ラウンドを検討中と報じられました。評価額は200億ユーロ（約3.2兆円）で、前回のシリーズCの約2倍に相当します。Mistralは「オープンソース重視」を掲げてきましたが、最近では有料APIやエンタープライズ向けサービスを強化しており、OpenAIやAnthropicに次ぐ第三極として存在感を高めています。
+
+Anthropic・OpenAI IPO夏 ── MANGOSの時代
+
+AI業界に「MANGOS」という新造語が登場しました。Meta（またはMicrosoft）、Anthropic、Nvidia、Google、OpenAI、SpaceXの頭文字を取ったもので、FAANGに代わる新世代テック巨人群を指します。AnthropicとOpenAIが相次いでIPOを準備しており、投資家やバリュエーション基準に対する本格的なストレステストが始まります。AIスタートアップのIPO評価はどこまで正当化</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-13-ai/ai_yukkuri.m4a" length="8361741" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-13</guid>
+      <pubDate>Sat, 13 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI ニュース 2026年6月12日</title>
+      <description>生成AI ニュース 2026年6月12日
+
+SpaceX IPO、史上最大の7兆5000億円超で上場
+
+イーロン・マスク率いるSpaceXが1株135ドルで価格を確定し、調達額750億ドル（約7兆5000億円）は史上最大のIPOとなった。宇宙事業とAI事業を束ねる複合企業として、ナスダック上場後にマスク氏が世界初の「兆万長者」になる可能性がある。
+
+ 1株135ドル・5億5560万株を売り出し、調達額750億ドルはサウジアラムコの249億ドルを大幅に更新
+ AIとロケット事業を両輪とする複合企業として機関投資家から高評価
+ 上場前からSPV（特別目的ビークル）を通じて投資していた個人投資家は、ロックアップ解除まで実際の持ち分が不明という問題も浮上
+ テック界の新世代「MANGOS」（マスク・アマゾン・エヌビディア・グーグル・オープンエーアイ・スペースエックス）の一角として注目
+
+Deezer、ストリーミング全体でAI音楽を検出するツールを公開
+
+音楽ストリーミングのDeezerが、スポティファイやアップルミュージックを含む他社プラットフォームのプレイリストからAI生成楽曲を識別できる横</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-12-ai/ai_yukkuri.m4a" length="6035539" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-12</guid>
+      <pubDate>Fri, 12 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI ニュース 2026年6月11日</title>
+      <description>生成AI ニュース 2026年6月11日
+
+アモデイCEO、フロンティアAIに「航空機並みの安全審査」を提言
+
+アンソロピックのダリオ・アモデイCEOが、AIの急進的な発展と政策について論じたエッセイを公開。フロンティアモデルへの航空機並みの安全審査義務化を提言し、AIによる失業リスクに応じた経済政策フレームワークも具体的に示した。また直属の部下が1人のみという独特な経営スタイルも注目されている。
+
+ フロンティアAIモデルに航空機と同水準の安全審査・義務付けを求める具体的政策提言を公表
+ AIによる失業率悪化シナリオごとに発動する段階的な経済政策フレームワークを提示
+ 技術の急進に法整備が追いつかない現状に警鐘を鳴らす内容
+ CEO自身の直属の部下はわずか1名——意思決定の集中と権限委譲の独特な経営構造が話題に
+
+xAI、Grok安全懸念を訴えたエンジニアを解雇——訴訟に発展
+
+イーロン・マスク率いるxAIが、AIの安全性に関する懸念を上申したエンジニアを解雇したとして訴訟が起こされた。スペースXのIPO直前にGrokの安全問題を報告したことが解雇の原因と主張されている。
+
+ 元エン</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-11-ai/ai_yukkuri.m4a" length="4097255" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-11</guid>
+      <pubDate>Thu, 11 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】Claude Fable 5一般公開＆OpenAI IPO申請！今日のAI業界まとめ 2026/06/10</title>
+      <description>Claude Fable 5（Mythosクラス）がついに一般公開！OpenAIのIPO申請発表、Apple WWDC 2026でのSiri AI刷新、Google Gemini 3.5リアルタイム音声翻訳など、2026年6月10日のAI業界を総まとめ。
+
+▼ 今日のトピック
+・Claude Fable 5 一般公開 ── Mythosクラス初の解禁
+・Apple WWDC 2026 ── Siri AIとiOS 27の全貌
+・Google Gemini 3.5 リアルタイム音声翻訳
+・OpenAI、IPO申請を発表
+・Lovable、年換算売上5億ドル突破
+・Google AI Plus、4割値下げで月725円に
+・Meta、スマートグラスの顔認識コードを削除
+・企業はAIの安価モデルに移行できるか
+
+▼ 参考記事・ソース
+・TechCrunch「Anthropic's Claude Fable 5 is a version of Mythos the public can access today」
+・TechCrunch「WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more」
+・Ars Technica「Google announces Gemini 3.5 Live Translate」
+・ITmedia AI「OpenAIがIPO申請を発表」
+・TechCrunch「Lovable says it has hit $500M in annualized revenue」
+・ITmedia AI「Google『AI Plus』4割値下げ、月725円に」
+・Ars Technica「One day after discovery, Meta pulls facial recognition code from its smart glasses」
+・TechCrunch「Can tech companies learn to love cheaper AI models?」
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-10-ai/ai_yukkuri.m4a" length="4235534" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-10</guid>
+      <pubDate>Wed, 10 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI ニュース 2026年6月9日</title>
+      <description>生成AI ニュース 2026年6月9日
+
+WWDC 2026 ── Siri AI 新登場
+
+アップルが開発者会議WWDC 2026で新しい音声アシスタント「Siri AI」を発表。グーグルと連携した独自AIモデル「Apple Foundation Model」を基盤に「Apple Intelligence」を大幅刷新し、会話型AIコンパニオンへ進化させた。
+
+ 従来の音声操作型アシスタントから会話型AIコンパニオンへ抜本的に転換
+ グーグルとの共同開発により2段階のAIモデル（オンデバイス＋クラウド）を構築
+ シリが独立したアプリとして提供、iOS 27・macOS 27 Golden Gateと同時リリース
+ 「Siri in Camera」——カメラ越しにメニューや領収書を読み取る機能も追加
+
+Google NotebookLM に Gemini 3.5
+
+グーグルがドキュメント解析ツール「NotebookLM」に最新モデル「Gemini 3.5」と「Antigravity」機能を統合。現時点ではAI Ultra・企業アカウントが対象。
+
+ NotebookLMは論文・書類の深い</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-09-ai/ai_yukkuri.m4a" length="3307152" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-09</guid>
+      <pubDate>Tue, 09 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】AIトークン価格高騰「トークンポカリプス」とOpenAIスーパーアプリ計画 2026/06/08</title>
+      <description>エーアイのAPIトークン価格が上昇する「トークンポカリプス」の到来、OpenAIのチャットジーピーティー大刷新計画、日立のClaude Mythosアクセス取得など、今日も盛りだくさんの生成エーアイニュースをずんだもんと四国めたんでお届けします。
+
+▼ 今日のトピック
+・AIトークン価格高騰「トークンポカリプス」——大手AI企業のIPO準備が料金引き上げを招く
+・IDC調査：AIによるコード生成が3年後に3倍超へ拡大
+・OpenAI、チャットジーピーティーを「スーパーアプリ」に改変——数週間以内に大刷新
+・Notion、アンソロピック接続障害から復旧——AI機能依存のリスクが露呈
+・日立製作所、Claude Mythosのアクセス権取得——NECや富士通に先手
+・日本調査：ワークフロー承認のAI委任に7割以上が否定
+・製造業のAIエージェント活用——期待と慎重論が交錯
+
+▼ 参考記事・ソース
+・TechCrunch「Is this the dawn of the Tokenpocalypse?」 https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/
+・TechCrunch「OpenAI is still working on that 'super app'」 https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/
+・TechCrunch「Notion restores access to Anthropic after service disruption」 https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/
+・ITmedia AI「AIによるコード生成、3年後は3倍超に」 https://www.itmedia.co.jp/enterprise/articles/2606/05/news028.html
+・ITmedia AI「NEC、富士通に先手!? 日立が「Claude Mythos」アクセス権を取得」 https://www.itmedia.co.jp/business/articles/2606/08/news058.html
+・ITmedia AI「ワークフロー承認はAIに任せられるのか 7割が否定した理由」 https://kn.itmedia.co.jp/kn/articles/2606/08/news048.html
+・MONOist「AIエージェントに対する製造業のリアルな声」 https://monoist.itmedia.co.jp/mn/articles/2606/08/news025.html
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-08-ai/ai_yukkuri.m4a" length="5060861" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-08</guid>
+      <pubDate>Mon, 08 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】チャットジーピーティーにロックダウンモード登場！ほか今週のエーアイ業界まとめ 2026/06/07</title>
+      <description>オープンエーアイがプロンプトインジェクション対策の「ロックダウンモード」をチャットジーピーティーに追加。ケンブリッジ大学がエーアイ設計の万能ワクチン臨床試験に成功、トランプ政権のオープンエーアイ出資検討など、今日も濃いニュースが続々！
+
+▼ 今日のトピック
+・オープンエーアイ、チャットジーピーティーに「ロックダウンモード」追加——プロンプトインジェクション攻撃対策
+・ケンブリッジ大学、エーアイ設計の"万能ワクチン"臨床試験に成功——未知の変異株にも有効
+・アップル WWDC2026 開幕——シリ大幅刷新・アップルインテリジェンス新機能に期待
+・トランプ政権、オープンエーアイへの政府出資を検討——「米国民が利益を享受すべき」
+・ホワイトハウスのエーアイ政策顧問スリラム・クリシュナン氏が退任
+・住友ゴム・富士通、エーアイでタイヤ解析を45分→5分に短縮
+・米国裁判所でエーアイ生成訴状が氾濫——判事たちが対処に苦慮
+・日本漫画家協会、エーアイ学習禁止の契約条項を公表
+
+▼ 参考記事・ソース
+・TechCrunch「OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks」https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/
+・TechCrunch「What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates」https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/
+・TechCrunch「Sriram Krishnan is leaving his role as White House AI advisor」https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/
+・TechCrunch「The Trump administration might take an equity stake in OpenAI」https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/
+・MIT Technology Review「How courts are coping with a flood of AI-generated lawsuits」https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/
+・ITmedia AI「ChatGPTに「ロックダウンモード」プロンプトインジェクションによる情報漏えい対策」https://www.itmedia.co.jp/news/articles/2606/07/news022.html
+・ITmedia AI「英ケンブリッジ大学、AIが設計したワクチンの臨床試験に成功」https://www.itmedia.co.jp/aiplus/article/2606/06/2000000065/
+・ITmedia AI「「自作のAI学習・改変を防ぐための契約は？」日本漫画家協会が回答」https://www.itmedia.co.jp/aiplus/article/2606/05/2000000064/
+・ITmedia AI（モノイスト）「タイヤFEM解析を45分から5分に　住友ゴムと富士通がAIサロゲートモデルを共同開発」https://monoist.itmedia.co.jp/mn/articles/2606/05/news022.html
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-07-ai/ai_yukkuri.m4a" length="5026268" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-07</guid>
+      <pubDate>Sun, 07 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】グーグルがスペースXに月920億円！AI計算争奪戦 ほか今日のAI業界まとめ 2026/06/06</title>
+      <description>グーグルがスペースXと月額920億円のコンピュート契約を締結、AIコスト高騰でDeepSeekへの乗り換えが急増、日本政府がClaude Mythosのアクセス権確保など、2026年6月6日のAIニュースをまとめました。
+
+▼ 今日のトピック
+・グーグル、スペースXに月920億円のコンピュート料金を支払い
+・メタのAIエージェントがInstagramアカウント乗っ取りに悪用
+・AIチャットボットが人の思考力を奪う？UCアーバイン研究者が警告
+・AIコスト高騰でDeepSeekへの乗り換え急増——米企業の支出調査
+・AirTrunk、インドに3兆円規模のAIデータセンター投資
+・ミラ・ムラティ（元OpenAI CTO）、独自スタートアップを慎重にアピール
+・日立、AnthropicのMythosプロジェクトに参画——社会インフラのセキュリティ強化
+・S&amp;P500がOpenAI・Anthropicの上場を実質拒否——赤字企業NGルール
+・ユタ州の巨大データセンター計画、住民反発で半減
+・日本政府、Claude Mythosアクセス権獲得——サイバー防衛強化
+
+▼ 参考記事・ソース
+・TechCrunch「Google will pay SpaceX $920M per month for compute」 https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/
+・TechCrunch「The token bill comes due」 https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/
+・TechCrunch「AirTrunk commits $30B to build 5GW of AI data centers in India」 https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/
+・TechCrunch「Mira Murati steps back into the spotlight」 https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/
+・Ars Technica「S&amp;P 500 rejects SpaceX, also blocking OpenAI and Anthropic」 https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/
+・Ars Technica「Giant data center plan cut 50% amid protests」 https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/
+・MIT Technology Review「Are AI chatbots making us lose control of our brains?」 https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/
+・MIT Technology Review「The Meta hack shows there's more to AI security than Mythos」 https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/
+・ITmedia「AIコスト高騰で中国DeepSeekへの"乗り換え"続出か」 https://www.itmedia.co.jp/aiplus/article/2606/05/2000000060/
+・ITmedia「日立、「ミュトス」にアクセスへ　Anthropicと契約済」 https://www.itmedia.co.jp/aiplus/article/2606/05/2000000063/
+・ITmedia「日本政府、AI「ミュトス」アクセス権獲得　サイバー防衛強化」 https://www.itmedia.co.jp/aiplus/article/2606/04/2000000056/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-06-ai/ai_yukkuri.m4a" length="3542757" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-06</guid>
+      <pubDate>Sat, 06 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AIニュース速報：アンソロピック470億ドル突破・WWDC 2026直前情報 2026/06/05</title>
+      <description>アンソロピックが年間収益470億ドル超でIPO準備中、アップルWWDC 2026でシリ大刷新、メタがテント型データセンターを急展開、エーアイ生成訴状が米裁判所を直撃など、本日の生成エーアイ業界の最前線をずんだもんと四国めたんがお届けします。
+
+▼今日のトピック
+・アンソロピックIPO準備中──年間収益470億ドルに急成長（TechCrunch AI）
+・アップルWWDC 2026でシリの大規模エーアイ刷新を予告（TechCrunch AI）
+・メタがテント型データセンター6棟を建設中（TechCrunch AI）
+・エアビーアンドビー、独自エーアイラボ設立を表明（TechCrunch AI）
+・エストニア政府がエルエルエムのロシアプロパガンダ耐性を評価（Ars Technica）
+・グーグル クローム「スキルズ」でプロンプト再利用が可能に（ITmedia AI）
+・エーアイ生成訴状が米国裁判所に大量流入（MIT Tech Review）
+・日本政府がエーアイ「ミトス」を導入──サイバー防衛強化（ITmedia AI）
+・メルカリが「エーアイ戦国時代」のガバナンス実態を公開（ITmedia AI）
+
+▼参考ソース
+・TechCrunch AI https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/
+・TechCrunch AI https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/
+・TechCrunch AI https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/
+・Ars Technica https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/
+・MIT Tech Review https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/
+・ITmedia AI https://www.itmedia.co.jp/news/articles/2606/04/news073.html
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-05-ai/ai_yukkuri.m4a" length="4145755" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-05</guid>
+      <pubDate>Fri, 05 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】Google Gemma4登場＆Alphabet史上最大12兆円調達！2026/06/04 生成AIニュース</title>
+      <description>2026年6月4日の生成AIニュースをずんだもんと四国めたんがお届けします！
+
+▼ 今日のトピック
+① Google「Gemma 4 12B」発表 ── 16GBのノートパソコンで動くオープンモデルが登場。クラウド不要でローカル推論が可能に。
+② Claude Opus 4.8「忖度しないAI」── アンソロピックの最新モデルが"正直さ"を強化。賛否両論を呼ぶ設計哲学。
+③ Alphabet 850億ドル（12兆円超）調達 ── 史上最大規模の株式売却でAIインフラ投資を加速。Meta WhatsAppビジネスエージェントもグローバル展開。
+④ 新興国向け音声AIスタートアップが急成長 ── 1日1.7万件処理。CoralogixがAIエージェント監視で200億円調達。
+⑤ トランプ新AI大統領令の実効性に疑問 ── DOGE削減で審査チームが不在。英国規制でGoogleのAI検索オプトアウトが義務化。ロボタクシーは渋滞を減らさないという研究結果も。
+
+▼ 参考ソース
+・TechCrunch AI / Ars Technica / MIT Technology Review / ITmedia AI
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース #Gemma #WhatsApp #ロボタクシー #AIエージェント #AI規制</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-04-ai/ai_yukkuri.m4a" length="5000560" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-04</guid>
+      <pubDate>Thu, 04 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】Microsoft Build 2026で自社推論モデル「MAI」発表ほか今日のAI業界まとめ 2026/06/03</title>
+      <description>MicrosoftがBuild 2026でMAI-Thinking-1・Project Solara・Scout・Surface RTX Spark Dev Boxを発表。一方、Uberのエーアイ予算超過、シャドーエーアイ問題、Ring顔認証訴訟など実装の摩擦も浮き彫りに。
+
+▼ 今日のトピック
+・Microsoft「MAI-Thinking-1」発表──自社初の推論モデル、蒸留なし350億パラメータ
+・Microsoft「Project Solara」──エーアイエージェント専用AndroidベースOS発表
+・Microsoft「Scout」──OpenClawベースの自律エージェントが業務を自動実行
+・Microsoft「Surface RTX Spark Dev Box」──ローカルで大規模モデルが動くAIミニPC
+・Uberのエーアイ予算、4ヶ月で超過──全社展開のコスト管理の難しさ露呈
+・マーティン・スコセッシ、ストーリーボード限定でエーアイ支持を表明
+・Okta調査：シャドーエーアイにログイン情報を渡す従業員が多数判明
+・Amazon Ring顔認証で集団訴訟──通行人の顔データ無断収集が争点
+・Google、エーアイディープフェイク詐欺電話をAndroidでリアルタイム検知
+・数学者がエーアイの脅威を警告──定理発見まで侵食される懸念
+・エージェントエーアイが医療現場を「再人間化」する可能性（MIT Tech Review）
+
+▼ 参考記事・ソース
+・ITmedia AI「Microsoft、初の自社推論モデル『MAI-Thinking-1』発表」 https://www.itmedia.co.jp/aiplus/article/2606/03/2000000050/
+・ITmedia AI「Microsoft、自律エージェント『Scout』発表　OpenClawベースでMCP対応」 https://www.itmedia.co.jp/aiplus/article/2606/03/2000000049/
+・ITmedia AI「Microsoft、AndroidベースのAIエージェント基盤『Solara』発表」 https://www.itmedia.co.jp/news/articles/2606/03/news066.html
+・ITmedia AI「Microsoft、NVIDIAのSoC搭載でAI特化のミニPC『Surface RTX Spark Dev Box』披露」 https://www.itmedia.co.jp/news/articles/2606/03/news063.html
+・TechCrunch AI「Uber caps employee AI spending after blowing through budget in 4 months」 https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/
+・TechCrunch AI「Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI」 https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/
+・ITmedia AI「シャドーAIに『ログイン情報』を渡している割合は？　Oktaの実態調査で判明」 https://www.itmedia.co.jp/enterprise/articles/2606/03/news043.html
+・TechCrunch AI「Amazon faces class action lawsuit over Ring facial-recognition feature」 https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/
+・TechCrunch AI「Google rolls out fake call detection to protect against AI deepfake impersonation scams」 https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/
+・Ars Technica「Mathematicians warn of AI threats to profession as industry encroaches」 https://arstechnica.com/science/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/
+・MIT Tech Review「Rehumanizing global health care with agentic AI」 https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース #Microsoft #MicrosoftBuild #MAI #エージェントAI</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-03-ai/ai_yukkuri.m4a" length="5471989" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-03</guid>
+      <pubDate>Wed, 03 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI ニュース 2026年6月2日</title>
+      <description>生成AI ニュース 2026年6月2日
+
+今日のトップトピック
+
+本日は、Anthropicが株式上場（IPO）申請を行い生成AIスタートアップとして歴史的節目を迎えたこと、NVIDIAがWindows PC向けAIチップ「RTX Spark」を発表しPC市場に本格再参入したこと、フロリダ州がOpenAIと最高経営責任者サム・アルトマン氏を相手取り初の州レベル訴訟を起こしたこと、AIが自動車・製造業の開発工程を劇的に短縮していること、そして中国で世界初の侵襲型ブレイン・コンピュータ・インターフェース（BCI）チップが政府承認されたことなど、業界の規模感・法的責任・競争地図が同時に塗り替わる一日となりました。
+
+
+
+新モデル・研究トピック
+
+NVIDIA「RTX Spark」発表──Blackwell世代GPU搭載、Windows PCにAIを本格統合
+
+NVIDIAはComputex Taipei 2026に先駆けた「GTC Taipei 2026」で、Microsoftと共同開発したWindows PC向けプロセッサ「RTX Spark」を発表しました。Blackwell世代のGPU</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-02-ai/ai_yukkuri.m4a" length="5098633" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-02</guid>
+      <pubDate>Tue, 02 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI ニュース 2026年6月1日</title>
+      <description>生成AI ニュース 2026年6月1日
+
+今日のトップトピック
+
+本日は、OpenAIが生命科学特化モデル「GPTRosalind」をバイオディフェンス用途に無償解放、GoogleのGemini 3系画像生成モデル「Nano Banana 2」「Nano Banana Pro」が正式リリース、エリン・ブロコビッチがデータセンターの情報公開を求めて活動開始、富士通が「人月モデルの限界」を認め2035年に向けAI主導のビジネスモデル転換を宣言、そして日本政府と主要金融機関がOpenAIの最新モデルへのアクセス権を取得してサイバー防衛に活用する方針を発表するなど、AIの社会・産業インフラ化が多方面で加速しました。
+
+
+
+新モデル・研究トピック
+
+OpenAI「GPTRosalind」をバイオディフェンスに解放──生命科学推論AIの二重利用リスクも
+
+OpenAIは生命科学研究に特化したフロンティア推論モデル「GPTRosalind」を活用した「Rosalind Biodefense」プログラムを発表しました。生物脅威の検知などの防衛目的に限定し、審査済みの開発者・米政府機関・同盟国パートナー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-01-ai/ai_yukkuri.m4a" length="6694106" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-01</guid>
+      <pubDate>Mon, 01 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】ソフトバンク7兆円投資＆日立がClaude29万人展開　AI業界まとめ 2026/05/31</title>
+      <description>今日の生成AI最新ニュースをずんだもんと四国めたんがわかりやすく解説！
+
+📌 本日のトピック
+・ソフトバンク、フランスに最大7兆5000億円のデータセンター投資を表明
+・日立がAnthropicと戦略的パートナーシップ締結、従業員29万人にClaudeを導入
+・GitHub Copilotが6月1日から従量課金制へ移行、開発者コミュニティが猛反発
+・MetaがAIペンダントデバイスを開発中、Limitless社買収の次の一手
+・GoogleのGemini Spark（24時間稼働AIアシスタント）の実用性を検証
+・AIブラウザ戦争勃発！ChromeとSafariへの挑戦者たちが台頭
+・「AIサイコシス」とメモリ不足が長期化する半導体供給問題
+
+AIインフラの地政学的争奪戦が激化する一方で、AIツールのコスト構造が変化し始めています。エンタープライズAI展開の本格化も見逃せない一日でした。
+
+🔔 チャンネル登録をしてAI最新情報をチェック！
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-31-ai/ai_yukkuri.m4a" length="4421569" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-05-31</guid>
+      <pubDate>Sun, 31 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026年5月30日 生成AIニュース｜GPT-Rosalindバイオディフェンス・AIサイコシス批判</title>
+      <description>2026年5月30日の生成AIニュースをずんだもんと四国めたんが解説！
+OpenAIの生命科学特化推論AI「GPT-Rosalind」がバイオディフェンス向けに限定公開、GoogleのNano Banana 2（Gemini 3.1 Flash Image）が一般提供開始、MicrosoftがクラウドなしでAIを動かす「Foundry Local」を一般提供、AI盲信経営者への「AIサイコシス」批判、日本政府・メガバンクのサイバーセキュリティAI取得など盛りだくさんです。
+
+▼ 今日のトピック
+・OpenAI「GPT-Rosalind」バイオディフェンスプログラム発表、デュアルユースリスクにも注目
+・Google「Nano Banana 2 / Pro」（Gemini 3.1 Flash Image）一般提供開始、動画→画像生成プレビュー
+・Anthropic「Opus 4.8」（Mythosレベル）を数週間以内に全顧客提供へ
+・AIコーダー依存の危うさ——速度は上がっても品質が下がる研究者の警告
+・Groq、$650M調達でインファレンスサービスへ軸足を移す戦略転換
+・Microsoft「Foundry Local」一般提供開始——クラウド不要のオンデバイスAI基盤
+・OpenAI「GPT-5.5-Cyber」を日本政府・金融機関に提供、日本サイバー・アクションプラン
+・Box CEO「AIサイコシス」発言、AIで22%人員削減ClickUpなど盲信経営者を痛烈批判
+・教皇レオ14世「Magnifica Humanitas」——技術は中立ではない、とAI倫理指針を発表
+・MicroAGI、無料家事代行とカメラ撮影でロボット訓練データ収集という実験的ビジネス
+・JR西日本、熟練者手書きの車両作業計画をAIで自動化
+
+▼ 参考記事・ソース
+・ITmedia AI「OpenAIが生命科学推論AI『GPT-Rosalind』をバイオディフェンスに開放」https://www.itmedia.co.jp/news/articles/2605/30/news031.html
+・ITmedia AI「Nano Banana 2・Proが一般提供開始」https://www.itmedia.co.jp/news/articles/2605/29/news146.html
+・ITmedia AI「日本政府と主要金融機関、OpenAI新モデルのアクセス権を取得」https://www.itmedia.co.jp/news/articles/2605/29/news144.html
+・ITmedia AI「OpenAI、日本政府とサイバーセキュリティで協力」https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/
+・ITmedia AI「Microsoft Foundry Local、一般提供開始」https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news075.html
+・ITmedia AI「JR西日本、手書き車両作業計画をAIで自動化」https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news103.html
+・ITmedia AI「Anthropic、Mythos級モデルを数週間以内に一般提供へ」https://www.itmedia.co.jp/news/articles/2605/29/news084.html
+・TechCrunch「Coders are refusing to work without AI」https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/
+・TechCrunch「Does your CEO have AI psychosis?」https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/
+・TechCrunch「Groq reportedly raising $650M」https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/
+・Ars Technica「Startup offers free home cleaning for robot training」https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/
+・MIT Tech Review「Pope's Magnifica Humanitas on AI」https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/
+
+#生成AI #LLM #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-30-ai/ai_yukkuri.m4a" length="6925938" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-05-30</guid>
+      <pubDate>Sat, 30 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026年5月29日 生成AIニュース｜Anthropic 評価額1兆ドル目前＆Opus 4.8リリース、インターネットがAI向けに再設計、LLMが誤情報を信じ込む脆弱性</title>
+      <description>2026年5月29日の生成AI最新ニュースをお届けします。
+
+▼ 今日のトピック
+
+【新モデル・研究】
+・Anthropic、Claude Opus 4.8を正式リリース──「誠実さ」がMythos水準に向上、Dynamic Workflowsで数百サブエージェントを並行実行
+・LLMは虚偽の警告をしても誤情報を信じ込む──Ars Technica報告、RAGシステムの重大リスク
+・Apple、GeminiモデルをiPhoneに蒸留搭載してSiri刷新を計画
+
+【企業動向】
+・Anthropic、6.5兆円調達で評価額9650億ドル──IPO前最後の私募ラウンドか
+・インターネットのインフラがAIエージェント向けに再設計──AWS・CloudflareがMCPを基盤に組み込む
+・Asana、ノーコードAIエージェント構築ツール「StackAI」を7500万ドルで買収
+・AIトークン先物市場が登場──原油・金と同じコモディティとして取引開始へ
+
+【規制・社会】
+・元Google CEOが卒業式でAI礼賛スピーチ→学生たちにブーイングされる
+・「バイブコーダー」へのデータ消去プロンプトインジェクション──AI生成コードの無検証利用の危険性
+・富士通がOpenAI・Anthropicと同日提携発表──NEC・日立・富士通でAnthropicと3社全員協業
+
+▼ チャプター
+0:00 オープニング
+1:00 Claude Opus 4.8リリース：Dynamic Workflowsと誠実さ向上
+3:30 LLMが誤情報を信じ込む脆弱性
+5:30 AppleのGemini搭載Siri計画
+7:30 Anthropic 評価額9650億ドル・IPO前巨額調達
+10:00 インターネットがAIエージェント向けに再設計
+12:30 Asana、StackAIを7500万ドルで買収
+14:00 AIトークン先物市場の誕生
+16:00 卒業式でAIスピーチがブーイングされた理由
+18:00 バイブコーダーへのプロンプトインジェクション事件
+20:00 富士通がOpenAI・Anthropicと同日提携
+22:00 まとめ
+
+▼ 参考ソース
+・TechCrunch AI: https://techcrunch.com/category/artificial-intelligence/
+・Ars Technica AI: https://arstechnica.com/ai/
+・MIT Technology Review: https://www.technologyreview.com/
+・ITmedia AI: https://www.itmedia.co.jp/aiplus/
+
+#生成AI #LLM #Anthropic #Claude #OpensAI #Apple #Siri #Gemini #AIニュース #ゆっくり解説 #AIエージェント #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-29-ai/ai_yukkuri.m4a" length="5064336" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-05-29</guid>
+      <pubDate>Fri, 29 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【2026年5月28日】グーグルAIがスペルできない問題 / Cognition250億ドル / Nvidia台湾1500億ドル / NEC・日立・富士通がAnthropicと協業 | 生成AIニュース</title>
+      <description>ずんだもんと四国めたんが最新の生成AIニュースをわかりやすく解説します。
+
+【今日のトピック】
+00:00 オープニング
+00:30 グーグルのAI検索が「Google」もスペルできない品質問題
+03:00 ElevenLabsが楽曲途中でジャンル変更できる音楽生成モデルを発表
+05:30 Gartner分析：AIコーディングエージェント市場が新段階、IDEが不要不可欠でなくなる
+08:00 Cognition、評価額250億ドルで10億ドル調達──AIコーディング市場の過熱
+11:00 Snowflake、AWSと60億ドルのAIチップ契約──Nvidia依存から脱却へ
+13:30 MetaがInstagram・Facebook・WhatsApp有料サブスク開始、AI機能も
+16:00 OpenAI Foundation、AI経済変動から労働者守るため2.5億ドル拠出
+18:30 Remote、AIで従業員一人当たり収益50%増──人員増なしで年商3億ドル超
+21:00 Nvidia、台湾に年間1500億ドル投資──トランプの米国内製化戦略に逆行
+23:30 NEC・日立・富士通がAnthropicとそろって協業発表
+26:00 「この答弁はAIが原案作成」──松本デジタル相が参院本会議で公言
+28:30 GMO AI活用率98%の裏側──「本番データ消失」事例も
+31:00 まとめ
+
+【参考記事】
+・TechCrunch「Why Google's AI can't spell Google」
+・TechCrunch「AI coding startup Cognition raises $1B at $25B valuation」
+・TechCrunch「Snowflake signs $6B deal with AWS for AI chips」
+・Ars Technica「Nvidia bets $150B on Taiwan」
+・ITmedia「NEC、日立、富士通がAnthropicと協業」
+・ITmedia「この答弁はAIが原案作成──松本デジタル相」
+・ITmedia「AIに任せ過ぎて本番データ消失──GMO調査」
+
+#生成AI #AIニュース #ChatGPT #Claude #Anthropic #Nvidia #Google #ずんだもん #四国めたん #AIコーディング #Cognition</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-28-ai/ai_yukkuri.m4a" length="5061760" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-05-28</guid>
+      <pubDate>Thu, 28 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026年5月27日 生成AIニュース｜DuckDuckGo急増・エージェント脆弱性・AI雇用の実態</title>
+      <description>GoogleのAI検索強制に反発しDuckDuckGoが30%急増、AIエージェントを狙う重大脆弱性が発覚、ClickUpがAIで大規模人員削減を公言、そして日本でAI透明性規制が本格化。今日の生成AIニュースをずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Google AI Search強制でDuckDuckGoのインストール30%急増
+・Starletteの脆弱性で数百万AIエージェントが危険にさらされる
+・MIT Tech Review「AIが雇用を奪うヒステリーは過剰」と冷静に分析
+・エントリーレベル仕事の静かな消滅という構造的問題
+・OpenRouterが評価額1年で2倍の13億ドルに──マルチAI戦略が主流化
+・ClickUpがAIエージェント数千体で数百名をリストラ
+・日本発ヒューマノイドロボスタートアップ「アトム」が30億円調達
+・「小説家になろう」がAI利用開示を義務化（9月から投稿不可も）
+・与野党一致でAI生成選挙動画への改変表示義務化へ
+
+▼ 参考記事・ソース
+・TechCrunch「DuckDuckGo installs are up 30% as users reject being 'force-fed' Google's AI Search」 https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/
+・TechCrunch「OpenRouter more than doubles valuation to $1.3B in a year」 https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/
+・TechCrunch「What ClickUp's mass layoff tells us about the future of work」 https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/
+・Ars Technica「Millions of AI agents imperiled by critical vulnerability in open source package」 https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/
+・MIT Technology Review「A reality check on the AI jobs hysteria」 https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/
+・MIT Technology Review「It's time to address the looming crisis in entry-level work」 https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/
+・ITmedia「ヒト型AIロボスタートアップのアトムが30億円調達」 https://www.itmedia.co.jp/news/articles/2605/27/news088.html
+・ITmedia「「小説家になろう」、AI利用状況を報告必須に」 https://www.itmedia.co.jp/news/articles/2605/27/news071.html
+・ITmedia「選挙の公正確保を　"虚偽"SNS対策が判明、AI生成動画像に改変表示義務付け」 https://www.itmedia.co.jp/news/articles/2605/27/news072.html
+
+#生成AI #LLM #ChatGPT #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-27-ai/ai_yukkuri.m4a" length="3302415" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-05-27</guid>
+      <pubDate>Wed, 27 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI ニュース 2026年5月26日</title>
+      <description>生成AI ニュース 2026年5月26日
+
+今日のトップトピック
+
+本日は、AnthropicのProject Glasswingが1万件超の脆弱性を発見、中国がAI脳インプラントの一般販売に迫る、Google I/OでAI科学研究の新潮流が示される、GeminiAPIが半額で使える「Flex」プランを開始、そして青森県庁のチャットボット刷新でコスト7割減、をお伝えします。
+
+
+
+新モデル・研究トピック
+
+Anthropic「Mythos Preview」、1か月で1万件超の脆弱性を発見──Project Glasswing初期報告
+
+AnthropicのAIモデル「Mythos Preview」が、セキュリティ脆弱性探索プロジェクト「Project Glasswing」の初期報告で1か月間に1万件を超える脆弱性を発見したことがITmediaで報じられました。AIが大規模なセキュリティ診断を自律的に行う能力が実証された形で、従来の人手によるペネトレーションテストを大幅に効率化できる可能性を示しています。企業のセキュリティ対策にAIエージェントを組み込む動きが加速するとみられ、セキュリテ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-26-ai/ai_yukkuri.m4a" length="2215652" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-05-26</guid>
+      <pubDate>Tue, 26 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI ニュース 2026年5月21日</title>
+      <description>生成AI ニュース 2026年5月21日
+
+今日のトップトピック
+
+本日は、OpenAIが80年来の未解決数学問題を解いた、GoogleがGemini 3.5を発表、AnthropicのAIモデル「Mythos」がAppleのセキュリティを5日で突破、そしてxAIの巨額損失と拡大戦略についてお伝えします。
+
+
+
+新モデル・研究トピック
+
+OpenAI、1946年から未解決の幾何学問題を証明
+
+テッククランチが報じたところによると、OpenAIの推論モデルが1946年以来80年間解かれていなかった幾何学の予想を反証することに成功しました。以前、OpenAIは別の数学的成果について虚偽の主張をして批判を受けた経緯がありましたが、今回は以前の誤りを指摘した数学者たちが結果を検証・確認しています。数学の未解決問題にAIが取り組める時代が到来しつつあります。
+
+Google、Gemini 3.5 シリーズを発表　「25年で最大の刷新」
+
+グーグルが年次開発者会議「Google I/O」で、新しいAIモデル群「Gemini 3.5」シリーズを発表しました。軽量モデルの「Gemini 3.5 Fla</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-21-ai/ai_yukkuri.m4a" length="1747915" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-05-21</guid>
+      <pubDate>Thu, 21 May 2026 07:00:00 +0900</pubDate>
       <itunes:author>daily-news-by-yukkuri</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
