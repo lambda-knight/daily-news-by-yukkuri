@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>iOS 27の実用AI機能・Anthropic規制の余波・人型ロボ日本上陸【生成AI最前線 2026/6/22】</title>
+      <description>2026年6月22日の生成AI・テクノロジー最前線をお届けします。
+
+【本日のトピック】
+・iOS 27が変えるスマホ体験 ── Siriの先にある実用AI機能（カメラ翻訳・メール要約・オンデバイスAI）
+・トランプ政権のAnthropicへの圧力 ── 規制の余波で漁夫の利を得るのはOpenAI？中国モデル？
+・In the Weights ── AIモデルの中で自分がどう映っているかを可視化する新ツール登場
+・GMOがUnitree Robotics正規代理店に ── 人型ロボットが日本市場へ本格参入
+・英国、欠陥を知りながら顔認証で難民審査 ── AI倫理の重大な試練
+・Gartnerがプライバシー執行強化を警告 ── 2025年の罰金は5380億円超、2028年まで加速
+・Subquadratic続報 ── LLMのアテンション計算量問題、実証データが揃いつつある
+・BCI臨床試験が世界各地で急加速 ── 思考だけで会話するALS患者の3年間
+
+【参考ソース】
+・TechCrunch AI: Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27
+・TechCrunch AI: When the Trump administration cracks down on Anthropic, who benefits?
+・TechCrunch AI: In the Weights is your new AI-centric vanity search
+・ITmedia AI: GMO傘下、Unitreeの国内正規代理店に
+・Ars Technica: The UK will scan asylum-seekers' faces for age checks
+・ITmedia AI: Gartnerが警鐘 プライバシー法執行が本格化
+・MIT Tech Review: A startup claims it broke through a bottleneck that's holding back LLMs
+・MIT Tech Review: Brain-computer interface trials are taking off
+
+#生成AI #人工知能 #iOS27 #Apple #Anthropic #人型ロボット #Unitree #BCI #プライバシー #LLM #AIニュース #テック最前線</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-22-ai/ai_yukkuri.m4a" length="5740439" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-22</guid>
+      <pubDate>Mon, 22 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】ノーベル賞科学者がAnthropicへ電撃移籍！ChatGPT広告も日本上陸 2026/06/21</title>
       <description>ノーベル化学賞受賞のジョン・ジャンパー氏がDeepMindからAnthropicへ移籍、政府禁止でもFable 5の人気が逆上昇、ChatGPT広告が日本でも開始など、今日も生成AI業界は大きく動きました。ずんだもん＋四国めたんがわかりやすく解説します！
 
