@@ -26,6 +26,34 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>サイバーセキュリティニュース 2026年6月22日｜上場企業がボットネット関与・Apple修正不能脆弱性・AIエージェント乗っ取り攻撃</title>
+      <description>今週のサイバーセキュリティニュースをずんだもん＆四国めたんがわかりやすく解説！
+
+📌 今日のトピック
+・「Popaボットネット」：ナスダック上場企業が4年間ボットネットに関与
+・「The Gentlemen」ランサムウェア：被害数世界2位に急浮上、EDR無効化ツール「GentleKiller」
+・Kimwolfボットマスター逮捕：IoTボットネット運営の23歳、米加で刑事訴追
+・修正不能な脆弱性「usbliter8」：Apple A12・A13チップのSecureROMに欠陥
+・「AutoJack」攻撃：AIブラウジングエージェントを乗っ取りリモートコード実行
+・Klue OAuthインシデント：Salesforce連携トークン窃取、新興グループIcarusが関与
+・6月24日締め切り：WindowsとLinuxのセキュアブート署名の暗号鍵が期限切れ
+・トレンドマイクロ製品（TrendAI Apex One等）に複数の脆弱性：JPCERT/CC注意喚起
+
+📚 参考ソース
+・Krebs on Security: https://krebsonsecurity.com/
+・The Hacker News: https://thehackernews.com/
+・Bleeping Computer: https://www.bleepingcomputer.com/
+・Wired Security: https://www.wired.com/category/security/
+・JPCERT/CC: https://www.jpcert.or.jp/
+
+#サイバーセキュリティ #セキュリティ #脆弱性 #ゆっくり解説 #ずんだもん #ランサムウェア #ボットネット #iPhone #Windows #情報セキュリティ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-22-security/security_yukkuri.m4a" length="5488356" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-06-22</guid>
+      <pubDate>Mon, 22 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>FortiBleed 8.6万台・テキサス300万件漏洩・CISA失態【サイバーセキュリティ 2026/06/21】</title>
       <description>今週のサイバーセキュリティニュースをずんだもんと四国めたんが解説します。
 
