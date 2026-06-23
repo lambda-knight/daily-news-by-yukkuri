@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AI最前線 2026年6月24日号</title>
+      <description>生成AI最前線 2026年6月24日号
+
+Claude Tag ── SlackでAIが「会社を丸ごと学習」する新戦略
+
+ AnthropicがSlack向け常駐AI「Claude Tag」を発表。Slackのメッセージを読み続けて組織の文脈・暗黙知を自動で習得する
+ 個別の質問応答にとどまらず、社内の「生きた知識ベース」としてAIを機能させることが目的
+ 生産性ツールとしてのAIから、「企業の記憶」を管理するAIへの戦略的シフトを示す動き
+
+OpenAI「Patch the Planet」── オープンソースのセキュリティ穴を塞ぐ新イニシアチブ
+
+ OpenAIがオープンソースソフトウェアのサイバーセキュリティ強化を支援する「Patch the Planet」を発表
+ AIを活用してバグを発見・修正し、世界中のオープンソースプロジェクトのセキュリティ底上げを目指す
+ AIをセキュリティの「攻め」だけでなく「守り」に使う、インフラ保全の新しいアプローチ
+
+Oracle、2.1万人リストラとAI投資の矛盾 ── 借金で「AIドリーム」を買う
+
+ Oracleが2万1000人のリストラを実</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-24-ai/ai_yukkuri.m4a" length="4026824" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-24</guid>
+      <pubDate>Wed, 24 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AI最前線 2026年6月23日｜Groq970億調達・DeepMindがハリウッドへ・小田急踏切AI</title>
       <description>今日の生成AIニュースをずんだもんと四国めたんがわかりやすく解説！
 
