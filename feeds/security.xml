@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>サイバーセキュリティニュース 2026年6月23日</title>
+      <description>サイバーセキュリティニュース 2026年6月23日
+
+オランダ当局によるロシア支援サーバー800台摘発、WordPress大規模サプライチェーン攻撃、AI基盤「Dify」の脆弱性、FFmpegの新欠陥「PixelSmash」など、今週も注目のセキュリティニュースをお届けします。
+
+オランダ当局がサーバー800台を押収・2名逮捕：ロシアのサイバー攻撃・偽情報工作に加担
+
+ オランダ当局が、ロシアのサイバー攻撃・影響工作・マネーロンダリングに使われていたホスティング会社2社の共同経営者2名を逮捕し、サーバー800台以上を押収
+ この2社は「防弾ホスティング」と呼ばれる手口で、犯罪者が使う不正サーバーを当局の要請にも応じずに運営し続けていた
+ ロシア国家が関与するAPTグループ（高度なサイバー攻撃集団）もこのインフラを活用していたとみられる
+ 防弾ホスティングとは：サービス停止要請を無視して犯罪者に貸し続けるサーバー業者のこと。犯罪インフラの温床になっている
+ 国際協調による摘発で、サイバー犯罪インフラへの圧力が高まっている
+
+出典: [Krebs on Security](https://</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-23-security/security_yukkuri.m4a" length="3708182" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-06-23</guid>
+      <pubDate>Tue, 23 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>サイバーセキュリティニュース 2026年6月22日｜上場企業がボットネット関与・Apple修正不能脆弱性・AIエージェント乗っ取り攻撃</title>
       <description>今週のサイバーセキュリティニュースをずんだもん＆四国めたんがわかりやすく解説！
 
