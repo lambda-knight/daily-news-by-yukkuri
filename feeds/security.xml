@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>サイバーセキュリティニュース 2026年6月24日</title>
+      <description>サイバーセキュリティニュース 2026年6月24日
+
+「Scattered Spider」有罪答弁、CISAデータ漏えい、LastPassサプライチェーン侵害、macOS ClickFix攻撃、量子暗号への2030年移行令など、今週も注目のセキュリティニュースをお届けします。
+
+Scattered Spiderメンバーが有罪答弁：ロンドン交通局ハック事件で初の司法決着
+
+ 英米で活動するハッカー集団「Scattered Spider（スキャタード・スパイダー）」のメンバーが、ロンドン交通局（TfL）へのサイバー攻撃に関して初日から有罪答弁
+ Scattered Spiderは2022〜2024年にかけてMGMリゾーツ・シーザーズエンターテインメント・TfLなど大企業を次々と攻撃した英語圏の若者中心グループ
+ ソーシャルエンジニアリング（電話やSMSで従業員を騙す手口）を主な武器とし、多要素認証を突破するケースが多かった
+ TfL攻撃では数千人分の乗客データと銀行口座情報が流出し、システム復旧に数週間を要した
+ サイバー犯罪者の逮捕・起訴が加速しており、匿名性への過信が崩れつつある
+
+出</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-24-security/security_yukkuri.m4a" length="3689614" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-06-24</guid>
+      <pubDate>Wed, 24 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>サイバーセキュリティニュース 2026年6月23日</title>
       <description>サイバーセキュリティニュース 2026年6月23日
 
