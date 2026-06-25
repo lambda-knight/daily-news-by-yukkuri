@@ -26,6 +26,44 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース 2026-06-26</title>
+      <description>セキュリティニュース 20260626
+
+Scattered Spider、ロンドン交通局攻撃で裁判初日に有罪認否
+
+ ロンドン交通局（TfL）を2024年8月に麻痺させたサイバー攻撃に関わったとして英国で起訴された2名が、6週間の審理を予定していた裁判の初日に有罪を認めた
+ 2人はハッカー集団「Scattered Spider（スキャッタード・スパイダー）」の主要メンバーで、TfL攻撃により数万人の乗客データが漏洩し、交通機関のシステムが長期間混乱した
+ Scattered Spiderは10代〜20代前半の英語話者で構成される犯罪グループで、ソーシャルエンジニアリング（人を騙す心理的手口）と多要素認証回避を得意とし、過去にMGMリゾーツやCesars Entertainmentへの攻撃でも知られている
+
+Popa ボットネット：上場企業が運営か・テレビボックス数百万台を乗っ取り
+
+ Androidベースのボットネット（多数のデバイスを乗っ取って遠隠的に操るネットワーク）「Popa」が4年間にわたりコンシューマー向けテレビボックス数百万台を支配し、広告詐欺・アカウント乗っ取り・大規模</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-26-security/security_yukkuri.m4a" length="5124571" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-06-26</guid>
+      <pubDate>Fri, 26 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>セキュリティニュース 2026-06-25</title>
+      <description>セキュリティニュース 20260625
+
+Operation Endgame拡大：AmedeyとStealCのインフラ壊滅・2700万件の認証情報を回収
+
+ Europol・Microsoft・ESET・Bitdefenderなどが共同で「Operation Endgame」の追加作戦を実施し、マルウェア「Amadey」と「StealC」の配布インフラを完全停止させた
+ 今回の作戦ではランサムウェア・金融詐欺・重要インフラ攻撃の「製造ライン」となっていた2700万件以上の盗難認証情報を押収・回収することに成功した
+ Amadeyはローダー型マルウェア、StealCは情報窃取ツールとして世界中のサイバー犯罪者が愛用しており、これらのサービスが停止することで連鎖的な攻撃が大幅に抑制される見込み
+
+Cordyceps：CI/CDワークフローの欠陥でGitHubリポジトリ300件以上がサプライチェーン攻撃に晒される
+
+ セキュリティ研究企業Novee Securityが「Cordyceps」と命名した新たなCI/CDワークフローの脆弱性クラスを発見し、攻撃者がワークフローを乗っ取ってオープンソ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-25-security/security_yukkuri.m4a" length="5673945" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-06-25</guid>
+      <pubDate>Thu, 25 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>サイバーセキュリティニュース 2026年6月24日</title>
       <description>サイバーセキュリティニュース 2026年6月24日
 
