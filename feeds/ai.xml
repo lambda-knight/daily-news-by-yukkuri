@@ -26,6 +26,29 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AI最前線 2026年6月26日号</title>
+      <description>生成AI最前線 2026年6月26日号
+
+Patronus AI、5000万ドル調達 ── AIエージェントの「デジタル試験場」を構築
+
+ 元Meta AI研究者が創業したPatronus AIが5000万ドルを調達。AIエージェントがリリース前にどこで失敗するかを検証する「デジタルワールド」を構築する
+ 本番環境を模したシミュレーション空間でエージェントにストレステストを実施し、予期せぬ動作を事前に検出する仕組み
+ 投資家によると需要は「ほぼ飽くなき状態」。本番運用されるエージェントの急増が背景にある
+
+AnthropicのClaudeが有料ユーザー市場で躍進 ── ChatGPTの牙城に迫る
+
+ ChatGPTが圧倒的シェアを持つ中、課金ユーザーの間でAnthropicのClaudeを選ぶ割合が増加傾向にあるとデータが示している
+ 全体ユーザー数ではChatGPTが依然トップだが、「お金を払う層」の選択肢として2位が揺らいでいる
+ 有料ユーザーは機能差や回答品質に敏感なため、Claudeの性能向上が直接市場シェアに結び付いている
+
+ゲームプレイでAIを鍛える ── General </description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-26-ai/ai_yukkuri.m4a" length="5432739" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-26</guid>
+      <pubDate>Fri, 26 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AI最前線 2026年6月25日号</title>
       <description>生成AI最前線 2026年6月25日号
 
