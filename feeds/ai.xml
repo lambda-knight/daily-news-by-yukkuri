@@ -26,6 +26,29 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AI最前線 2026年6月25日号</title>
+      <description>生成AI最前線 2026年6月25日号
+
+エンジニア職はAI時代に最も強い ── SignalFireの新データが示す意外な現実
+
+ 「AIがエンジニアの仕事を奪う」という言説に反し、SignalFireの最新データではエンジニア職が新規採用に占める割合は増加中
+ AI導入が進む企業ほど、AIを使いこなせるエンジニアの需要が高まるという逆説的な構造が浮き彫りに
+ 「AIに代替される」より「AIと協働できる人材」への移行が進んでいる
+
+Google AI人材流出が止まらない ── AnthropicへまたもやトップResearcherが移籍
+
+ Google DeepMindのResearcher Jonas AdlerとAlexander PritzelがそろってAnthropicに転職すると報道
+ Noam Shazeer（キャラクターAI創業）やJohn Jumper（AlphaFold開発）らに続く大型人材流出
+ AI覇権争いの実態は「モデル」ではなく「研究者の争奪戦」であることが改めて鮮明に
+
+OpenAI、独自チップ「Jalapeño」を初公開 ── Broadcom製・推論</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-25-ai/ai_yukkuri.m4a" length="3671327" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-25</guid>
+      <pubDate>Thu, 25 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AI最前線 2026年6月24日号</title>
       <description>生成AI最前線 2026年6月24日号
 
