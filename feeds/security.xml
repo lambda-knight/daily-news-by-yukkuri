@@ -26,6 +26,45 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース 2026-06-28</title>
+      <description>セキュリティニュース 20260628
+
+Scattered Spider、初公判初日に有罪答弁——ロンドン交通局攻撃で
+
+ 英国のサイバー犯罪グループ「Scattered Spider（スキャタードスパイダー）」のメンバー2名が、2024年8月にロンドン交通局（TfL）のネットワークを麻痺させたサイバー攻撃の刑事訴追に対し、6週間の裁判を予定していた初公判初日に有罪答弁を行った
+ Scattered Spiderは英語話者の若者を中心としたサイバー犯罪集団で、SIMスワッピング（携帯電話番号の乗っ取り）、フィッシング、ソーシャルエンジニアリング（人を騙す心理的手法）を組み合わせた高度な攻撃で知られ、Caesars EntertainmentやMGM Resortsなど多数の大企業を標的にしてきた
+ 今回の有罪答弁は英国での初の法的決着で、米国でも複数のメンバーが起訴されており、国際的な連携捜査による同グループの摘発が進んでいる
+
+「Popa」ボットネット：AndroidテレビBOXを不正流用、上場企業が関与か
+
+ 4年以上にわたって数百万台のAndroid搭載テレビBOX（ストリーミ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-28-security/security_yukkuri.m4a" length="3991803" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-06-28</guid>
+      <pubDate>Sun, 28 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>セキュリティニュース 2026-06-27</title>
+      <description>セキュリティニュース 20260627
+
+ロシア諜報機関、Signalのバックアップ回復キーを狙うフィッシングに進化
+
+ FBIとCISA（米サイバーセキュリティ・インフラセキュリティ庁）が共同警告を更新し、ロシア諜報機関によるSignalユーザーへのフィッシング攻撃が新段階に進化したと発表した
+ 攻撃者は今や「Signalバックアップ回復キー（アカウント全履歴を別端末に復元するための秘密コード）」を騙し取る手口を使用しており、一度渡すとすべての過去メッセージへのアクセスと完全なアカウント乗っ取りが可能になる
+ 外交官・ジャーナリスト・政府関係者など機密情報を扱う人物が主な標的で、バックアップ回復キーは絶対に他人に渡さないこと、デバイスを変える場合は旧端末で必ずキーを無効化することが推奨される
+
+DirtyClone：Linuxカーネルの新たな特権昇格脆弱性が公開実証
+
+ CVE202643503（CVSSスコア8.8、深刻度「高」）通称「DirtyClone」が発見され、JFrog Security Researchが6月25日に実際に動作するエクスプロイト手順を初公開した
+ Dir</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-27-security/security_yukkuri.m4a" length="4394643" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-06-27</guid>
+      <pubDate>Sat, 27 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース 2026-06-26</title>
       <description>セキュリティニュース 20260626
 
