@@ -26,6 +26,29 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>ずんだもんの生成AIニュース 2026-06-28</title>
+      <description>孫正義 vs イーロン・マスク ── 宇宙データセンター構想に懐疑論
+
+ ソフトバンクCEO孫正義氏が株主総会でマスク氏の軌道上データセンター構想に異論を表明
+ 「宇宙にデータセンターを作ってもコスト削減にはならず、時間がかかりすぎる」と批判
+ 「エーアイの戦いは今後数年が最重要。10年後より現在の地上インフラ充実を優先すべき」と主張
+ 孫氏自身は東電への出資など国内データセンター誘致戦略を積極推進中
+ 世界的なデータセンター需要の獲得をめぐり、現実路線 vs 宇宙路線の論争が始まった
+
+OpenAI、自社チップ「Jalapeño」を発表 ── NvidiaへのAI依存から脱却へ
+
+ オープンエーアイがBroadcomと共同開発した独自推論チップ「Jalapeño（ハラペーニョ）」を公開
+ グーグル・アップル・スペースXに続き、エーアイ大手が単一ベンダー依存リスク軽減を本格化
+ 自社チップにより推論コスト削減と能力カスタマイズの両立を目指す
+ エヌビディアが独占してきたエーアイチップ市場に、ユーザー自身が挑戦する構図へ
+ チップ設計投資は増えるが、長期的なエーアイ運用コスト削減と戦略的</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-28-ai/ai_yukkuri.m4a" length="4361866" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-06-28</guid>
+      <pubDate>Sun, 28 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ずんだもんの生成AIニュース 2026-06-27</title>
       <description>GPT5.6「Sol／Terra／Luna」限定プレビュー ── 政府要請で公開を段階制限
 
