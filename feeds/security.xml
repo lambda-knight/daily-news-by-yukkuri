@@ -26,6 +26,26 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース 2026-06-29</title>
+      <description>セキュリティニュース 20260629
+
+Microsoft史上最多パッチチューズデー——200本近い脆弱性を一括修正
+
+ Microsoftが6月のパッチチューズデー（月例セキュリティ更新）で約200件の脆弱性を修正した。これは同社の月例パッチとして史上最多の件数であり、そのうち30本以上が「重大（Critical）」評価を受けた
+ 少なくとも3件の脆弱性については攻撃に使えるエクスプロイトコード（悪用プログラム）がすでに公開されており、実際の攻撃に先立って迅速なパッチ適用が不可欠な状況だ
+ WindowsやEdge、Officeを含む広範な製品が対象であり、特にリモートコード実行（RCE＝遠隔からコードを実行できる脆弱性）系のバグが多く含まれているため、企業・個人ともに即時更新が強く推奨される
+
+オランダ当局、800台のサーバーを押収——ロシアのサイバー攻撃を支援した2人を逮捕
+
+ オランダ警察が、ロシアの諜報機関によるサイバー攻撃・影響工作・偽情報拡散を支援していたとして、2つのインターネットホスティング企業の共同経営者2人を逮捕し、800台以上のサーバーを押収した
+ 逮捕された</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-29-security/security_yukkuri.m4a" length="6400441" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-06-29</guid>
+      <pubDate>Mon, 29 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース 2026-06-28</title>
       <description>セキュリティニュース 20260628
 
