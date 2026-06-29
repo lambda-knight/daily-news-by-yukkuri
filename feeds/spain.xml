@@ -9,9 +9,9 @@
     <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/spain.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <copyright>© 2026 daily-news-by-yukkuri</copyright>
-    <description>スペイン人の目線で読む国際情勢・国内ニュース・フラメンコ文化を毎日解説。カンテ・トケ・バイレの三位一体と、アンダルシアの魂をずんだもんと四国めたんがお届けします。</description>
+    <description>スペイン人の目線で読む国際情勢・国内ニュース・フラメンコ文化を毎日解説。カンテ・トケ・バイレの三位一体と、アンダルシアの魂をずんだもんと四国めたんがお届けします。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
     <itunes:author>daily-news-by-yukkuri</itunes:author>
-    <itunes:summary>スペイン人の目線で読む国際情勢・国内ニュース・フラメンコ文化を毎日解説。カンテ・トケ・バイレの三位一体と、アンダルシアの魂をずんだもんと四国めたんがお届けします。</itunes:summary>
+    <itunes:summary>スペイン人の目線で読む国際情勢・国内ニュース・フラメンコ文化を毎日解説。カンテ・トケ・バイレの三位一体と、アンダルシアの魂をずんだもんと四国めたんがお届けします。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/spain.png"/>

@@ -9,9 +9,9 @@
     <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/intl_jp.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <copyright>© 2026 daily-news-by-yukkuri</copyright>
-    <description>海外で大きく報じられたのに日本では報じられないニュースを毎日可視化します。</description>
+    <description>海外で大きく報じられたのに日本では報じられないニュースを毎日可視化します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
     <itunes:author>daily-news-by-yukkuri</itunes:author>
-    <itunes:summary>海外で大きく報じられたのに日本では報じられないニュースを毎日可視化します。</itunes:summary>
+    <itunes:summary>海外で大きく報じられたのに日本では報じられないニュースを毎日可視化します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/intl_jp.png"/>

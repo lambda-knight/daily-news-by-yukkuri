@@ -9,9 +9,9 @@
     <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/domestic.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <copyright>© 2026 daily-news-by-yukkuri</copyright>
-    <description>朝日・産経・赤旗ほか国内8紙の報じ方の違いを毎日比較します。</description>
+    <description>朝日・産経・赤旗ほか国内8紙の報じ方の違いを毎日比較します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
     <itunes:author>daily-news-by-yukkuri</itunes:author>
-    <itunes:summary>朝日・産経・赤旗ほか国内8紙の報じ方の違いを毎日比較します。</itunes:summary>
+    <itunes:summary>朝日・産経・赤旗ほか国内8紙の報じ方の違いを毎日比較します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/domestic.png"/>

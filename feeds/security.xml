@@ -9,9 +9,9 @@
     <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/security.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <copyright>© 2026 daily-news-by-yukkuri</copyright>
-    <description>セキュリティインシデント・脅威・脆弱性・防御技術を、技術者にも一般人にもわかりやすくずんだもんと四国めたんが解説します。</description>
+    <description>セキュリティインシデント・脅威・脆弱性・防御技術を、技術者にも一般人にもわかりやすくずんだもんと四国めたんが解説します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
     <itunes:author>daily-news-by-yukkuri</itunes:author>
-    <itunes:summary>セキュリティインシデント・脅威・脆弱性・防御技術を、技術者にも一般人にもわかりやすくずんだもんと四国めたんが解説します。</itunes:summary>
+    <itunes:summary>セキュリティインシデント・脅威・脆弱性・防御技術を、技術者にも一般人にもわかりやすくずんだもんと四国めたんが解説します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/security.png"/>
