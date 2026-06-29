@@ -26,6 +26,21 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース 2026-06-30</title>
+      <description>セキュリティニュース 20260630
+
+Scattered Spider裁判が開幕——ロンドン交通局攻撃の実行犯2人が初日に有罪を認める
+
+ 英国で開かれた裁判の初日、ハッカー集団「Scattered Spider（スキャタード・スパイダー）」のメンバー2人が、2024年8月にロンドン交通局（TfL）を攻撃した罪を認めた。TfLは首都ロンドンの鉄道・地下鉄・バスを統括する機関で、今回の攻撃により約5,000人の乗客の個人情報（銀行口座の一部を含む）が流出し、数週間にわたりオンラインサービスが停止した
+ Scattered Spiderは英語圏の若者（10代〜20代）を中心に構成される犯罪集団で、技術的なマルウェアではなく「ソーシャルエンジニアリング（人をだます手口）」を主武器とする。企業のヘルプデスク担当者に電話して社員のふりをし、パスワードリセットを迫るなどの手法でITシステムへの侵入口を開く
+ 同グループは2023年にMGMリゾーツ（被害額推定1億ドル）やシーザーズ・エンターテインメントへの攻撃でも悪名をはせており、今回の有罪認否は国際的なサイバー犯罪捜査の成果として注目されてい</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-30-security/security_yukkuri.m4a" length="6962928" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-06-30</guid>
+      <pubDate>Tue, 30 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース 2026-06-29</title>
       <description>セキュリティニュース 20260629
 
