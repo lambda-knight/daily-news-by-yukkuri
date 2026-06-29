@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>スペインニュース・フラメンコ by ずんだもん</title>
+    <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
+    <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/spain.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <copyright>© 2026 daily-news-by-yukkuri</copyright>
+    <description>スペイン人の目線で読む国際情勢・国内ニュース・フラメンコ文化を毎日解説。カンテ・トケ・バイレの三位一体と、アンダルシアの魂をずんだもんと四国めたんがお届けします。</description>
+    <itunes:author>daily-news-by-yukkuri</itunes:author>
+    <itunes:summary>スペイン人の目線で読む国際情勢・国内ニュース・フラメンコ文化を毎日解説。カンテ・トケ・バイレの三位一体と、アンダルシアの魂をずんだもんと四国めたんがお届けします。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/spain.png"/>
+    <itunes:category text="News"/>
+    <itunes:owner>
+      <itunes:name>daily-news-by-yukkuri</itunes:name>
+      <itunes:email>tokomakoma123@gmail.com</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://lambda-knight.github.io/daily-news-by-yukkuri/art/spain.png</url>
+      <title>スペインニュース・フラメンコ by ずんだもん</title>
+      <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
+    </image>
+    <item>
+      <title>スペインニュース 2026年6月29日</title>
+      <description>スペインニュース 2026年6月29日
+
+国際情勢（スペイン視点）
+
+ベネズエラ大地震とトランプ強制送還組147人
+
+ ベネズエラで大規模地震が発生。スペインは他のどの欧州国より大きく報道
+ トランプ政権がテキサスから強制送還した147人が、地震当日にちょうど帰国し被災
+ El País: 「まずトランプの犠牲者になり、今度は自然の犠牲者に」と辛辣
+ スペイン人の視点: ラテンアメリカはスペインの「第二の故郷」。ベネズエラ系・キューバ系の移民がスペインに多く、南米の悲劇は欧州の他国とは別次元の「身内の危機」として受け止められる
+
+ブレグジット10周年「私たちの父は嘘をついた」
+
+ El País の見出し "Nuestros padres mintieron"（私たちの父は嘘をついた）
+ EU最大の貿易相手と決別したイギリスが「それは正解だった」と示す証拠がまだない
+ スペイン人の複雑な感情: ジブラルタル（スペインが領有権を主張する英領の岩山）問題が未解決のまま。「やっぱりね」という優越感と、EUへの求心力が保たれた安堵が混在
+
+日中緊張をスペインが報じる視点
+
+ 防衛相・小泉進次郎</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-29-spain/spain_yukkuri.m4a" length="13399625" type="audio/mp4"/>
+      <guid isPermaLink="false">spain-2026-06-29</guid>
+      <pubDate>Mon, 29 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
