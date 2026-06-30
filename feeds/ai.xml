@@ -46,6 +46,37 @@ GeminiのパーソナライズAI画像生成が無料ユーザーへ開放
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
+      <title>量子コンピュータ 号外 2026/06/30</title>
+      <description>量子コンピュータ 号外 2026/06/30
+
+今日は2本の重大ニュースを詳しくお届けします。
+
+QuEra「Libra」— 100万量子演算の耐故障性QPUが2028年にAmazon Braketへ
+
+AWSと{QuEraキュエラ} Computing（ハーバード系スピンオフ）が2026年6月に戦略的協業拡大を発表。2028年を目標に、フォールトトレラント量子コンピュータ Libra を Amazon Braket クラウドで提供開始する。
+
+QuEraとは何者か
+
+ 2019年創業。ハーバード大学の量子物理学者 {Mikhail Lukinミハイル・ルーキン} 教授らのスピンオフ企業
+ 中性原子方式の量子コンピュータ開発でトップを走るスタートアップ
+ AWSとの提携は2023年から段階的に拡大
+
+Libraの主要仕様
+
+ 項目  仕様 
+
+ 量子演算規模  Megaquop（100万論理量子演算） 
+ 論理量子ビット  256以上 
+ 論理エラー率  10⁻⁶（100万分の1） 
+ 技術基盤  中性原子（ライドバーグ原子）+ 光ピンセット 
+ 接続性  全対全（Alltoall）接</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-30-ai-gougai/ai_gougai_yukkuri.m4a" length="8855297" type="audio/mp4"/>
+      <guid isPermaLink="false">ai_gougai-2026-06-30</guid>
+      <pubDate>Tue, 30 Jun 2026 08:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ずんだもんの生成AIニュース 2026-06-29</title>
       <description>フォードが「グレイビアード」エンジニアを再雇用 ── AI失敗から学んだ教訓
 
