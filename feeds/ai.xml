@@ -26,6 +26,26 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>ずんだもんの生成AIニュース 2026-07-01</title>
+      <description>Claude Sonnet 5登場 — エージェント向け最安モデル
+
+ Anthropicが「Claude Sonnet 5」をリリース。エージェント利用に最適化された新モデルで、Claude Opus・競合のGPT5.5・Gemini Proより大幅に安価
+ 「強力なエージェント能力」「低価格」「改善された安全性」の3本柱で、企業がAIエージェントを大規模展開する際のコスト障壁を引き下げる
+ Opusが高性能路線、Sonnet 5がコスト効率路線と役割を明確に分担するAnthropicの二段構えの戦略
+ LLM推論コストの低下競争が加速する中、エージェント市場の覇権争いがさらに激化する局面
+
+Anthropicが科学者向け「Claude Science」を発表
+
+ Anthropicが製薬・バイオテック幹部を招いたイベントで「Claude Science」を正式発表。科学研究支援に特化したAIワークベンチ
+ データベース・解析パイプライン・研究ツールを1つの環境に統合し、科学者が複数ツールを行き来する非効率をなくす
+ Claude Codeがソフトウェアエンジニアリングを変えたように</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-01-ai/ai_yukkuri.m4a" length="4381127" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-01</guid>
+      <pubDate>Wed, 01 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ずんだもんの生成AIニュース 2026-06-30</title>
       <description>AnthropicとカリフォルニアがClaude半額提供で合意
 
