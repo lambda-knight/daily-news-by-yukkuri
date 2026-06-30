@@ -26,6 +26,21 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース 2026-07-01</title>
+      <description>セキュリティニュース 20260701
+
+MCPツール説明文の「毒」でAIエージェントが機密データを漏洩——Microsoftが警告
+
+ Microsoft Incident Responseの研究チームが、AIエージェント（ユーザーの代わりに自律的に作業するAI）を乗っ取る新たな手法「MCP（Model Context Protocol）ツール汚染攻撃」を報告した。攻撃者はAIエージェントが参照するツールの「説明文」に悪意ある指示を忍ばせるだけで、AIに企業の機密データを外部へ送信させることができる
+ ポイントは「AIが何のルールも破っていないように見える」こと。すべての操作が通常の業務フローに見えるため、デフォルト設定の監視システムでは検知できない。これは「プロンプトインジェクション」の一形態で、AIの推論エンジン自体を武器に変える攻撃だ
+ 対策として、MCPサーバーのツール説明文は承認済みのものだけを使用し、AIエージェントに与える権限（アクセス可能なデータ・実行できる操作）を最小限に絞ること。AIエージェントを業務システムに組み込む際は、権限設計とログ監視の仕組みを必ずセットで</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-01-security/security_yukkuri.m4a" length="4295203" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-01</guid>
+      <pubDate>Wed, 01 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース 2026-06-30</title>
       <description>セキュリティニュース 20260630
 
