@@ -196,3 +196,7 @@ https://arxiv.org/abs/2606.27231  — LLMによる量子実験制御
 ---
 
 [← 2026-06-29 の一覧に戻る](../)
+
+---
+
+*音声合成: [VOICEVOX](https://voicevox.hiroshiba.jp/) / キャラクター: [ずんだもん](https://zunko.jp/) ・ [四国めたん](https://zunko.jp/)*

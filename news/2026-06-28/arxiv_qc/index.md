@@ -12,6 +12,8 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 
 **2026-06-28 / arxiv 量子コンピュータ論文解説**
 
+<video controls width="100%" src="https://archive.org/download/news-pickup-2026-06-28-arxiv-qc/arxiv_qc_yukkuri.mp4"></video>
+
 <audio controls src="https://archive.org/download/news-pickup-2026-06-28-arxiv-qc/arxiv_qc_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-06-28-arxiv-qc)
@@ -133,3 +135,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 ---
 
 [← 2026-06-28 の一覧に戻る](../)
+
+---
+
+*音声合成: [VOICEVOX](https://voicevox.hiroshiba.jp/) / キャラクター: [ずんだもん](https://zunko.jp/) ・ [四国めたん](https://zunko.jp/)*
