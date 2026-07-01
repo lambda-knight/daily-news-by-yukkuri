@@ -26,6 +26,25 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース 2026-07-02</title>
+      <description>セキュリティニュース 20260702
+
+クボタ北米法人が不正アクセス被害——35日間侵入、社員と家族の社会保障番号や口座情報が流出
+
+ 農業機械大手クボタの北米法人「Kubota North America」が、2026年3月16日から4月20日までの約35日間にわたり、攻撃者にネットワークへ侵入されていたことを公表した。従業員5万2000人超を抱える大企業で、影響範囲は今も調査中
+ 流出の恐れがある情報は、本人と扶養家族の氏名、社会保障番号（米国の国民ID番号にあたる）、生年月日、納税者ID、政府発行の身分証明書番号、銀行口座情報、企業のペイメントカード情報、さらに保険給付関連データと多岐にわたる
+ ランサムウェアグループの犯行声明は今のところなく、攻撃者の身元も特定されていない。「なりすまし」に使われる情報一式がそろっているため、対象となる従業員・家族は信用情報機関への「フリーズ」設定や、心当たりのない借入・口座開設通知に注意する必要がある。日本企業の海外拠点も標的になりうる典型例だ
+
+米国土安全保障省の情報共有基盤「HSIN」が侵害——ワールドカップ警備の直前に発覚
+
+ 米国土</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-02-security/security_yukkuri.m4a" length="5817357" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-02</guid>
+      <pubDate>Thu, 02 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース 2026-07-01</title>
       <description>セキュリティニュース 20260701
 
