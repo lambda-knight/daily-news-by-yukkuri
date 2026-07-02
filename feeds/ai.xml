@@ -26,6 +26,32 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>ずんだもんの生成AIニュース 2026-07-02</title>
+      <description>Cloudflareが「AIはコンテンツ利用料を払え」新方針
+
+ Cloudflareが2026年9月15日を期限に、AI企業へ新方針を通告
+ 検索用クローラーとAI学習・エージェント用クローラーを分離登録することを義務化
+ 分離しない、または無許可のAIクローラーは多数のパブリッシャーサイトで既定ブロックに
+ ニュースサイトなど発信元がAI企業に利用料を求める動きが本格化した形
+
+Anthropic「Fable 5」「Mythos 5」、安全保障審査を経て世界公開
+
+ トランプ政権が3週間前、Anthropicの新モデル「Fable 5」「Mythos 5」を国家安全保障上のリスクとして問題視
+ 追加の安全性テストを経て、米国が輸出規制を解除
+ Anthropicは公式ブログで「Fable 5」を全世界向けに提供開始したと発表
+ 米国内組織は既に一部アクセスを取得しており、フロンティアAIモデルを巡る政府審査の一事例に
+
+LLMは「金太郎飴」思考から抜け出せるか
+
+ ChatGPT・Claude・Geminiに「1〜10の乱数を1つ」と尋ねると、多くの場合「7」が返る現象が知られる
+</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-02-ai/ai_yukkuri.m4a" length="4084881" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-02</guid>
+      <pubDate>Thu, 02 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ずんだもんの生成AIニュース 2026-07-01</title>
       <description>Claude Sonnet 5登場 — エージェント向け最安モデル
 
