@@ -26,6 +26,44 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>FBIがスマートTVボットネット摘発・議員自身がPegasusで盗聴される皮肉 セキュリティニュース【2026/07/04】</title>
+      <description>FBIが200万台超のスマートTVを悪用したPopaボットネットとNetNutプロキシ基盤を摘発、スパイウェア問題を調査していた元欧州議会議員自身がPegasusで盗聴されていた事例、Microsoft 365を狙うフィッシング代行サービス「ARToken」、北朝鮮関連の偽npmパッケージ、Mac向け新型情報窃取ツール「PamStealer」、Androidにも影響するLinuxカーネルの重大脆弱性「Bad Epoll」、Check Point製品の認証回避脆弱性など、今日のセキュリティニュース7本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・FBIがNetNutプロキシ基盤とPopaボットネットを摘発——200万台超のスマートTV等が悪用
+・欧州議会でスパイウェア問題を調査していた議員自身がPegasusで盗聴される
+・フィッシング代行サービス「ARToken」がMicrosoft 365利用者の認証情報を狙う
+・北朝鮮関連の攻撃者が偽npmパッケージで開発者の秘密情報を窃取
+・偽クリップボードアプリ「Maccy」を装うMac向け新型情報窃取ツール「PamStealer」
+・LinuxカーネルにAndroidも直撃する「Bad Epoll」脆弱性——一般ユーザー権限からroot奪取
+・Check Point製品に認証回避の脆弱性——実際の攻撃で悪用を確認（CVE-2026-50751）
+
+▼ 参考ソース
+- Krebs on Security: FBI Seizes NetNut Proxy Platform, Popa Botnet
+  https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/
+- The Hacker News: European Parliament Member Investigating Spyware Was Hacked With Pegasus
+  https://thehackernews.com/2026/07/european-parliament-member.html
+- Bleeping Computer: ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit
+  https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/
+- The Hacker News: North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets
+  https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html
+- The Hacker News: PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords
+  https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html
+- The Hacker News: New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android
+  https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html
+- JPCERT/CC: Check Point Software Technologies社製品における認証バイパスの脆弱性（CVE-2026-50751）に関する注意喚起
+  https://www.jpcert.or.jp/at/2026/at260016.html
+- IPA: Check Point Software Technologies製品の脆弱性対策について(CVE-2026-50751)
+  https://www.ipa.go.jp/security/security-alert/2026/alert20260610.html
+
+#セキュリティ #サイバーセキュリティ #フィッシング #マルウェア #ずんだもん #四国めたん #ゆっくり解説 #Pegasus #Linux #Android</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-04-security/security_yukkuri.m4a" length="6350864" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-04</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>CISA自身が情報漏えい・AIエージェントが完全自動でランサムウェア攻撃 セキュリティニュース【2026/07/03】</title>
       <description>米サイバーセキュリティ機関CISAの契約社員がクラウド認証情報をGitHubに公開、医療機器大手Medtronicで約900万件の個人情報流出、そして史上初とみられるAIエージェントだけで完遂されたランサムウェア攻撃「JADEPUFFER」など、今日のセキュリティニュース7本をずんだもんと四国めたんが解説します。
 
