@@ -26,6 +26,46 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>CISA自身が情報漏えい・AIエージェントが完全自動でランサムウェア攻撃 セキュリティニュース【2026/07/03】</title>
+      <description>米サイバーセキュリティ機関CISAの契約社員がクラウド認証情報をGitHubに公開、医療機器大手Medtronicで約900万件の個人情報流出、そして史上初とみられるAIエージェントだけで完遂されたランサムウェア攻撃「JADEPUFFER」など、今日のセキュリティニュース7本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・CISA契約社員がクラウド認証情報をGitHubに公開——政府自身の情報漏えいに議会が追及
+・医療機器大手Medtronicがデータ侵害——恐喝集団ShinyHuntersが関与、約900万件の個人情報流出
+・史上初、AIエージェントが完全自動でランサムウェア攻撃を実行——「JADEPUFFER」事件
+・ランサムウェア集団がCitrix Bleed 2を悪用——正規の管理ツールと窃取した認証情報で侵入
+・スパイ集団ToddyCatの新マルウェア「Umbrij」——OAuth悪用で企業のGmailを盗聴
+・Cisco・Microsoft SharePointの既知の脆弱性が実際の攻撃で悪用開始——連邦機関に緊急パッチ命令
+・わずか3秒でMicrosoft 365アカウント乗っ取り——「ClickFix」対策にOperaが新機能「Paste Protect」
+
+▼ 参考ソース
+- Krebs on Security: Lawmakers Demand Answers as CISA Tries to Contain Data Leak
+  https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/
+- Bleeping Computer: Medtronic notifies customers impacted by ShinyHunters data breach
+  https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/
+- The Hacker News: AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack
+  https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html
+- The Hacker News: Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials
+  https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html
+- The Hacker News: ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API
+  https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html
+- Bleeping Computer: Cisco finally confirms attackers exploiting Unified CM flaw
+  https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/
+- Bleeping Computer: CISA: Microsoft SharePoint RCE flaw now actively exploited
+  https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/
+- Bleeping Computer: ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds
+  https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/
+- Bleeping Computer: Opera rolls out Paste Protect feature to fight ClickFix attacks
+  https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/
+
+#セキュリティ #サイバーセキュリティ #ランサムウェア #情報漏えい #ずんだもん #四国めたん #ゆっくり解説 #CISA #Microsoft365 #AIエージェント</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-03-security/security_yukkuri.m4a" length="7477643" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-03</guid>
+      <pubDate>Fri, 03 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース 2026-07-02</title>
       <description>セキュリティニュース 20260702
 
