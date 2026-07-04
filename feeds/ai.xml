@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AI最前線 2026年7月4日｜Quantinuum量子快挙・国連AI対話・Z世代の反AI祭り</title>
+      <description>今日の生成AIニュースをずんだもんと四国めたんがわかりやすく解説！
+
+▼ 本日のトピック
+• ザッカーバーグ氏、AIエージェントの進化が「期待通りに進んでいない」と社内で発言
+• Quantinuum「Helios」98量子ビット機、米サンディア国立研究所が高精度を実証
+• IonQ、豪Archer Materialsと提携 — 量子機械学習で不正検知・自国産量子コンピュータ導入も検討
+• 産業用AI、発電タービンの「頭脳」に — Woodside Energyが50体のAIエージェントを本稼働
+• UN、ジュネーブで初の「AIガバナンス国際対話」開催へ
+• ニューヨークで反ビッグテック「サマー・オブ・ラッド」祭り、Z世代がオフライン回帰
+
+▼ 参考ソース
+- TechCrunch: Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped
+- Quantum Computing Report: Sandia National Laboratories and Quantinuum Validate 98-Qubit Helios Trapped-Ion Framework
+- phys.org: Helios quantum computer tops 99.9% fidelity rates for one- and two-qubit operations
+- The Quantum Insider: Archer Materials to Access IonQ Cloud, Explore Sovereign Quantum Computer in Australia
+- Quantum Computing Report: Archer Materials Partners with IonQ to Study On-Shore Sovereign Deployment and Accelerate QML Capital Markets Scaling
+- MIT Technology Review: Teaching AI to run with the turbines
+- UNESCO: Global Dialogue on AI Governance, Geneva, 6–7 July
+- United Nations: Global Dialogue on AI Governance
+- Ars Technica: Inside the Luddite festival harnessing Gen Z's rage against Big Tech
+- Gothamist: Ditch your phone and join the Summer of Ludd, the offline festival happening in NYC
+
+#生成AI #AIニュース #ずんだもん #量子コンピュータ #Quantinuum #IonQ #Meta #国連 #AIガバナンス #Z世代</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-04-ai/ai_yukkuri.m4a" length="4232112" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-04</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AI最前線 2026年7月3日｜OpenAI米政府に株式5%案・軍事AI規制・UCF量子誤り訂正</title>
       <description>今日の生成AIニュースをずんだもんと四国めたんがわかりやすく解説！
 
