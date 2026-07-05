@@ -26,6 +26,45 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>サーバー800台押収・恐喝集団Kairos・電力インフラ狙う新型スパイ集団 セキュリティニュース【2026/07/05】</title>
+      <description>ロシア系サイバー攻撃を支えたホスティング業者からサーバー800台を押収したオランダ当局、暗号化せずに恐喝する米政府機関相手のKairos事件、要人の身元流出を国防総省が調査するDialogデータ流出、政府機関と電力インフラを狙う新型スパイ集団「Armored Likho」、認証情報窃取からランサムウェア実行まで一括で担う多機能マルウェア「Avalon」、監視カメラやドローンにも影響するFatFsの未修正脆弱性、Palo Alto Networks製PAN-OSの認証回避脆弱性、過去最多となった2026年6月のMicrosoft月例パッチなど、今日のセキュリティニュース8本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・オランダ当局がサーバー800台を押収、ロシア系サイバー攻撃を支えたホスティング業者を摘発
+・米政府機関が「ランサムウェアを名乗らない」恐喝集団Kairosに約1億5000万円を支払い
+・米国防総省、要人の身元が特定された「Dialog」データ流出を調査
+・新たなスパイ集団「Armored Likho」、政府機関と電力インフラを狙い新型窃取ツール「BusySnake」で攻撃
+・多機能マルウェア「Avalon」が登場——認証情報窃取からランサムウェア実行まで一括で担う
+・USBメモリやSDカードの読み書きに使われる基盤ソフト「FatFs」に未修正の脆弱性7件、監視カメラやドローンにも影響
+・Palo Alto Networks製「PAN-OS」に認証回避の脆弱性（CVE-2026-0265）、JPCERTが注意喚起
+・2026年6月のMicrosoft月例パッチが過去最多、約200件の脆弱性を一括修正
+
+▼ 参考ソース
+- Krebs on Security: Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks
+  https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/
+- The Hacker News: U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case
+  https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html
+- Wired Security: The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials
+  https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/
+- The Hacker News: Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer
+  https://thehackernews.com/2026/07/armored-likho-targets-government.html
+- The Hacker News: New Avalon Malware Framework Packs CrownX Ransomware Capabilities
+  https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html
+- The Hacker News: Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices
+  https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html
+- JPCERT/CC: Palo Alto Networks製PAN-OSにおける認証回避の脆弱性（CVE-2026-0265）に関する注意喚起
+  https://www.jpcert.or.jp/at/2026/at260015.html
+- Krebs on Security: A Record-Breaking Patch Tuesday for June 2026
+  https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/
+
+#セキュリティ #サイバーセキュリティ #ランサムウェア #マルウェア #ずんだもん #四国めたん #ゆっくり解説 #脆弱性 #重要インフラ #PatchTuesday</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-05-security/security_yukkuri.m4a" length="5734943" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-05</guid>
+      <pubDate>Sun, 05 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>FBIがスマートTVボットネット摘発・議員自身がPegasusで盗聴される皮肉 セキュリティニュース【2026/07/04】</title>
       <description>FBIが200万台超のスマートTVを悪用したPopaボットネットとNetNutプロキシ基盤を摘発、スパイウェア問題を調査していた元欧州議会議員自身がPegasusで盗聴されていた事例、Microsoft 365を狙うフィッシング代行サービス「ARToken」、北朝鮮関連の偽npmパッケージ、Mac向け新型情報窃取ツール「PamStealer」、Androidにも影響するLinuxカーネルの重大脆弱性「Bad Epoll」、Check Point製品の認証回避脆弱性など、今日のセキュリティニュース7本をずんだもんと四国めたんが解説します。
 
