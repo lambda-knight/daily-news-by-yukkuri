@@ -26,6 +26,36 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AI最前線 2026年7月5日｜中国1.6兆パラメータAI・Anthropic対軍・量子暗号</title>
+      <description>今日の生成AIニュースをずんだもんと四国めたんがわかりやすく解説！
+
+▼ 本日のトピック
+• 中国Meituan、1.6兆パラメータの新AIモデル「LongCat-2.0」を国産チップのみでオープンソース化
+• Anthropicとペンタゴンの自律兵器を巡る対立、非公開メールが法廷で開示される
+• Midjourney、ハリウッド映画会社にAI利用の内訳開示を要求
+• Alibaba、従業員のClaude Code利用を7月10日から禁止
+• 世界のスタートアップ投資、2026年上半期に過去最高規模へ
+• QPerfectとBTQ Technologies、量子回路レベルの「ワンショット署名」方式を初めて実装
+
+▼ 参考ソース
+- SiliconANGLE: China's Meituan open-sources massive LongCat-2.0 AI model, saying it was trained on domestic chips
+- VentureBeat: Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter
+- TechTimes: Pentagon Blacklisted Anthropic Over Autonomous Weapons Limits: Emails Reveal "Very Close" Talks
+- TechCrunch: New court filing reveals Pentagon told Anthropic the two sides were nearly aligned
+- Defense One: New bill aims to regulate military uses of AI
+- TechCrunch: Midjourney wants Hollywood studios to reveal the details of their AI usage
+- TechCrunch: Alibaba reportedly bans employees from using Claude Code
+- Crunchbase News: Global Startup Investment Hit Record $510B In H1 2026 As AI Boom Accelerates Funding And Exits
+- Quantum Computing Report: QPerfect and BTQ Technologies Engineer First Circuit-Level Quantum One-Shot Signature Scheme
+
+#生成AI #AIニュース #ずんだもん #量子コンピュータ #Anthropic #Meituan #AI規制 #自律兵器 #Midjourney #ベンチャー投資</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-05-ai/ai_yukkuri.m4a" length="5556037" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-05</guid>
+      <pubDate>Sun, 05 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AI最前線 2026年7月4日｜Quantinuum量子快挙・国連AI対話・Z世代の反AI祭り</title>
       <description>今日の生成AIニュースをずんだもんと四国めたんがわかりやすく解説！
 
