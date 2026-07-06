@@ -26,6 +26,45 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【AI創薬参入】Anthropic「Claude Science」ほか今週のAI業界まとめ 2026/07/06</title>
+      <description>AnthropicのAI創薬プラットフォーム参入、OpenAIの次世代モデルGPT-5.6、そして上海の量子産業ハブ新設まで、今週の生成AI・量子コンピュータの動きをずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Anthropicが研究者向けAIワークベンチ「Claude Science」を正式リリース、AI創薬に参入
+・OpenAIが次世代モデル「GPT-5.6」シリーズ(Sol/Terra/Luna)を限定プレビュー公開
+・Anthropic、GoogleとBroadcomとの提携拡大で3.5ギガワット規模の演算基盤を確保
+・ホワイトハウスがAIモデル公開の自主基準づくりでOpenAI・Google・Anthropicと協議
+・AIの軍事利用への抗議続く、学生ボイコット「QuitGPT」と卒業式でのAI排除運動
+・上海が量子コンピュータ産業ハブを新設、26社が参加し実用化を加速
+・LLMの「金太郎飴」問題(グループシンク)に挑む新興企業
+・Amazonがクラウドソーシング「Mechanical Turk」の新規受付を終了へ
+
+▼ 参考記事・ソース
+・pharmaphorum「Anthropic launches Claude Science for pharma researchers」 https://pharmaphorum.com/news/anthropic-launches-claude-science-pharma-researchers
+・STAT News「Anthropic releases Claude Science, a product aimed at researchers, the pharma industry」 https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/
+・MIT Technology Review「Claude Science is Anthropic's newest flagship product」 https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/
+・OpenAI「Previewing GPT-5.6 Sol: a next-generation model」 https://openai.com/index/previewing-gpt-5-6-sol/
+・VentureBeat「OpenAI unveils GPT-5.6 Sol, Terra and Luna models」 https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov
+・Anthropic「Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute」 https://www.anthropic.com/news/google-broadcom-partnership-compute
+・TechCrunch「Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand」 https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/
+・AIToolsRecap「AI News July 3 2026: White House Drafts Voluntary AI Release Standards」 https://aitoolsrecap.com/Blog/ai-news-july-3-2026
+・The Hill「Trump White House holds back new AI models, spurring confusion」 https://thehill.com/policy/technology/5948098-trump-openai-ai-policy-confusion/
+・Euronews「'Cancel ChatGPT': AI boycott surges after OpenAI-Pentagon military deal」 https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal
+・Columbia Spectator「'No AI voice at graduation': Students and faculty protest Columbia's use of AI in 2026 graduation ceremonies」 https://www.columbiaspectator.com/news/2026/05/18/no-ai-voice-at-graduation-students-and-faculty-protest-columbias-use-of-ai-for-2026-commencement/
+・KQED「At SF State, a Campus Protest Movement Gives Birth to an Emboldened Student Union」 https://www.kqed.org/news/12079164/at-sf-state-a-campus-protest-movement-gives-birth-to-an-emboldened-student-union
+・The Quantum Insider「Shanghai Launches Quantum Computing Hub as Chinese Cities Compete for Industry Leadership」 https://thequantuminsider.com/2026/07/02/shanghai-launches-quantum-computing-hub-as-chinese-cities-compete-for-industry-leadership/
+・South China Morning Post「Shanghai unveils quantum computing hub as China races for tech supremacy」 https://www.scmp.com/tech/tech-trends/article/3359146/shanghai-unveils-quantum-computing-hub-china-races-tech-supremacy
+・MIT Technology Review「The Download: a startup has a solution for AI's groupthink problem」 https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/
+・TechCrunch「Amazon will stop accepting new customers for Mechanical Turk」 https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-06-ai/ai_yukkuri.m4a" length="3748898" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-06</guid>
+      <pubDate>Mon, 06 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AI最前線 2026年7月5日｜中国1.6兆パラメータAI・Anthropic対軍・量子暗号</title>
       <description>今日の生成AIニュースをずんだもんと四国めたんがわかりやすく解説！
 
