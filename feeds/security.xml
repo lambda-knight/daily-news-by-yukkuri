@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Meta AIボット悪用でアカウント乗っ取り・FortiBleed流出 セキュリティニュース【2026/07/06】</title>
+      <description>MetaのAIサポートボットを悪用してホワイトハウス・米宇宙軍のInstagramアカウントが乗っ取られた事件、194カ国・86,644台分のFortiGate機器のログイン情報が流出した「FortiBleed」、北朝鮮系ハッカーがnpmなど4つの配布網に108個の悪性パッケージを投稿した「PolinRider」キャンペーン、AI「Claude」を使った研究者が音楽フェスのチケットシステムの脆弱性を発見した事例、身近なGoogle ChromeやAdobe Acrobatの脆弱性、ハッキングツール「Flipper Zero」の開発体制変化など、今日のセキュリティニュース6本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Meta AIサポートボットが悪用され、ホワイトハウス・米宇宙軍のInstagramアカウントが乗っ取られる
+・Fortinet製FortiGate、86,644台分のログイン情報が194カ国分流出——「FortiBleed」
+・北朝鮮系ハッカー、npmなど4つの配布網に108個の悪性パッケージ・拡張機能を投稿——「PolinRider」
+・AI「Claude」を使った研究者が、米国の音楽フェス向けチケットシステムの脆弱性を発見
+・Google Chromeに複数の脆弱性、Adobe Acrobat/Readerにも修正版——身近なソフトは早めの更新を
+・ハッキングツール「Flipper Zero」、開発チーム縮小もコミュニティ主導で継続へ
+
+▼ 参考記事・ソース
+・Krebs on Security「Hackers Used Meta's AI Support Bot to Seize Instagram Accounts」
+  https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/
+・JPCERT/CC「Fortinet製品に関連する認証情報の漏えいに関する注意喚起」
+  https://www.jpcert.or.jp/at/2026/at260019.html
+・The Hacker News「North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign」
+  https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html
+・Wired「Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival」
+  https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/
+・JPCERT/CC「Weekly Report 2026-07-01」
+  https://www.jpcert.or.jp/wr/2026/wr260701.html
+・JPCERT/CC「Adobe AcrobatおよびReaderの脆弱性（APSB26-63）に関する注意喚起」
+  https://www.jpcert.or.jp/at/2026/at260018.html
+・Bleeping Computer「Flipper Zero firmware development continues with community help」
+  https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/
+
+#セキュリティ #サイバーセキュリティ #ランサムウェア #情報漏洩 #ゆっくり解説 #ずんだもん #ハッキング #脆弱性</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-06-security/security_yukkuri.m4a" length="5590632" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-06</guid>
+      <pubDate>Mon, 06 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>サーバー800台押収・恐喝集団Kairos・電力インフラ狙う新型スパイ集団 セキュリティニュース【2026/07/05】</title>
       <description>ロシア系サイバー攻撃を支えたホスティング業者からサーバー800台を押収したオランダ当局、暗号化せずに恐喝する米政府機関相手のKairos事件、要人の身元流出を国防総省が調査するDialogデータ流出、政府機関と電力インフラを狙う新型スパイ集団「Armored Likho」、認証情報窃取からランサムウェア実行まで一括で担う多機能マルウェア「Avalon」、監視カメラやドローンにも影響するFatFsの未修正脆弱性、Palo Alto Networks製PAN-OSの認証回避脆弱性、過去最多となった2026年6月のMicrosoft月例パッチなど、今日のセキュリティニュース8本をずんだもんと四国めたんが解説します。
 
