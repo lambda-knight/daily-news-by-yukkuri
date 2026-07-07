@@ -26,6 +26,21 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース（2026年7月7日）</title>
+      <description>セキュリティニュース（2026年7月7日）
+
+英ロンドン交通局を襲った「Scattered Spider」、メンバーが裁判初日に罪状を認める
+
+2024年8月、ロンドンの公共交通網を運営するTransport for London（TfL）のシステムを麻痺させたサイバー攻撃で、実行犯とされる若者2人が英国の裁判で罪状を認めた。6週間続く予定だった裁判は初日にして事実上の決着を迎えた。2人は著名なハッキング集団「Scattered Spider」の中心メンバーとされる人物で、同集団は電話を使った巧みな「なりすまし」（ソーシャルエンジニアリング）でIT部門を欺き、企業ネットワークに侵入する手口で知られる。カジノ大手やハイテク企業への大規模侵害にも関与したとされ、メンバーの多くが10代〜20代の若者であることも話題になってきた。特別な技術力よりも「人を騙す話術」で大企業を陥れる点が、社会工学的攻撃の怖さを改めて示している。企業側の対策としては、パスワードリセットなど重要な操作を電話一本だけで完結させず、社内の別ルートで本人確認を行う仕組みを徹底することが有効とされる。
+
+身代金の90%を実行</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-07-security/security_yukkuri.m4a" length="5511958" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-07</guid>
+      <pubDate>Tue, 07 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Meta AIボット悪用でアカウント乗っ取り・FortiBleed流出 セキュリティニュース【2026/07/06】</title>
       <description>MetaのAIサポートボットを悪用してホワイトハウス・米宇宙軍のInstagramアカウントが乗っ取られた事件、194カ国・86,644台分のFortiGate機器のログイン情報が流出した「FortiBleed」、北朝鮮系ハッカーがnpmなど4つの配布網に108個の悪性パッケージを投稿した「PolinRider」キャンペーン、AI「Claude」を使った研究者が音楽フェスのチケットシステムの脆弱性を発見した事例、身近なGoogle ChromeやAdobe Acrobatの脆弱性、ハッキングツール「Flipper Zero」の開発体制変化など、今日のセキュリティニュース6本をずんだもんと四国めたんが解説します。
 
