@@ -26,6 +26,28 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AIニュース（2026-07-07）</title>
+      <description>生成AIニュース（20260707）
+
+{Vercelバーセル} CEOが語る「モデルとエージェントの分離」戦略
+
+ {Vercelバーセル}の{Guillermo Rauchギレルモ ラウチ}CEOが、本番運用における「モデル選定」と「エージェント設計」を切り離す動きについて言及
+ 本番環境で最適化する際は、まず価格対性能比（プライス・パフォーマンス）で判断する段階に入っていると指摘
+ 特定のモデルにロックインせず、用途ごとに最適なモデルを差し替えられる設計が主流になりつつある
+ 開発者はエージェントのロジックとモデルの選択を独立した部品として扱う設計思想へシフト
+
+{Anthropicアンソロピック}、中国の{Claude Codeクロード コード}ユーザーを監視する秘密トラッカーが発覚
+
+ セキュリティ研究者「{Therealloゼアロロ}」が、{Claude Codeクロード コード}のプライバシー問題を調査中に、中国のユーザーを密かに追跡するコードを発見
+ {Anthropicアンソロピック}は指摘を受けて速やかにトラッカーを削除したと説明
+ 研究者は「利用者の信頼に対する重</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-07-ai/ai_yukkuri.m4a" length="4245600" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-07</guid>
+      <pubDate>Tue, 07 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【AI創薬参入】Anthropic「Claude Science」ほか今週のAI業界まとめ 2026/07/06</title>
       <description>AnthropicのAI創薬プラットフォーム参入、OpenAIの次世代モデルGPT-5.6、そして上海の量子産業ハブ新設まで、今週の生成AI・量子コンピュータの動きをずんだもんと四国めたんが解説します。
 
