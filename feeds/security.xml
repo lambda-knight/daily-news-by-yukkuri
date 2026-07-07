@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース（2026年7月8日）</title>
+      <description>セキュリティニュース（2026年7月8日）
+
+「プロキシ」サービスの正体はボットネット——FBIがNetNutを差し押さえ
+
+ FBIが業界パートナーと連携し、イスラエルの上場企業Alarum Technologies（NASDAQ: ALAR）が運営する「住宅プロキシ」サービスNetNutに関連する数百のドメインを差し押さえた
+ 住宅プロキシとは、一般家庭のネット回線・機器を経由してアクセス元を偽装できるサービス。広告業者や調査会社が正規利用する一方、悪用されやすい
+ 約2週間前、セキュリティ研究者ブライアン・クレブス氏が、少なくとも200万台の機器がほとんど同意なく組み込まれた「Popa」ボットネットとNetNutのつながりを報じていた
+ Popaは4年にわたり、家庭用テレビボックス（Android搭載の格安ストリーミング機器）を乗っ取り、広告詐欺やアカウント乗っ取り、大量データ収集の踏み台にしていたとされる
+ 安価な中華製Androidテレビボックスを使っている人は、機器の出所やファームウェアの更新状況を確認したい
+
+家庭用ルーターに「裏口」——Tenda製品に隠しバックドア
+
+</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-08-security/security_yukkuri.m4a" length="5527565" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-08</guid>
+      <pubDate>Wed, 08 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース（2026年7月7日）</title>
       <description>セキュリティニュース（2026年7月7日）
 
