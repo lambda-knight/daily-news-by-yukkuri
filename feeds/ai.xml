@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】xAI「Grok 4.5」一般公開 ほか今週のAI業界まとめ 2026/07/09</title>
+      <description>xAIの新モデル「Grok 4.5」公開とOpenAIの新音声モデル「GPT-Live」から、ロボティクスAI・Google偽画像検出・大学のAIカンニング問題・ホワイトハウス量子産業サミットまで、今週の生成AI・量子コンピュータの動きをずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・xAIが新モデル「Grok 4.5」を一般公開、Opus 4.7クラスの性能を低コストで実現
+・OpenAIが同時発話・同時傾聴が可能な新音声モデル「GPT-Live」を発表
+・General Intuitionがビデオゲームデータでロボット向け基盤モデルを開発
+・Prime Intellectが企業向けAIエージェント構築支援で130億円規模のシリーズA調達
+・Googleの偽画像検出技術「SynthID」がマコネル上院議員の偽入院写真を暴く
+・Brown大学で生成AIによるカンニング問題が拡大、教員の3/4が懸念
+・MetaのAIスマートグラス、盗撮対策とデータ収集拡大の矛盾が浮き彫りに
+・ホワイトハウスが初の量子産業サミットを開催、量子スタートアップOratomicも300億円調達
+
+▼ 参考記事・ソース
+・TechCrunch「SpaceXAI releases Grok 4.5, which Elon describes as an 'Opus-class model'」 https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/
+・explainx.ai「Grok 4.5 Public Launch July 9: Opus-Class, Cursor-Trained」 https://explainx.ai/blog/grok-4-5-public-launch-spacexai-july-2026
+・TechCrunch「OpenAI releases new voice models for more natural live conversations」 https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/
+・OpenAI「Introducing GPT-Live」 https://openai.com/index/introducing-gpt-live/
+・TechCrunch「This startup thinks robotics is about to have its ChatGPT moment」 https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/
+・TechCrunch「Prime Intellect raises $130M Series A to help enterprises build their own AI agents」 https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/
+・TechCrunch「Google's deepfake detector system used to debunk McConnell hoax pic」 https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/
+・Inside Higher Ed「Brown Professor Suspects Most of His Class Used AI to Cheat」 https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat
+・Ars Technica「"We cannot choose to become idiots": The AI cheating scandal roiling Brown University」 https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/
+・TechCrunch「Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.」 https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/
+・The Quantum Insider「White House to Convene Quantum Industry Summit as Administration Pushes Innovation Agenda」 https://thequantuminsider.com/2026/07/07/white-house-to-convene-quantum-industry-summit-as-administration-pushes-innovation-agenda/
+・The Quantum Insider「Oratomic Raises $300 Million Series A」 https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-09-ai/ai_yukkuri.m4a" length="6188770" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-09</guid>
+      <pubDate>Thu, 09 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ずんだもんの生成AIニュース 2026-07-08</title>
       <description>{Claude Coworkクロード コワーク}がモバイル・ウェブへ対応拡大
 
