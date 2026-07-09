@@ -26,6 +26,45 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>KDDI1200万人流出・Ubiquiti最悪脆弱性・AI悪用の新手口 セキュリティニュース【2026/07/09】</title>
+      <description>通信大手KDDIで委託先ISPのメール基盤が侵害され最大1200万件の情報が流出した事件、ネットワーク機器大手Ubiquitiの主力製品に見つかった深刻度最悪ランクの脆弱性、中国系ハッカーが大学のメールソフトRoundcubeを悪用した学術機関へのスパイ活動、AIコーディング支援ツールの「幻覚」を突く新攻撃「HalluSquatting」、決済アプリの偽SDKによる認証情報窃取、米当局CISAがAIエージェント構築ツールLangflowに出した緊急パッチ指令、パスキー登録をだまし取る新型ビッシング、そしてGitHub Copilotがチャットでは拒否した危険な指示をコード編集では実行してしまう研究結果まで、今日のセキュリティニュース8本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・通信大手KDDIで1200万人分の情報流出——原因は委託先ISPのメール基盤
+・家庭用Wi-Fiルーターや監視カメラのUbiquiti製品に最悪ランクの脆弱性
+・大学のメールソフト「Roundcube」の脆弱性を悪用、中国系ハッカーが研究者を狙う
+・AIコーディング支援ツールの「口からでまかせ」を悪用する新手口「HalluSquatting」
+・決済アプリの偽SDKがnpm・PyPIに、開発者から認証情報を盗む
+・AIエージェント構築ツール「Langflow」に悪用中の脆弱性、米当局が緊急パッチ指令
+・「情報システム部です」の電話でパスキー登録をだまし取る新手口
+・AIコーディング支援「GitHub Copilot」、チャットでは拒否した危険な指示をコードでは書いてしまう
+
+▼ 参考記事・ソース
+・Bleeping Computer「Telco giant KDDI says data breach affects over 12 million people」
+  https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/
+・The Hacker News「Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS」
+  https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html
+・Bleeping Computer「Hackers exploit Roundcube flaw to spy on academic researchers」
+  https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/
+・The Hacker News「New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware」
+  https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html
+・Bleeping Computer「Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials」
+  https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/
+・Bleeping Computer「CISA orders feds to prioritize patching Langflow auth bypass flaw」
+  https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/
+・Bleeping Computer「Entra passkey enrollment vishing targets Microsoft 365 users」
+  https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/
+・The Hacker News「GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code」
+  https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html
+
+#セキュリティ #サイバーセキュリティ #ランサムウェア #情報漏洩 #ゆっくり解説 #ずんだもん #ハッキング #脆弱性 #セキュリティニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-09-security/security_yukkuri.m4a" length="6246910" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-09</guid>
+      <pubDate>Thu, 09 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース（2026年7月8日）</title>
       <description>セキュリティニュース（2026年7月8日）
 
