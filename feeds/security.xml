@@ -26,6 +26,45 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>ShareFile緊急停止勧告・レーザーでウォレット乗っ取り セキュリティニュース【2026/07/11】</title>
+      <description>企業向けファイル共有サービス「ShareFile」がサーバー緊急停止を顧客に勧告した重大インシデント、実際に悪用が始まった開発ツール「Gitea」の認証バイパス、ルーターやカメラを支える起動プログラム「U-Boot」の新たな欠陥、レーザー光で暗号資産ウォレット「Tangem」のパスワードをリセットする物理攻撃、WhatsApp経由でAIアシスタント「OpenClaw」からパソコンを乗っ取る攻撃チェーン、悪名高いランサムウェア「Ryuk」実行犯の有罪答弁、中国系ハッカー集団「Volt Typhoon」による米水道インフラ攻撃を想定した保険業界の極秘演習、EUのメッセージ自動スキャン法案「チャットコントロール」まで、今日のセキュリティニュース8本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・ファイル共有サービス「ShareFile」に緊急停止勧告——「信頼できる脅威」を確認
+・開発者向けツール「Gitea」に実際に悪用中の重大な欠陥
+・ルーターやカメラを支える「U-Boot」に6件の新たな欠陥
+・暗号資産の「金庫カード」、レーザー光でパスワードを勝手にリセットされる
+・AIアシスタント「OpenClaw」、WhatsApp経由で乗っ取られる3つの弱点
+・悪名高いランサムウェア「Ryuk」実行犯、有罪を認め禁錮15年へ
+・「中国が米国の水道網をハッキングしたら」——保険業界の極秘図上演習
+・EU、メッセージを自動スキャンする「チャットコントロール」法案が可決へ
+
+▼ 参考記事・ソース
+・Bleeping Computer「Progress urges ShareFile customers to shut down servers over "credible" threat」
+  https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/
+・Bleeping Computer「Hackers exploit critical auth bypass in Gitea Docker image」
+  https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/
+・The Hacker News「Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot」
+  https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html
+・The Hacker News「Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched」
+  https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html
+・The Hacker News「Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws」
+  https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html
+・Bleeping Computer「Ryuk ransomware member pleads guilty in the US, faces 15 years in prison」
+  https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/
+・Wired「What Happens if China Hacks the US Water Supply? I Went to a Secret War Game to Find Out」
+  https://www.wired.com/story/what-happens-if-china-hacks-the-us-water-supply-war-game-volt-typhoon/
+・Wired「A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They're Going to Anyway」
+  https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/
+
+#セキュリティ #サイバーセキュリティ #ランサムウェア #情報漏洩 #ゆっくり解説 #ずんだもん #ハッキング #脆弱性 #セキュリティニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-11-security/security_yukkuri.m4a" length="6571857" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-11</guid>
+      <pubDate>Sat, 11 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>INTERPOL5811人逮捕・新型破壊マルウェア「GigaWiper」 セキュリティニュース【2026/07/10】</title>
       <description>INTERPOL主導の国際詐欺撲滅作戦「ファーストライト2026」で97カ国が協力し5,811人を逮捕した明るいニュース、企業のGitHub組織を密かに偵察する「休眠アカウント」悪用の手口、ディスク消去から偽ランサムウェアまで3つの破壊機能を1つにまとめた新型バックドア「GigaWiper」、セキュリティソフトを無力化する不正カーネルドライバー「PoisonX」を使うランサムウェア「GodDamn」、Windows Defender自体の権限昇格の欠陥「RoguePlanet」、暗号資産ウォレットの合言葉を盗む偽SDKのnpm混入、パッケージインストール時の自動実行を標準オフにしたnpm12、そしてAIが誘い文句を自動生成する新型フィッシング基盤「Forg365」まで、今日のセキュリティニュース8本をずんだもんと四国めたんが解説します。
 
