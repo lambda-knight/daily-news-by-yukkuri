@@ -26,6 +26,45 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>INTERPOL5811人逮捕・新型破壊マルウェア「GigaWiper」 セキュリティニュース【2026/07/10】</title>
+      <description>INTERPOL主導の国際詐欺撲滅作戦「ファーストライト2026」で97カ国が協力し5,811人を逮捕した明るいニュース、企業のGitHub組織を密かに偵察する「休眠アカウント」悪用の手口、ディスク消去から偽ランサムウェアまで3つの破壊機能を1つにまとめた新型バックドア「GigaWiper」、セキュリティソフトを無力化する不正カーネルドライバー「PoisonX」を使うランサムウェア「GodDamn」、Windows Defender自体の権限昇格の欠陥「RoguePlanet」、暗号資産ウォレットの合言葉を盗む偽SDKのnpm混入、パッケージインストール時の自動実行を標準オフにしたnpm12、そしてAIが誘い文句を自動生成する新型フィッシング基盤「Forg365」まで、今日のセキュリティニュース8本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・詐欺グループ摘発、97カ国が協力——INTERPOL主導「ファーストライト2026」で5811人逮捕
+・「休眠アカウント」が攻撃の下見役に——企業のGitHub組織を密かに偵察する手口が拡大
+・パソコンを丸ごと破壊する「3in1」の新型バックドア「GigaWiper」
+・ランサムウェア「GodDamn」がセキュリティソフトを無力化する裏ワザ「PoisonX」
+・Windows Defenderのウイルス検査エンジン自体に管理者権限を奪われる欠陥「RoguePlanet」
+・暗号資産の「命の次に大事な合言葉」を盗む偽SDKがnpmに混入
+・「入れただけでウイルス実行」を防ぐ——npmがインストールスクリプトを標準で無効化
+・AIが偽メールを自動生成——Microsoft 365を狙う新型フィッシング基盤「Forg365」
+
+▼ 参考記事・ソース
+・Bleeping Computer「Police arrests 5,800 suspects in global anti-fraud crackdown」
+  https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/
+・The Hacker News「Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs」
+  https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html
+・The Hacker News「New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware」
+  https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html
+・The Hacker News「GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses」
+  https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html
+・The Hacker News「Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges」
+  https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html
+・Bleeping Computer「Injective SDK on npm infected with cryptocurrency wallet stealer」
+  https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/
+・The Hacker News「npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk」
+  https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html
+・Bleeping Computer「New Forg365 phishing platform uses AI to target Microsoft 365 accounts」
+  https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/
+
+#セキュリティ #サイバーセキュリティ #ランサムウェア #情報漏洩 #ゆっくり解説 #ずんだもん #ハッキング #脆弱性 #セキュリティニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-10-security/security_yukkuri.m4a" length="5914047" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-10</guid>
+      <pubDate>Fri, 10 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>KDDI1200万人流出・Ubiquiti最悪脆弱性・AI悪用の新手口 セキュリティニュース【2026/07/09】</title>
       <description>通信大手KDDIで委託先ISPのメール基盤が侵害され最大1200万件の情報が流出した事件、ネットワーク機器大手Ubiquitiの主力製品に見つかった深刻度最悪ランクの脆弱性、中国系ハッカーが大学のメールソフトRoundcubeを悪用した学術機関へのスパイ活動、AIコーディング支援ツールの「幻覚」を突く新攻撃「HalluSquatting」、決済アプリの偽SDKによる認証情報窃取、米当局CISAがAIエージェント構築ツールLangflowに出した緊急パッチ指令、パスキー登録をだまし取る新型ビッシング、そしてGitHub Copilotがチャットでは拒否した危険な指示をコード編集では実行してしまう研究結果まで、今日のセキュリティニュース8本をずんだもんと四国めたんが解説します。
 
