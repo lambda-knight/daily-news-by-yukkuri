@@ -26,6 +26,39 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Apple、OpenAIを提訴 ほか今週のAI業界まとめ 2026/07/11</title>
+      <description>AppleがOpenAIを企業秘密の窃取で提訴した衝撃のニュースから、Hugging Face CEOが語るオープンソースAIの躍進、SKハイニックスの米国史上最大の外国企業IPO、OpenAIとMicrosoftの提携継続アピール、LLMのボトルネック突破を主張する新興Subquadratic、中国の世界初侵襲型脳・コンピュータチップ、国連ジュネーブでのAIガバナンス初会合、そして量子コンピュータのエラー研究まで、今週の生成AI・量子コンピュータの動きをずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・AppleがOpenAIを企業秘密の窃取で提訴、元従業員の関与を主張
+・Hugging Face CEOが語る「オープンソースAI」の重要性の高まり
+・SKハイニックスが265億ドル調達、米国史上最大の外国企業IPO
+・OpenAIのGPT-5.6がMicrosoft Copilotの「優先モデル」に、破局報道を打ち消す
+・新興Subquadraticが LLMのボトルネック突破を主張、独立検証で信憑性強まる
+・中国が世界初の侵襲型脳・コンピュータインターフェース用チップを承認
+・国連がジュネーブでAIガバナンス初会合、ディープフェイクによる選挙介入に警鐘
+・シドニー大学とIBMが量子コンピュータのエラーの主要因を特定
+
+▼ 参考記事・ソース
+・TechCrunch「Apple sues OpenAI over alleged trade secret theft」 https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/
+・TechCrunch「Open source AI matters more than ever, according to Hugging Face's Clem Delangue」 https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/
+・TechCrunch「Hugging Face's CEO on why companies are done renting their AI」 https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/
+・TechCrunch「SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs」 https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/
+・TechCrunch「OpenAI says GPT 5.6 is the 'preferred model' for Microsoft Copilot 365 amid breakup chatter」 https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/
+・MIT Technology Review「A startup claims it broke through a bottleneck that's holding back LLMs」 https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/
+・MIT Technology Review「China has approved the world's first invasive brain-computer chip—here's what's next」 https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/
+・UN News「From AI to 'killer robots': UN chief issues urgent governance call」 https://news.un.org/en/story/2026/07/1167873
+・UNESCO「Global Dialogue on AI Governance, Geneva, 6–7 July」 https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
+・The Quantum Insider「University of Sydney and IBM Identify Major Source of Quantum Computing Errors」 https://thequantuminsider.com/2026/07/06/university-of-sydney-and-ibm-identify-major-source-of-quantum-computing-errors/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Apple #量子コンピュータ #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-11-ai/ai_yukkuri.m4a" length="6429199" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-11</guid>
+      <pubDate>Sat, 11 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】OpenAI「GPT-5.6」発表&amp;No.2幹部退任 ほか今週のAI業界まとめ 2026/07/10</title>
       <description>OpenAIのナンバー2幹部Fidji Simo氏の退任と新モデルファミリー「GPT-5.6」発表、AIブラウザ「Atlas」終了から、AnthropicのClaude思考可視化研究「ヤコビアンレンズ」、NYTとの著作権訴訟でのログ隠蔽疑惑、豚を使った遠隔操作ロボット手術、AIエージェント企業Lyzrの資金調達、量子コンピュータのCMOS量産実証まで、今週の生成AI・量子コンピュータの動きをずんだもんと四国めたんが解説します。
 
