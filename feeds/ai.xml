@@ -26,6 +26,36 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Meta、Instagram新AI機能を公開直後に撤回 ほか今週のAI業界まとめ 2026/07/12</title>
+      <description>Metaの物議を醸したAI画像機能の撤回から、Google量子プロセッサの自己較正技術、OpenAI・Anthropic・Mistralの最新動向まで、今日の生成AI・量子コンピュータニュースをずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Meta、Instagram新AI画像機能「Muse Image」を公開直後に撤回
+・Google、量子プロセッサ「Willow」が計算しながら自己較正する新手法を発表
+・OpenAI、家族・高齢者向け専任プロダクトマネージャーを募集
+・Anthropic、1000人規模のAI人材育成プログラム「Claude Corps」に230億円を投資
+・Mistral、数式やコードの「証明」ができるオープンソースAI「Leanstral 1.5」公開
+・Google、アフリカ発AIスタートアップ支援拠点をガーナに開設
+
+▼ 参考記事・ソース
+・TechCrunch「Meta removes controversial AI feature on Instagram after backlash」 https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/
+・Variety「Meta Suspends Instagram AI Image Feature After Days of Backlash」 https://variety.com/2026/biz/news/meta-suspends-ai-image-instagram-feature-backlash-1236806989/
+・The Quantum Insider「Google Study Shows Quantum Computer Can Learn From Its Own Errors While It Computes」 https://thequantuminsider.com/2026/07/10/google-study-shows-quantum-computer-can-learn-from-its-own-errors-while-it-computes/
+・Ars Technica「Quantum error correction can constantly recalibrate a processor」 https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/
+・TechCrunch「OpenAI bets on families as ChatGPT goes deeper into households」 https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/
+・Anthropic「Introducing Claude Corps」 https://www.anthropic.com/news/claude-corps
+・Forbes「Anthropic Invests $150 Million To Launch 1,000 Claude Corps Fellowships」 https://www.forbes.com/sites/michaeltnietzel/2026/06/18/anthropic-invests-150-million-to-launch-1000-claude-corps-fellowships/
+・The Decoder「Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code」 https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/
+・Business Tech Africa「Google Debuts Applied AI Lab In Africa, Backs It With New Infrastructure Investments」 https://techbuild.africa/google-applied-ai-lab-in-africa-investments/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-12-ai/ai_yukkuri.m4a" length="4885202" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-12</guid>
+      <pubDate>Sun, 12 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Apple、OpenAIを提訴 ほか今週のAI業界まとめ 2026/07/11</title>
       <description>AppleがOpenAIを企業秘密の窃取で提訴した衝撃のニュースから、Hugging Face CEOが語るオープンソースAIの躍進、SKハイニックスの米国史上最大の外国企業IPO、OpenAIとMicrosoftの提携継続アピール、LLMのボトルネック突破を主張する新興Subquadratic、中国の世界初侵襲型脳・コンピュータチップ、国連ジュネーブでのAIガバナンス初会合、そして量子コンピュータのエラー研究まで、今週の生成AI・量子コンピュータの動きをずんだもんと四国めたんが解説します。
 
