@@ -26,6 +26,47 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Fortinetファイアウォール8万台認証情報流出・画像に隠れたAI攻撃指令「Ghostcommit」 セキュリティニュース【2026/07/12】</title>
+      <description>企業向けファイアウォール「FortiGate」など86,644台の認証情報が194カ国で流出した「FortiBleed」、220万台の家庭用テレビボックスを操っていたボットネットをFBIが摘発した事件、人気ライブラリ「jscrambler」がnpmで乗っ取られインストールだけでウイルス感染する事件、PNG画像にAIへの指令を隠してAIコーディングエージェントを操る新手法「Ghostcommit」、MetaのAIサポートボットを騙してホワイトハウスなど要人のInstagramが乗っ取られた事件、ロンドン交通網を止めたハッカー集団「Scattered Spider」の裁判初日での有罪答弁、ペガサススパイウェアを調査していたEU議員自身が感染していた事件、服役中に押収済み暗号資産29万ドル分を盗んだ疑いで起訴された事件まで、今日のセキュリティニュース8本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Fortinet製ファイアウォールの認証情報が大量流出「FortiBleed」
+・FBIが220万台の家庭用テレビボックスを操るボットネットの司令塔を摘発
+・人気ツール「jscrambler」がnpmで乗っ取られ、インストールしただけでウイルス感染
+・画像に隠したAIへの指令で秘密情報を盗ませる新手口「Ghostcommit」
+・MetaのAIサポートを騙してパスワードリセット、要人アカウントが乗っ取り被害に
+・ロンドン交通網を止めたハッカー集団「Scattered Spider」、裁判初日で罪を認める
+・スパイウェア「ペガサス」を調査していたEU議員、自分のスマホが感染していたと判明
+・服役中の男が、押収済みの暗号資産29万ドル分を盗んだ疑いで新たに起訴
+
+▼ 参考記事・ソース
+・JPCERT/CC「Fortinet製品に関連する認証情報の漏えいに関する注意喚起」
+  https://www.jpcert.or.jp/at/2026/at260019.html
+・Krebs on Security「FBI Seizes NetNut Proxy Platform, Popa Botnet」
+  https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/
+・Krebs on Security「'Popa' Botnet Linked to Publicly-Traded Israeli Firm」
+  https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/
+・The Hacker News「Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install」
+  https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html
+・Bleeping Computer「'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets」
+  https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/
+・Krebs on Security「Hackers Used Meta's AI Support Bot to Seize Instagram Accounts」
+  https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/
+・Krebs on Security「Scattered Spider Hackers Plead Guilty on Day 1 of Trial」
+  https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/
+・Wired「EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones」
+  https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/
+・Bleeping Computer「Money launderer accused of stealing seized crypto while in prison」
+  https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/
+
+#セキュリティ #サイバー攻撃 #情報セキュリティ #ゆっくり解説 #ずんだもん #ランサムウェア #脆弱性</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-12-security/security_yukkuri.m4a" length="6822815" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-12</guid>
+      <pubDate>Sun, 12 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ShareFile緊急停止勧告・レーザーでウォレット乗っ取り セキュリティニュース【2026/07/11】</title>
       <description>企業向けファイル共有サービス「ShareFile」がサーバー緊急停止を顧客に勧告した重大インシデント、実際に悪用が始まった開発ツール「Gitea」の認証バイパス、ルーターやカメラを支える起動プログラム「U-Boot」の新たな欠陥、レーザー光で暗号資産ウォレット「Tangem」のパスワードをリセットする物理攻撃、WhatsApp経由でAIアシスタント「OpenClaw」からパソコンを乗っ取る攻撃チェーン、悪名高いランサムウェア「Ryuk」実行犯の有罪答弁、中国系ハッカー集団「Volt Typhoon」による米水道インフラ攻撃を想定した保険業界の極秘演習、EUのメッセージ自動スキャン法案「チャットコントロール」まで、今日のセキュリティニュース8本をずんだもんと四国めたんが解説します。
 
