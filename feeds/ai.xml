@@ -26,6 +26,26 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AIニュース：AI規制が「事前協議」へ、雇用と量子計算の現在地（2026年7月14日）</title>
+      <description>生成AIニュース：AI規制が「事前協議」へ、雇用と量子計算の現在地（2026年7月14日）
+
+米国の最先端AI規制、公開前の政府協議が新たな前提に
+
+ OpenAIとAnthropicの最新・高性能モデルは、広く公開される前に米政府との協議を経たと報じられました。従来の一律な認可制度ではなく、個別の協議が強まる局面です。
+ ただし、モデルの安全性をどの基準で評価し、どの程度の脆弱性なら公開を止めるのかという共通ルールは、まだ固まっていません。
+ 6月の大統領令に基づく任意の枠組みは8月1日が期限です。企業にとっては、性能競争だけでなく、説明責任と政府との対話が製品公開の要件になりつつあります。
+
+AI企業の安全誓約、性能向上の一方で後退との評価
+
+ Future of Life InstituteのAI Safety Indexは、主要AI企業が以前掲げた「危険な能力に近づいたら開発を止める」約束を弱めたり、廃止したりしたと評価しました。
+ 同指標ではAnthropicが首位でも総合評価はCプラス、OpenAIとGoogle DeepMindはCでした。xAI、DeepSeek、Mis</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-14-ai/ai_yukkuri.m4a" length="4089168" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-14</guid>
+      <pubDate>Tue, 14 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【AIニュース週末版】Apple対OpenAI訴訟、AI半導体265億ドル調達、量子誤り訂正 2026/07/13</title>
       <description>AppleによるOpenAI提訴、Hugging Faceが語るオープンソースAI、SKハイニックスの大型IPO、AnthropicのClaude内部分析、量子誤り訂正、AIの利益分配構想まで。生成AIと量子コンピュータを巡る週末の動きを、ずんだもんと四国めたんが解説します。
 
