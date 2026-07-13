@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【AIニュース週末版】Apple対OpenAI訴訟、AI半導体265億ドル調達、量子誤り訂正 2026/07/13</title>
+      <description>AppleによるOpenAI提訴、Hugging Faceが語るオープンソースAI、SKハイニックスの大型IPO、AnthropicのClaude内部分析、量子誤り訂正、AIの利益分配構想まで。生成AIと量子コンピュータを巡る週末の動きを、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Apple、OpenAIを企業秘密窃取の疑いで提訴
+・Hugging Face CEO、企業のオープンソースAI活用を語る
+・SKハイニックス、AI半導体ブームで265億ドルを調達
+・Anthropic、Claudeが概念を扱う内部空間を分析
+・量子誤り訂正でプロセッサを継続的に再較正する研究
+・OpenAIの利益還元構想と、米財務省のAIリスク警告
+
+▼ 参考記事・ソース
+・TechCrunch「Apple sues OpenAI over alleged trade secret theft」 https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/
+・TechCrunch「Hugging Face’s CEO on why companies are done renting their AI」 https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/
+・TechCrunch「SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs」 https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/
+・MIT Technology Review「Anthropic found a hidden space where Claude puzzles over concepts」 https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/
+・Ars Technica「Quantum error correction can constantly recalibrate a processor」 https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/
+・MIT Technology Review「The Download: your stake in OpenAI, and the Treasury’s AI warning」 https://www.technologyreview.com/2026/07/07/1140197/the-download-your-stake-in-openai-and-the-treasurys-ai-warning/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-13-ai/ai_yukkuri.m4a" length="3229669" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-13</guid>
+      <pubDate>Mon, 13 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Meta、Instagram新AI機能を公開直後に撤回 ほか今週のAI業界まとめ 2026/07/12</title>
       <description>Metaの物議を醸したAI画像機能の撤回から、Google量子プロセッサの自己較正技術、OpenAI・Anthropic・Mistralの最新動向まで、今日の生成AI・量子コンピュータニュースをずんだもんと四国めたんが解説します。
 
