@@ -26,6 +26,42 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Androidの新マルウェア・Zimbraメール欠陥・CMS世界攻撃を解説【セキュリティニュース 2026/07/13】</title>
+      <description>Androidマルウェア「RedHook」によるワイヤレスADB悪用、脆弱なCMSとプラグインを狙う世界規模の攻撃、Zimbraのメール画面で不正コード実行につながる重大な欠陥、暗号資産SDKのGitHub侵害、オランダ通信大手Odidoの情報流出、パキスタン警察ポータルを足場にした諜報活動、ゼロデイ買い取り企業をめぐる報道まで、7月13日のセキュリティニュースをずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Androidマルウェア「RedHook」、ワイヤレスADBを悪用して端末を操作
+・脆弱なCMSとプラグインを狙う世界規模の攻撃を豪州当局が警告
+・Zimbraのメール画面に重大な欠陥、細工したメールで不正コード実行のおそれ
+・暗号資産SDKのGitHub侵害、秘密鍵を盗むnpmパッケージを配布
+・オランダ通信大手Odidoの情報流出、警察が国内ハッカー関与を捜査
+・警察ポータルを足場にした諜報活動、複数勢力がパキスタンを標的に
+・ゼロデイ買い取りを掲げる新興企業、運営者の経歴をKrebsが報道
+
+▼ 参考記事・ソース
+・BleepingComputer「RedHook Android malware now uses Wireless ADB for shell access」
+  https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/
+・BleepingComputer「Australia warns of global campaign targeting vulnerable CMS platforms」
+  https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/
+・The Hacker News「Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions」
+  https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html
+・The Hacker News「Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages」
+  https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html
+・BleepingComputer「Police suspects Dutch hackers were involved in Odido breach」
+  https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/
+・The Hacker News「Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns」
+  https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html
+・Krebs on Security「Felons, Fraudsters Flog Offensive Cybersecurity Startup」
+  https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/
+
+#セキュリティ #サイバー攻撃 #情報セキュリティ #Android #脆弱性 #ゼロデイ #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-13-security/security_yukkuri.m4a" length="4290383" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-13</guid>
+      <pubDate>Mon, 13 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fortinetファイアウォール8万台認証情報流出・画像に隠れたAI攻撃指令「Ghostcommit」 セキュリティニュース【2026/07/12】</title>
       <description>企業向けファイアウォール「FortiGate」など86,644台の認証情報が194カ国で流出した「FortiBleed」、220万台の家庭用テレビボックスを操っていたボットネットをFBIが摘発した事件、人気ライブラリ「jscrambler」がnpmで乗っ取られインストールだけでウイルス感染する事件、PNG画像にAIへの指令を隠してAIコーディングエージェントを操る新手法「Ghostcommit」、MetaのAIサポートボットを騙してホワイトハウスなど要人のInstagramが乗っ取られた事件、ロンドン交通網を止めたハッカー集団「Scattered Spider」の裁判初日での有罪答弁、ペガサススパイウェアを調査していたEU議員自身が感染していた事件、服役中に押収済み暗号資産29万ドル分を盗んだ疑いで起訴された事件まで、今日のセキュリティニュース8本をずんだもんと四国めたんが解説します。
 
