@@ -26,8 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>GPT-5.6とフィジカルAI、量子技術は「使える仕組み」へ【生成AIニュース 2026/07/15】</title>
+      <description>2026年7月15日の生成AIニュースです。
+OpenAIのGPT-5.6、AnthropicのフィジカルAI展開、AIエージェントの信頼基盤、量子技術の統合と基礎研究を解説します。
+
+▼ 今日のトピック
+・OpenAI、GPT-5.6をChatGPT・API・Codexへ展開
+・AnthropicとUST、製造・物流を視野にフィジカルAIを共同展開
+・ITU、AIエージェントの身元と信頼を議論する専門部会を設置
+・NSF、量子計算・通信・センシングを統合するProject Triad
+・ヘリウム3と連続変数量子計算を結ぶ基礎研究
+
+▼ 参考記事・ソース
+・OpenAI「GPT-5.6: Frontier intelligence that scales with your ambition」
+  https://openai.com/index/gpt-5-6/
+・Anthropic「UST is bringing Claude to physical AI」
+  https://www.anthropic.com/news/ust-claude
+・ITU「Focus group on agentic AI」
+  https://www.itu.int/en/mediacentre/Pages/PR-2026-07-09-focus-group-agentic-AI.aspx
+・NSF「NSF launches Project Triad to advance quantum technology for real-world applications」
+  https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real
+・PRX Quantum
+  https://journals.aps.org/prxquantum
+
+#生成AI #AIエージェント #GPT56 #量子コンピュータ #AIニュース #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-15-ai/ai_yukkuri.m4a" length="2761824" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-15</guid>
+      <pubDate>Wed, 15 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIニュース：AI規制が「事前協議」へ、雇用と量子計算の現在地（2026年7月14日）</title>
       <description>生成AIニュース：AI規制が「事前協議」へ、雇用と量子計算の現在地（2026年7月14日）
+
+キーワード: AI規制 / AI安全性 / AI雇用 / 量子コンピュータ / OpenAI / Anthropic
 
 米国の最先端AI規制、公開前の政府協議が新たな前提に
 
@@ -38,7 +71,7 @@
 AI企業の安全誓約、性能向上の一方で後退との評価
 
  Future of Life InstituteのAI Safety Indexは、主要AI企業が以前掲げた「危険な能力に近づいたら開発を止める」約束を弱めたり、廃止したりしたと評価しました。
- 同指標ではAnthropicが首位でも総合評価はCプラス、OpenAIとGoogle DeepMindはCでした。xAI、DeepSeek、Mis</description>
+ 同指標ではAnthropi</description>
       <enclosure url="https://archive.org/download/news-pickup-2026-07-14-ai/ai_yukkuri.m4a" length="4089168" type="audio/mp4"/>
       <guid isPermaLink="false">ai-2026-07-14</guid>
       <pubDate>Tue, 14 Jul 2026 07:00:00 +0900</pubDate>
