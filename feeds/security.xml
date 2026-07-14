@@ -26,6 +26,26 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース（2026年7月14日）</title>
+      <description>セキュリティニュース（2026年7月14日）
+
+日本交通がサイバー攻撃で一部システムを停止
+
+ 国内最大手のタクシー会社、日本交通はサイバー攻撃を受け、一部の社内システムを停止したと公表した。影響範囲と、個人情報が流出したかどうかは調査が続いている。
+ 交通事業者では、配車、決済、乗務員管理、問い合わせ対応など、多くの業務がシステムにつながっている。攻撃を受けた直後に止める判断は、被害の横展開を防ぐための重要な初動だ。
+ 利用者は、日本交通を名乗るメールやSMSで支払い・再設定を求められても、通知内のリンクを開かず、公式アプリや公式サイトから確認したい。組織側には、復旧を急ぐだけでなく、影響の説明を継続して出すことが求められる。
+
+CISAのGitHub公開リポジトリに内部認証情報
+
+ 米国のサイバー防衛機関CISAは、委託先が公開GitHubリポジトリに内部認証情報を掲載していた事案について、検証結果を公表した。AWS GovCloudの鍵を含む複数の認証情報が、発見されるまで約6カ月間公開状態だったという。
+ GitHubに置いた設定ファイル、テスト用コード、バックアップには、クラ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-14-security/security_yukkuri.m4a" length="3651459" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-14</guid>
+      <pubDate>Tue, 14 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Androidの新マルウェア・Zimbraメール欠陥・CMS世界攻撃を解説【セキュリティニュース 2026/07/13】</title>
       <description>Androidマルウェア「RedHook」によるワイヤレスADB悪用、脆弱なCMSとプラグインを狙う世界規模の攻撃、Zimbraのメール画面で不正コード実行につながる重大な欠陥、暗号資産SDKのGitHub侵害、オランダ通信大手Odidoの情報流出、パキスタン警察ポータルを足場にした諜報活動、ゼロデイ買い取り企業をめぐる報道まで、7月13日のセキュリティニュースをずんだもんと四国めたんが解説します。
 
