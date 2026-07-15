@@ -26,6 +26,35 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>学習データ・中国展開・光量子計算を読む【生成AIニュース 2026/07/16】</title>
+      <description>2026年7月16日の生成AIニュースです。
+用途別の公開モデル、AI音楽の学習データ、中国でのApple Intelligence、Codex向け機器、光量子コンピュータ計画を解説します。
+
+▼ 今日のトピック
+・Thinking Machines、公開モデルInkling
+・SunoとYouTube音源の学習データ疑惑
+・Apple Intelligence、中国でQwenと提供承認
+・OpenAI、Codex向け小型キーボード
+・PsiQuantum、光を使う大規模量子計算計画
+
+▼ 参考記事・ソース
+・TechCrunch「Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling」
+  https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/
+・TechCrunch「Hack suggests AI music generator Suno scraped YouTube for training data」
+  https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/
+・TechCrunch「Apple Intelligence approved for launch in China with Alibaba’s Qwen AI」
+  https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/
+・MIT Technology Review「PsiQuantum has a plan to make a massive quantum computer out of light」
+  https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/
+
+#生成AI #AI倫理 #学習データ #AppleIntelligence #量子コンピュータ #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-16-ai/ai_yukkuri.m4a" length="1676544" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>GPT-5.6とフィジカルAI、量子技術は「使える仕組み」へ【生成AIニュース 2026/07/15】</title>
       <description>2026年7月15日の生成AIニュースです。
 OpenAIのGPT-5.6、AnthropicのフィジカルAI展開、AIエージェントの信頼基盤、量子技術の統合と基礎研究を解説します。
