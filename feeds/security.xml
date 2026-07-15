@@ -26,8 +26,32 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>ShareFileゼロデイとSAP更新、悪性Edge拡張機能まで【セキュリティニュース 2026/07/15】</title>
+      <description>更新を急ぐShareFileのゼロデイ、SAPの月例更新、公開機器とブラウザー拡張機能の見直しを解説します。
+
+▼ 今日のトピック
+・ShareFileの緊急停止と修正
+・SAPの7月更新
+・ロシア系とされる侵入手口
+・感染端末を使うプロキシ網
+・悪性Edge拡張機能
+
+▼ 参考記事・ソース
+・BleepingComputer https://www.bleepingcomputer.com/news/security/
+・NCSC警告 https://www.itpro.com/security/ncsc-issues-warning-over-russian-intelligence-backed-threat-group
+
+#セキュリティ #サイバー攻撃 #脆弱性 #ゼロデイ #情報セキュリティ #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-15-security/security_yukkuri.m4a" length="1978088" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-15</guid>
+      <pubDate>Wed, 15 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース（2026年7月14日）</title>
       <description>セキュリティニュース（2026年7月14日）
+
+キーワード: サイバー攻撃 / 認証情報漏えい / CISA / Joomla / 脆弱性悪用 / サプライチェーン
 
 日本交通がサイバー攻撃で一部システムを停止
 
@@ -37,8 +61,7 @@
 
 CISAのGitHub公開リポジトリに内部認証情報
 
- 米国のサイバー防衛機関CISAは、委託先が公開GitHubリポジトリに内部認証情報を掲載していた事案について、検証結果を公表した。AWS GovCloudの鍵を含む複数の認証情報が、発見されるまで約6カ月間公開状態だったという。
- GitHubに置いた設定ファイル、テスト用コード、バックアップには、クラ</description>
+ 米国のサイバー防衛機関CISAは、委託先が公開GitHubリポジトリに内部認証情報を掲載していた事案について、検証結果を公表した。AWS GovCloudの鍵を含む複数の認証情報が、発</description>
       <enclosure url="https://archive.org/download/news-pickup-2026-07-14-security/security_yukkuri.m4a" length="3651459" type="audio/mp4"/>
       <guid isPermaLink="false">security-2026-07-14</guid>
       <pubDate>Tue, 14 Jul 2026 07:00:00 +0900</pubDate>
