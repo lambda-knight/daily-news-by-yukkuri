@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Microsoft 570件更新、悪用中SharePointとSonicWallを確認【セキュリティニュース 2026/07/16】</title>
+      <description>2026年7月16日のセキュリティニュースです。
+Microsoftの月例更新、悪用中のSharePointとSonicWall、npmパッケージ侵害、Zoomの脆弱性を、利用者と管理者の対策まで含めて解説します。更新、資産把握、公開範囲、認証情報の再発行をどう優先するかも整理します。
+
+▼ 今日のトピック
+・Microsoft、570件の脆弱性を修正
+・悪用中のSharePoint Server脆弱性
+・SonicWall SMA1000のゼロデイ悪用
+・AsyncAPIのnpmパッケージ侵害
+・Zoomのアカウント乗っ取り脆弱性
+
+▼ 参考記事・ソース
+・Krebs on Security「Microsoft Patches a Record 570 Security Flaws」
+  https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/
+・JPCERT/CC「2026年7月マイクロソフトセキュリティ更新プログラムに関する注意喚起」
+  https://www.jpcert.or.jp/at/2026/at260020.html
+・BleepingComputer「CISA warns admins to patch actively exploited SharePoint flaws」
+  https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/
+・BleepingComputer「SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now」
+  https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/
+・BleepingComputer「AsyncAPI npm packages infected with credential-stealing malware」
+  https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/
+
+#セキュリティ #脆弱性 #SharePoint #SonicWall #サプライチェーン #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-16-security/security_yukkuri.m4a" length="2245799" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ShareFileゼロデイとSAP更新、悪性Edge拡張機能まで【セキュリティニュース 2026/07/15】</title>
       <description>更新を急ぐShareFileのゼロデイ、SAPの月例更新、公開機器とブラウザー拡張機能の見直しを解説します。
 
