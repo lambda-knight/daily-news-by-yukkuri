@@ -26,6 +26,30 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AIが本人・アプリ・注文を動かす時代、表現の自由と量子実証【生成AIニュース 2026/07/17】</title>
+      <description>Google Vidsの個人アバター、AI Modeのアプリ連携、DoorDashのAIエージェント注文、政治表現を巡るLLM評価、ESAの量子コンピュータ実証を解説します。
+
+▼ 今日のトピック
+・Google Vidsの個人アバター
+・Google AI Modeのアプリ連携
+・DoorDashのdd-cli
+・AIと政治表現の評価
+・ESAのBell-1量子コンピュータ
+
+▼ 参考記事・ソース
+・Google Vids https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/
+・AI Mode https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/
+・Oversight Board https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/
+・ESA Φ-lab https://philab.esa.int/esas-first-quantum-computer-will-shift-computing-frontiers-in-space/
+
+#生成AI #AIエージェント #表現の自由 #量子コンピュータ #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-17-ai/ai_yukkuri.m4a" length="1749752" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-17</guid>
+      <pubDate>Fri, 17 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>学習データ・中国展開・光量子計算を読む【生成AIニュース 2026/07/16】</title>
       <description>2026年7月16日の生成AIニュースです。
 用途別の公開モデル、AI音楽の学習データ、中国でのApple Intelligence、Codex向け機器、光量子コンピュータ計画を解説します。
