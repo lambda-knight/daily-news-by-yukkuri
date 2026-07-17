@@ -26,6 +26,18 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Oracle脆弱性、AI操作、ボットネットを確認【セキュリティニュース 2026/07/18】</title>
+      <description>悪用中脆弱性、AIエージェント、家庭機器ボットネットを解説します。
+https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/
+
+#セキュリティ #脆弱性 #AIエージェント #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-18-security/security_yukkuri.m4a" length="1851850" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-18</guid>
+      <pubDate>Sat, 18 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生産停止ランサムウェア、ClickFix、AIエージェント注入を防ぐ【セキュリティニュース 2026/07/17】</title>
       <description>Fairlifeのランサムウェア被害、n8nの認証欠陥、ClickFixを使うTELEPUZ、macOSを狙うClickLock、AIエージェントへのデータ注入を解説します。
 
