@@ -26,6 +26,15 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>intl_jpニュース【2026/07/20】</title>
+      <description>当日の論点を解説します。</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-20-intl-jp/intl_jp_yukkuri.m4a" length="1674657" type="audio/mp4"/>
+      <guid isPermaLink="false">intl_jp-2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>intl_jpニュース【2026/07/19】</title>
       <description>当日の論点を解説します。</description>
       <enclosure url="https://archive.org/download/news-pickup-2026-07-19-intl-jp/intl_jp_yukkuri.m4a" length="1672023" type="audio/mp4"/>
