@@ -26,20 +26,23 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
-      <title>AIエージェントの権限と量子国家計画を読む【2026/07/20】</title>
-      <description>AIエージェントに任せる範囲、米国の量子技術投資、会議記録の同意を整理します。
+      <title>量子計算はいつ使える？米国の2大計画とAI権限設計【2026/07/20】</title>
+      <description>AIエージェントに任せる操作の境界と、米国が進める量子技術の二つの国家計画を、実用化の判断材料から読み解きます。
 
 ▼ 今日のトピック
-・AIエージェントの閲覧・実行・送信権限
-・米エネルギー省のQuantum Genesis
-・NSFのProject Triad
-・AI利用と録画・要約の同意
+・AIエージェントの閲覧、変更、送信の権限分離
+・Quantum Genesisが掲げる2028年と低百台の論理量子ビット
+・Project Triadの量子センシング、ネットワーク、計算の統合
+・計画、実証、実運用を区別して量子ニュースを読む方法
+・会議記録とAI要約に必要な同意、保存、削除の設計
 
 ▼ 参考ソース
-・U.S. Department of Energy https://www.energy.gov/science/articles/energy-department-announces-initiative-create-and-deploy-worlds-first
-・U.S. National Science Foundation https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real
+・U.S. Department of Energy, Quantum Genesis
+https://www.energy.gov/science/articles/energy-department-announces-initiative-create-and-deploy-worlds-first
+・U.S. National Science Foundation, Project Triad
+https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-real
 
-#生成AI #量子コンピュータ #AIエージェント #AIニュース</description>
+#生成AI #量子コンピュータ #AIエージェント #量子計算 #AIニュース #ゆっくり解説</description>
       <enclosure url="https://archive.org/download/news-pickup-2026-07-20-ai/ai_yukkuri.m4a" length="1182546" type="audio/mp4"/>
       <guid isPermaLink="false">ai-2026-07-20</guid>
       <pubDate>Mon, 20 Jul 2026 07:00:00 +0900</pubDate>
@@ -47,8 +50,21 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>aiニュース【2026/07/19】</title>
-      <description>当日の主要論点を解説します。</description>
+      <title>Kimi K3が映すオープンウェイト競争【生成AIニュース 2026/07/19】</title>
+      <description>Moonshot AIのKimi K3を手がかりに、オープンウェイトモデルの意味、ベンチマークの読み方、蒸留を巡る議論、AI規制と企業導入の判断材料を整理します。
+
+▼ 今日のトピック
+・Kimi K3と中国AIモデルの競争
+・オープンウェイトと独立評価の読み方
+・蒸留論争と調達・契約への影響
+・安全保障、規制、段階的な利用設計
+・企業で確認したい権限、ログ、根拠表示
+
+▼ 参考記事・ソース
+・TechCrunch「Kimi: Threat or menace?」
+  https://techcrunch.com/2026/07/18/kimi-threat-or-menace/
+
+#生成AI #Kimi #オープンウェイト #AI政策 #AIニュース #ずんだもん</description>
       <enclosure url="https://archive.org/download/news-pickup-2026-07-19-ai/ai_yukkuri.m4a" length="1660365" type="audio/mp4"/>
       <guid isPermaLink="false">ai-2026-07-19</guid>
       <pubDate>Sun, 19 Jul 2026 07:00:00 +0900</pubDate>
@@ -56,12 +72,15 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>AIエージェント、創作者保護、量子実用化【生成AIニュース 2026/07/18】</title>
-      <description>高額AIエージェント、スクレイピング遮断、端末部材、量子計算を解説します。
-https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/
+      <title>高額AIエージェントと創作者保護【生成AIニュース 2026/07/18】</title>
+      <description>Vertuの6,880ドルAIエージェントを手がかりに、業務AIの権限・承認・監査を解説します。PatreonのAIスクレイピング遮断からは、robots.txtの限界、同意、検索との両立を考えます。
 
-#生成AI #AIエージェント #量子コンピュータ #ずんだもん</description>
-      <enclosure url="https://archive.org/download/news-pickup-2026-07-18-ai/ai_yukkuri.m4a" length="1851850" type="audio/mp4"/>
+出典
+https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/
+https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/
+
+#生成AI #AIエージェント #Patreon #AIスクレイピング #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-18-ai/ai_yukkuri.m4a" length="6363189" type="audio/mp4"/>
       <guid isPermaLink="false">ai-2026-07-18</guid>
       <pubDate>Sat, 18 Jul 2026 07:00:00 +0900</pubDate>
       <itunes:author>daily-news-by-yukkuri</itunes:author>
