@@ -26,8 +26,8 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
-      <title>securityニュース【2026/07/19】</title>
-      <description>当日の主要論点を解説します。</description>
+      <title>GitHubの秘密情報漏えい、発見から復旧まで</title>
+      <description>CISAに関係するGitHub上の認証情報漏えいを手がかりに、公開検知、通報窓口、鍵の無効化、影響確認をどう運用へ落とすかを解説します。</description>
       <enclosure url="https://archive.org/download/news-pickup-2026-07-19-security/security_yukkuri.m4a" length="1660365" type="audio/mp4"/>
       <guid isPermaLink="false">security-2026-07-19</guid>
       <pubDate>Sun, 19 Jul 2026 07:00:00 +0900</pubDate>
@@ -35,12 +35,12 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Oracle脆弱性、AI操作、ボットネットを確認【セキュリティニュース 2026/07/18】</title>
-      <description>悪用中脆弱性、AIエージェント、家庭機器ボットネットを解説します。
+      <title>認証なしで乗っ取り得るOracle EBS脆弱性、優先順位を解説【セキュリティニュース 2026/07/18】</title>
+      <description>悪用が確認されたOracle E-Business SuiteのCVE-2026-46817を取り上げます。対象確認、外部公開の絞り込み、緊急更新、適用後の侵害調査まで、業務を止める判断材料として整理します。
 https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/
 
-#セキュリティ #脆弱性 #AIエージェント #ずんだもん</description>
-      <enclosure url="https://archive.org/download/news-pickup-2026-07-18-security/security_yukkuri.m4a" length="1851850" type="audio/mp4"/>
+#セキュリティ #OracleEBS #脆弱性 #パッチ管理 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-18-security/security_yukkuri.m4a" length="5641138" type="audio/mp4"/>
       <guid isPermaLink="false">security-2026-07-18</guid>
       <pubDate>Sat, 18 Jul 2026 07:00:00 +0900</pubDate>
       <itunes:author>daily-news-by-yukkuri</itunes:author>
