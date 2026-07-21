@@ -26,6 +26,28 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AIチップ、MCP、採用AIを運用から読む【生成AIニュース 2026/07/21】</title>
+      <description>ジェミニ向けAIチップ、モデル・コンテキスト・プロトコル、採用AIの偏り、ユーチューブのAI低品質動画対策、日本のAIファクトリー構想を、性能だけでなく権限・説明・現場導入の視点から解説します。
+
+▼ 今日のトピック
+・ジェミニを効率化するAIチップ
+・MCPのステートレス化
+・採用AIの偏りと異議申立て
+・ユーチューブの収益化方針
+・日本のAIファクトリー
+
+▼ 参考記事・ソース
+・TechCrunch AI https://techcrunch.com/
+・MIT Technology Review https://www.technologyreview.com/
+
+#生成AI #ジェミニ #MCP #採用AI #AIファクトリー #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-21-ai/ai_yukkuri.m4a" length="5349479" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子計算はいつ使える？米国の2大計画とAI権限設計【2026/07/20】</title>
       <description>AIエージェントに任せる操作の境界と、米国が進める量子技術の二つの国家計画を、実用化の判断材料から読み解きます。
 
