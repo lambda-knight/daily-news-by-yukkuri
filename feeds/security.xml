@@ -26,6 +26,28 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>570件更新、AIエージェント、VPN認証情報を守る【セキュリティ 2026/07/21】</title>
+      <description>マイクロソフトの570件修正、CISAのGitHub認証情報漏えい、7-ZipのXZ書庫脆弱性、AI開発ツールのサンドボックス回避、FortiGate認証情報漏えいを解説。更新、資産台帳、最小権限、ログ確認へ落とし込みます。
+
+▼ 今日のトピック
+・マイクロソフトの570件修正
+・公開GitHubに置かれた認証情報
+・7-ZipのCVE-2026-14266
+・AIエージェントとサンドボックス
+・フォーティブリードへの注意
+
+▼ 参考記事・ソース
+・Krebs on Security / The Hacker News
+・BleepingComputer / JPCERT/CC
+
+#セキュリティ #脆弱性 #パッチ #AIエージェント #FortiGate #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-21-security/security_yukkuri.m4a" length="5320152" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>公開GitHubの認証情報、なぜ消すだけでは危険？【2026/07/20】</title>
       <description>公開リポジトリに秘密情報が出たとき、なぜ削除だけで終われないのか。CISAのGitHub公開事故をもとに、鍵の無効化、通報窓口、継続監視、ログ調査の優先順位を整理します。
 
