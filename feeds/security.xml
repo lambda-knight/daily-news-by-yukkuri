@@ -26,6 +26,17 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>悪用中のSharePointとAIエージェント、今日の防御優先順位【2026/07/22】</title>
+      <description>SharePointの悪用中脆弱性、PAN-OSの認証回避、AIエージェントへの見えない命令、570件の更新、Popaボットネットを、確認順序で解説します。
+
+#セキュリティ #サイバーセキュリティ #脆弱性 #インシデント対応 #ゆっくり解説</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-22-security/security_yukkuri.m4a" length="6944219" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>570件更新、AIエージェント、VPN認証情報を守る【セキュリティ 2026/07/21】</title>
       <description>マイクロソフトの570件修正、CISAのGitHub認証情報漏えい、7-ZipのXZ書庫脆弱性、AI開発ツールのサンドボックス回避、FortiGate認証情報漏えいを解説。更新、資産台帳、最小権限、ログ確認へ落とし込みます。
 
