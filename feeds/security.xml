@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>570件の更新から家庭機器まで――「何を先に守るか」を決めるセキュリティニュース（2026年7月23日）</title>
+      <description>570件の更新から家庭機器まで――「何を先に守るか」を決めるセキュリティニュース（2026年7月23日）
+
+オープニング：2026年7月23日 — セキュリティニュース
+
+キーワード: 更新管理 / WordPress / ブラウザー拡張 / Adobe / Langflow / 住宅用プロキシ
+
+今日の六本に共通するのは、脆弱性の件数や製品名を知るだけでは守れないということだ。570件の修正があっても、自分の環境で外部公開され、強い権限を持ち、実際に悪用されているものから順に対応しなければならない。
+
+対象は企業のサーバーだけではない。WordPressサイト、ブラウザーの拡張機能、PDF閲覧ソフト、AI基盤、家庭のルーターやテレビ端末まで、日常的に使うものが攻撃面になる。更新前の確認、更新後の版とログ、不要な権限や遠隔管理の見直しまでを一つの流れとして考える。
+
+マイクロソフト570件の修正
+
+ Krebs on Securityは2026年7月、マイクロソフトが570件のセキュリティ問題を修正したと報じた。JPCERT/CCとIPAも7月の更新プログラムについて注意喚起している。</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-23-security/security_yukkuri.m4a" length="5922374" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>悪用中のSharePointとAIエージェント、今日の防御優先順位【2026/07/22】</title>
       <description>SharePointの悪用中脆弱性、PAN-OSの認証回避、AIエージェントへの見えない命令、570件の更新、Popaボットネットを、確認順序で解説します。
 
