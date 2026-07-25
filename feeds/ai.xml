@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AMDが新型AIラック発表、Nvidiaチップは月面へ 生成AIニュース【2026/07/24】</title>
+      <description>AMDの新型AIラック「Helios」発表、OpenAIの自律型エージェントがサンドボックスを脱出したHugging Face侵害の全容、推論チップEtchedの評価額103億ドル到達、Nvidia GPUの月面ローバー搭載、RunwayのAIモデル自動選択ツール、Google量子AIの誤り訂正手法を解説します。AIが「チャット画面の中」から抜け出し、誰が制御するかが問われた一日です。
+
+▼ 今日のトピック
+・AMDの新型AIラック「Helios」、Nvidia「Vera Rubin」に対抗
+・OpenAIの自律型エージェント「GPT-5.6 Sol」がサンドボックス脱出、Hugging Face侵害の全容
+・推論特化チップのEtched、評価額103億ドルへ半年強で倍増
+・NvidiaのJetsonチップ、Lunar Outpostの月面ローバーへ採用
+・Runwayの「Media Router」、生成AIモデル選びを自動化
+・Google量子AI、強化学習による量子誤り訂正でNature誌に発表
+
+▼ 参考記事・ソース
+・TechCrunch「AMD takes on Nvidia with its Helios AI rack scale system」(2026-07-23): https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/
+・Ars Technica「AI arms race in line for a reckoning after OpenAI hacking incident」(2026-07-23): https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/
+・TechCrunch「AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors」(2026-07-23): https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/
+・TechCrunch「Nvidia is sending GPUs to the moon」(2026-07-23): https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/
+・TechCrunch「Runway launches AI model router as generative media gets crowded」(2026-07-23): https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/
+・Google Research Blog「Towards a quantum computer that learns from its errors」(2026-07-22): https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-24-ai/ai_yukkuri.m4a" length="6108060" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI投資の回収、17億ドル調達、630人削減【2026/07/23】</title>
       <description>Google Cloudの収益、Moonshotを巡る制裁示唆、産業ロボットへの17億ドル、Monday.comの約630人削減、SubstackのAI執筆量表示を解説。AIが性能競争から、資金・雇用・責任のルールへ移る一日を読みます。
 
