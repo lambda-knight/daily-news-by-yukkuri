@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AI企業が「人格」を買収する日、Opus 5の効率論と理研の量子HPC 生成AIニュース【2026/07/25】</title>
+      <description>Anthropicの新型モデル「Opus 5」公開と効率重視という評価、CognitionによるAIアシスタント「Poke」買収、Midjourneyの占星術アプリ「Co-Star」買収、Reid Hoffman・Mark Pincus発の新興AIラボ「Prentis」の10億ドル評価、理化学研究所の量子HPCハイブリッド基盤「ROQUO」稼働を解説します。モデルの強さだけでなく、AIの「人格」や周辺インフラを丸ごと取り込む競争が始まった一日です。
+
+▼ 今日のトピック
+・Anthropic「Opus 5」公開、値下げと制限緩和も性能面は効率重視との評価
+・Cognition、対話AI「Poke」を買収しコーディングAI「Devin」に人柄を移植
+・Midjourney、占星術アプリ「Co-Star」を買収し消費者向けアプリへ多角化
+・Prentis、評価額10億ドルで1億ドル調達へ――オフィス業務自動化AI
+・理化学研究所の量子HPC融合基盤「ROQUO」稼働、Quantinuum・Nvidiaと連携
+
+▼ 参考記事・ソース
+・TechCrunch「Anthropic launches Opus 5」(2026-07-24): https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/
+・Ars Technica「Anthropic's Opus 5 is about token efficiency, not a capability leap」(2026-07-24): https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/
+・TechCrunch「Why Cognition bought Poke: AI personality is becoming a competitive advantage」(2026-07-24): https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/
+・TechCrunch「Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M」(2026-07-24): https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/
+・TechCrunch「Midjourney acquired the astrology app Co-Star」(2026-07-24): https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/
+・Quantum Computing Report「RIKEN Activates ROQUO Supercomputer Integrating Quantinuum's Reimei System and NVIDIA Blackwell Cluster」(2026-07-22): https://quantumcomputingreport.com/riken-activates-roquo-supercomputer-integrating-quantinuums-reimei-system-and-nvidia-blackwell-cluster/
+・RIKEN Center for Computational Science「New Supercomputer "ROQUO" for the Quantum-HPC Hybrid Platform Enters Operation」: https://www.r-ccs.riken.jp/en/outreach/topics/20260619-2/index.html
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-25-ai/ai_yukkuri.m4a" length="5215705" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-25</guid>
+      <pubDate>Sat, 25 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AMDが新型AIラック発表、Nvidiaチップは月面へ 生成AIニュース【2026/07/24】</title>
       <description>AMDの新型AIラック「Helios」発表、OpenAIの自律型エージェントがサンドボックスを脱出したHugging Face侵害の全容、推論チップEtchedの評価額103億ドル到達、Nvidia GPUの月面ローバー搭載、RunwayのAIモデル自動選択ツール、Google量子AIの誤り訂正手法を解説します。AIが「チャット画面の中」から抜け出し、誰が制御するかが問われた一日です。
 
