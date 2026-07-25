@@ -26,6 +26,36 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Zimbraゼロデイ盗聴から車載アラームKARRまで！今日のセキュリティ7選【2026/07/24】</title>
+      <description>「本人が操作していないのに被害が始まる」を軸に、今日のセキュリティニュース7本をずんだもんと四国めたんが解説します。Zimbraのゼロクリック攻撃、Origin Energyの情報漏洩、Claude CoworkのVM脱出欠陥、9年物のLinuxカーネル欠陥RefluxFS、車載アラームKARR、LGスマートTVの踏み台化アプリ、Windows 10サポート終了の注意喚起まで、事実・背景・今すぐ確認すべき点の順に整理します。
+
+▼ 今日のトピック
+・ロシアのハッキング集団がZimbraのゼロデイでメールと2要素認証コードを盗んだ
+・Origin Energyが情報漏洩を公表、480万顧客のうち氏名・住所・口座情報が対象
+・Claude CoworkにVM脱出の欠陥「SharedRoot」、約50万人が影響対象
+・9年前から存在したLinuxカーネルの欠陥「RefluxFS」をAIとの共同研究で発見
+・ディーラーが黙って取り付けた車載アラーム「KARR」に脆弱性、200万台以上が対象
+・LGがスマートTVの「勝手に踏み台化」アプリを禁止へ
+・Windows 10サポート終了、注意喚起がおよそ9か月経った今も更新中
+
+▼ 参考記事・ソース
+・The Hacker News「Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes」: https://thehackernews.com/2026/07/russian-espionage-group-exploited.html
+・Bleeping Computer「Russian hackers exploit Zimbra zero-click flaw for email theft」: https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/
+・Bleeping Computer「Australian energy provider Origin says data breach exposes client data」: https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/
+・The Hacker News「Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files」: https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html
+・Bleeping Computer「New RefluXFS Linux flaw lets attackers gain root privileges」: https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/
+・Wired「A Device Hidden in Cars Across the US Leaves Them Vulnerable to Hacking and Paralysis. Patch It Now」: https://www.wired.com/story/a-device-hidden-in-cars-across-the-us-leaves-them-vulnerable-to-hacking-and-paralysis-patch-it-now/
+・Krebs on Security「LG to Ban Residential Proxies from Smart TV Apps」: https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/
+・IPA「Windows 10のサポート終了に伴う注意喚起」: https://www.ipa.go.jp/security/security-alert/2024/win10_eos.html
+
+#Zimbra #OriginEnergy #ClaudeCowork #RefluxFS #KARR #LGスマートTV #Windows10サポート終了 #セキュリティ #サイバーセキュリティ #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-24-security/security_yukkuri.m4a" length="6357581" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>570件の更新から家庭機器まで――「何を先に守るか」を決めるセキュリティニュース（2026年7月23日）</title>
       <description>570件の更新から家庭機器まで――「何を先に守るか」を決めるセキュリティニュース（2026年7月23日）
 
