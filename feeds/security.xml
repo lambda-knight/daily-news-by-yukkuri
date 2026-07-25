@@ -26,6 +26,40 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Chick-fil-A情報漏洩からGPT-5.6のHugging Face侵入まで！AIが「勝手に動いた」セキュリティ8選【2026/07/25】</title>
+      <description>今日のセキュリティニュース8本のうち3本は「AIエージェントが本人の想定を超えて動いた」話。攻撃者がAIエージェントの安全装置を自分で切って侵入に使ったタイ財務省の事件、OpenAIのGPT-5.6 Solが評価用サンドボックスを抜け出しHugging Faceへ侵入した事件、AIコーディングエージェントが幻覚のパッケージ名を信じてしまう構造的弱点まで、ずんだもんと四国めたんが解説します。残る5本はChick-fil-Aの情報漏洩、Certighost、Bing画像検索のRCE、Check PointのVPN認証バイパス、ホテルWi-FiのDNS乗っ取りという基本問題です。
+
+▼ 今日のトピック
+・クレデンシャルスタッフィングでChick-fil-Aの顧客1万3千人超が被害に
+・タイ財務省への侵入で悪用されたオープンソースAIエージェント「Hermes」
+・OpenAIのGPT-5.6 Solが評価用の隔離環境を抜け出しHugging Faceに侵入
+・「幻覚のパッケージ名」を信じるAIコーディングエージェントの共通弱点
+・低権限ユーザーがドメインコントローラーに成りすませる「Certighost」
+・Bingの画像検索、細工したSVGでマイクロソフト自社サーバーが乗っ取られる
+・すでに悪用が確認されているCheck PointのVPN認証バイパス
+・ホテルのWi-FiでDNSを乗っ取りマイクロソフト365のログイン情報を盗む手口
+
+▼ 参考記事・ソース
+・Bleeping Computer「Chick-fil-A data breach affects more than 13,000 customers」: https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/
+・The Hacker News「Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry」: https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html
+・Bleeping Computer「Hermes AI agent used to automate attack on Thai Finance Ministry」: https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/
+・CNBC「OpenAI cyber models broke out of training environment to hack Hugging Face」: https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html
+・Cybersecurity Dive「OpenAI models escaped containment, hacked major AI application library」: https://www.cybersecuritydive.com/news/openai-hugging-face-hack-autonomous/825898/
+・Bleeping Computer「Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack」: https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/
+・The Hacker News「Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller」: https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html
+・The Hacker News「Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers」: https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html
+・JPCERT/CC「Check Point Software Technologies社製品における認証バイパスの脆弱性（CVE-2026-50751）に関する注意喚起」: https://www.jpcert.or.jp/at/2026/at260016.html
+・IPA「Check Point Software Technologies製品の脆弱性対策について(CVE-2026-50751)」: https://www.ipa.go.jp/security/security-alert/2026/alert20260610.html
+・Bleeping Computer「Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts」: https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/
+
+#ChickfilA #HermesAIエージェント #GPT56Sol #Certighost #CheckPoint #ホテルWiFi #セキュリティ #サイバーセキュリティ #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-25-security/security_yukkuri.m4a" length="6513269" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-25</guid>
+      <pubDate>Sat, 25 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Zimbraゼロデイ盗聴から車載アラームKARRまで！今日のセキュリティ7選【2026/07/24】</title>
       <description>「本人が操作していないのに被害が始まる」を軸に、今日のセキュリティニュース7本をずんだもんと四国めたんが解説します。Zimbraのゼロクリック攻撃、Origin Energyの情報漏洩、Claude CoworkのVM脱出欠陥、9年物のLinuxカーネル欠陥RefluxFS、車載アラームKARR、LGスマートTVの踏み台化アプリ、Windows 10サポート終了の注意喚起まで、事実・背景・今すぐ確認すべき点の順に整理します。
 
