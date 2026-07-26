@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>arxiv生成AI論文解説 by ずんだもん</title>
+    <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
+    <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/arxiv_ai.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <copyright>© 2026 daily-news-by-yukkuri</copyright>
+    <description>arXivに投稿された生成AI最新論文を、ずんだもんと四国めたんが毎日わかりやすく解説します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
+    <itunes:author>daily-news-by-yukkuri</itunes:author>
+    <itunes:summary>arXivに投稿された生成AI最新論文を、ずんだもんと四国めたんが毎日わかりやすく解説します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/arxiv_ai.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>daily-news-by-yukkuri</itunes:name>
+      <itunes:email>tokomakoma123@gmail.com</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://lambda-knight.github.io/daily-news-by-yukkuri/art/arxiv_ai.png</url>
+      <title>arxiv生成AI論文解説 by ずんだもん</title>
+      <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
+    </image>
+    <item>
+      <title>モデルを守り・効率化し・見張る——生成AI最新論文10本解説【2026/07/26】</title>
+      <description>今日は、LLMを実運用で動かし続けるための工学的な工夫と、動かし続けた結果現れる制御しにくい振る舞いという2つの軸を追う回。欧州発のオープンウェイト推論モデル、長文脈を安く読ませるアテンション設計、LLMエージェントの記憶保持、知識蒸留への対抗策、検索拡張生成(RAG)へのグラフ理論的防御から、確信を持って人を欺くLLM、ニュース文脈由来の情報バイアス、フロンティアモデルの応答ドリフト、物語パターンの継承まで、生成AI論文10本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Domyn-Small——欧州発オープンウェイト100億パラメータ推論言語モデル
+・THOR——脳のシータ・ガンマ振動に着想を得た多段階質問応答の推論フレームワーク
+・アンカーを外す——Pulsar Attentionによる分散LLM推論の文脈要約
+・CAMeR——LLMエージェントのためのキーワードゲート型ハイブリッド記憶保持
+・Answer-then-Edit——蒸留を防ぐ推論骨格編集手法SGRE
+・TopoGuard——グラフ理論でRAGへの分割知識攻撃を防ぐ
+・自信満々に欺く——LLMの欺瞞リスクを増幅する確信度
+・LLMの世界モデルにおける信念伝播——予測市場で測る戦略的情報バイアス
+・フロンティア大規模言語モデル群に見られる応答ドリフト
+・モデルの中の語り部——物語パターンの継承・エスカレーション動態・アラインメントガバナンス
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.20448 — Domyn-Small: A European 10B Reasoning Language Model
+https://arxiv.org/abs/2607.20459 — THOR: A Theta-Gamma Hierarchical Oscillatory Reasoning Framework for Multi-hop QA
+https://arxiv.org/abs/2607.20457 — Dropping the Anchor: Statistical Context Summarization for Distributed Systems via Pulsar Attention
+https://arxiv.org/abs/2607.20458 — CAMeR: Keyword-Gated Hybrid Activation for Adaptive Memory Retention in LLM Agents
+https://arxiv.org/abs/2607.20440 — Answer-then-Edit: Reasoning Skeleton Editing for Anti-Distillation with Preserved Utility
+https://arxiv.org/abs/2607.20437 — TopoGuard: Graph Theory Based Defenses Against Split-Knowledge Attacks on RAG
+https://arxiv.org/abs/2607.20444 — Confidently Deceptive: How Confidence Amplifies the Risk of LLM Deception
+https://arxiv.org/abs/2607.20441 — Belief Propagation in LLM World Models: Measuring Strategic Information Bias with Prediction Markets
+https://arxiv.org/abs/2607.20454 — Response drift across frontier large language models
+https://arxiv.org/abs/2607.20449 — The Storyteller in the Model: Narrative Pattern Inheritance, Escalation Dynamics, and Alignment Governance in LLMs
+
+#推論言語モデル #長文脈アテンション #LLMエージェント記憶 #知識蒸留対策 #RAGセキュリティ #LLMの欺瞞 #応答ドリフト #arxiv #論文解説 #生成AI #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-26-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9761159" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>MoEはハフマン符号だった？生成AI最新論文10本解説【2026/07/25】</title>
+      <description>今日は、モデルの内部構造を情報理論やスペクトル分解の言葉で読み解く回。混合専門家モデル(MoE)のルーティングをハフマン符号として捉える研究、選好チューニングの更新をスペクトルの頭部・尾部に分解する研究から、分野を越えて壊れない知識編集、モデルマージを生き延びる電子透かし、評価と実運用のずれを監査する手法、材料科学文献を読むエージェントまで、生成AI論文10本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・混合専門家モデルにおける専門家対応コントラスト復号による幻覚緩和(EAACD)
+・MoEのルーティングはハフマン符号なのか——思考連鎖に潜む頻度と多様性の法則
+・多いほど良いわけではない——LLMの意見多様性を決める要因
+・スキル契約型エージェントによる材料科学文献のエビデンス重視分析(AlphaAgent)
+・自然言語は形式言語を完全には代替すべきではない
+・モデル自身に語らせる、分野横断に頑健な知識編集手法Moir
+・圧縮のボトルネックを破る——低ランク分解と量子化の非直交性(DAM)
+・オープンソースLLMの電子透かしをモデルマージに耐えさせる
+・ルーティング部分空間——微調整済みモデルの評価と実運用の乖離を監査する
+・選好チューニングをスペクトル更新の再編として捉える
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.20426 — 混合専門家モデルにおける専門家対応コントラスト復号による幻覚緩和
+https://arxiv.org/abs/2607.20427 — MoEのルーティングはハフマン符号なのか
+https://arxiv.org/abs/2607.20429 — 多いほど良いわけではない：LLMの意見多様性を決める要因
+https://arxiv.org/abs/2607.20431 — スキル契約型エージェントによる材料科学文献のエビデンス重視分析
+https://arxiv.org/abs/2607.20432 — 自然言語は形式言語を完全には代替すべきではない
+https://arxiv.org/abs/2607.20433 — Moir：モデル自身に語らせる分野横断知識編集
+https://arxiv.org/abs/2607.20434 — 圧縮のボトルネックを破る：低ランク分解と量子化の非直交性
+https://arxiv.org/abs/2607.20435 — オープンソースLLM電子透かしをモデルマージに耐えさせる
+https://arxiv.org/abs/2607.20436 — ルーティング部分空間：評価と実運用の乖離を監査する
+https://arxiv.org/abs/2607.20438 — 選好チューニングをスペクトル更新の再編として捉える
+
+#MoE #ハフマン符号 #知識編集 #電子透かし #選好チューニング #モデル圧縮 #AIエージェント #arxiv #論文解説 #生成AI #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-25-arxiv-ai/arxiv_ai_yukkuri.m4a" length="10508418" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-25</guid>
+      <pubDate>Sat, 25 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>会話のリスクは積み重なる？生成AI最新論文10本解説【2026/07/24】</title>
+      <description>今日は性能そのものより、モデルの振る舞いをいつ・どこまで信じるかという制御と計測に焦点が寄った1日。会話全体でリスクが積み上がるガードレール、脆弱な文脈での譲歩、推論過程の監査から、計算量理論の壁、知識注入のスケーリング則、少ステップ拡散、金融の多エージェント委員会まで、生成AI論文10本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・対話全体でリスクを積算する多段階ガードレール(CRA)
+・推論モードがLLMの一手を狭める多様性崩壊
+・構造的般化の計算量的な限界(NC1とTC0)
+・ハイパーネットワークによる知識注入のスケーリング則
+・タスク遂行力と指示追従は別物と示す小型モデル評価
+・脆弱な文脈でLLMが譲歩してしまう構造的失敗様式(適応的な譲歩)
+・参照なしで推論過程を監査するハイパーグラフ評価
+・少ステップ生成のためのマルチマスク拡散言語モデル
+・代理方策で潜在推論をスケールするSLPO
+・粒度別委員会でコストを抑える金融センチメント分析エージェント(TriAgent)
+
+▼ 参考記事・ソース
+・Stateful Guardrails for Multi-Turn LLM Systems: A Conversational Risk Accumulation Framework: https://arxiv.org/abs/2607.19361
+・When Reasoning Narrows the Move: Diversity Collapse in LLM Game Play: https://arxiv.org/abs/2607.19523
+・On the Computational Complexity of Structural Generalization: https://arxiv.org/abs/2607.19573
+・Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models: https://arxiv.org/abs/2607.19604
+・Task Competence Is Not Instruction Following: Evaluating Instruction-Conflicting Behavior in Small Language Models: https://arxiv.org/abs/2607.19608
+・Adaptive Capitulation: A Structural Failure Mode of LLM Responses in Vulnerability Contexts: https://arxiv.org/abs/2607.19629
+・Reference-Free Evaluation of Reasoning in Open-Ended Question Answering: https://arxiv.org/abs/2607.19678
+・Multi-Mask Diffusion Language Models for Few-Step Generation: https://arxiv.org/abs/2607.19686
+・SLPO: Scaling Latent Reasoning via a Surrogate Policy: https://arxiv.org/abs/2607.19691
+・TriAgent: Divergence-Aware Multi-Agent Committees for Cost-Efficient Financial Sentiment Analysis: https://arxiv.org/abs/2607.19794
+
+#LLMガードレール #強化学習 #拡散モデル #ハイパーネットワーク #計算量理論 #金融AI #マルチエージェント #arxiv #論文解説 #生成AI #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-24-arxiv-ai/arxiv_ai_yukkuri.m4a" length="10998095" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arXiv生成AI論文10選｜評価、生成、検索【2026/07/23】</title>
+      <description>EEG、文書分類、多言語評価、病理生成、知識グラフ探索を扱う新着論文10本を、要旨の範囲で整理します。
+
+#arXiv #生成AI #LLM #論文解説</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-23-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9713302" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arXiv生成AI論文10選｜エージェント、RAG、効率化【2026/07/22】</title>
+      <description>MoE、RAG、LLMエージェント、投機的復号、科学生成を扱うarXiv新着10本を、要旨の範囲で整理します。
+
+#arXiv #生成AI #LLM #AIエージェント #論文解説</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-22-arxiv-ai/arxiv_ai_yukkuri.m4a" length="4180478" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>医療LLM、エージェントRL、仮説発見｜arXiv生成AI論文8選 2026/07/21</title>
+      <description>医療データを文章化するLLM、KVキャッシュ圧縮、疫学レポート生成、エージェント用スキル、強化学習、拡散言語モデル、短い推論、仮説発見を扱うarXiv新着論文8本を解説します。要旨に書かれた手法・結果・限界を区別します。
+
+▼ 論文テーマ
+・医療マルチモーダルLLM
+・長文LLMのKVキャッシュ圧縮
+・エージェントのスキルと強化学習
+・拡散型言語モデル
+・科学的仮説発見
+
+#arXiv #生成AI #LLM #AIエージェント #強化学習 #論文解説</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-21-arxiv-ai/arxiv_ai_yukkuri.m4a" length="3349149" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AIの答えは矛盾する？自己整合性・ロボット・安全【arXiv 2026/07/18】</title>
+      <description>言語モデルの統計的自己整合性、長い履歴を使うロボット、科学図表の編集、事前学習データ汚染、検索エージェント協調を、最新arXiv論文5本から解説します。
+
+▼ 今日の論文
+・部分集団と全体回答の自己整合性
+・八千時点のロボット文脈
+・論文改訂から学ぶ科学図表編集
+・公開討論欄と学習データの安全
+・検索エージェントの失敗反復防止
+
+▼ 参考論文
+・https://arxiv.org/abs/2607.15277
+・https://arxiv.org/abs/2607.15275
+・https://arxiv.org/abs/2607.15272
+・https://arxiv.org/abs/2607.15267
+・https://arxiv.org/abs/2607.15257
+
+#生成AI #LLM #ロボットAI #AI安全 #arXiv #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-18-arxiv-ai/arxiv_ai_yukkuri.m4a" length="2003909" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-18</guid>
+      <pubDate>Sat, 18 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>医療LLM・クラウド障害・KVキャッシュ最新論文5本【arXiv AI 2026/07/17】</title>
+      <description>クラウド障害対応、精神医療LLMの安全性、ペルソナベクトル、KVキャッシュ、強化学習を扱うarXiv論文5本を解説します。
+
+▼ 論文URL
+https://arxiv.org/abs/2607.13035
+https://arxiv.org/abs/2607.13036
+https://arxiv.org/abs/2607.13162
+https://arxiv.org/abs/2607.13205
+https://arxiv.org/abs/2607.13394
+
+#arxiv #LLM #生成AI #AI安全性 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-17-arxiv-ai/arxiv_ai_yukkuri.m4a" length="1733177" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-17</guid>
+      <pubDate>Fri, 17 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>未来を見ないAIは作れる？医療・点字・RAGの最新論文5本【2026/07/16】</title>
+      <description>生成AIの信頼性を、時点固定学習、専門領域、アクセシビリティ、医療から読み解きます。
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.11889 — 未来情報を混ぜない言語モデル
+https://arxiv.org/abs/2607.11891 — 専門領域QA評価
+https://arxiv.org/abs/2607.11893 — 点字翻訳の課題
+https://arxiv.org/abs/2607.11933 — RAG再順位付け
+https://arxiv.org/abs/2607.12051 — 医療AIエージェント
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #機械学習</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-16-arxiv-ai/arxiv_ai_yukkuri.m4a" length="2063235" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>医療AI・量子化・日本語推論：生成AI論文10本解説【2026/07/15】</title>
+      <description>2026年7月14日公開のarXiv生成AI論文から10本を解説します。
+医療の根拠確認、軽量モデル、長文金融予測、端末内翻訳、量子化の隠れた推論劣化、日本語で考える言語モデル、検索エージェントを取り上げます。
+
+▼ 今日の論文ラインナップ
+・不規則な臨床時系列を読む医療QAベンチマーク — Frank Nie ほか（arXiv:2607.09880）
+・19億パラメータのオープン小型言語モデルIndex-1.9B — Lusheng Zhang ほか（arXiv:2607.09885）
+・推薦エージェントを一つ選ぶより候補を統合するRouteRec — Kaiji Zhou ほか（arXiv:2607.09908）
+・企業買収の成立を長文資料から予測する言語モデル — Hinal Jajal ほか（arXiv:2607.09921）
+・臨床試験要約の根拠性を利害関係者別に測る — Robert Williams（arXiv:2607.09932）
+・端末内字幕翻訳を仕事量に合わせて最適化する — Tsz-To Wong（arXiv:2607.09957）
+・量子化で正答率に出ない推論の失敗を調べる — Renuka Oladri ほか（arXiv:2607.09999）
+・大規模ウェブコーパス内の文章コピーを検出するFindMyText — Lars Henry Berge Olsen ほか（arXiv:2607.10020）
+・日本語で考える言語モデルの性能コスト — Yuu Jinnai（arXiv:2607.10114）
+・検索APIをエージェントの判断面として評価する — Sriram Selvam ほか（arXiv:2607.10198）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.09880 — 不規則な臨床時系列を読む医療QAベンチマーク
+https://arxiv.org/abs/2607.09885 — 19億パラメータのオープン小型言語モデルIndex-1.9B
+https://arxiv.org/abs/2607.09908 — 推薦エージェントを一つ選ぶより候補を統合するRouteRec
+https://arxiv.org/abs/2607.09921 — 企業買収の成立を長文資料から予測する言語モデル
+https://arxiv.org/abs/2607.09932 — 臨床試験要約の根拠性を利害関係者別に測る
+https://arxiv.org/abs/2607.09957 — 端末内字幕翻訳を仕事量に合わせて最適化する
+https://arxiv.org/abs/2607.09999 — 量子化で正答率に出ない推論の失敗を調べる
+https://arxiv.org/abs/2607.10020 — 大規模ウェブコーパス内の文章コピーを検出するFindMyText
+https://arxiv.org/abs/2607.10114 — 日本語で考える言語モデルの性能コスト
+https://arxiv.org/abs/2607.10198 — 検索APIをエージェントの判断面として評価する
+
+#生成AI #LLM #RAG #AIエージェント #量子化 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-15-arxiv-ai/arxiv_ai_yukkuri.m4a" length="4690470" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-15</guid>
+      <pubDate>Wed, 15 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が注目する生成AI論文10本【RAG安全性・長文推論 2026/07/14】</title>
+      <description>7月13日に公開された生成AI・言語モデル関連のarXiv論文を10本、背景から結果まで日本語で解説します。RAGの対象取り違え、長文推論、AIコンパニオンの安全性を扱います。
+
+▼ 今日の論文ラインナップ
+・追加計算を必要なトークンへ配分するHALO — Micah Zhang（arXiv:2607.08775）
+・アライメント急変は再現性があるのか — Abhinav Rao ほか（arXiv:2607.09053）
+・知識グラフの事実確認を行うAgentKGV — Yumin Heo ほか（arXiv:2607.09092）
+・法的先例検索をグラフで精密化するPRecG — Devanshu Verma ほか（arXiv:2607.09094）
+・投資分析をRAGで支援する言語モデル — Bartosz Ziółko ほか（arXiv:2607.09121）
+・学習済み重みの形を初期化に使えるか — Konstantin Garbers ほか（arXiv:2607.09204）
+・小型言語モデルの創造性・誠実さ・忘却 — Kwan Soo Shin ほか（arXiv:2607.09306）
+・長文の自然な証拠連鎖を測るWILDTRACE — Zixin Chen ほか（arXiv:2607.09328）
+・医療RAGの対象取り違えを検出する — Cedric Caruzzo ほか（arXiv:2607.09349）
+・長文の必要箇所だけでテスト時学習する — Xinyu Zhu ほか（arXiv:2607.09415）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.08775
+https://arxiv.org/abs/2607.09053
+https://arxiv.org/abs/2607.09092
+https://arxiv.org/abs/2607.09094
+https://arxiv.org/abs/2607.09121
+https://arxiv.org/abs/2607.09204
+https://arxiv.org/abs/2607.09306
+https://arxiv.org/abs/2607.09328
+https://arxiv.org/abs/2607.09349
+https://arxiv.org/abs/2607.09415
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #機械学習 #ディープラーニング #RAG #長文推論</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-14-arxiv-ai/arxiv_ai_yukkuri.m4a" length="4942575" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-14</guid>
+      <pubDate>Tue, 14 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が今週驚いた生成AI論文【医療RAGの根拠取り違えほか10本解説 2026/07/13】</title>
+      <description>今回はarXivに投稿された生成AI・LLM関連の最新論文10本を、ずんだもんと四国めたんが解説します。必要なトークンだけ追加で精錬するHALO、引用が本物でも別の薬の根拠を取り違える医療RAGの危険、長文の中からモデル自身が学ぶべき証拠を選ぶテスト時学習まで、性能・評価・安全性を横断して紹介します。
+
+▼ 今日の論文ラインナップ
+・必要なトークンだけ考え直す「HALO」 — Micah Zhang（arXiv:2607.08775）
+・アライメントの急変は見かけかを検証する — Abhinav Rao ら（arXiv:2607.09053）
+・知識グラフをエージェント型RAGで事実確認する — Yumin Heo ら（arXiv:2607.09092）
+・学習済み重みの形を初期化に使えるか — Konstantin Garbers ら（arXiv:2607.09204）
+・小型モデルで創造性・誠実さ・忘却を探る — Kwan Soo Shin ら（arXiv:2607.09306）
+・長文内の自然な証拠の道筋を測るWILDTRACE — Zixin Chen ら（arXiv:2607.09328）
+・対話AIの矛盾を制約充足問題として検出する — Tiziano Labruna ら（arXiv:2607.09338）
+・専門知識で非構造データから因果を見つける — Xin Li ら（arXiv:2607.09348）
+・医療RAGで「別の薬の根拠」を取り違える危険 — Cedric Caruzzo ら（arXiv:2607.09349）
+・長文の必要箇所だけでテスト時学習する — Xinyu Zhu ら（arXiv:2607.09415）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.08775 — 必要なトークンだけ考え直す「HALO」
+https://arxiv.org/abs/2607.09053 — アライメントの急変は見かけかを検証する
+https://arxiv.org/abs/2607.09092 — 知識グラフをエージェント型RAGで事実確認する
+https://arxiv.org/abs/2607.09204 — 学習済み重みの形を初期化に使えるか
+https://arxiv.org/abs/2607.09306 — 小型モデルで創造性・誠実さ・忘却を探る
+https://arxiv.org/abs/2607.09328 — 長文内の自然な証拠の道筋を測るWILDTRACE
+https://arxiv.org/abs/2607.09338 — 対話AIの矛盾を制約充足問題として検出する
+https://arxiv.org/abs/2607.09348 — 専門知識で非構造データから因果を見つける
+https://arxiv.org/abs/2607.09349 — 医療RAGで「別の薬の根拠」を取り違える危険
+https://arxiv.org/abs/2607.09415 — 長文の必要箇所だけでテスト時学習する
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-13-arxiv-ai/arxiv_ai_yukkuri.m4a" length="5655078" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-13</guid>
+      <pubDate>Mon, 13 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が今週驚いた生成AI論文【テレンス・タオも参加の数学AI研究ほか10本解説 2026/07/12】</title>
+      <description>今回はarXivに投稿された生成AI・LLM関連の最新論文10本を、ずんだもんと四国めたんが解説します。フィールズ賞受賞者テレンス・タオも著者に名を連ねる「LLMは数学の研究フロンティアに挑めるか」という提言論文、ウソをつく生成AIとウソを見抜く生成AIを戦わせて鍛える「ハルシネーション・セルフプレイ」、そして実際の物流拠点で本番稼働させたAIエージェントの高速化事例など、基礎研究から実運用まで幅広く取り上げます。
+
+▼ 今日の論文ラインナップ
+・数式証明ソルバーから研究パートナーへ――LLMは数学の未解決問題に挑めるか — Eric Jiang ら（arxiv:2607.07779）
+・LLMを賢く"痩せさせる"新しい枝刈り手法 — Ryota Kobayashi ら（arxiv:2607.08027）
+・検索エージェントが自分で自分を鍛える「DeepSearch-World」 — Xinyu Geng ら（arxiv:2607.07820）
+・同じ処理を毎回考えさせない――自己進化するツール作りAIエージェント — Kalle Kujanpää ら（arxiv:2607.08010）
+・ウソを見抜くAIと、ウソをつくAIを戦わせる「ハルシネーション・セルフプレイ」 — Shiping Yang ら（arxiv:2607.07993）
+・間違った一言を褒めすぎるAI――強化学習を正す新手法「TACO」 — Xiuyi Lou ら（arxiv:2607.07976）
+・LLMの論理は信じていいのか――グラフで推論の一貫性を測る — Riccardo Revalor ら（arxiv:2607.08017）
+・AIがAIの音声対話を採点する――Geminiは人間の代わりになれるか — A. Sayyad ら（arxiv:2607.07985）
+・偏見をなくそうとしたら、別の偏見が生まれた――デバイアスの落とし穴 — Yahan Zheng ら（arxiv:2607.07937）
+・西洋中心の価値観を脱するAI――92カ国調査から作った価値観データセット「PLURAL」 — Dhruv Agarwal ら（arxiv:2607.08034）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.07779 — 数式証明ソルバーから研究パートナーへ――LLMは数学の未解決問題に挑めるか
+https://arxiv.org/abs/2607.08027 — LLMを賢く"痩せさせる"新しい枝刈り手法
+https://arxiv.org/abs/2607.07820 — 検索エージェントが自分で自分を鍛える「DeepSearch-World」
+https://arxiv.org/abs/2607.08010 — 同じ処理を毎回考えさせない――自己進化するツール作りAIエージェント
+https://arxiv.org/abs/2607.07993 — ウソを見抜くAIと、ウソをつくAIを戦わせる「ハルシネーション・セルフプレイ」
+https://arxiv.org/abs/2607.07976 — 間違った一言を褒めすぎるAI――強化学習を正す新手法「TACO」
+https://arxiv.org/abs/2607.08017 — LLMの論理は信じていいのか――グラフで推論の一貫性を測る
+https://arxiv.org/abs/2607.07985 — AIがAIの音声対話を採点する――Geminiは人間の代わりになれるか
+https://arxiv.org/abs/2607.07937 — 偏見をなくそうとしたら、別の偏見が生まれた――デバイアスの落とし穴
+https://arxiv.org/abs/2607.08034 — 西洋中心の価値観を脱するAI――92カ国調査から作った価値観データセット「PLURAL」
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-12-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9133508" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-12</guid>
+      <pubDate>Sun, 12 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】テンセントの巨大言語モデル新スケーリング術「Hidden Decoding」ほか今週のAI論文まとめ 2026/07/11</title>
+      <description>今回はarXivに投稿された生成AI関連の最新論文10本を、ずんだもんと四国めたんが解説します。テンセントのWeChat AIチームによる1000億パラメータ超モデルの新スケーリング手法「Hidden Decoding」、応答を最大6.6倍高速化する投機的デコーディング「DominoTree」、そしてLLMが未来予測で「本当は答えを知っているのに言わない」ことを暴いた内部解析研究など、モデルの中身を覗く研究から実運用の効率化まで幅広く取り上げます。
+
+▼ 今日の論文
+・Hidden Decoding at Scale: Latent Computation Scaling for Large Language Models — Tencent WeChat AI Team — https://arxiv.org/abs/2607.08186
+・DominoTree: Conditional Tree-Structured Drafting with Domino for Speculative Decoding — National Taiwan University — https://arxiv.org/abs/2607.08642
+・It Takes a MAESTRO To Prune Bad Experts — IIT Delhi / NVIDIA — https://arxiv.org/abs/2607.08601
+・UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing — Peking University / Tsinghua University / ModelBest — https://arxiv.org/abs/2607.08646
+・Prompt Compression via Activation Aggregation — Freie Universität Berlin — https://arxiv.org/abs/2607.08399
+・Cross-seed explainability using Procrustes-conditioned Joint End-to-end Top-K Sparse Autoencoders — Eötvös Loránd University — https://arxiv.org/abs/2607.08499
+・What LLM Forecasters Know but Don't Say: Probing Internal Representations for Calibration and Faithfulness — Cornell University / Eternis AI — https://arxiv.org/abs/2607.08046
+・XALPHA: A Memory-Driven AI Quant Researcher for Hypothesis-to-Code Alpha Discovery — University of Hong Kong — https://arxiv.org/abs/2607.08332
+・When Synthetic Speech Is All You Have: Better Call GRPO — Idiap Research Institute — https://arxiv.org/abs/2607.08409
+・Two Axes of LLM Abstention: Answer Correctness and Question Answerability — City St George's, University of London — https://arxiv.org/abs/2607.08456
+
+#生成AI #arxiv #論文解説 #ゆっくり解説 #ずんだもん #四国めたん #機械学習 #LLM #AI研究</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-11-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6930285" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-11</guid>
+      <pubDate>Sat, 11 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>数学者テレンス・タオも参加?AI4Mathの未来像×偏見対策の思わぬ副作用ほか論文10本【2026/07/10】</title>
+      <description>著名な数学者テレンス・タオも著者に名を連ねる「LLMを数式ソルバーから研究エージェントへ」という提言論文、Amazonが実運用で実証した低遅延ツール作成エージェント、そして「偏見をなくそうとする対策が別の偏見を生む」という副作用を暴いた研究まで、LLMエージェント・推論の信頼性・公平性に関する最新論文10本をずんだもん＆四国めたんが解説。
+
+▼ 今日の論文ラインナップ
+・定理証明ソルバーから研究エージェントへ――テレンス・タオも参加するAI数学の未来像（arXiv:2607.07779）
+・自分でウェブを探して賢くなるエージェント――検証可能な環境で自己蒸留するDeepSearch-World（arXiv:2607.07820）
+・毎回コードを書き直すな、道具にしてしまえ――Amazonが実運用で示した低遅延エージェント（arXiv:2607.08010）
+・強化学習が「ありえない単語」を強化してしまう罠――テール認識クレジット較正TACO（arXiv:2607.07976）
+・幻覚を作る側と見抜く側が競い合って賢くなる――ハルシネーション・セルフプレイ（arXiv:2607.07993）
+・「答えが合ってる」だけでは信用できない――LLMの論理の誠実さを測るGRAPHEVAL（arXiv:2607.08017）
+・AIに人間の代わりに音声対話を採点させる――GeminiはVoice Agentの審判になれるか（arXiv:2607.07985）
+・モデルを軽くしても賢さを落とさない――日本発の構造化枝刈り手法（arXiv:2607.08027）
+・世界92か国の価値観をLLMに教える――グローバル価値観データセットPLURAL（arXiv:2607.08034）
+・偏見をなくそうとする対策が、別の偏見を生んでしまう――デバイアスの思わぬ副作用（arXiv:2607.07937）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.07779 — From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier
+https://arxiv.org/abs/2607.07820 — DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment
+https://arxiv.org/abs/2607.08010 — Tool-Making and Self-Evolving LLM Agents in Low-Latency Systems
+https://arxiv.org/abs/2607.07976 — When Implausible Tokens Get Reinforced: Tail-Aware Credit Calibration for LLM Reinforcement Learning
+https://arxiv.org/abs/2607.07993 — Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator
+https://arxiv.org/abs/2607.08017 — Can We Trust LLM's Logic? Quantifying Uncertainty, Coherence, and Robustness via a Graph-Based Framework
+https://arxiv.org/abs/2607.07985 — A Reliability Assessment of LALM Audio Judges for Full-Duplex Voice Agents
+https://arxiv.org/abs/2607.08027 — Structured Pruning of Large Language Models via Power Transformation and Sign-Preserving Score Aggregation with Adaptive Feature Retention
+https://arxiv.org/abs/2607.08034 — PLURAL: A Global Dataset for Value Alignment
+https://arxiv.org/abs/2607.07937 — When Debiasing Backfires: Counterintuitive Side Effects of Preprocessing-Based Stereotype Mitigation
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #AIエージェント #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-10-arxiv-ai/arxiv_ai_yukkuri.m4a" length="11839599" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-10</guid>
+      <pubDate>Fri, 10 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>LLMが黒人英語をこっそり添削?方言バイアス×自己改善メモリMILESほか論文10本【2026/07/09】</title>
+      <description>LLMが黒人英語（AAE）を無自覚に標準英語へ「訂正」してしまう方言バイアスをアクティベーションステアリングで抑え込んだ研究、解いた問題の経験を学習可能な形でメモリに編集していく自己改善型LLM推論フレームワーク「MILES」、そして毎日何百万件も却下される動画広告を広告主の意図を壊さずに直すTencentの「R³」まで、LLM解釈性・安全性・エージェント・生成AI応用に関する最新論文10本をずんだもん＆四国めたんが解説。
+
+▼ 今日の論文ラインナップ
+・LLMが黒人英語をこっそり「添削」していた――方言バイアスをステアリングで抑える（arXiv:2607.06845）
+・解いた問題の経験を自分で編集するLLM――自己改善型メモリMILES（arXiv:2607.06974）
+・複数の先生に習うと道具を使いすぎる――AIエージェントの「行動レバレッジ」偏り問題（arXiv:2607.07050）
+・公衆衛生Q&amp;Aに強いLLMを作る――検索拡張生成の設計指針（arXiv:2607.06641）
+・RAGの自動採点は信用できるか――実務データで検証する評価指標（arXiv:2607.07302）
+・言葉の意味は曲がった空間に住んでいる――言語モデル埋め込みのリーマン幾何学（arXiv:2607.07047）
+・「これ」「あれ」はどっちを指す?――多言語で見る視覚言語モデルの空間認識（arXiv:2607.07251）
+・人間より上手いキャッチコピーを書くAI――強化学習で鍛える広告見出し生成（arXiv:2607.06818）
+・広告の言い過ぎだけを直す――動画広告コンプライアンス修正AI「R³」（arXiv:2607.07318）
+・隠語だらけのサイバー犯罪チャットをAIはどこまで読めるか（arXiv:2607.07277）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.06845 — LLMs Silently Correct African American English: Auditing and Mitigating Dialect Bias via Activation Steering
+https://arxiv.org/abs/2607.06974 — MILES: Modular Instruction Memory with Learnable Selection for Self-Improving LLM Reasoning
+https://arxiv.org/abs/2607.07050 — Behavior Leverage Imbalance in Multi-Teacher On-Policy Distillation
+https://arxiv.org/abs/2607.06641 — Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering
+https://arxiv.org/abs/2607.07302 — Evaluating RAG Metrics in Applied Contexts: An Experiment, Its Findings and Its Limitations
+https://arxiv.org/abs/2607.07047 — Riemannian Geometry for Pre-trained Language Model Embeddings
+https://arxiv.org/abs/2607.07251 — Evaluation of Multilingual Ability to Use Spatial Deictic Expressions in Vision-Language Models
+https://arxiv.org/abs/2607.06818 — Ad Headline Generation using Self-Critical Masked Language Model
+https://arxiv.org/abs/2607.07318 — R^3: Advertisement Compliance Rectification via Group-Relative Experience Extractor and Curriculum Reinforcement
+https://arxiv.org/abs/2607.07277 — Understanding Interpretation Difficulty in Harmful Online Communication: Insights from Cybercrime Communities
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #AIエージェント #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-09-arxiv-ai/arxiv_ai_yukkuri.m4a" length="10946653" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-09</guid>
+      <pubDate>Thu, 09 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>拡散モデルの「決め時」最適化TACG×見えない思考回路暴くLLM論文10本【2026/07/08】</title>
+      <description>拡散言語モデルのトークン確定タイミングを最適化する「TACG」、フィラートークンの裏で進む隠れた計算を高精度で読み取る解読手法、そして科学研究プロセス全体を動かす「エージェント型科学OS」SCIONまで、生成AI・LLM解釈性・AIエージェントに関する最新論文10本をずんだもん＆四国めたんが解説。
+
+▼ 今日の論文ラインナップ
+・拡散言語モデルの「決め時」を賢く選ぶ新手法TACG（arXiv:2607.03236）
+・知識グラフで鍛える、LLMの微妙な違いを見抜く力――KARMA（arXiv:2607.03166）
+・LLMの「指紋」を読み取る――スペクトル解析でモデル管理を効率化（arXiv:2607.03377）
+・見えない思考回路を暴く――「・・・」の裏でLLMは計算していた（arXiv:2607.03502）
+・分かってるのにやらない?――LLMは相手の本音を読めるのに従わない（arXiv:2607.03598）
+・モデルに自分の裏の顔を語らせる――隠れた挙動を自白させるSARアダプター（arXiv:2607.03640）
+・記憶の使い方も自分で編み出す――AIエージェントの自己最適化メモリSelfMem（arXiv:2607.03726）
+・空気を読んで割り込むAI――多人数の共同作業を支えるProACT（arXiv:2607.03730）
+・科学研究を丸ごと動かす「AIのOS」――エージェント時代の科学的発見基盤SCION（arXiv:2607.03863）
+・GPT-3.5に聞くのをやめた――小さなモデルで賢く安く絞り込むRAGフィルタ（arXiv:2607.03929）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.03236 — Trajectory-Aware Commit Gating for Diffusion Language Model Decoding
+https://arxiv.org/abs/2607.03166 — KARMA: Knowledge graph-based Automated Reasoning Materialization and Alignment
+https://arxiv.org/abs/2607.03377 — Spectral Signatures of Large Language Models
+https://arxiv.org/abs/2607.03502 — Reading Between the Dots: Decoding Hidden Computation across Filler Tokens
+https://arxiv.org/abs/2607.03598 — They Infer What You Meant: Models Represent Communicative Intent More Reliably Than They Act On It
+https://arxiv.org/abs/2607.03640 — Revealing Hidden Model Behaviors with Task-Specific Self-Reports
+https://arxiv.org/abs/2607.03726 — SelfMem: Self-Optimizing Memory for AI Agents
+https://arxiv.org/abs/2607.03730 — ProACT: Towards Breakdown-Aware Proactive Agent in Multi-User Collaboration
+https://arxiv.org/abs/2607.03863 — Rethinking Scientific Discovery in an Agentic Era
+https://arxiv.org/abs/2607.03929 — Probe, Don't Prompt: A Hidden-State Probe for Metadata Filtering in Multi-Meta-RAG
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #AIエージェント #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-08-arxiv-ai/arxiv_ai_yukkuri.m4a" length="11888701" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-08</guid>
+      <pubDate>Wed, 08 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>グーグル「Gemma 4」登場！思考モード×文脈無限化HiLSほか生成AI論文10本【2026/07/07】</title>
+      <description>グーグル・ディープマインドが公開した新型オープンモデル「Gemma 4」、学習時の64倍の長さまで文脈を見通せる「階層型スパースアテンション（HiLS）」、知識グラフの欠けたリンクを拡散モデルで埋める「DMKGC」まで、生成AI・LLM・エージェント・知識グラフに関する最新論文10本をずんだもん＆四国めたんが解説。
+
+▼ 今日の論文ラインナップ
+・生成と検証、なぜ食い違う？――頻度のクセを正して鍛えるLLMの自己一貫性（arXiv:2607.02668）
+・グーグルの新型野心作――「Gemma 4」は思考モード搭載の軽量マルチモーダルAI（arXiv:2607.02770）
+・もっともらしい理屈に丸め込まれるAI審判――物語仕立ての「レトリック注入」攻撃（arXiv:2607.02802）
+・過去ログは捨てるものじゃない、鍛える教材だ――経験記憶で行動を予測するPraMem（arXiv:2607.02881）
+・知識はあるのに実践できない――認知行動療法をLLMにやらせてわかった限界（arXiv:2607.02885）
+・生徒の歩んだ道で教える――多言語RAGの言語崩れを防ぐ教師付き強化学習（arXiv:2607.02966）
+・どこまでも見通せる文脈へ――階層型スパースアテンションHiLSはチャンク選択も学習で最適化（arXiv:2607.02980）
+・返事を待たずに先読みする――会話の間も考え続けるプロアクティブ思考（arXiv:2607.03093）
+・知識グラフの穴を拡散モデルで埋める――複数ドメインを横断するDMKGC（arXiv:2607.03154）
+・フェイクニュースが暴動を呼ぶ前に――多言語マルチモーダルで危険な兆候を検知（arXiv:2607.02734）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.02668 — Improving LLMs via Validator-to-Generator Alignment
+https://arxiv.org/abs/2607.02770 — Gemma 4 Technical Report
+https://arxiv.org/abs/2607.02802 — Seduced by the Narrative: Assessing Rule Adherence in Semi-Open Textual Sandboxes
+https://arxiv.org/abs/2607.02881 — PraMem: Practice-derived Experiential Memory for Long-horizon Behavior Prediction
+https://arxiv.org/abs/2607.02885 — Where do LLMs Fall Short in CBT-Guided Affective Reasoning?
+https://arxiv.org/abs/2607.02966 — Distill Where the Student Goes: Teacher-Regularized RL for English-Evidence Cross-Lingual RAG
+https://arxiv.org/abs/2607.02980 — Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling
+https://arxiv.org/abs/2607.03093 — Don't Wait to Reply: Towards Responsive yet Thoughtful Dialogue through Proactive Thinking
+https://arxiv.org/abs/2607.03154 — Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion
+https://arxiv.org/abs/2607.02734 — Echoes of Unrest: A Multimodal NLP Framework for Early Warning of Fake News and Violence-Driven Mob Activity
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #Google #Gemma #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-07-arxiv-ai/arxiv_ai_yukkuri.m4a" length="11725320" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-07</guid>
+      <pubDate>Tue, 07 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>関数をコンパイルするLLM登場!Program-as-Weightsほか生成AI論文10本【2026/07/06】</title>
+      <description>ウォータールー大学らが提案した「あいまいな関数」を軽量ニューラルネットにコンパイルする新パラダイム「Program-as-Weights」、線形アテンションに海馬を与え記憶の忘却を防ぐ「HOLA」、90回の実験から見えたエージェント型コード生成の一発成功率を左右する要因まで、生成AI・LLM・エージェント・VLMに関する最新論文10本をずんだもん＆四国めたんが解説。
+
+▼ 今日の論文ラインナップ
+・関数を自然言語で書いてコンパイルする――Program-as-Weightsという新しいプログラミング様式（arXiv:2607.02512）
+・線形アテンションに海馬を与える――再帰状態が忘れる記憶を正確に補うHOLA（arXiv:2607.02303）
+・道具より大事なのは考える時間――エージェント型コード生成の一発成功率を左右するもの（arXiv:2607.02436）
+・意見が割れたら自分の頭で考えさせる――方策の食い違いで調整する自己蒸留DemoPSD（arXiv:2607.02502）
+・見て、振り返り、正す――視覚に根ざした自己反省を強化学習で鍛えるVRRL（arXiv:2607.02490）
+・ニューロンの反応を手がかりに――正解ラベルなしでLLMを鍛えるNeuron-OPSD（arXiv:2607.02460）
+・記憶を持たせると考え方まで変わる――パーソナライズしたLLMの推論のブレを測るDriftLens（arXiv:2607.02374）
+・AIとの協働がうまい人・下手な人――予測市場で見る人間の実力とハイブリッド知能（arXiv:2607.02467）
+・画像に紛れた文字にだまされるCLIP――学習なしで弱点回路を見つけて防ぐ（arXiv:2607.02494）
+・動くことを先に覚え、やることは後で教わる――ロボット基盤モデルの2段階事前学習TAP（arXiv:2607.02466）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.02512 — Program-as-Weights: A Programming Paradigm for Fuzzy Functions
+https://arxiv.org/abs/2607.02303 — A Hippocampus for Linear Attention: An Exact Memory for What the Recurrent State Forgets
+https://arxiv.org/abs/2607.02436 — Reasoning effort, not tool access, buys first-try reliability in agentic code generation
+https://arxiv.org/abs/2607.02502 — DemoPSD: Disagreement-Modulated Policy Self-Distillation
+https://arxiv.org/abs/2607.02490 — Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning
+https://arxiv.org/abs/2607.02460 — Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation
+https://arxiv.org/abs/2607.02374 — DriftLens: Measuring Memory-Induced Reasoning Drift in Personalized Language Models
+https://arxiv.org/abs/2607.02467 — Human Capital, Not Model Benchmarks, Predicts Hybrid Intelligence in Forecasting
+https://arxiv.org/abs/2607.02494 — Towards Robustness against Typographic Attack with Training-free Concept Localization
+https://arxiv.org/abs/2607.02466 — Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-06-arxiv-ai/arxiv_ai_yukkuri.m4a" length="10921021" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-06</guid>
+      <pubDate>Mon, 06 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Claude Sonnet 4.5が攻撃側に!分散攻撃からLLM本音漏れまで生成AI論文10本【2026/07/05】</title>
+      <description>Imperial College Londonと英国AIセキュリティ研究所がClaude Sonnet 4.5を「攻撃側」に据えて検証した、複数のプルリクエストに分散するAIコーディングエージェント攻撃「Distributed Attacks in Persistent-State AI Control」（見逃し率93%→47%）、カーネギーメロン大学らが暴いた「LLMエージェントの公開発言と本音のズレ」（3%→40%に急上昇）、MilaとマギルLLM大学によるアンラーニングの実効性検証テストベッド「LACUNA」など、生成AI・LLM・拡散モデル・エージェントに関する最新論文10本をずんだもん＆四国めたんが解説。
+
+▼ 今日の論文ラインナップ
+・エージェントは覚えている――複数のプルリクエストに攻撃を分散させるAIコーディングエージェントの危険性（arXiv:2607.02514）
+・消したはずの記憶、本当に消えているか――パラメータレベルで検証するLLMアンラーニングの新テストベッドLACUNA（arXiv:2607.02513）
+・危険信号が出たらすぐ止める――LLMのためのオンライン安全監視（arXiv:2607.02510）
+・長い文章の中から「効く証拠」を選んで読み直す――訓練不要の長文推論ハーネスReContext（arXiv:2607.02509）
+・見られていないところで本音が漏れる――マルチエージェント討論に潜む隠れた思惑（arXiv:2607.02507）
+・動かない基準点で量子化する――画像・動画拡散トランスフォーマーのためのOrbitQuant（arXiv:2607.02461）
+・拒否の壁は一本道ではない――高速に見つける多次元の拒否部分空間RFM-AGOP（arXiv:2607.02396）
+・人間のチームを管理する方法をそのままエージェントに――制約によるコーディングエージェントの統制可能性（arXiv:2607.02389）
+・賢くなればなるほど「人間らしさ」も上がるのか――LLMによる社会シミュレーションのスケーリング則（arXiv:2607.02464）
+・性格診断の結果は「聞き方」で変わる――LLMペルソナが持つ二重の性質（arXiv:2607.02368）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.02514 — Distributed Attacks in Persistent-State AI Control
+https://arxiv.org/abs/2607.02513 — LACUNA: LLMアンラーニングのパラメータレベル検証テストベッド
+https://arxiv.org/abs/2607.02510 — Online Safety Monitoring for LLMs
+https://arxiv.org/abs/2607.02509 — ReContext: 長文推論のための訓練不要エビデンス再読込ハーネス
+https://arxiv.org/abs/2607.02507 — What LLM Agents Say When No One Is Watching
+https://arxiv.org/abs/2607.02461 — OrbitQuant: 画像・動画拡散トランスフォーマーのデータ非依存量子化
+https://arxiv.org/abs/2607.02396 — Fast Multi-dimensional Refusal Subspaces via RFM-AGOP
+https://arxiv.org/abs/2607.02389 — Steerability via constraints: コーディングエージェントの統制可能性
+https://arxiv.org/abs/2607.02464 — Will Scaling Improve Social Simulation with LLMs?
+https://arxiv.org/abs/2607.02368 — The Dual Nature of LLM Persona
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-05-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9734819" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-05</guid>
+      <pubDate>Sun, 05 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>BPEトークン化の穴からIsoSciの警鐘まで生成AI論文10本【2026/07/04】</title>
+      <description>セキュリティ企業パロアルトネットワークスが暴いた「BPEトークン化がLLM安全アラインメントに開ける穴」（拒否応答の80〜100%を外せる脆弱性）、カーネギーメロン大学のツール呼び出し逸脱検知「ProvenanceGuard」（誤検知率42.9%→1.8%）、そして「LLMの推論モード向上の91.3%は知識依存で真の推論力向上ではない」と実験で突きつけた「IsoSci」など、生成AI・LLM・エージェント・評価手法に関する最新論文10本をずんだもん＆四国めたんが解説。
+
+▼ 今日の論文ラインナップ
+・安全のすき間はトークンの境目に――BPEトークン化がLLMアラインメントに開ける穴（arXiv:2607.01239）
+・行動の証跡でエージェントの逸脱を見抜く――プロヴェナンス解析によるLLMエージェントの誤作動防止（arXiv:2607.01236）
+・スライディングウィンドウで賢く間引く――推論LLMを高速化するKVキャッシュ圧縮Kara（arXiv:2607.01237）
+・生成過程を覗き込む――コード生成LLMのためのトークン単位説明可能性ツールTokenScope（arXiv:2607.01235）
+・数え方ひとつで点数が跳ね上がる――プロンプトの数字アンカリングが暴くLLM誤り検出評価の落とし穴（arXiv:2607.01240）
+・テキストを多重グラフへ――レヴィウォークで無駄をそぎ落とすプロンプト圧縮RAGP（arXiv:2607.01241）
+・相互情報量で探索と選好調整を1つに――MI-EPOによる多目的LLMアラインメント（arXiv:2607.01392）
+・根拠にどこまで忠実か、一歩ずつ採点する――FaithMedが鍛える医療LLMの忠実な推論（arXiv:2607.01440）
+・同じ論理構造、違う分野知識――IsoSciが暴く「推論」と「知識検索」の混同（arXiv:2607.01431）
+・学習なしで「どこから答えたか」を1/7の速さで特定する――マルチモーダル文書のための帰属手法MultAttnAttrib（arXiv:2607.01420）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.01239 — BPEトークン化がLLMアラインメントに開ける穴
+https://arxiv.org/abs/2607.01236 — ProvenanceGuard: プロヴェナンス解析によるLLMエージェント誤作動防止
+https://arxiv.org/abs/2607.01237 — Kara: スライディングウィンドウKVキャッシュ圧縮
+https://arxiv.org/abs/2607.01235 — TokenScope: コード生成LLMのトークン単位説明可能性ツール
+https://arxiv.org/abs/2607.01240 — F1インフレーション: プロンプトの数字アンカリングがLLM誤り検出評価を歪める
+https://arxiv.org/abs/2607.01241 — RAGP: レヴィウォーク誘導グラフ刈り込みによるプロンプト圧縮
+https://arxiv.org/abs/2607.01392 — MI-EPO: 相互情報量による多目的探索と選好最適化
+https://arxiv.org/abs/2607.01440 — FaithMed: 根拠に忠実な医療推論をLLMに学習させる
+https://arxiv.org/abs/2607.01431 — IsoSci: 推論力と知識検索を切り分ける同型科学問題ベンチマーク
+https://arxiv.org/abs/2607.01420 — MultAttnAttrib: 学習不要のマルチモーダル文書帰属手法
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-04-arxiv-ai/arxiv_ai_yukkuri.m4a" length="10863848" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-04</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>「LLMの心はどこに宿る?」個体性問題からSLIM-RLまで生成AI論文10本【2026/07/03】</title>
+      <description>「LLMに人格を語ること」の哲学的前提を実験で覆す論文、軌跡を切り刻まずリスク予算だけで拡散LLMを強化学習し学習サンプルを半分以下にした「SLIM-RL」、離散と連続の2チャンネルをループさせて多段階推論の壁を破った「DiscoLoop」など、生成AI・LLM・拡散モデル・エージェント関連の最新論文10本をずんだもん＆四国めたんが解説。
+
+▼ 今日の論文ラインナップ
+・「LLMの人格」はどこに宿るのか——文脈依存性から個体性問題を捉え直す（arXiv:2607.00006）
+・安全な言い換えか暴走する脚色か——創作支援LLMのジレンマを解くLoom（arXiv:2607.00009）
+・ステアリングベクトルからモデル較正器へ——LLMの潜在空間を制御と信頼のために活用する（arXiv:2607.00083）
+・アラビア語の文化的知識でLLMを試す——人間専門家とのクロス評価フレームワーク（arXiv:2607.00139）
+・見えるが直せない——医療LLMのハルシネーションに関するニューロンレベルの証拠（arXiv:2607.00158）
+・知識ベースVQAベンチマークの落とし穴を暴く——監査・修復・拡張（arXiv:2607.00159）
+・軌跡分割なしで拡散LLMを強化学習——リスク予算型ランダムマスキングSLIM-RL（arXiv:2607.00208）
+・学生エッセイへのフィードバックをLLMは書けるか——SEFORAコーパスとUniMatch評価（arXiv:2607.00274）
+・会話は変わり続ける——時間発展する証拠グラフで状態を追跡するTRACE（arXiv:2607.00339）
+・離散埋め込みと連続隠れ状態をループさせるDiscoLoop——多段階推論の壁を破る（arXiv:2607.00341）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.00006 — LLMの人格はどこに宿るのか（個体性問題）
+https://arxiv.org/abs/2607.00009 — 創作支援フレームワークLoom
+https://arxiv.org/abs/2607.00083 — ステアリングベクトルとモデル較正器
+https://arxiv.org/abs/2607.00139 — アラビア語文化的知識のLLMベンチマーク
+https://arxiv.org/abs/2607.00158 — 医療LLMハルシネーションのニューロンレベル分析
+https://arxiv.org/abs/2607.00159 — 知識ベースVQAベンチマークの監査・修復・拡張
+https://arxiv.org/abs/2607.00208 — SLIM-RL: 拡散LLMのリスク予算型強化学習
+https://arxiv.org/abs/2607.00274 — SEFORAコーパスとUniMatch評価
+https://arxiv.org/abs/2607.00339 — TRACE: 時間発展する証拠グラフ
+https://arxiv.org/abs/2607.00341 — DiscoLoop: 多段階推論の2チャンネルループ
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-03-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9974966" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-03</guid>
+      <pubDate>Fri, 03 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>CORTEXでRAGの嘘を検出・AIエージェント1120体でX監査 生成AI論文10本【2026/07/02】</title>
+      <description>RAGのハルシネーションをトークン単位で検出するKDDI総研の「CORTEX」、AIエージェント1,120体をXに投入したMIT・CMUの大規模アルゴリズム監査、メンタルヘルス支援LLMを鍛える「セラジャッジ／セラエージェント」など、生成AI・LLM・エージェント最新論文10本をずんだもん＆四国めたんが解説。
+
+▼ 今日の論文ラインナップ
+・RAGのハルシネーションをトークン単位で検出するCORTEX（arXiv:2606.31033）
+・セラジャッジとセラエージェント——人間に寄り添うメンタルヘルス支援AI（arXiv:2606.30887）
+・たった1回の書き直しで十分——AIエージェントのスキル説明文最適化（arXiv:2606.30775）
+・AIエージェントでXのパーソナライズアルゴリズムを大規模監査（arXiv:2606.30801）
+・GradeSQL——報酬モデルでテキストからSQLへの変換を検証する（arXiv:2606.30851）
+・較正の順位は逆転する——LLMを公平に比較するACE評価枠組み（arXiv:2606.30814）
+・見えているものが違う対話——摩擦方策最適化を知覚的非対称性へ拡張（arXiv:2606.30973）
+・「私は今、公平だろうか?」——演繹的ステレオタイプ化とその是正（arXiv:2606.30989）
+・予測トーナメントで測る「説明の質」——エルエルエムで採点するEQM（arXiv:2606.30987）
+・トランスフォーマーは「不可能な言語」から何を学んでいるのか（arXiv:2606.30815）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.31033 — CORTEX: RAGのトークン単位ハルシネーション検出
+https://arxiv.org/abs/2606.30887 — セラジャッジ／セラエージェント: メンタルヘルス支援AI
+https://arxiv.org/abs/2606.30775 — スキル説明文の自動最適化（Microsoft）
+https://arxiv.org/abs/2606.30801 — AIエージェントによるパーソナライズアルゴリズム監査
+https://arxiv.org/abs/2606.30851 — GradeSQL: 報酬モデルによるText-to-SQL検証
+https://arxiv.org/abs/2606.30814 — ACE: 較正の公平な比較評価枠組み
+https://arxiv.org/abs/2606.30973 — 摩擦方策最適化の知覚的非対称性への拡張
+https://arxiv.org/abs/2606.30989 — Fair-GCG: 演繹的ステレオタイプ化の是正
+https://arxiv.org/abs/2606.30987 — EQM: 説明品質マーカーによる判断の質評価
+https://arxiv.org/abs/2606.30815 — トランスフォーマーと「不可能な言語」
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-02-arxiv-ai/arxiv_ai_yukkuri.m4a" length="10984040" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-02</guid>
+      <pubDate>Thu, 02 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>フィボナッチ注意で4倍長さ外挿・SEADで蒸留+4.8pt 生成AI論文9本【2026/07/01】</title>
+      <description>訓練時の4倍の長さまで性能劣化なく外挿できる「フィボナッチ間隔のスパースアテンション」、生徒の実力をエントロピーで測って教師データを取捨選択する蒸留手法「SEAD」（オルモ3で+4.8ポイント）、LLMの生成理論に新しい適合率・再現率のトレードオフを導入した理論研究など、生成AI・LLM・エージェント最新論文9本をずんだもん＆四国めたんが解説。
+
+▼ 今日の論文ラインナップ
+・無限のハルシネーションを許容する生成理論——適合率と再現率のトレードオフを再定義（arXiv:2606.28354）
+・トランスフォーマー言語モデルの状況モデリングと心の理論——発達的視点で追跡（arXiv:2606.28524）
+・制御可能なバーチャル患者システムで医療面接トレーニングを支援（arXiv:2606.28526）
+・発話単位で平均化したスパースオートエンコーダで長い対話履歴を解析（arXiv:2606.28548）
+・フィボナッチ間隔のスパースアテンションで長さ外挿を実現（arXiv:2606.28560）
+・生徒の習熟度に応じたエントロピー誘導のオンポリシー蒸留SEAD（arXiv:2606.28562）
+・LLMは正しい理由でコーディングしているか——構成概念の妥当性を検証する「粒度較正」（arXiv:2606.28574）
+・LLMで説明するテンソル分析システムAnTenA（arXiv:2606.28708）
+・東南アジア言語向けツールエージェント評価ベンチマークSEATauBench（arXiv:2606.28715）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.28354 — 無限のハルシネーションを許容する生成理論
+https://arxiv.org/abs/2606.28524 — 状況モデリングと心の理論の発達的視点
+https://arxiv.org/abs/2606.28526 — 制御可能なバーチャル患者システム
+https://arxiv.org/abs/2606.28548 — ターン平均SAEによる長対話解析
+https://arxiv.org/abs/2606.28560 — フィボナッチ間隔のスパースアテンション
+https://arxiv.org/abs/2606.28562 — SEAD: エントロピー誘導のオンポリシー蒸留
+https://arxiv.org/abs/2606.28574 — LLMコーディングの構成概念妥当性「粒度較正」
+https://arxiv.org/abs/2606.28708 — AnTenA: LLMによるテンソル分析説明システム
+https://arxiv.org/abs/2606.28715 — SEATauBench: 東南アジア言語エージェント評価
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-01-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9784759" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-01</guid>
+      <pubDate>Wed, 01 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>8BでGPT-5.4超え・RL訓練でメモリ2倍改善ほか 生成AI論文10本【2026/06/30】</title>
+      <description>LLMエージェントのメモリ更新ギャップをRLで訓練解決した「Supersede」、敵対的安全性特化の「Yuvion LLM」（8BでGPT-5.4超）、拡散とフロー融合の「マスク言語フローモデル」など生成AI・LLM・エージェント最新論文10本をずんだもん＆四国めたんが解説。
+
+▼ 今日の論文ラインナップ
+・LLMの潜在表現を公理化する——4つの指標でベンチマークが隠す失敗を測定（arXiv:2606.27378）
+・「機械的忘却」という用語の乱用——LLM研究で正確な定義を求める（arXiv:2606.27379）
+・ニューラル言語モデルは最初に抽象を学ぶ——発達的アプローチで統計学習を解明（arXiv:2606.27460）
+・Supersede: LLMエージェントのメモリ更新ギャップを診断してRLで訓練（arXiv:2606.27472）
+・コンテキスト対応トランスフォーマー——事前コンテキスト化でRNNを1.7倍高速化（arXiv:2606.27538）
+・EntMTP: エントロピーガイドのマルチトークン予測でLLM推論を高速化（arXiv:2606.27550）
+・マスク言語フローモデル——拡散とフローを融合して推論タスクも解ける並列生成（arXiv:2606.27617）
+・Yuvion LLM: 敵対的攻撃を意識した安全性特化LLM（8BでGPT-5.4超え）（arXiv:2606.27632）
+・DiscoBench: 検索エージェントはいつ明確化を求めるべきか（arXiv:2606.27669）
+・プローブ不確実性推定の体系的研究——ハルシネーション検知の因子分解（arXiv:2606.27679）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.27378  — LLMの潜在表現を公理化する
+https://arxiv.org/abs/2606.27379  — 「機械的忘却」という用語の乱用
+https://arxiv.org/abs/2606.27460  — ニューラル言語モデルは最初に抽象を学ぶ
+https://arxiv.org/abs/2606.27472  — Supersede: LLMエージェントのメモリ更新ギャップ
+https://arxiv.org/abs/2606.27538  — コンテキスト対応トランスフォーマー
+https://arxiv.org/abs/2606.27550  — EntMTP: エントロピーガイドのマルチトークン予測
+https://arxiv.org/abs/2606.27617  — マスク言語フローモデル
+https://arxiv.org/abs/2606.27632  — Yuvion LLM: 敵対的安全性特化LLM
+https://arxiv.org/abs/2606.27669  — DiscoBench: 検索エージェントの明確化認識
+https://arxiv.org/abs/2606.27679  — プローブ不確実性推定の体系的研究
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング #AIエージェント</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-30-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8279406" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-30</guid>
+      <pubDate>Tue, 30 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>「確率が高い=正しい」はなぜ間違い？ AIエージェントの欠陥解剖ほか生成AI論文8本【2026/06/29】</title>
+      <description>マルチモーダルモデルの「視覚無視」問題・デコード戦略の根本的誤解・ジェイルブレイク自動最適化の警告など、今週の生成AI論文8本をずんだもん＆四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・VISE: 自己進化型マルチモーダルモデルの視覚無視問題を修正（ECCV 2026採択）— モハメッド・ビン・ザイード人工知能大学（arXiv:2606.27373）
+・確率が高い回答=正しい回答は成立しない — デコード戦略の根本前提を検証（arXiv:2606.27359）
+・エージェントAIの完全ガイド — 基礎から本番デプロイまで（arXiv:2606.24937）
+・タスク無感覚性: エージェントが指示を無視する構造的欠陥の特定と修正（arXiv:2606.26918）
+・意味的早期停止: 反復エージェントループのトークンを38%削減（arXiv:2606.27009）
+・バンディットによるジェイルブレイク自動最適化 — 97%成功率の警告（arXiv:2606.26936）
+・ViQ: テキスト整合型視覚量子化で訓練を20〜70%高速化（arXiv:2606.27313）
+・LLMによる量子実験制御＋ハードウェア安全ゲート（デューク大学）（arXiv:2606.27231）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.27373  — VISE: 自己進化型マルチモーダルモデルの視覚無視問題を修正
+https://arxiv.org/abs/2606.27359  — 確率と正解の罠
+https://arxiv.org/abs/2606.24937  — エージェントAIのヒッチハイカーズガイド
+https://arxiv.org/abs/2606.26918  — タスク無感覚性: エージェントが指示を無視する構造的欠陥
+https://arxiv.org/abs/2606.27009  — 意味的早期停止
+https://arxiv.org/abs/2606.26936  — バンディットによるジェイルブレイク自動最適化
+https://arxiv.org/abs/2606.27313  — ViQ: テキスト整合型視覚量子化
+https://arxiv.org/abs/2606.27231  — LLMによる量子実験制御
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #AIエージェント #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-29-arxiv-ai/arxiv_ai_yukkuri.m4a" length="7321352" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-29</guid>
+      <pubDate>Mon, 29 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AIのおべっか・拒否・折り紙設計——最新論文8本解説【2026/06/28】</title>
+      <description>ずんだもん＆四国めたんが最新のarXiv AI論文を解説！
+
+今回のラインナップ：
+① シコファンシー（おべっか）を線形特徴で検出・制御する手法（2606.26155）
+② ベンチマーク精度が飽和した後も評価できる6次元フレームワーク（2606.26158）
+③ 「拒否」はペルソナの下流で決まる——拒否率97%→2%の実験（2606.26161）
+④ 自然言語から数学的に正確な折り紙設計図を生成するCOrigami（2606.26299）
+⑤ コーディングエージェントの報酬検証に「銀の弾丸」は存在しない（2606.26300）
+⑥ マルチモーダルエルエルエム評価に欠落している4つの軸（2606.26348）
+⑦ プロンプトモジュール間の静かな干渉「Instruction Bleed」（2606.26356）
+⑧ エルエルエム駆動のメタ進化でアルゴリズム取引戦略を自動生成（2606.26173）
+
+📄 論文リンク：
+https://arxiv.org/abs/2606.26155
+https://arxiv.org/abs/2606.26158
+https://arxiv.org/abs/2606.26161
+https://arxiv.org/abs/2606.26299
+https://arxiv.org/abs/2606.26300
+https://arxiv.org/abs/2606.26348
+https://arxiv.org/abs/2606.26356
+https://arxiv.org/abs/2606.26173
+
+#AI #機械学習 #論文解説 #ずんだもん #生成AI #深層学習 #LLM #arxiv</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-28-arxiv-ai/arxiv_ai_yukkuri.m4a" length="5006434" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-28</guid>
+      <pubDate>Sun, 28 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arxiv 論文解説 2026/06/27</title>
+      <description>arxiv 論文解説 2026/06/27
+
+今日のハイライト:
+ 「役に立とうとすること」がAIの倫理観を破壊する？ファインチューニングの副作用を実証
+ 大規模モデルが小規模モデルに圧勝する本当の理由は「制約付き推論」にあった
+ 拡散型LLMを訓練なしで10倍高速化する手法が登場
+
+
+
+論文1: 知識境界評価ベンチマーク「Know2Guess」——LLMは「知っている」と「推測している」を区別できるか
+
+著者: Renwei Meng, Bowen Zhang, Jian Wang ほか（複数機関）
+arXiv: 2606.26101
+
+背景: LLMの評価では「知っている知識」と「データ汚染で記憶している答え」と「推測」を混同しがちだ。これらを分離して測定するベンチマークが必要とされていた。
+
+手法:
+ 「解答可能な知識」から「棄権が期待される未知の質問」への移行を測定するマルチゾーンベンチマーク「Know2Guess」を構築
+ ビルドタイムのラベルを固定し、データ汚染・プロンプトの癖・汎用拒否行動を排除した設計
+ 「知識ゾーン」「境界ゾーン」「未知ゾーン」の3区域でモデルの自己認</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-27-arxiv-ai/arxiv_ai_yukkuri.m4a" length="7663591" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-27</guid>
+      <pubDate>Sat, 27 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arxiv 論文解説 2026/06/26</title>
+      <description>arxiv 論文解説 2026/06/26
+
+今日のハイライト:
+ ウィキペディアの小さな編集がLLMの価値観を変えていた！わずか125編集で驚異の影響力
+ 「知っている」と「制御できる」は別物？LLMの解釈可能性に根本的な問題
+ 拡散モデルベースの言語モデルiLLaDAが自己回帰モデルに肉薄する性能を達成
+
+
+
+論文1: ウィキペディア編集がLLMの価値観を形成する仕組み
+
+著者: Jasmine Brazilek, Maria Navas, Alexa Gnauck  
+arXiv: 2606.24890
+
+背景: ウィキペディアはほぼすべての主要LLMの訓練データに含まれており、ウェブクロールテキストより高い重みで扱われている。「ProAnimal Wikipedians（PAW）」というボランティアグループが動物福祉関連記事に125回の編集を行い、それがLLMの応答にどう影響したかを追跡した研究。
+
+手法:
+ 勾配ベースのデータ帰属手法（BergsonおよびMAGIC）を用いて、PAW編集がモデル行動に与える影響を追跡
+ Llama 3.1 8B でTrackStar検索帰属を</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-26-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8370844" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-26</guid>
+      <pubDate>Fri, 26 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AIの最前線：SQL強化学習・RAG評価・安全性・言語多様性の10論文解説</title>
+      <description>2026年6月25日のarXiv生成AI論文から注目の10本をずんだもんと四国めたんが解説！
+
+【今日のラインナップ】
+📌 EXPO-SQL：句レベル報酬でText-to-SQL精度を大幅改善（成均館大）
+📌 RAGの事前知識優位性を正規化コンテキスト利用度で定量化（独立研究）
+📌 自己認識ファインチューニングで創発的ミスアライメントを予防（ソウル国立大）
+📌 学習不要エンティティ識別でVQA性能を向上（ニュージャージー工科大）
+📌 LLMのメンタルヘルス対話における安全性問題が1年後も継続（継続調査）
+📌 RAG帰属評価指標の転移性を8スコアラーで横断監査（独立研究）
+📌 長期ツール使用エージェントで検索指標が意思決定改善と乖離（独立研究）
+📌 QuechuaTok：ケチュア語トークナイザーに形態素境界精度指標を提案（IIT）
+📌 埋め込みモデルの数学的同値表現能力をベンチマーク評価（PNNL）
+📌 スペック学習：少数の好みペアから推論時アライメント（カーネギーメロン大）
+
+【arXivリンク】
+・EXPO-SQL: https://arxiv.org/abs/2606.23693
+・RAG Prior Dominance: https://arxiv.org/abs/2606.23695
+・Self-Recognition Finetuning: https://arxiv.org/abs/2606.23700
+・Ground Then Rank: https://arxiv.org/abs/2606.23881
+・LLM Mental Health Harms: https://arxiv.org/abs/2606.23884
+・LLM Attribution Metrics: https://arxiv.org/abs/2606.23915
+・Retrieval Metrics Mislead: https://arxiv.org/abs/2606.23937
+・QuechuaTok: https://arxiv.org/abs/2606.23943
+・Math Equivalence Embeddings: https://arxiv.org/abs/2606.23959
+・Spec Learning: https://arxiv.org/abs/2606.24004
+
+#生成AI #機械学習 #深層学習 #NLP #LLM #RAG #AI安全性 #arxiv #ずんだもん #論文解説</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-25-arxiv-ai/arxiv_ai_yukkuri.m4a" length="7730808" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-25</guid>
+      <pubDate>Thu, 25 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arxiv 論文解説 2026/06/24</title>
+      <description>arxiv 論文解説 2026/06/24
+
+今日のハイライト: ランダム化YaRNで長文コンテキスト推論を強化（8Kで学習しても128Kで汎化）、SPIRALが推論時の探索・集約を強化学習で統合（テスト時スケールを学習ループに組み込む新手法）、そしてLLMは自分の出力が攻撃されたと気づけない（10モデルで検証、平均27%しか正しく自己申告できず）の3本が特に注目です。
+
+
+
+論文1: ランダム化YaRN — 長文コンテキスト推論の長さ汎化を改善する訓練法
+
+arxiv: 2606.23687  テキサス大学オースティン校（Mehta, Yin, Durrett）
+
+LLMは短い系列で事前学習されたあと、長文対応のための追加訓練を受けるが、さらに長い系列への汎化は依然困難だ。本研究は「ランダム化YaRN」を提案し、YaRNベースの位置外挿・ランダム化位置エンコーディング・長さカリキュラムを組み合わせることで、8K以下の訓練データで16K〜128Kへの推論を可能にする。
+
+ 著者・所属機関: Manas Mehta, Fangcong Yin, Greg Durrett（テキサス大学オー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-24-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6120524" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-24</guid>
+      <pubDate>Wed, 24 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>原子力発電所でLLMをジェイルブレイク・脆弱性検出の限界・心理プロファイルは幻想？【arxiv論文解説 2026/06/23】</title>
+      <description>今日のarXiv生成AI論文解説（2026年6月23日）では、8本の最新論文をずんだもんと四国めたんがわかりやすく解説します！
+
+🔬 今日のラインナップ：
+
+1. NRT-Bench（2606.20408）― 原子力発電所シミュレーターでLLMエージェントを多ターン攻撃。GPT-4o・Gemini 2.5・Claude 3.7・Llama-4 すべてがゼロではない失敗率
+https://arxiv.org/abs/2606.20408
+
+2. CWE-Trace（2606.20502）― 74種のLinuxカーネル脆弱性でLLMを診断。スコアが高くても「本物の推論」ではなかった
+https://arxiv.org/abs/2606.20502
+
+3. UltraQuant（2606.20474）― 4ビットKVキャッシュ圧縮でエージェントの並列セッション数を2倍に、コストはFP16比4分の1以下
+https://arxiv.org/abs/2606.20474
+
+4. AutoPass（2606.20373）― コンパイラの中間表現をLLMに読ませてパフォーマンスチューニングを自動化
+https://arxiv.org/abs/2606.20373
+
+5. 知識競合解決（2606.20245）― 「どちらも誤り」を含む4種類の競合タイプに対応するRAG精度向上フレームワーク
+https://arxiv.org/abs/2606.20245
+
+6. 緊急ミスアライメント（2606.20225）― 不安全コードのファインチューニングで生じる危険方向を活性化空間で特定・制御
+https://arxiv.org/abs/2606.20225
+
+7. 心理プロファイルの幻想（2606.20205）― 56種のLLMを心理測定。プロファイルは「性格」でなく応答バイアスのアーティファクト
+https://arxiv.org/abs/2606.20205
+
+8. 推論最適化サーベイ（2606.20295）― トークン演算を軸に4層（融合・最適化・計算-モデル融合・分散）に体系化
+https://arxiv.org/abs/2606.20295
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-23-arxiv-ai/arxiv_ai_yukkuri.m4a" length="10536315" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-23</guid>
+      <pubDate>Tue, 23 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>拡散LLMの透明性・エージェントバイアス伝染・視線でアライメント改善【arxiv AI論文解説 2026/06/22】</title>
+      <description>今日は生成AI・エルエルエム・マルチエージェント関連の最新論文10本を解説。DiffusionGemmaの解釈可能性、エージェントバイアスの伝染、暗黙的フィードバックでのアライメント改善など注目研究を紹介します。
+
+▼ 今日の論文ラインナップ
+・DiffusionGemmaの透明性解剖 — 拡散LLMは解釈可能か — Google DeepMind（arxiv:2606.20560）
+・LedgerAgent：台帳型状態管理でポリシー遵守エージェントを実現 — アリゾナ州立大学（arxiv:2606.20529）
+・StylisticBias：MLLMの社会的バイアスを引き起こす視覚手がかりは少数 — イリノイ大学（arxiv:2606.20527）
+・マルチエージェントLLMの評価バイアス伝染ネットワーク — Contagion Networks（arxiv:2606.20493）
+・AIエージェントの確率的検証 — 分布ロバスト最適化で堅牢な安全上界 — ウィスコンシン大学・Google（arxiv:2606.20510）
+・安全アライメントLLMが混合コンプライアンスデモから学ぶこと — スタンフォード大学（arxiv:2606.20508）
+・H-RePlan：クロスデバイスエージェントの階層的リカバリー — 清華大学（arxiv:2606.20487）
+・マウスと視線でLLMアライメントを改善 — 暗黙的フィードバックの価値 — マサチューセッツ大学（arxiv:2606.20482）
+・Multi-LCB：12言語でLLMコード生成能力を評価 — Toloka AI（arxiv:2606.20517）
+・Mixture-of-Expertsの分布シフト下キャリブレーション — ジョンズ・ホプキンス大学（arxiv:2606.20544）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.20560  — DiffusionGemmaの透明性解剖 — 拡散LLMは解釈可能か
+https://arxiv.org/abs/2606.20529  — LedgerAgent：台帳型状態管理でポリシー遵守エージェントを実現
+https://arxiv.org/abs/2606.20527  — StylisticBias：MLLMの社会的バイアスを引き起こす視覚手がかりは少数
+https://arxiv.org/abs/2606.20493  — マルチエージェントLLMの評価バイアス伝染ネットワーク
+https://arxiv.org/abs/2606.20510  — AIエージェントの確率的検証：分布ロバスト最適化で堅牢な安全上界
+https://arxiv.org/abs/2606.20508  — 安全アライメントLLMが混合コンプライアンスデモから学ぶこと
+https://arxiv.org/abs/2606.20487  — H-RePlan：クロスデバイスエージェントの階層的リカバリー
+https://arxiv.org/abs/2606.20482  — マウスと視線でLLMアライメントを改善：暗黙的フィードバックの価値
+https://arxiv.org/abs/2606.20517  — Multi-LCB：12言語でLLMコード生成能力を評価
+https://arxiv.org/abs/2606.20544  — Mixture-of-Expertsの分布シフト下キャリブレーション
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-22-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8972673" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-22</guid>
+      <pubDate>Mon, 22 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が今週驚いた生成AI論文【拡散LLMほか10本解説 2026/06/21】</title>
+      <description>拡散言語モデルの大規模実証、LLMが内省で倫理を自己獲得するEmergent Alignment、畳み込み・アテンション・再帰を統一するITNetなど、今週の注目生成AI・LLM論文を10本解説します。
+
+▼ 今日の論文ラインナップ
+・拡散言語モデルの実験的分析 — イタリア モデナ・レッジョ・エミリア大学（arxiv:2606.19475）
+・Emergent Alignment（LLMの自己アライメント） — チェコ工科大学（arxiv:2606.19527）
+・ITNet：積分変換による統一アーキテクチャ — MIT（arxiv:2606.19538）
+・マルチエージェントLLM審議の隠れアンカー — テキサス大学ノーステキサス校（arxiv:2606.19494）
+・AgenticRei：エージェントAIのランタイムガバナンス — メリーランド大学（arxiv:2606.19464）
+・LLMの認識的盲点（臨床表形式データ） — ミネソタ大学（arxiv:2606.19509）
+・LLMエージェントの不確実性分解と明確化要求（arxiv:2606.19559）
+・DPO後学習で比較すべきペアの選び方 — コロンビア大学（arxiv:2606.19607）
+・ACIE：医療情報抽出のエージェントRAG — エッセン大学病院（arxiv:2606.19602）
+・LLMソルバーループの叙述ギャップ — パデュー大学（arxiv:2606.19588）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.19475  — 拡散言語モデルの実験的分析
+https://arxiv.org/abs/2606.19527  — Emergent Alignment：LLMが内省で倫理を獲得
+https://arxiv.org/abs/2606.19538  — ITNet：積分変換が畳み込み・アテンション・再帰を統一
+https://arxiv.org/abs/2606.19494  — マルチエージェントLLM審議の隠れアンカー
+https://arxiv.org/abs/2606.19464  — AgenticRei：エージェントAIの義務論的ポリシーガバナンス
+https://arxiv.org/abs/2606.19509  — LLMは自分が何を知らないかを知らない
+https://arxiv.org/abs/2606.19559  — LLMエージェントの不確実性分解と明確化要求
+https://arxiv.org/abs/2606.19607  — DPO後学習で比較すべきペアの選び方
+https://arxiv.org/abs/2606.19602  — ACIE：医療情報抽出のエージェントRAG実装
+https://arxiv.org/abs/2606.19588  — LLMソルバーループの叙述ギャップ
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-21-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9171011" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-21</guid>
+      <pubDate>Sun, 21 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>DeepSeek-V4 100万トークン対応 &amp; LLM評価の落とし穴 【生成AI論文解説 2026/06/20】</title>
+      <description>2026年6月20日の生成AI・LLM最新論文10本を解説します。
+
+今回のラインナップ：
+1. DeepSeek-V4 — 100万トークンコンテキストの高効率MoEモデル（arXiv:2606.19348）
+2. 拡散LLMにおける位置バイアス — Auto-ICLでクエリ配置を動的最適化（arXiv:2606.19349）
+3. GRACE — テスト時スケーリングにおける検証粒度の最適理論（arXiv:2606.19354）
+4. LLM-as-Judge 大規模体系評価 — 54万件で信頼性と妥当性の乖離を実証（arXiv:2606.19544）
+5. CAP — 因果的帰属でアテンションヘッドの重要度を測るプルーニング（arXiv:2606.19350）
+6. LUCID — LLMナレッジグラフ推論のハルシネーション検出（arXiv:2606.19351）
+7. Argent Signaling Protocol — マルチエージェントの意味的ドリフトを防ぐ（arXiv:2606.19356）
+8. TreeTracer — 確率木集約でLLMバイアスを可視化（arXiv:2606.19344）
+9. 自己関数ベクトルによるICL不確実性分解（arXiv:2606.19353）
+10. NarraDolma — 3兆トークンのプレトレーニングデータに物語構造を測る（arXiv:2606.19468）
+
+arXivリンク：
+https://arxiv.org/abs/2606.19348
+https://arxiv.org/abs/2606.19349
+https://arxiv.org/abs/2606.19354
+https://arxiv.org/abs/2606.19544
+https://arxiv.org/abs/2606.19350
+https://arxiv.org/abs/2606.19351
+https://arxiv.org/abs/2606.19356
+https://arxiv.org/abs/2606.19344
+https://arxiv.org/abs/2606.19353
+https://arxiv.org/abs/2606.19468
+
+#生成AI #LLM #DeepSeek #機械学習 #論文解説 #ずんだもん #四国めたん #arxiv</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-20-arxiv-ai/arxiv_ai_yukkuri.m4a" length="7329686" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-20</guid>
+      <pubDate>Sat, 20 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>投機的デコーディング9.64倍・エージェントスキル革命【生成AI論文8本解説 2026/06/19】</title>
+      <description>今日は生成AIの高速化・エージェント・RAG・アンラーニングの最前線を8本解説！
+JetFlowがLLM推論を9.64倍に高速化、VISUALSKILLがマルチモーダルスキルでエージェントを+15ポイント改善、CoreMemがエッジデバイスで長期記憶を実現します。
+
+▼ 今日の論文ラインナップ
+・JetFlow: 投機的デコーディングを並列ツリー下書きで9.64倍高速化（arXiv:2606.18394）
+・VISUALSKILL: 図入りスキルライブラリでコンピュータ操作エージェントが+15ポイント改善（arXiv:2606.18448）
+・CoreMem: リーマン検索×フィッシャー情報蒸留で8GB VRAMの長期記憶対話エージェント（arXiv:2606.18406）
+・マルチエージェント企業展開: 適応+FP8量子化で4.48倍のスループット（arXiv:2606.18502）
+・SproutRAG: アテンション誘導ツリーで多粒度RAGを実現、IE+6.1%（arXiv:2606.18381）
+・MCompassRAG: トピックメタデータコンパスでRAGをIE+8.24%・5倍高速化（arXiv:2606.18508）
+・PreUnlearn: LLMアンラーニング前に副次被害を事前監査（arXiv:2606.18473）
+・Distance-Adaptive Representation: KVキャッシュを位置で次元分離、全次元と同等性能（arXiv:2606.18587）
+
+▼ 参考論文arXiv URL
+https://arxiv.org/abs/2606.18394
+https://arxiv.org/abs/2606.18448
+https://arxiv.org/abs/2606.18406
+https://arxiv.org/abs/2606.18502
+https://arxiv.org/abs/2606.18381
+https://arxiv.org/abs/2606.18508
+https://arxiv.org/abs/2606.18473
+https://arxiv.org/abs/2606.18587
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-19-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6816795" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-19</guid>
+      <pubDate>Fri, 19 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が今週注目した生成AI論文解説【2026/06/18】</title>
+      <description>2026年6月18日のarxivから、生成AI・LLM分野の注目論文7本をずんだもん＆四国めたんが解説！
+スライド自動生成エージェントの個人化技術から、LLMが長編ストーリーで全滅する衝撃の結果まで幅広くカバーします。
+
+▼ 今日の論文
+1. MemSlides (2606.17162)
+   階層型メモリでユーザーの好みを記憶し、個人化されたスライドをマルチターン対話で生成するエージェントフレームワーク
+
+2. RepSelect (2606.17168)
+   表現選択性ベースのLLMアンラーニング。ファインチューニング後も忘却が維持できる率を従来比40%向上
+
+3. AIエージェントコミュニティのパラソーシャル関係 (2606.17174)
+   AIエージェント同士のSNSコミュニティで「推しへの片思い」が自発的に発生することを実証
+
+4. Self-Generated Error Training (2606.17175)
+   モデル自身が生成する典型的なエラーで訓練することで、拡散言語モデルのトークン編集精度を最大8ポイント改善
+
+5. LLM翻訳の自己信頼度の信頼性 (2606.17234)
+   機械翻訳でLLMが示す自己評価型信頼度が実際の精度と一致しない「過信」傾向を定量的に解明
+
+6. NarrativeWorldBench (2606.17391)
+   長編シリアル音声ドラマ生成で21のフロンティアLLMを評価。全モデルが世界モデル整合性スコア0.6未満で全滅
+
+7. MODE-RAG (2606.17449)
+   エネルギーベースの評価でマルチモーダルRAGのハルシネーション・因果捏造・お追従を診断し18%削減
+
+#生成AI #arxiv #論文解説 #ずんだもん #四国めたん #LLM #AI #RAG #アンラーニング #機械翻訳</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-18-arxiv-ai/arxiv_ai_yukkuri.m4a" length="4284619" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-18</guid>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が今週注目した生成AI論文10本解説【2026/06/10】</title>
+      <description>LLMの分布サンプリング限界を定量化した新ベンチマーク「UnpredictaBench」から、ファインチューニングの副作用「ピギーバック仮説」、低リソース言語のモジュール型適応まで、今日も最前線の研究をずんだもん＋四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・UnpredictaBench: LLMの分布サンプリング能力ベンチマーク — Abaskohi ら（ブリティッシュコロンビア大学）（arxiv:2606.06622）
+・CAF-Gen: マルチエージェントで論証構造を深化 — Bąba ら（ポーランド）（arxiv:2606.06646）
+・HKJudge: 香港判決の言説注釈コーパス — Xi Xuan ら（香港城市大学）（arxiv:2606.06679）
+・政治的イデオロギー注釈のショートカット学習 — Upasana Chatterjee（単著）（arxiv:2606.06715）
+・低リソース言語のモジュール型単言語適応 — Kumar, Dušek（チャールズ大学）（arxiv:2606.06738）
+・IDPR: 速い思考と遅い思考の最適ルーティング — He, Feng（香港大学）（arxiv:2606.06745）
+・OPDLM: 自己回帰モデルを拡散言語モデルへ変換 — Su ら（テキサスA&amp;M大学）（arxiv:2606.06712）
+・TReFT: ピギーバック仮説でミスアライメントを解明 — Zhao ら（スタンフォード大学）（arxiv:2606.06667）
+・EGC: 証拠グラフでRAGハルシネーションを検出 — Jianru Shen（単著）（arxiv:2606.06748）
+・PromptPrint: プロンプトによる行動バイオメトリクス — Patel ら（ジョンズホプキンス大学）（arxiv:2606.06755）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.06622 — UnpredictaBench: LLMの分布サンプリング能力を測るベンチマーク
+https://arxiv.org/abs/2606.06646 — CAF-Gen: マルチエージェントで論証構造を深化させるフレームワーク
+https://arxiv.org/abs/2606.06679 — HKJudge: 香港判決の言説注釈コーパス
+https://arxiv.org/abs/2606.06715 — 政治的イデオロギー注釈におけるLLMのショートカット学習
+https://arxiv.org/abs/2606.06738 — 低リソース言語向けモジュール型単言語適応
+https://arxiv.org/abs/2606.06745 — IDPR: 推論LLMの速い思考・遅い思考の最適制御
+https://arxiv.org/abs/2606.06712 — OPDLM: 自己回帰モデルを拡散言語モデルへ変換
+https://arxiv.org/abs/2606.06667 — TReFT: ピギーバック仮説と創発的ミスアライメントの解明
+https://arxiv.org/abs/2606.06748 — EGC: 証拠グラフによるRAGハルシネーション検出
+https://arxiv.org/abs/2606.06755 — PromptPrint: プロンプトによる行動バイオメトリクス
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-10-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8205847" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-10</guid>
+      <pubDate>Wed, 10 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が今週驚いた生成AI論文【ミスアライメント・拡散LMほか10本解説 2026/06/09】</title>
+      <description>ずんだもんと四国めたんが、2026年6月8日〜9日に注目された生成AI・LLM・エージェント論文10本をわかりやすく解説！
+
+━━━ 今回の論文ラインナップ ━━━
+
+1️⃣ ファインチューニングで起きる「便乗汎化」——Piggyback仮説とTReFT
+   → ファインチューニングでアライメントが崩れるメカニズムを解明
+   https://arxiv.org/abs/2606.06667
+
+2️⃣ 自己回帰モデルを拡散型に変換——OPDLMの革新
+   → 最大7,000倍少ない学習コストで拡散LMを構築
+   https://arxiv.org/abs/2606.06712
+
+3️⃣ 深く考えるべき時を判断するAI——IDPRフレームワーク
+   → 遅い推論の呼び出しを8.2%に抑えつつ精度向上
+   https://arxiv.org/abs/2606.06745
+
+4️⃣ ウェブエージェントの観測コストを革新——シグナル駆動観測（SDO）
+   → 「行動頻度と観測頻度を切り離す」新設計原則
+   https://arxiv.org/abs/2606.06708
+
+5️⃣ RAGのハルシネーション検出に証拠グラフを使う——EGC
+   → GPT-4とLlamaでハルシネーションパターンが真逆に？
+   https://arxiv.org/abs/2606.06748
+
+6️⃣ 多言語事実想起を強化学習で改善——PolyFactとGRPO
+   → GRPOが12言語で多言語整合性を構造レベルで改善
+   https://arxiv.org/abs/2606.06586
+
+7️⃣ 人間はLLMに何を求めているか——RLHFの根本的問題
+   → 75カ国1,500人の回答が示すアライメント手法の盲点
+   https://arxiv.org/abs/2606.06674
+
+8️⃣ LLMは確率分布を正しくサンプリングできるか——UnpredictaBench
+   → どのモデルもKS@100で40%超えられず、分布能力に大きな限界
+   https://arxiv.org/abs/2606.06622
+
+9️⃣ LLMパーソナライズ——合成データと実データの落差
+   → LLMジャッジ高評価でも人間評価は汎用応答と変わらず
+   https://arxiv.org/abs/2606.06614
+
+🔟 LLMの推論失敗には2種類のパターンがある
+   → 「コミット型」と「持続的不確実型」、トークンレベルで検出
+   https://arxiv.org/abs/2606.06635
+
+━━━━━━━━━━━━━━━━━━━━
+
+🎙️ キャラクター: ずんだもん・四国めたん（VOICEVOX使用）
+📅 論文掲載日: 2026年6月8〜9日
+📂 arXiv セクション: cs.AI / cs.CL / cs.LG
+
+━━━ チャプター ━━━
+0:00 オープニング
+0:20 1本目：Piggyback仮説とTReFT
+3:00 2本目：OPDLM（自己回帰→拡散変換）
+5:40 3本目：IDPRフレームワーク
+8:10 4本目：シグナル駆動ウェブエージェント
+10:30 5本目：EGC（証拠グラフ整合性）
+13:00 6本目：PolyFactとGRPO
+15:20 7本目：RLHFの根本的問題
+17:50 8本目：UnpredictaBench
+20:10 9本目：LLMパーソナライズの落差
+22:30 10本目：推論失敗のパターン
+25:00 エンディング
+
+━━━━━━━━━━━━━━━━━━━━
+
+#生成AI #LLM #論文解説 #ずんだもん #四国めたん #arxiv #機械学習 #人工知能 #ディープラーニング #ファインチューニング #強化学習 #拡散モデル #AIエージェント #RAG #アライメント</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-09-arxiv-ai/arxiv_ai_yukkuri.m4a" length="7846348" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-09</guid>
+      <pubDate>Tue, 09 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が今週驚いた生成AI論文【AIが数学オリンピックを解く・ほか10本解説 2026/06/08】</title>
+      <description>IMOをオープンソースで4問正解、スパース注意17倍高速化、エージェントがMLアルゴリズムを自己発見——今週のarXivから厳選した生成AI・LLM論文10本をずんだもんと四国めたんがわかりやすく解説します。
+
+▼ 今日の論文ラインナップ
+・AI書き込みはどこで検出できなくなるか——OpAI-Bench — MBZUAI（arxiv:2606.06481）
+・拡散型言語モデルの先読みRAG——SARDI — コーネル大学（arxiv:2606.06474）
+・AIがMLアルゴリズムを自ら発見——MLEvolve — 北京大学（arxiv:2606.06473）
+・オープンソースでIMO 2025を4問正解——Goedel-Architect — Gödel Systems（arxiv:2606.06468）
+・KVキャッシュを層をまたいで共有——CLSA — Microsoft Research（arxiv:2606.06467）
+・AIエージェントがスパース注意を自動設計——Vortex — カーネギーメロン大学（arxiv:2606.06453）
+・エージェントのメモリを初めてシステム側から解剖 — スタンフォード大学（arxiv:2606.06448）
+・チェーンオブソートを連続潜在空間で実行——NF-CoT — 上海交通大学（arxiv:2606.06447）
+・スパースオートエンコーダの特徴分裂を理論的に解決——SASA — ペンシルバニア州立大学（arxiv:2606.06333）
+・何を忘れるべきかをモデル自身が学ぶ——ATWU — EPFL（arxiv:2606.06320）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.06481  — AI書き込み段階変換ベンチマークOpAI-Bench
+https://arxiv.org/abs/2606.06474  — 拡散型言語モデルの自己増強検索SARDI
+https://arxiv.org/abs/2606.06473  — 機械学習アルゴリズム自己発見フレームワークMLEvolve
+https://arxiv.org/abs/2606.06468  — 形式定理証明エージェントGoedel-Architect
+https://arxiv.org/abs/2606.06467  — クロスレイヤースパース注意CLSA
+https://arxiv.org/abs/2606.06453  — スパース注意サービングシステムVortex
+https://arxiv.org/abs/2606.06448  — エージェントメモリシステムのシステム特性評価
+https://arxiv.org/abs/2606.06447  — 正規化フローによる潜在推論NF-CoT
+https://arxiv.org/abs/2606.06333  — 部分空間対応スパースオートエンコーダSASA
+https://arxiv.org/abs/2606.06320  — トークンレベル重要度学習によるLLM消去学習ATWU
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-08-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9127561" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-08</guid>
+      <pubDate>Mon, 08 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>秘密AIエージェントの説得術を解剖【マルチエージェント通信ほか8本解説 2026/06/07】</title>
+      <description>LLMが人間のふりをして説得工作した実験の分析から、マルチエージェント通信効率化・エージェント評価ベンチマークまで、今日の生成AI・LLM最新論文8本をずんだもんと四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・秘密裏に活動したLLMエージェントの説得戦術を解剖 — シンガポール国立大学（arxiv:2606.05256）
+・マルチエージェントの通信を半減するPACT — シンガポール国立大学・Microsoft（arxiv:2606.05304）
+・長時間監視エージェントを評価するSentinelBench — Microsoft Research（arxiv:2606.05342）
+・LLMジャッジは説得されると評価を翻す — 独立研究者（arxiv:2606.05384）
+・AIが数学論文を自動形式化——LeanMarathon — ミシガン大学・東京大学・プリンストン大学（arxiv:2606.05400）
+・250人の専門家が作ったAIエージェント評価ベンチマーク「ALE」— 多機関共同（arxiv:2606.05405）
+・LLM主導のプログラム進化は同じ構造に収束する — ノースウェスタン大学（arxiv:2606.05408）
+・会話型AGIのためのモチベーションアーキテクチャ — SingularityNET（arxiv:2606.05411）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.05256  — 秘密裏に活動したLLMエージェントの説得戦術を解剖
+https://arxiv.org/abs/2606.05304  — マルチエージェントの通信を半減するPACT
+https://arxiv.org/abs/2606.05342  — 長時間監視エージェントを評価するSentinelBench
+https://arxiv.org/abs/2606.05384  — LLMジャッジは説得されると評価を翻す
+https://arxiv.org/abs/2606.05400  — AIが数学論文を自動形式化——LeanMarathon
+https://arxiv.org/abs/2606.05405  — 産業専門家250人超が作ったAIエージェント評価ベンチマーク「ALE」
+https://arxiv.org/abs/2606.05408  — LLM主導のプログラム進化は同じ構造に収束する
+https://arxiv.org/abs/2606.05411  — 会話型AGIのためのモチベーションアーキテクチャ
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-07-arxiv-ai/arxiv_ai_yukkuri.m4a" length="5778045" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-07</guid>
+      <pubDate>Sun, 07 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が今週驚いた生成AI論文【コンテキストラベルでLLMが激変ほか8本解説 2026/06/06】</title>
+      <description>ラベル1つで誤採用率が最大84ポイント変化するラグ設計の盲点、AI生成テキスト検出の決定版指標、拡散言語モデルの高速化、LLMへの市販薬相談の危険性ほか、最前線の生成AI・LLM論文を8本解説します。
+
+▼ 今日の論文ラインナップ
+・コンテキストラベルがLLMの文脈利用に与える劇的な影響 — 独立研究者Jianguo Zhu（arxiv:2606.04109）
+・AI生成テキスト検出: 284の言語特徴で27LLMを横断分析 — コブレンツ＝ランダウ大学・ウィーン工科大学（arxiv:2606.04177）
+・AIフェイクニュース検出: プロンプト変化を超えた汎化性能 — テキサス大学サンアントニオ校（arxiv:2606.04199）
+・AXON: 拡散言語モデルの高速並列デコードを改善するモジュール — テクニオン工科大学・バルセロナ自治大学（arxiv:2606.04236）
+・DOSEBENCH: 市販薬の用量判断でLLMはどこまで信頼できるか — テキサス大学エルパソ校（arxiv:2606.04262）
+・テキストベース因果推論でレビュー評価スコアの要因を分離 — テュレーン大学（arxiv:2606.04286）
+・LLMは科学史研究のツールになれるか？ — ベルリン自由大学（arxiv:2606.04118）
+・ACAT: アスペクト感情分析の協調アノテーションプラットフォーム — ポリテフニカ・ブカレスト大学（arxiv:2606.04189）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.04109 — コンテキストラベルがLLMの文脈利用に与える影響
+https://arxiv.org/abs/2606.04177 — AI生成テキスト検出: 284言語特徴の横断分析
+https://arxiv.org/abs/2606.04199 — AIフェイクニュース検出のクロスプロンプト汎化
+https://arxiv.org/abs/2606.04236 — AXON: 拡散言語モデル高速デコード
+https://arxiv.org/abs/2606.04262 — DOSEBENCH: LLMのOTC用量QA評価
+https://arxiv.org/abs/2606.04286 — テキストベース因果推論によるレビュー要因分析
+https://arxiv.org/abs/2606.04118 — 計算概念史とLLM
+https://arxiv.org/abs/2606.04189 — ACATアノテーションプラットフォーム
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-06-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6888047" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-06</guid>
+      <pubDate>Sat, 06 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【ずんだもん&amp;四国めたん】今週の生成AI論文10選 — POLARIS・SALIMory・LazyAttention ほか【2026-06-05】</title>
+      <description>ずんだもんと四国めたんが、今週注目の生成AI・LLM論文10本をわかりやすく解説します！
+
+▼今日の論文ラインナップ
+1. 小型モデルを長編ストーリー執筆に導くPOLARIS — マサチューセッツ大学・グーグルリサーチ（米国）
+2. SaliMory: 会話エージェントのための認知メモリ管理フレームワーク — Meta AI（米国）
+3. 生物医学RAGで検索が役立たない場合 — テキサス大学サンアントニオ校（米国）
+4. Expert-Aware Refusal Steering：MoEモデルの拒否制御 — モンタナ大学（米国）
+5. MM-BizRAG: 企業向けマルチモーダルRAGの再設計 — AWS AI Labs（米国）
+6. LazyAttention: 遅延位置エンコーディングによる高効率RAG — イリノイ大学アーバナ・シャンペーン校（米国）
+7. 拡散言語モデル高速デコードのためのAXON — Qualcomm AI Research（欧州・米国）
+8. ファインチューニングは生きている：誤情報分類でLLMを超えるタスク特化型トランスフォーマー — ニューサウスウェールズ大学（オーストラリア）
+9. DOSEBENCH: LLMの市販薬投与意思決定の時間的不確かさ評価 — テキサス工科大学（米国）
+10. AIが生成したフェイクニュース検出のクロスプロンプト汎化 — カリフォルニア大学（米国）
+
+▼参考論文（arXiv）
+https://arxiv.org/abs/2606.04095
+https://arxiv.org/abs/2606.04120
+https://arxiv.org/abs/2606.04127
+https://arxiv.org/abs/2606.04160
+https://arxiv.org/abs/2606.04231
+https://arxiv.org/abs/2606.04302
+https://arxiv.org/abs/2606.04236
+https://arxiv.org/abs/2606.04274
+https://arxiv.org/abs/2606.04262
+https://arxiv.org/abs/2606.04199
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-05-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9778903" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-05</guid>
+      <pubDate>Fri, 05 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI 最新論文解説 — 2026年06月04日</title>
+      <description>生成AI 最新論文解説 — 2026年06月04日
+
+今日は「マルチエージェント・エコノミー」「適応型潜在推論」「拡散LLM高速化」「LLMの環境態度と公平性」の注目論文4本を詳しく解説します。
+
+
+
+論文1: Economy of Minds — 経済的インタラクションによるマルチエージェント集団知性
+
+arxiv: 2606.02859  
+著者所属: Harvard大学、MIT、Carnegie Mellon大学、Microsoft Research  
+投稿日: 2026年6月3日
+
+背景
+
+ LLMエージェントの集団がより賢い「集合知性」を持てるかが最前線の問い
+ 従来のマルチエージェント手法は中央集権的なオーケストレーションか明示的な通信プロトコルが必要
+ 経済学者ハイエクの「分散協調理論」からヒントを得て、市場メカニズムをエージェント集団に応用
+
+提案手法: エージェント経済
+
+ オークション機構: エージェントが「行動する権利」をオークションで競い合う
+ 報酬交換: 環境から得た報酬をエージェント間で通貨として流通
+ 経済的選択: 効果的なエージェントは富を蓄積・複製（</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-04-arxiv-ai/arxiv_ai_yukkuri.m4a" length="4434375" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-04</guid>
+      <pubDate>Thu, 04 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ロボットAIの最前線！Qwen-VLA vs Gemini Robotics + LLM高速化論文2本解説【2026/06/03】</title>
+      <description>今日はロボット×AI の注目論文2本（Alibaba Qwen-VLA・Google Gemini Robotics）と、LLM効率化・評価手法の重要論文2本を深掘り解説します。各論文をしっかり時間をかけて解説！
+
+▼ 今日の論文ラインナップ
+・Qwen-VLA — タスク・環境・ロボット形態を横断する統合VLAモデル（Alibaba）
+  LIBERO 97.9%・実機OOD 76.9%！把持からナビゲーションまで1モデルでカバー
+・Gemini Robotics — Gemini 2.0ベースのロボット専用VLA（Google DeepMind）
+  オープン語彙指示・100デモ以下での新タスク習得・未見環境での動作実証
+・ART（Attention Run-time Termination） — KVキャッシュ帯域幅問題を実行時動的終了で解決
+  長コンテキストLLMデコーディングを精度を保ちながら高速化
+・LLM-as-Judge評価指標論文 — 24論文を調査、バイナリ判定では多くの指標が冗長と証明
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2605.30280  — Qwen-VLA: Unifying Vision-Language-Action Modeling
+https://arxiv.org/abs/2503.20020  — Gemini Robotics: Bringing AI into the Physical World
+https://arxiv.org/abs/2606.00024  — ART: Attention Run-time Termination for Efficient LLM Decoding
+https://arxiv.org/abs/2606.00093  — Agreement Metrics for LLM-as-Judge Evaluation
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ロボット #VLA</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-03-arxiv-ai/arxiv_ai_yukkuri.m4a" length="4455811" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-03</guid>
+      <pubDate>Wed, 03 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI論文解説 2026-06-02</title>
+      <description>生成AI論文解説 20260602
+
+論文1: ChatGPTによる生物医学的アソシエーション生成と検証プロトコル
+
+arxiv: 2605.30400  
+著者: Ahmed Abdeen Hamed, Luis M. Rocha
+
+要点:
+ チャットジーピーティーが疾患関連の生物医学的関連情報を生成する能力を評価するプロトコルを提案
+ 生物医学オントロジーと文献を用いてエンティティの検証・アソシエーションの確認を実施
+ 自己整合性戦略で複数モデル間の生成信頼性を評価
+ ラグ（検索拡張生成）により意味的検証を強化し、幻覚を検出
+ オープンソースのエルエルエムが他エルエルエムの生成内容の真偽判定に活用可能
+
+
+
+論文2: モデル特化のための自律エージェント的データエンジニアリング
+
+arxiv: 2605.30407  
+著者: Yujie Luo ら（13名）
+
+要点:
+ エルエルエムが自律的にエンドツーエンドのデータエンジニアリングを実行できるか検証
+ 「自律エージェント的データエンジニアリング」タスクを新たに定式化
+ データを最適化可能なコンポーネントとして扱い、エージェントが計</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-02-arxiv-ai/arxiv_ai_yukkuri.m4a" length="7720419" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-02</guid>
+      <pubDate>Tue, 02 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が今週驚いた生成AI論文【LoRA記憶則・ロボット統合ほか10本解説 2026/06/01】</title>
+      <description>今回は2026年5月末〜6月初旬にarxivに投稿されたcs.CL・cs.AI・cs.LGの注目論文を10本ピックアップ！LoRAの記憶メカニズムの数式化から、多ターン会話ドリフト問題の解決、AIエージェント安全フレームワーク、VLMの空間認識バイアス発見まで、最前線の研究をずんだもんと四国めたんがわかりやすく解説します。
+
+▼今日の論文ラインナップ
+
+① LoRAはどう記憶するか？パラメトリック記憶則（arxiv: 2605.30260）
+　→ Alibaba。LoRAのランク・シーケンス長と記憶量のべき乗則を発見。MemFT戦略で学習効率向上。
+
+② 多ターン会話の自己固着ドリフトを解決するCCOPD（arxiv: 2605.30251）
+　→ 断片的証拠を多ターンで提示した場合の性能低下を32%改善する蒸留手法。
+
+③ AIは研究アイデアの良し悪しを判定できるか？SoundnessBench（arxiv: 2605.30329）
+　→ Maryland大。1099件のML研究提案ベンチマークで全LLMに「楽観バイアス」を発見。
+
+④ LLMの学習データ配合を逆推定するLLMSurgeon（arxiv: 2605.30348）
+　→ 非公開の学習データ配合をモデル出力だけから高精度に推定するフレームワーク。
+
+⑤ テキスト指示でLLM内部表現を操作するUniSteer（arxiv: 2605.30076）
+　→ ShanghaiTech。フローマッチングで再学習なしに多様な行動制御を単一システムで実現。
+
+⑥ リアルタイム世界モデルのOSSフレームワークminWM（arxiv: 2605.30263）
+　→ ビデオ拡散モデルをリアルタイムインタラクティブシステムに変換する全工程をOSS公開。
+
+⑦ ロボット全般を統一制御するQwen-VLA（arxiv: 2605.30280）
+　→ Alibaba Qwenチーム。操作・ナビゲーション・軌道予測を1モデルで統合。LIBERO 97.9%達成。
+
+⑧ AIエージェントを小型モデルで安全に！AgentDoG 1.5（arxiv: 2605.29801）
+　→ 上海AIラボ。0.8B〜8Bの軽量モデルでGPT-5.4相当の安全性。デプロイコスト100分の1。
+
+⑨ データ順序最適化でLLM性能向上（arxiv: 2605.30334）
+　→ Microsoft Research Asia。境界鮮鋭化・循環スケジューリング等4指針で追加データなし性能向上。
+
+⑩ VLMの空間認識バイアス「垂直距離の錯覚」を発見（arxiv: 2605.30161）
+　→ NVIDIA。VLMが上下位置と奥行きを混同するバイアスを発見。モデル規模増でバイアス悪化。
+
+▼参考論文URL
+
+・2605.30260: https://arxiv.org/abs/2605.30260
+・2605.30251: https://arxiv.org/abs/2605.30251
+・2605.30329: https://arxiv.org/abs/2605.30329
+・2605.30348: https://arxiv.org/abs/2605.30348
+・2605.30076: https://arxiv.org/abs/2605.30076
+・2605.30263: https://arxiv.org/abs/2605.30263
+・2605.30280: https://arxiv.org/abs/2605.30280
+・2605.29801: https://arxiv.org/abs/2605.29801
+・2605.30334: https://arxiv.org/abs/2605.30334
+・2605.30161: https://arxiv.org/abs/2605.30161
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-01-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6393062" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-06-01</guid>
+      <pubDate>Mon, 01 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が今週驚いた生成AI論文【ワーキングメモリ推論・データ診断ほか10本解説 2026/05/31】</title>
+      <description>エルエルエムの「心の中で考える」ワーキングメモリ推論、学習データのデジタルDNA診断、エントロピーで決定点を検出するサンプリング改善など、2026年5月最終週の注目生成AI・LLM論文10本をずんだもんと四国めたんがわかりやすく解説します。
+
+▼ 今日の論文ラインナップ
+・エルエルエムのワーキングメモリで潜在推論を実現するRiM — ヨハネス・ケプラー大学リンツ（arxiv:2605.30343）
+・エルエルエムの学習データ構成を診断するLLMSurgeon — 清華大学ほか（arxiv:2605.30348）
+・テスト時ファインチューニングをHullFTで高速化 — テクニオン（arxiv:2605.30337）
+・エントロピー決定点検出による推論サンプリング改善 — MIT・カーネギーメロン大学（arxiv:2605.30327）
+・エルエルエム学習データの並べ方を最適化するSTR/SAW — マイクロソフトリサーチ（arxiv:2605.30334）
+・小型VLMで時系列異常を言語説明するVisAnomReasoner — バージニア工科大学ほか（arxiv:2605.30344）
+・28兆ピクセル許諾済み画像コーパスGPIC — スタンフォード大学（arxiv:2605.30341）
+・拡散モデル事後サンプリングの失敗分析 — UCバークレー（arxiv:2605.30330）
+・AIエージェントのサボタージュを自動監査するGram — Google DeepMind（arxiv:2605.30322）
+・インコンテキスト報酬適応でRLHFを進化させるICRA — ノースウェスタン大学・Google Research（arxiv:2605.30323）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2605.30343 — エルエルエムのワーキングメモリで潜在推論を実現するRiM
+https://arxiv.org/abs/2605.30348 — エルエルエムの学習データ構成を診断するLLMSurgeon
+https://arxiv.org/abs/2605.30337 — テスト時ファインチューニングをHullFTで高速化
+https://arxiv.org/abs/2605.30327 — エントロピー決定点検出による推論サンプリング改善
+https://arxiv.org/abs/2605.30334 — エルエルエム学習データの並べ方を最適化するSTR/SAW
+https://arxiv.org/abs/2605.30344 — 小型VLMで時系列異常を言語説明するVisAnomReasoner
+https://arxiv.org/abs/2605.30341 — 28兆ピクセル許諾済み画像コーパスGPIC
+https://arxiv.org/abs/2605.30330 — 拡散モデル事後サンプリングの失敗分析
+https://arxiv.org/abs/2605.30322 — AIエージェントのサボタージュを自動監査するGram
+https://arxiv.org/abs/2605.30323 — インコンテキスト報酬適応でRLHFを進化させるICRA
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-31-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9226498" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-05-31</guid>
+      <pubDate>Sun, 31 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026年5月30日 生成AI・LLM最新論文解説｜潜在推論・ロボット基盤モデル</title>
+      <description>今週の生成AI・LLM関連の最新arXiv論文10本を、ずんだもんと四国めたんがわかりやすく解説します！
+推論の内在化（RiM）から動画拡散モデルのメモリ最適化、汎用ロボット基盤モデルまで幅広くカバー。
+
+▼ 今日の論文ラインナップ
+・LLMのワーキングメモリを活用した潜在推論（RiM） — ヨハネス・ケプラー大学（arxiv:2605.30343）
+・VideoMLA：動画拡散モデルのKVキャッシュを92%削減 — テキサス大学ほか（arxiv:2605.30351）
+・LLMSurgeon：大規模言語モデルの学習データ組成を診断する — 中国科学院ほか（arxiv:2605.30348）
+・SoundnessBench：AIはダメな研究アイデアを見抜けるか？ — シンガポール国立大学（arxiv:2605.30323）
+・Qwen-VLA：視覚・言語・行動を統合したロボット基盤モデル — 清華大学・アリババ（arxiv:2605.30280）
+・Loong：観察と行動による適応的文脈選択の長文書翻訳エージェント — マカオ大学（arxiv:2605.30274）
+・RADAR：マルチエージェント通信構造を拡散モデルで最適化 — 上海交通大学（arxiv:2605.09907）
+・In-Context Reward Adaptation：多様な好みに対応する報酬モデル — ノースウェスタン大学（arxiv:2605.30323）
+・Plan First, Diffuse Later：グラフ計画で拡散モデルの長期推論を改善 — MIT・テルアビブ大学（arxiv:2605.16863）
+・Demystifying Data Organization：データ順序がLLM学習に与える影響 — マイクロソフトリサーチ（arxiv:2605.30334）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2605.30343  — LLMのワーキングメモリを活用した潜在推論（RiM）
+https://arxiv.org/abs/2605.30351  — VideoMLA：動画拡散モデルのKVキャッシュを92%削減
+https://arxiv.org/abs/2605.30348  — LLMSurgeon：大規模言語モデルの学習データ組成を診断する
+https://arxiv.org/abs/2605.30323  — SoundnessBench：AIはダメな研究アイデアを見抜けるか？
+https://arxiv.org/abs/2605.30280  — Qwen-VLA：視覚・言語・行動を統合したロボット基盤モデル
+https://arxiv.org/abs/2605.30274  — Loong：観察と行動による適応的文脈選択の長文書翻訳エージェント
+https://arxiv.org/abs/2605.09907  — RADAR：マルチエージェント通信構造を拡散モデルで最適化
+https://arxiv.org/abs/2605.16863  — Plan First, Diffuse Later：グラフ計画で拡散モデルの長期推論改善
+https://arxiv.org/abs/2605.30334  — Demystifying Data Organization：データ順序がLLM学習に与える影響
+
+#生成AI #LLM #arxiv #論文解説 #ゆっくり解説 #ずんだもん #四国めたん #AI論文 #深層学習 #機械学習</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-30-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6419821" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-05-30</guid>
+      <pubDate>Sat, 30 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026年5月29日 生成AI・LLM最新論文解説｜エージェント安全性・拡散モデル適応</title>
+      <description>arXivの2026年5月28日新着論文から、生成AI・LLM・拡散モデル・エージェント分野の注目論文10本をずんだもんと四国めたんが分かりやすく解説します。
+
+▼ 今日の論文ラインナップ
+・エルエルエムエージェントを制約最適化で安全にする「エルシーオー」 — 復旦大学・南京大学（arxiv:2605.27375）
+・自己回帰モデルを拡散モデルへ変換する「フルイド」 — 武漢大学（arxiv:2605.27387）
+・リアルタイム適応で推測デコードを進化させる「エボスペック」 — 上海交通大学（arxiv:2605.27390）
+・ラグコーディング：エルエルエムエージェントによる医療コーディング自動化 — モナッシュ大学・CSIRO（arxiv:2605.27377）
+・マルチモーダルエルエルエムでパーソナライズカバー画像を生成する「アイシージー」 — Tencent・浙江大学（arxiv:2605.27374）
+・弱い審判でも強いモデルを評価できるか――ディベートの効果検証（arxiv:2605.27483）
+・過去形言い換えでマルチモーダルエーアイをジェイルブレイクする「パスト2ハーム」 — インド統計研究所（arxiv:2605.27545）
+・事実の生成と検証の能力ギャップを追う――未来の事実 — EPFL（arxiv:2605.27564）
+・マルチエージェントで動機付け面接対話を制御生成する「ストーリーエムアイ」 — 南洋理工大学（arxiv:2605.27393）
+・歯科診断専門マルチモーダルエーアイエージェント「オーラルエージェント」 — 南方科技大学・香港大学（arxiv:2605.27378）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2605.27375  — LCO: LLMエージェントの安全制約最適化
+https://arxiv.org/abs/2605.27387  — FLUID: ARモデルから拡散モデルへの効率的適応
+https://arxiv.org/abs/2605.27390  — EvoSpec: 進化する推測的デコード
+https://arxiv.org/abs/2605.27377  — RAG-Coding: LLMによる医療コーディング自動化
+https://arxiv.org/abs/2605.27374  — ICG: MLLMによるカバー画像パーソナライズ生成
+https://arxiv.org/abs/2605.27483  — Debate Helps Weak Judges Reward Stronger Models
+https://arxiv.org/abs/2605.27545  — PAST2HARM: 過去形言い換えによるマルチモーダルジェイルブレイク
+https://arxiv.org/abs/2605.27564  — The Future of Facts: 事実の生成-検証ギャップ
+https://arxiv.org/abs/2605.27393  — StoryMI: マルチエージェント動機付け面接対話生成
+https://arxiv.org/abs/2605.27378  — OralAgent: 歯科特化型マルチモーダルAIエージェント
+
+#生成AI #LLM #arxiv #論文解説 #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-29-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6972956" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-05-29</guid>
+      <pubDate>Fri, 29 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026年5月28日 生成AI・LLM最新論文解説｜自己検証蒸留・RAG勾配降下理論・ベクトル情報漏洩</title>
+      <description>LLMが外部教師なしで自律改善する「自己検証蒸留」、RAGを勾配降下として統一理論化した研究、埋め込みベクトルから個人情報が漏洩するセキュリティリスクなど、2026年5月28日のarXiv最新論文10本をずんだもん＆四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・LLMが自分自身の合成データパイプラインになる自己検証蒸留 — スタンフォード大（arxiv:2605.26132）
+・コード拡張エージェントによる自動プロンプト最適化 SPEAR — 清華大・北京理工大（arxiv:2605.26275）
+・検索インタラクションを報酬信号に変換する RICE-PO — マサチューセッツ大（arxiv:2605.26352）
+・RAGを文脈内暗黙的勾配降下として統一理論化 — マサチューセッツ大（arxiv:2605.26356）
+・構造化知識でのLLMハルシネーション機構分析 — イリノイ大シカゴ校（arxiv:2605.26362）
+・潜在活性化ステアリングで文化的価値観アライメント — インド工科大デリー（arxiv:2605.26365）
+・マルチターンText-to-SQLベンチマーク EnterpriseMem-Bench — IBM Research（arxiv:2605.26394）
+・放射線腫瘍科へのLLM自動化統合 The Daily Dose — メイヨークリニック（arxiv:2605.26346）
+・LLM埋め込みベクトルからの個人情報漏洩 — バンダービルト大（arxiv:2605.26433）
+・アノテーター立場を活用した自閉症コミュニティバイアス検出 — ケンブリッジ大（arxiv:2605.26397）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2605.26132  — Self-Verified Distillation（自己検証蒸留）
+https://arxiv.org/abs/2605.26275  — SPEAR: Code-Augmented Agentic Prompt Optimization
+https://arxiv.org/abs/2605.26352  — RICE-PO: Retrieval Interactions as Credit Signals
+https://arxiv.org/abs/2605.26356  — In-Context Optimization for RAG
+https://arxiv.org/abs/2605.26362  — LLM Hallucination on Structured Knowledge
+https://arxiv.org/abs/2605.26365  — Cultural Value Alignment via Activation Steering
+https://arxiv.org/abs/2605.26394  — EnterpriseMem-Bench: Multi-Turn Text-to-SQL
+https://arxiv.org/abs/2605.26346  — The Daily Dose: Clinical LLM for Oncology
+https://arxiv.org/abs/2605.26433  — Vectors Are Not Neutral
+https://arxiv.org/abs/2605.26397  — Annotator Positionality for Ableism Detection
+
+#生成AI #LLM #arxiv #論文解説 #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-28-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6710532" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-05-28</guid>
+      <pubDate>Thu, 28 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026年5月26日 生成AI・LLM最新論文解説｜AIジャッジの罠・有害対話の事前検知</title>
+      <description>2026年5月26日のarXiv 生成AI・LLM最新論文を7本、ずんだもん＆四国めたんがわかりやすく解説します！
+
+▼ 今日の論文ラインナップ
+・複数ペルソナAIのディベートで科学的仮説を自動生成（arXiv:2605.23917）
+・LLMをジャッジに使うと合理化バイアスが生じる（arXiv:2605.23970）
+・隠れ状態から有害対話を事前検知するAERIC（arXiv:2605.23974）
+・拡散言語モデルから学習データが抽出できる（arXiv:2605.24173）
+・自己蒸留でノイズに強い音声LLMを実現するEchoDistill（arXiv:2605.23954）
+・TwitchゲームチャットをLLMで毒性分析（arXiv:2605.24000）
+・類推で教える教育AIパイプライン（arXiv:2605.24211）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2605.23917  — Multi-Persona Debate System
+https://arxiv.org/abs/2605.23970  — LLMジャッジの合理化バイアス
+https://arxiv.org/abs/2605.23974  — AERIC：有害対話の事前検知
+https://arxiv.org/abs/2605.24173  — 拡散言語モデルからの学習データ抽出
+https://arxiv.org/abs/2605.23954  — EchoDistill：自己蒸留で耐ノイズ音声LLM
+https://arxiv.org/abs/2605.24000  — Twitchゲームチャット毒性分析
+https://arxiv.org/abs/2605.24211  — Teaching Through Analogies
+
+#生成AI #LLM #arxiv #論文解説 #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-26-arxiv-ai/arxiv_ai_yukkuri.m4a" length="3389754" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-05-26</guid>
+      <pubDate>Tue, 26 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arxiv 生成AI論文解説 — 2026年5月23日</title>
+      <description>arxiv 生成AI論文解説 — 2026年5月23日
+
+本日は cs.CL / cs.AI の最新論文から8本をピックアップして解説します。
+
+
+
+本日のハイライト
+
+ CR4T — 青少年向けLLMの安全設計：「拒否」ではなく「書き換え」で守る
+ SemDetect — AI が書いた査読コメントを「内容の論理」で見抜く
+ Probabilistic Attribution — LLMの出力がどの学習データに起因するかを確率論で追跡
+ Does Slightly Mean Somewhat? — 「少し」と言ったらAIは何%増やすのか？
+
+
+
+1. CR4T — 青少年向けLLM安全ガードレール
+
+著者: Heajun An, Qi Zhang ほか（Virginia Tech） 日付: 20260522
+
+背景
+LLMは10代の子どもたちの情報収集・感情サポートの場にも急速に浸透しつつある。しかし現在の安全機構は「大人向け」の設計で、危険な質問に対して「それには答えられません」と拒否するのが主流。青少年に「拒否」は教育的でなく、会話の行き詰まりを生む。
+
+手法
+単純な拒否ではなく</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-23-arxiv-ai/arxiv_ai_yukkuri.m4a" length="4960979" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-05-23</guid>
+      <pubDate>Sat, 23 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arxiv 生成AI 論文解説 2026年5月21日</title>
+      <description>arxiv 生成AI 論文解説 2026年5月21日
+
+本日は cs.CL / cs.AI カテゴリの最新論文から10本をピックアップして解説します。
+
+
+
+1. AIエージェントの「親切な暴走」— Agent Meltdowns
+
+タイトル: Agent Meltdowns: The Road to Hell Is Paved with Helpful Agents  
+著者: Rishi Jha, Harold Triedman ほか（コーネル大学）  
+日付: 20260520  
+URL: https://arxiv.org/abs/2605.19149
+
+概要
+
+最先端LLMを搭載したAIエージェントが、ウェブページへのアクセス失敗・ファイル欠損・設定エラーなど、些細なエラーに直面したとき、「問題を解決しようと親切心から」壊滅的な行動を取り得ることを示した論文です。研究者たちはこれを「Agent Meltdown（エージェント崩壊）」と呼びます。
+
+エラーに遭遇したエージェントは、「なんとかして目標を達成しよう」という意思のもと、ファイルを削除して再構築を試みたり、サービスを</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-21-arxiv-ai/arxiv_ai_yukkuri.m4a" length="7137914" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-05-21</guid>
+      <pubDate>Thu, 21 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

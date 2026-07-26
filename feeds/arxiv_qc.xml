@@ -1,0 +1,1850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>arxiv量子コンピュータ論文解説 by ずんだもん</title>
+    <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
+    <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/arxiv_qc.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <copyright>© 2026 daily-news-by-yukkuri</copyright>
+    <description>arXivに投稿された量子コンピュータ最新論文を、ずんだもんと四国めたんが毎日わかりやすく解説します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
+    <itunes:author>daily-news-by-yukkuri</itunes:author>
+    <itunes:summary>arXivに投稿された量子コンピュータ最新論文を、ずんだもんと四国めたんが毎日わかりやすく解説します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/arxiv_qc.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>daily-news-by-yukkuri</itunes:name>
+      <itunes:email>tokomakoma123@gmail.com</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://lambda-knight.github.io/daily-news-by-yukkuri/art/arxiv_qc.png</url>
+      <title>arxiv量子コンピュータ論文解説 by ずんだもん</title>
+      <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
+    </image>
+    <item>
+      <title>arXiv量子コンピュータニュース（2026年7月26日）</title>
+      <description>arXiv量子コンピュータニュース（2026年7月26日）
+
+キーワード: フォールトトレラント原子核シミュレーション / 誤り訂正閾値の双対性 / 中性原子量子コンピュータ戦略ロードマップ / 複製不可能暗号 / ワーナー状態のもつれ蒸留 / フォトニック量子回路の学習可能性
+
+オープニング：2026年7月26日 — arxiv量子コンピュータ論文解説
+
+2026年7月26日のarXiv量子コンピュータ論文解説では、10本を取り上げる。前半5本はフォールトトレラント量子計算の応用と基礎理論で、原子核構造シミュレーションへの資源見積もり、誤り訂正符号の最適閾値を制約する双対性、中性原子量子計算の戦略ロードマップ、無条件安全な複製不可能暗号、ワーナー状態の2コピー蒸留可能性という長年の未解決問題への解答が並ぶ。後半5本はハードウェアと通信実験が中心で、フォトニック量子回路の学習可能性、都市部の自由空間チャネルでのピコ秒精度もつれ分配、テレコムC帯の量子ドット光源のラック統合、NISQ向け量子位相推定の解析的サロゲート、フラクソニウム量子ビットの準粒子誘起遷移という5本が続く。
+
+いずれの</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-26-arxiv-qc/arxiv_qc_yukkuri.m4a" length="10412722" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>論理回転ゲートから量子基準系パラドックスまで、arXiv論文10本解説【2026/07/25】</title>
+      <description>今日はフォールトトレラント量子計算を支える基盤技術5本と、理論寄りの5本を続けて解説します。誤り耐性のあるアナログ論理回転ゲート、自己訂正記憶の摂動安定性、中性原子デバイスのエコシステム統合、ニューラルネットワークによるトランスモン逆設計、量子データセンターの拡張性という前半に続き、ノイズ付きランダム回路サンプリングの複雑性転移、制限ボルツマンマシンによる量子化学計算の高速化、水中量子鍵配送、量子系の仕事演算子、第三粒子パラドックスの操作的解決まで、arXiv量子コンピュータ論文10本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・アナログ論理回転ゲートの誤りをバランス融合で抑える(誤差指数を1から1.5へ改善)
+・ゲージ平均化で自己訂正記憶を摂動安定にする
+・中性原子デバイスをユニバーサル量子エコシステムへ統合する
+・ニューラルネットワークによるトランスモン量子ビットの部品レベル逆設計
+・アイソメトリック方式の量子データセンター・アーキテクチャHI-QDC
+・ノイズ付きランダム回路サンプリングの困難性と複雑性転移
+・制限ボルツマンマシンでQSCIの探索空間を圧縮する(SARS-CoV-2主プロテアーゼで実証)
+・有限鍵解析で見る水中量子鍵配送の性能
+・量子系の自律化と仕事演算子の出現
+・第三粒子パラドックスの操作的解決
+
+▼ 参考記事・ソース
+・論文1「Suppressing errors in analog logical rotation gates via balanced fusion」: https://arxiv.org/abs/2607.20756
+・論文2「Perturbatively Stable Self-Correcting Classical Memory from Gauge Averaging」: https://arxiv.org/abs/2607.20605
+・論文3「Enabling Neutral Atom Integration: Redesigning Device Models for Universal Quantum Ecosystems」: https://arxiv.org/abs/2607.20616
+・論文4「Component-Level Inverse Design of Transmon Qubits Using Neural Networks」: https://arxiv.org/abs/2607.20795
+・論文5「HI-QDC: An Isometric Modular Scalable Architecture for Quantum Data Centers」: https://arxiv.org/abs/2607.20633
+・論文6「Hardness and Complexity Transition of Noisy Random Circuit Sampling」: https://arxiv.org/abs/2607.20804
+・論文7「Machine-Learned Compact Subspace Generation for Quantum Selected Configuration Interaction within Density Matrix Embedding Framework」: https://arxiv.org/abs/2607.20585
+・論文8「Finite Key Underwater Quantum Key Distribution: Performance Analysis and Improvements」: https://arxiv.org/abs/2607.20664
+・論文9「Autonomization of Quantum Systems and the Emergence of the Work Operator」: https://arxiv.org/abs/2607.20602
+・論文10「An Operational Resolution of the Third-Particle Paradox」: https://arxiv.org/abs/2607.20815
+
+#フォールトトレラント量子計算 #中性原子量子コンピュータ #トランスモン #量子データセンター #量子化学計算 #量子鍵配送 #arxiv #論文解説 #量子コンピュータ #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-25-arxiv-qc/arxiv_qc_yukkuri.m4a" length="11090329" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-25</guid>
+      <pubDate>Sat, 25 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>実機での誤り訂正検証から量子電池まで、arXiv論文10本解説【2026/07/24】</title>
+      <description>今日は量子誤り訂正の実機検証・機械学習事後選択・古典アニーリング探索という3本立てを軸に、超伝導回路の設計モデル、マグノン媒介のもつれ生成、光子バンチングの統一理論、行列を作らないトモグラフィ、測定が選ぶ対称性の破れ、LLMによる量子リザバー設計、量子共鳴で効率を保つ量子電池まで、arXiv量子コンピュータ論文10本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・実機ハードウェアによるシンドローム–デコーダ検証(位置特定割合を定量化)
+・機械学習によるシンドローム事後選択で誤り訂正の信頼性を向上
+・古典アニーリングで良質な量子誤り訂正符号を探索
+・超伝導量子回路の分布定数共振器を集中定数モデルで再現(simpleLOMs)
+・弱結合でも高純度もつれを生むマグノン媒介方式
+・異常な光子バンチングを説明する統一枠組み
+・行列を作らないランク適応型の原子的量子状態トモグラフィ
+・測定が選ぶ動的対称性の破れ
+・LLMとハイブリッド探索で量子リザバー計算の設計を最適化
+・量子共鳴で高める量子電池の性能
+
+▼ 参考記事・ソース
+・論文1「Hardware-in-the-Loop Syndrome-to-Decoder Validation for Repetition, Surface, CSS-LDPC, and Digitized-GKP Codes」: https://arxiv.org/abs/2607.19447
+・論文2「Machine-learned syndrome post-selection for reliable quantum error correction」: https://arxiv.org/abs/2607.19563
+・論文3「Quantum codes from classical annealing」: https://arxiv.org/abs/2607.19574
+・論文4「Simple, accurate lumped-element models of distributed resonators for superconducting quantum circuits」: https://arxiv.org/abs/2607.19543
+・論文5「High-purity entanglement mediated by magnons despite weak coupling」: https://arxiv.org/abs/2607.19533
+・論文6「A unified framework for anomalous boson bunching」: https://arxiv.org/abs/2607.19499
+・論文7「Rank-Adaptive Matrix-Free Atomic Quantum State Tomography」: https://arxiv.org/abs/2607.19577
+・論文8「Measurement-Selective Dynamical Symmetry Breaking」: https://arxiv.org/abs/2607.19582
+・論文9「Hybrid LLM-Guided Search for Quantum Reservoir Architecture Design」: https://arxiv.org/abs/2607.19506
+・論文10「Quantum resonance-enhanced performance of quantum battery」: https://arxiv.org/abs/2607.19477
+
+#量子誤り訂正 #量子もつれ #量子トモグラフィ #超伝導量子回路 #量子電池 #arxiv #論文解説 #量子コンピュータ #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-24-arxiv-qc/arxiv_qc_yukkuri.m4a" length="11852632" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子技術論文解説 2026年7月23日</title>
+      <description>量子技術論文解説 2026年7月23日
+
+キーワード: 光学機械系 / 量子誤り訂正 / モジュール型計算 / 電子トラップ / シリコン光子工学 / 量子コヒーレンス
+
+オープニング：2026年7月23日 — 量子技術論文解説
+
+2026年7月23日の量子技術論文解説は、「量子らしさを観測する」「壊れやすい量子情報をつなぐ」「計算できる装置へ落とし込む」という三つの流れを追う。ミリグラム級の振動子に働く重力を測ろうとする実験計画から、位相だけで電力の流れる向きを反転させた超伝導量子ビットまで、扱うスケールも目的も大きく異なる8本である。
+
+面白いのは、どの研究も派手な最終製品を見せたわけではないことだ。重力測定には積算時間が必要で、遠隔もつれの99.9パーセントは統合アーキテクチャからの予測値、プリント基板製トラップはまだ量子ゲートを実演していない。その「まだ」を弱点として切り捨てず、何を越えれば次へ進めるのかを具体化した仕事として読むと、量子技術の現在地が立体的に見えてくる。
+
+論文1: ミリグラム振動子で重力相互作用を探る
+
+重力は日常では最も身近な力の一つだが、ミリグラム級の物</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-23-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9944485" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子技術の論文ピックアップ 2026年7月22日</title>
+      <description>量子技術の論文ピックアップ 2026年7月22日
+
+本日は、量子ネットワークの制御、量子最適化、測定下の量子多体系、量子回路の縮約、量子化学、散逸を用いた秩序の安定化を扱う8本です。
+
+論文1: サイバー攻撃下でも使える量子ネットワークへ
+
+量子中継器網では、速さだけでなく、十分な忠実度の量子もつれを届けることが重要です。本研究は、古典制御面へのサービス拒否攻撃を異常検知で捉え、精製の強さを適応的に変える共シミュレーションを示しました。8ノード鎖では、攻撃を知らない制御より、攻撃を認識する制御が目標忠実度を満たす配送確率を高めました。生の配送量との交換条件を明示した点が重要です。
+
+論文2: 制約つき施設配置を量子と古典で解く
+
+最大被覆施設配置は、限られた数の施設で需要をどこまで覆えるかを問う組合せ最適化です。本研究は、不等式制約を補助変数の増加なしに扱う不均衡な罰則と、連続緩和から得る偏った初期状態を組み合わせました。量子近似最適化の変種と段階的なパラメータ予定を併用すると、解の品質と制約充足度が一貫して改善したと報告します。
+
+論文3: 測定が量子もつれを弱める過程の指標
+
+測定</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-22-arxiv-qc/arxiv_qc_yukkuri.m4a" length="4204133" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子回路を22.3％削減？誤り訂正・量子化学ほか8本【2026/07/21】</title>
+      <description>回路配置後のCX数を22.3％下げた強化学習、非周期タイルによる誤り訂正、電子構造計算の資源推定、室温シリコン光チップまで、量子コンピュータ関連の新着arXiv論文8本を解説します。
+
+▼ 今日の論文ラインナップ
+・強化学習で量子回路の配置後コストを下げる
+・観測量の時系列から未知ユニタリを学ぶ
+・非周期単タイルから量子誤り訂正符号を作る
+・非エルミート断熱計算の安定条件
+・電子構造の基底状態推定をスペクトル増幅で軽くする
+・量子と高性能計算の混成ワークフローを測る
+・一枚のシリコン光チップでスクイーズド光を生成・検出
+・量子ネットワークの経路と周波数を同時に割り当てる
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.15307 — 強化学習で量子回路の配置後コストを下げる
+https://arxiv.org/abs/2607.15316 — 観測量の時系列から未知ユニタリを学ぶ
+https://arxiv.org/abs/2607.15326 — 非周期単タイルから量子誤り訂正符号を作る
+https://arxiv.org/abs/2607.15343 — 非エルミート断熱計算の安定条件
+https://arxiv.org/abs/2607.15358 — 電子構造の基底状態推定をスペクトル増幅で軽くする
+https://arxiv.org/abs/2607.15426 — 量子と高性能計算の混成ワークフローを測る
+https://arxiv.org/abs/2607.15461 — 一枚のシリコン光チップでスクイーズド光を生成・検出
+https://arxiv.org/abs/2607.15465 — 量子ネットワークの経路と周波数を同時に割り当てる
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #量子化学 #量子ネットワーク #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-21-arxiv-qc/arxiv_qc_yukkuri.m4a" length="3842921" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子ネットワーク・誤り訂正・量子化学の新研究5本【arXiv 2026/07/18】</title>
+      <description>動的な量子もつれ配送、材料欠陥と雑音、LDGM量子符号、量子化学回路圧縮、論理もつれ生成を、最新arXiv論文5本からわかりやすく解説します。
+
+▼ 今日の論文
+・多利用者量子ネットワーク
+・材料欠陥とデコヒーレンス
+・LDGM型の量子誤り訂正符号
+・量子化学回路の圧縮
+・平面構造での論理もつれ生成
+
+▼ 参考論文
+・https://arxiv.org/abs/2607.15262
+・https://arxiv.org/abs/2607.15252
+・https://arxiv.org/abs/2607.15159
+・https://arxiv.org/abs/2607.15076
+・https://arxiv.org/abs/2607.15044
+
+#量子コンピュータ #量子通信 #量子誤り訂正 #量子化学 #arXiv #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-18-arxiv-qc/arxiv_qc_yukkuri.m4a" length="1974747" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-18</guid>
+      <pubDate>Sat, 18 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子優位性・誤り訂正・アニーリング最新論文5本【arXiv量子 2026/07/17】</title>
+      <description>量子優位性の認証、猫量子ビットの誤り訂正、量子アニーリング、イオントラップ、クディット算法を扱う論文5本です。
+
+▼ 論文URL
+https://arxiv.org/abs/2607.13090
+https://arxiv.org/abs/2607.13105
+https://arxiv.org/abs/2607.13150
+https://arxiv.org/abs/2607.13166
+https://arxiv.org/abs/2607.13244
+
+#arxiv #量子コンピュータ #量子誤り訂正 #量子アニーリング #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-17-arxiv-qc/arxiv_qc_yukkuri.m4a" length="1701116" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-17</guid>
+      <pubDate>Fri, 17 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子ネットワークはどこまで来た？高速シミュレーターと量子AI安全性【2026/07/16】</title>
+      <description>量子シミュレーター、光スピン量子ビット、遠隔もつれ、理論検証、量子AI安全性を解説します。
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.11985 — 状態ベクトル量子シミュレーター
+https://arxiv.org/abs/2607.11992 — 光スピン量子ビット
+https://arxiv.org/abs/2607.12002 — 遠隔もつれ
+https://arxiv.org/abs/2607.12047 — ホログラフィック符号
+https://arxiv.org/abs/2607.12055 — 量子AIバックドア
+
+#量子コンピュータ #量子情報 #量子ネットワーク #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-16-arxiv-qc/arxiv_qc_yukkuri.m4a" length="2185844" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子シミュレーションからAI復号まで、量子論文10本解説【2026/07/15】</title>
+      <description>強電場QEDのトラップトイオン模擬、公平な量子優位性比較、量子ネットワーク、QAOA、カラー符号のAI復号まで、最新10論文を解説します。
+
+▼ 今日の論文ラインナップ
+・強電場QEDをトラップトイオンでシミュレーション — arXiv:2607.09844
+・有限時間量子オットー熱機関 — arXiv:2607.09857
+・クラウド量子シミュレーター比較 — arXiv:2607.09882
+・公平な量子リザバー比較 — arXiv:2607.09905
+・QAOAパラメーター転送 — arXiv:2607.09927
+・カラー符号のAI事前復号 — arXiv:2607.10058
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.09844
+https://arxiv.org/abs/2607.09857
+https://arxiv.org/abs/2607.09882
+https://arxiv.org/abs/2607.09905
+https://arxiv.org/abs/2607.09906
+https://arxiv.org/abs/2607.09927
+https://arxiv.org/abs/2607.09933
+https://arxiv.org/abs/2607.09976
+https://arxiv.org/abs/2607.10057
+https://arxiv.org/abs/2607.10058
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #QAOA #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-15-arxiv-qc/arxiv_qc_yukkuri.m4a" length="3738763" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-15</guid>
+      <pubDate>Wed, 15 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子実機で相転移のもつれを測る？重要論文10本解説【2026/07/14】</title>
+      <description>量子実機での量子臨界状態測定、衛星量子通信、補助量子ビットなしの開放系シミュレーションまで。7月14日朝時点の最新arXiv量子コンピュータ・量子情報論文10本を、ずんだもんと四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・ニューラル量子状態の精度を再検証するコメント — Krinitsin ほか（arXiv:2607.08811）
+・装置の反動が空間的重ね合わせに課す制約 — Celeri ほか（arXiv:2607.08819）
+・部分可換な多項式最適化の枠組み — Mishra ほか（arXiv:2607.08841）
+・融合空間符号の図式的場の理論 — Rayan（arXiv:2607.08911）
+・古典シミュレーションしやすい並列量子畳み込みネットワーク — Nguyen、Wong（arXiv:2607.08928）
+・実機で量子臨界点の二体もつれを測る — Baul ほか（arXiv:2607.08967）
+・バーガーズ方程式を量子計算へ載せる拡張可能な手法 — Demirdjian ほか（arXiv:2607.08976）
+・衛星量子通信向け連続変数量子テレポーテーションの蒸留 — Waliani ほか（arXiv:2607.08977）
+・補助量子ビットなしで開放系をシミュレーションする圧縮法 — Liu ほか（arXiv:2607.09051）
+・対称性が測定と量子ゲートに課す定量的限界 — Hokkyo、Tajima（arXiv:2607.09075）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.08811 — ニューラル量子状態の精度を再検証するコメント
+https://arxiv.org/abs/2607.08819 — 装置の反動が空間的重ね合わせに課す制約
+https://arxiv.org/abs/2607.08841 — 部分可換な多項式最適化の枠組み
+https://arxiv.org/abs/2607.08911 — 融合空間符号の図式的場の理論
+https://arxiv.org/abs/2607.08928 — 古典シミュレーションしやすい並列量子畳み込みネットワーク
+https://arxiv.org/abs/2607.08967 — 実機で量子臨界点の二体もつれを測る
+https://arxiv.org/abs/2607.08976 — バーガーズ方程式を量子計算へ載せる拡張可能な手法
+https://arxiv.org/abs/2607.08977 — 衛星量子通信向け連続変数量子テレポーテーションの蒸留
+https://arxiv.org/abs/2607.09051 — 補助量子ビットなしで開放系をシミュレーションする圧縮法
+https://arxiv.org/abs/2607.09075 — 対称性が測定と量子ゲートに課す定量的限界
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-14-arxiv-qc/arxiv_qc_yukkuri.m4a" length="4212543" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-14</guid>
+      <pubDate>Tue, 14 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータが実機で何を測れる？重要論文10本解説【2026/07/13】</title>
+      <description>量子臨界状態の実機測定、衛星量子通信、量子誤り訂正から量子シミュレーションまで。7月13日登録の量子コンピュータ・量子情報の新着論文10本を、ずんだもんと四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・ニューラル量子状態の精度を再検証するコメント — Krinitsin ほか（arXiv:2607.08811）
+・装置の反動が空間的重ね合わせに課す制約 — Celeri ほか（arXiv:2607.08819）
+・部分可換な多項式最適化の枠組み — Mishra ほか（arXiv:2607.08841）
+・融合空間符号の図式的場の理論 — Rayan（arXiv:2607.08911）
+・古典シミュレーションしやすい並列QCNN — Nguyen、Wong（arXiv:2607.08928）
+・実機で量子臨界点の二体もつれを測る — Baul ほか（arXiv:2607.08967）
+・バーガーズ方程式を量子計算へ載せる拡張可能な手法 — Demirdjian ほか（arXiv:2607.08976）
+・衛星量子通信向け連続変数量子テレポーテーションの蒸留 — Waliani ほか（arXiv:2607.08977）
+・補助量子ビットなしで開放系をシミュレーションする圧縮法 — Liu ほか（arXiv:2607.09051）
+・対称性が測定と量子ゲートに課す定量的限界 — Hokkyo、Tajima（arXiv:2607.09075）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.08811 — ニューラル量子状態の精度を再検証するコメント
+https://arxiv.org/abs/2607.08819 — 装置の反動が空間的重ね合わせに課す制約
+https://arxiv.org/abs/2607.08841 — 部分可換な多項式最適化の枠組み
+https://arxiv.org/abs/2607.08911 — 融合空間符号の図式的場の理論
+https://arxiv.org/abs/2607.08928 — 古典シミュレーションしやすい並列QCNN
+https://arxiv.org/abs/2607.08967 — 実機で量子臨界点の二体もつれを測る
+https://arxiv.org/abs/2607.08976 — バーガーズ方程式を量子計算へ載せる拡張可能な手法
+https://arxiv.org/abs/2607.08977 — 衛星量子通信向け連続変数量子テレポーテーションの蒸留
+https://arxiv.org/abs/2607.09051 — 補助量子ビットなしで開放系をシミュレーションする圧縮法
+https://arxiv.org/abs/2607.09075 — 対称性が測定と量子ゲートに課す定量的限界
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-13-arxiv-qc/arxiv_qc_yukkuri.m4a" length="4253544" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-13</guid>
+      <pubDate>Mon, 13 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>実機ノイズから直接FTQC性能を計算する設計基盤「プラケット」ほか今週の量子コンピュータ論文まとめ 2026/07/12</title>
+      <description>実機のノイズから直接フォールトトレラント量子計算の性能を計算する設計基盤「プラケット」、FPGAで実現する原子配列の高速欠陥フリー化、グローバー探索を使った量子バックエンド共通評価指標、サンディア国立研究所QSCOUTのキュービット・ボソン・ゲートセット、都市規模の光ファイバー網で原子と光子をもつれさせる量子ネットワーク実験、マジックゲートテレポーテーションの理論的構造解明、分散量子コンピューティング向け並列誤り訂正復号法、衛星コンステレーション設計への量子アルゴリズム応用、フォトニックチップ上での測定型量子計算の実証、そしてゲート可変フラクソニウムで観測された磁束-電荷結合まで、今週注目の量子コンピュータ関連論文10本をずんだもんと四国めたんがわかりやすく解説します。
+
+▼ 今日の論文ラインナップ
+・実機のノイズから直接FTQCの論理性能を計算する設計基盤「プラケット」 — QC Design、ウルム大学ほか（arxiv:2607.08767）
+・FPGAで実現する原子配列の高速欠陥フリー化制御システム — 中国科学技術大学（arxiv:2607.08687）
+・グローバー探索を使った量子バックエンド共通評価指標「GroverFigureOfMerit」 — Tiago Restuchaほか（arxiv:2607.08636）
+・サンディア国立研究所QSCOUTが開発したキュービット・ボソン・ゲートセット — サンディア国立研究所（arxiv:2607.08560）
+・原子と光子のもつれを都市規模の光ファイバー網で伝送 — マックス・プランク量子光学研究所、ミュンヘン大学ほか（arxiv:2607.08513）
+・マジックゲートテレポーテーションの構造解明とフィードフォワード簡略化 — イェール大学、シカゴ大学（arxiv:2607.08508）
+・分散量子コンピューティング向け並列QEC復号法 — パルマ大学（arxiv:2607.08386）
+・衛星コンステレーション設計に量子アルゴリズムQAOAを応用する分割統治法 — スティーブンス工科大学、ウェストバージニア大学（arxiv:2607.08102）
+・フォトニックチップ上で実現する測定型量子計算 — シュトゥットガルト大学（arxiv:2607.07890）
+・ゲート可変フラクソニウムで観測された磁束-電荷の量子コヒーレント結合 — コロラド大学ボルダー校、コペンハーゲン大学（arxiv:2607.07798）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.08767 — 実機のノイズから直接FTQCの論理性能を計算する設計基盤「プラケット」
+https://arxiv.org/abs/2607.08687 — FPGAで実現する原子配列の高速欠陥フリー化制御システム
+https://arxiv.org/abs/2607.08636 — グローバー探索を使った量子バックエンド共通評価指標「GroverFigureOfMerit」
+https://arxiv.org/abs/2607.08560 — サンディア国立研究所QSCOUTが開発したキュービット・ボソン・ゲートセット
+https://arxiv.org/abs/2607.08513 — 原子と光子のもつれを都市規模の光ファイバー網で伝送
+https://arxiv.org/abs/2607.08508 — マジックゲートテレポーテーションの構造解明とフィードフォワード簡略化
+https://arxiv.org/abs/2607.08386 — 分散量子コンピューティング向け並列QEC復号法
+https://arxiv.org/abs/2607.08102 — 衛星コンステレーション設計に量子アルゴリズムQAOAを応用する分割統治法
+https://arxiv.org/abs/2607.07890 — フォトニックチップ上で実現する測定型量子計算
+https://arxiv.org/abs/2607.07798 — ゲート可変フラクソニウムで観測された磁束-電荷の量子コヒーレント結合
+
+#量子コンピュータ #量子情報 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #四国めたん #量子誤り訂正 #量子ネットワーク #QC研究</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-12-arxiv-qc/arxiv_qc_yukkuri.m4a" length="6731324" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-12</guid>
+      <pubDate>Sun, 12 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】貯蔵層エンジニアリング不要のキャットキュービット安定化 ほか今週の量子コンピュータ論文まとめ 2026/07/11</title>
+      <description>貯蔵層エンジニアリングなしでキャットキュービットを安定化する新パラダイム、中性原子プロセッサ向けメビウス変換コンパイラ、フラクソニウム量子ビットのLZSM高忠実度ゲート、どんなグラフにも対応する分割統治型QAOA、量子線形ソルバーによる量子化学の指数優位性、原子核多体系のベンチマーク、自然な散逸だけで起きる「もつれの突然死」の実験実証、量子デンスネットワーク符号化、量子ニューラルネットワークのグロッキング現象、そして量子コンピューティング研究の再現性を大規模調査した論文まで、今週注目の量子コンピュータ関連論文10本をずんだもんと四国めたんがわかりやすく解説します。
+
+▼ 今日の論文
+・貯蔵層エンジニアリング不要のストロボスコピック・キャットキュービット安定化 — Timo Hillmannほか — https://arxiv.org/abs/2607.08363
+・メビウス変換で読み解く中性原子プロセッサ向け対角ゲートコンパイル — Hairuo Huangほか — https://arxiv.org/abs/2607.08212
+・LZSMプロトコルによるフラクソニウム量子ビットの高忠実度ゲート最適化 — Santiago Ferreyraほか — https://arxiv.org/abs/2607.07999
+・量子ビット凍結でQAOAの分割統治法をどんなグラフにも対応させる — Sokea Sangほか — https://arxiv.org/abs/2607.08138
+・量子線形ソルバーは量子化学に指数関数的な優位性をもたらすか — Peniel Bertrand Tsemoほか — https://arxiv.org/abs/2607.08220
+・原子核多体系を量子コンピュータのベンチマークにする — Sota Yoshidaほか — https://arxiv.org/abs/2607.08047
+・自然な散逸だけで起きる「もつれの突然死」を実験で確認 — Yan Wangほか — https://arxiv.org/abs/2607.08078
+・量子デンスネットワーク符号化がもたらす通信の優位性 — Ian George, Brian Doolittle — https://arxiv.org/abs/2607.08133
+・量子ニューラルネットワークにも「グロッキング」現象が起きる — Daniel Pranjićほか — https://arxiv.org/abs/2607.08350
+・「私のQPUでは動きました」——量子コンピューティング研究の再現性を大規模調査 — Dominik Kösterほか — https://arxiv.org/abs/2607.08348
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.08363 — 貯蔵層エンジニアリング不要のストロボスコピック・キャットキュービット安定化
+https://arxiv.org/abs/2607.08212 — メビウス変換で読み解く中性原子プロセッサ向け対角ゲートコンパイル
+https://arxiv.org/abs/2607.07999 — LZSMプロトコルによるフラクソニウム量子ビットの高忠実度ゲート最適化
+https://arxiv.org/abs/2607.08138 — 量子ビット凍結でQAOAの分割統治法をどんなグラフにも対応させる
+https://arxiv.org/abs/2607.08220 — 量子線形ソルバーは量子化学に指数関数的な優位性をもたらすか
+https://arxiv.org/abs/2607.08047 — 原子核多体系を量子コンピュータのベンチマークにする
+https://arxiv.org/abs/2607.08078 — 自然な散逸だけで起きる「もつれの突然死」を実験で確認
+https://arxiv.org/abs/2607.08133 — 量子デンスネットワーク符号化がもたらす通信の優位性
+https://arxiv.org/abs/2607.08350 — 量子ニューラルネットワークにも「グロッキング」現象が起きる
+https://arxiv.org/abs/2607.08348 — 「私のQPUでは動きました」——量子コンピューティング研究の再現性を大規模調査
+
+#量子コンピュータ #arxiv #論文解説 #ゆっくり解説 #ずんだもん #四国めたん #量子誤り訂正 #量子アルゴリズム #QC研究</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-11-arxiv-qc/arxiv_qc_yukkuri.m4a" length="6732866" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-11</guid>
+      <pubDate>Sat, 11 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】フォトニックチップで測定型量子計算を実証 ほか今週の量子コンピュータ論文まとめ 2026/07/10</title>
+      <description>シリコンフォトニックチップ上での測定型量子計算の実証とグローバー探索・ドイチュ・ジョサ・アルゴリズムの実行、超伝導回路の新しい磁束-電荷結合素子、誤り訂正されたシリコンスピン量子ビットのための経路探索技術、GKPマジック状態の質を改善する新手法、デコヒーレンスがトポロジカル相を誘起するという逆転の発見、LLMエージェントによるテンソルネットワーク理論の自動形式化まで、今週注目の量子コンピュータ関連論文10本をずんだもんと四国めたんがわかりやすく解説します。
+
+▼ 今日の論文
+・フォトニックチップ上の測定型量子計算 — Jeldrik Husterほか — https://arxiv.org/abs/2607.07890
+・ゲート同調可能なフラクソニウムにおけるコヒーレントな磁束-電荷相互作用の観測 — Brian D. Isakovほか — https://arxiv.org/abs/2607.07798
+・誤り訂正されたシリコンスピン量子ビット・アーキテクチャのための経路探索技術 — Julian Shenほか — https://arxiv.org/abs/2607.07822
+・誤り訂正された非ガウス量子状態から作る改良型GKPマジック状態 — Sharon Davidほか — https://arxiv.org/abs/2607.07833
+・偏光-タイムビン変換による頑健なイオン-光子もつれ — Ana Luiza Ferrariほか — https://arxiv.org/abs/2607.07805
+・化学・材料科学のための量子センサー — Piotr Putほか — https://arxiv.org/abs/2607.07848
+・デコヒーレンスから生まれるトポロジー — Alexandre Chaduteauほか — https://arxiv.org/abs/2607.07801
+・ピーク型量子回路のためのスパースかつ切り詰め型の状態ベクトルシミュレータ — Diogo R. Ferreira — https://arxiv.org/abs/2607.07816
+・テンソルネットワーク理論のマルチエージェント自動形式化 — Sirui Luほか — https://arxiv.org/abs/2607.07857
+・ニューラルネットワークで量子カオス固有状態の半古典構造を解き明かす — J. Montesほか — https://arxiv.org/abs/2607.07874
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.07890 — フォトニックチップ上の測定型量子計算
+https://arxiv.org/abs/2607.07798 — ゲート同調可能なフラクソニウムにおけるコヒーレントな磁束-電荷相互作用の観測
+https://arxiv.org/abs/2607.07822 — 誤り訂正されたシリコンスピン量子ビット・アーキテクチャのための経路探索技術
+https://arxiv.org/abs/2607.07833 — 誤り訂正された非ガウス量子状態から作る改良型GKPマジック状態
+https://arxiv.org/abs/2607.07805 — 偏光-タイムビン変換による頑健なイオン-光子もつれ
+https://arxiv.org/abs/2607.07848 — 化学・材料科学のための量子センサー
+https://arxiv.org/abs/2607.07801 — デコヒーレンスから生まれるトポロジー
+https://arxiv.org/abs/2607.07816 — ピーク型量子回路のためのスパースかつ切り詰め型の状態ベクトルシミュレータ
+https://arxiv.org/abs/2607.07857 — テンソルネットワーク理論のマルチエージェント自動形式化
+https://arxiv.org/abs/2607.07874 — ニューラルネットワークで量子カオス固有状態の半古典構造を解き明かす
+
+#量子コンピュータ #arxiv #論文解説 #ゆっくり解説 #ずんだもん #四国めたん #量子誤り訂正 #量子アルゴリズム #QC研究</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-10-arxiv-qc/arxiv_qc_yukkuri.m4a" length="6839775" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-10</guid>
+      <pubDate>Fri, 10 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】グリッド状態量子ビットの誤差が2桁改善 ほか今週の量子コンピュータ論文まとめ 2026/07/09</title>
+      <description>カナダのノールクアンティック社が実現したグリッド状態量子ビットの状態準備・測定誤差1000分の1以下、190キュービット・100万パラメータ超の量子生成モデルによるRNA配列学習、量子鍵配送を使ったVPN通信の8時間連続稼働、大規模イオン結晶の局所制御、超伝導量子ビットチップの新しい温度計測法まで、今週注目の量子コンピュータ関連論文10本をずんだもんと四国めたんがわかりやすく解説します。
+
+▼ 今日の論文
+・グリッド状態量子ビットにおける状態準備・測定誤差1000分の1以下の量子誤り訂正 — Sara Turcotteほか（ノールクアンティック社/シェルブルック大学） — https://arxiv.org/abs/2607.06718
+・スペクトラルボルンマシン——離散データのための古典学習可能な量子生成モデル — Austin Huangほか — https://arxiv.org/abs/2607.06675
+・LuxQuanta NOVA量子鍵配送プラットフォームによるETSI規格鍵配送を用いたリアルタイムVPN通信 — Felipe Paixãoほか — https://arxiv.org/abs/2607.06602
+・空間光変調器を用いたペニングトラップ内大規模イオン結晶の局所制御 — Allison L. Carterほか — https://arxiv.org/abs/2607.06654
+・超伝導量子ビットチップ上のデイエム接合による局所温度計測 — Ella O. Lachmanほか — https://arxiv.org/abs/2607.06670
+・スピン一重項は役に立つ — Silas Hoffmanほか — https://arxiv.org/abs/2607.06672
+・運用上の仮定に基づく半デバイス非依存量子鍵配送 — Anubhav Chaturvediほか — https://arxiv.org/abs/2607.06682
+・モニタリング下クリフォード回路の普遍的純粋化ダイナミクス — Beatrice Magniほか — https://arxiv.org/abs/2607.06683
+・ファインマンの時計と階層構造を用いたサンプリングによる量子誤り緩和 — Theo Saporiti — https://arxiv.org/abs/2607.06752
+・CV-QKDにおける離散変調のための分布マッチングアルゴリズムの秘密鍵レート解析 — Micael Diasほか — https://arxiv.org/abs/2607.06783
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.06718 — グリッド状態量子ビットにおける状態準備・測定誤差1000分の1以下の量子誤り訂正
+https://arxiv.org/abs/2607.06675 — スペクトラルボルンマシン——離散データのための古典学習可能な量子生成モデル
+https://arxiv.org/abs/2607.06602 — LuxQuanta NOVA量子鍵配送プラットフォームによるETSI規格鍵配送を用いたリアルタイムVPN通信
+https://arxiv.org/abs/2607.06654 — 空間光変調器を用いたペニングトラップ内大規模イオン結晶の局所制御
+https://arxiv.org/abs/2607.06670 — 超伝導量子ビットチップ上のデイエム接合による局所温度計測
+https://arxiv.org/abs/2607.06672 — スピン一重項は役に立つ
+https://arxiv.org/abs/2607.06682 — 運用上の仮定に基づく半デバイス非依存量子鍵配送
+https://arxiv.org/abs/2607.06683 — モニタリング下クリフォード回路の普遍的純粋化ダイナミクス
+https://arxiv.org/abs/2607.06752 — ファインマンの時計と階層構造を用いたサンプリングによる量子誤り緩和
+https://arxiv.org/abs/2607.06783 — CV-QKDにおける離散変調のための分布マッチングアルゴリズムの秘密鍵レート解析
+
+#量子コンピュータ #arxiv #論文解説 #ゆっくり解説 #ずんだもん #四国めたん #量子誤り訂正 #量子アルゴリズム #QC研究</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-09-arxiv-qc/arxiv_qc_yukkuri.m4a" length="7760267" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-09</guid>
+      <pubDate>Thu, 09 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AIが量子チップを自分で調整？量子コンピュータ最新論文まとめ【2026/07/08】</title>
+      <description>自律型AIエージェントが量子プログラミングをこなせるかを測る新ベンチマークから、視覚言語AIによる超伝導チップの自己校正、トラップイオン量子コンピュータへの実機ハッキング実証、量子鍵の貸し出しプロトコル、量子アニーリングによるポートフォリオ最適化、そして「偽の真空」崩壊まで、今週注目の量子コンピュータ関連論文10本をずんだもんと四国めたんがわかりやすく解説します。
+
+▼ 今日の論文ラインナップ
+・AIエージェントは量子プログラミングをこなせるか？新ベンチマーク「ORBIT-Q」（arXiv:2607.03105）
+・視覚言語AIエージェントが超伝導量子チップを自分で校正する（arXiv:2607.03193）
+・トラップイオン型量子コンピュータの量子ニューラルネットワークをハッキングする（arXiv:2607.03337）
+・量子鍵を「貸し出して」返却を確認する誤り耐性プロトコル（arXiv:2607.02989）
+・量子アニーリングで現実的な取引コストを考慮したポートフォリオ最適化（arXiv:2607.03218）
+・長距離相互作用する量子系における「偽の真空」崩壊（arXiv:2607.03274）
+・高次のノイズ統計が量子センサーのハイゼンベルク限界を復活させる（arXiv:2607.02962）
+・量子誤り軽減は「精度が上がっても意思決定は改善しない」ことがある（arXiv:2607.02888）
+・形を整えた自由電子で三準位系をコヒーレント制御する（arXiv:2607.02906）
+・ユニタリ変換版コルモゴロフ・アーノルド表現定理（arXiv:2607.03187）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.03105 — AIエージェントは量子プログラミングをこなせるか？新ベンチマーク「ORBIT-Q」
+https://arxiv.org/abs/2607.03193 — 視覚言語AIエージェントが超伝導量子チップを自分で校正する
+https://arxiv.org/abs/2607.03337 — トラップイオン型量子コンピュータの量子ニューラルネットワークをハッキングする
+https://arxiv.org/abs/2607.02989 — 量子鍵を「貸し出して」返却を確認する誤り耐性プロトコル
+https://arxiv.org/abs/2607.03218 — 量子アニーリングで現実的な取引コストを考慮したポートフォリオ最適化
+https://arxiv.org/abs/2607.03274 — 長距離相互作用する量子系における「偽の真空」崩壊
+https://arxiv.org/abs/2607.02962 — 高次のノイズ統計が量子センサーのハイゼンベルク限界を復活させる
+https://arxiv.org/abs/2607.02888 — 量子誤り軽減は「精度が上がっても意思決定は改善しない」ことがある
+https://arxiv.org/abs/2607.02906 — 形を整えた自由電子で三準位系をコヒーレント制御する
+https://arxiv.org/abs/2607.03187 — ユニタリ変換版コルモゴロフ・アーノルド表現定理
+
+#量子コンピュータ #量子情報 #量子機械学習 #量子誤り訂正 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-08-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8430429" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-08</guid>
+      <pubDate>Wed, 08 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>IBMが101スピンの量子多体系を観測？今週の量子コンピュータ重要論文を解説【2026/07/07】</title>
+      <description>超伝導量子プロセッサでの大規模な量子シミュレーションから、原子を運ばない誤り耐性アーキテクチャ、生成AIのアテンション機構を使った量子もつれ予測、遺伝子編集への量子アルゴリズム応用、そして太陽内部の不透明度計算まで、今週注目の量子コンピュータ関連論文10本をずんだもんと四国めたんがわかりやすく解説します。
+
+▼ 今日の論文ラインナップ
+・超伝導量子プロセッサで101個のスピン鎖の励起スペクトルを観測（arXiv:2607.02673）
+・原子を運ばず量子ビットをつなぐ「静的原子バス」で誤り耐性計算を設計（arXiv:2607.02804）
+・量子コンパイラ基盤MLIRで量子回路マッピングを刷新（arXiv:2607.02616）
+・生成AIの「アテンション機構」で量子もつれの量を予測（arXiv:2607.02767）
+・量子アルゴリズムで複数遺伝子を同時編集する「ガイドRNA」を最適選択（arXiv:2607.02622）
+・アミノ酸の基底状態エネルギー計算でVQEアルゴリズムを一斉比較（arXiv:2607.02620）
+・初期値の工夫で量子エネルギー推定の測定回数を大幅削減（arXiv:2607.02794）
+・コヒーレンスを壊さずに量子系の「仕事」を測る新手法（arXiv:2607.02652）
+・量子バッテリーはコヒーレンスが高いほど「ローカルには空っぽ」になる（arXiv:2607.02810）
+・量子コンピュータで太陽の鉄の「不透明度」を計算する（arXiv:2607.02811）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.02673 — 超伝導量子プロセッサで101個のスピン鎖の励起スペクトルを観測
+https://arxiv.org/abs/2607.02804 — 原子を運ばず量子ビットをつなぐ「静的原子バス」で誤り耐性計算を設計
+https://arxiv.org/abs/2607.02616 — 量子コンパイラ基盤MLIRで量子回路マッピングを刷新
+https://arxiv.org/abs/2607.02767 — 生成AIの「アテンション機構」で量子もつれの量を予測
+https://arxiv.org/abs/2607.02622 — 量子アルゴリズムで複数遺伝子を同時編集する「ガイドRNA」を最適選択
+https://arxiv.org/abs/2607.02620 — アミノ酸の基底状態エネルギー計算でVQEアルゴリズムを一斉比較
+https://arxiv.org/abs/2607.02794 — 初期値の工夫で量子エネルギー推定の測定回数を大幅削減
+https://arxiv.org/abs/2607.02652 — コヒーレンスを壊さずに量子系の「仕事」を測る新手法
+https://arxiv.org/abs/2607.02810 — 量子バッテリーはコヒーレンスが高いほど「ローカルには空っぽ」になる
+https://arxiv.org/abs/2607.02811 — 量子コンピュータで太陽の鉄の「不透明度」を計算する
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-07-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9759367" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-07</guid>
+      <pubDate>Tue, 07 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>中国USTCが量子論理演算を実機実証？今週の重要論文を解説【2026/07/06】</title>
+      <description>量子誤り訂正の実機実証から量子暗号への意外なハッキング、量子機械学習の応用例まで、今週注目の量子コンピュータ関連論文10本をずんだもんと四国めたんがわかりやすく解説します。
+
+▼ 今日の論文ラインナップ
+・中国・USTCが超伝導量子プロセッサで表面符号の論理演算を実証（arXiv:2607.01473）
+・IBM実機で誤り抑制する新方式「LUCI」を検証（arXiv:2607.01887）
+・中性原子量子コンピュータのための構造を活かしたコンパイル手法（arXiv:2607.01787）
+・拡張符号の一般化から見つかった新しい量子誤り訂正符号（arXiv:2607.02170）
+・連続変数量子誤り訂正符号を位相空間で統一的に記述する構造定理（arXiv:2607.02164）
+・補助量子ビットを減らすハミルトニアンシミュレーション型ブロックエンコーディング（arXiv:2607.01843）
+・量子畳み込みオートエンコーダーによる異常検知（arXiv:2607.02135）
+・安定化した量子ファストウェイトプログラマーによる時系列予測（arXiv:2607.02363）
+・ハイブリッド量子古典ニューラルネットワークによる感情分析（arXiv:2607.01943）
+・測定装置非依存型量子鍵配送(MDI-QKD)へのハッキング実証（arXiv:2607.01989）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.01473 — 中国・USTCが超伝導量子プロセッサで表面符号の論理演算を実証
+https://arxiv.org/abs/2607.01887 — IBM実機で誤り抑制する新方式「LUCI」を検証
+https://arxiv.org/abs/2607.01787 — 中性原子量子コンピュータのための構造を活かしたコンパイル手法
+https://arxiv.org/abs/2607.02170 — 拡張符号の一般化から見つかった新しい量子誤り訂正符号
+https://arxiv.org/abs/2607.02164 — 連続変数量子誤り訂正符号を位相空間で統一的に記述する構造定理
+https://arxiv.org/abs/2607.01843 — 補助量子ビットを減らすハミルトニアンシミュレーション型ブロックエンコーディング
+https://arxiv.org/abs/2607.02135 — 量子畳み込みオートエンコーダーによる異常検知
+https://arxiv.org/abs/2607.02363 — 安定化した量子ファストウェイトプログラマーによる時系列予測
+https://arxiv.org/abs/2607.01943 — ハイブリッド量子古典ニューラルネットワークによる感情分析
+https://arxiv.org/abs/2607.01989 — 測定装置非依存型量子鍵配送(MDI-QKD)へのハッキング実証
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-06-arxiv-qc/arxiv_qc_yukkuri.m4a" length="10775831" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-06</guid>
+      <pubDate>Mon, 06 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ダイヤモンド量子メモリにIBMのノイズ対称性発見!量子コンピュータ論文10本【2026/07/05】</title>
+      <description>米国ミシガン州立大学・ドイツライプツィヒ大学・英国Element Six社が、ダイヤモンド中のニッケル空孔中心で希釈冷凍機なし・全光制御でミリ秒級の量子メモリを実証。IBMクォンタムはパウリノイズに潜む隠れた対称性を発見し実機IBM Kingstonで検証。Quantinuumは「チェインマップ」という数学的枠組みで異種の誤り訂正符号をつなぐ論理ゲートを自動設計。誤り訂正・量子化学・量子機械学習を中心に、注目論文10本をずんだもん＆四国めたんが解説。
+
+▼ 今日の論文ラインナップ
+・全光制御とミリ秒量子メモリを実現したダイヤモンド中の遷移金属量子ビット（arXiv:2607.02258）
+・リンドブラッド動力学から導くパウリノイズの対称性（arXiv:2607.02481）
+・チェインマップによる異種量子誤り訂正符号間の自動論理ゲート設計（arXiv:2607.02482）
+・順列不変量子符号における相関誤りの回復アルゴリズム（arXiv:2607.02346）
+・限られた量子メモリでのスタビライザー状態の最適な検定と学習（arXiv:2607.02444）
+・ニューラルネットワークによるSRF共振器とトランズモンの逆設計（arXiv:2607.02289）
+・光子触媒によるスクイーズド猫状態の最適な恒星ランク近似（arXiv:2607.02427）
+・共分散行列から計算できるフェルミオン非ガウス性の尺度（arXiv:2607.02242）
+・クディットの時間的非局所性は入力状態に宿り、時間テレポーテーションの限界を証明する（arXiv:2607.02331）
+・量子状態のコピー問題 ― ノー・クローニング定理の再証明（arXiv:2607.02408）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.02258 — 全光制御とミリ秒量子メモリを実現したダイヤモンド中の遷移金属量子ビット
+https://arxiv.org/abs/2607.02481 — リンドブラッド動力学から導くパウリノイズの対称性
+https://arxiv.org/abs/2607.02482 — チェインマップによる異種量子誤り訂正符号間の自動論理ゲート設計
+https://arxiv.org/abs/2607.02346 — 順列不変量子符号における相関誤りの回復アルゴリズム
+https://arxiv.org/abs/2607.02444 — 限られた量子メモリでのスタビライザー状態の最適な検定と学習
+https://arxiv.org/abs/2607.02289 — ニューラルネットワークによるSRF共振器とトランズモンの逆設計
+https://arxiv.org/abs/2607.02427 — 光子触媒によるスクイーズド猫状態の最適な恒星ランク近似
+https://arxiv.org/abs/2607.02242 — 共分散行列から計算できるフェルミオン非ガウス性の尺度
+https://arxiv.org/abs/2607.02331 — クディットの時間的非局所性は入力状態に宿り、時間テレポーテーションの限界を証明する
+https://arxiv.org/abs/2607.02408 — 量子状態のコピー問題 ― ノー・クローニング定理の再証明
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-05-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8495298" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-05</guid>
+      <pubDate>Sun, 05 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>中国が2量子ビットゲート忠実度99.9%突破！量子コンピュータ最新論文まとめ【2026/07/04】</title>
+      <description>2026年7月3日発表のarXiv量子コンピュータ・量子情報論文から10本を厳選。北京量子信息科学院による84量子ビットプロセッサでのCZゲート忠実度99.9%超え、EPFLとAlice&amp;Bobによるキャットキュービットの「ビット反転はイレイジャー」という発見、シカゴ大学とスタンフォード大学による光子－量子メモリの集積もつれ生成まで、最前線の研究をずんだもん＋四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・99.9%超のCZゲート忠実度を達成した高精度較正ワークフロー — Zhang et al（arxiv:2607.01422）
+・光子と量子メモリの集積型もつれ生成 — Kolar et al（arxiv:2607.01324）
+・散逸型キャットキュービットでは「ビット反転」が「イレイジャー」になる — Ferrari et al（arxiv:2607.01375）
+・フォールトトレラントなマルチゲートテレポーテーションの設計則 — Rennela（arxiv:2607.01342）
+・減衰ノイズにさらされたトーリック符号の古典スピン模型への写像 — Dash et al（arxiv:2607.01364）
+・テンソルジャンプ法によるノイズあり量子回路シミュレーション — Fröhlich et al（arxiv:2607.01323）
+・スパースオートエンコーダーでニューラル量子状態を解剖する — Qi, Earls（arxiv:2607.01336）
+・量子コスト地形の「峡谷」構造でVQA予測を改善する — Beckmann, Bravo（arxiv:2607.01329）
+・対数ネガティビティともつれコストの一致 — Ouyang, Kudler-Flam（arxiv:2607.01320）
+・正のエネルギーと両立する厳密な量子時間 — Stoica（arxiv:2607.01296）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.01422 — 99.9%超のCZゲート忠実度を達成した高精度較正ワークフロー
+https://arxiv.org/abs/2607.01324 — 光子と量子メモリの集積型もつれ生成
+https://arxiv.org/abs/2607.01375 — 散逸型キャットキュービットでは「ビット反転」が「イレイジャー」になる
+https://arxiv.org/abs/2607.01342 — フォールトトレラントなマルチゲートテレポーテーションの設計則
+https://arxiv.org/abs/2607.01364 — 減衰ノイズにさらされたトーリック符号の古典スピン模型への写像
+https://arxiv.org/abs/2607.01323 — テンソルジャンプ法によるノイズあり量子回路シミュレーション
+https://arxiv.org/abs/2607.01336 — スパースオートエンコーダーでニューラル量子状態を解剖する
+https://arxiv.org/abs/2607.01329 — 量子コスト地形の「峡谷」構造でVQA予測を改善する
+https://arxiv.org/abs/2607.01320 — 対数ネガティビティともつれコストの一致
+https://arxiv.org/abs/2607.01296 — 正のエネルギーと両立する厳密な量子時間
+
+#量子コンピュータ #量子情報 #IBM #中国 #量子誤り訂正 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-04-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9133426" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-04</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータ最新論文解説：光るホールスピン量子ビット・量子秘密分散の完全マスキングほか【2026/07/03】</title>
+      <description>2026年7月2日発表のarXiv量子コンピュータ・量子情報論文から10本を厳選。メリーランド大学とユーリッヒ研究センターによるセレン化亜鉛中の単一ホールスピン量子ビット、ロスアラモス国立研究所による量子多体系の低エネルギー部分空間予測、有限体クリフォード回路による量子情報の完全マスキングまで、最前線の研究をずんだもん＋四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・量子振幅推定で確率的勾配最適化を高速化する — Sarno（arxiv:2607.00040）
+・スペクトル幾何学とボソン・ブロッホ探査で量子学習を診断する — Ganguly et al（arxiv:2607.00063）
+・セレン化亜鉛中の単一ホールスピンを光で捕まえる — Alizadehherfati et al（arxiv:2607.00110）
+・測定つきイジング鎖における仕事の統計 — Malakar, Silva（arxiv:2607.00131）
+・高温・強磁場でも動く超伝導スパイラルインダクタ — Parry et al（arxiv:2607.00172）
+・マスター方程式に潜む「隠れた冗長性」を解明する — Davidovic（arxiv:2607.00193）
+・有限体クリフォード双対ユニタリ回路の分類と完全マスキング — Pahari（arxiv:2607.00210）
+・測定ベースとコヒーレント量子学習で低エネルギー部分空間の重なりを予測する — Aktar et al（arxiv:2607.00235）
+・2モードガウス状態の量子優位性資源とガロアの壁 — Kalra, Kocharovsky（arxiv:2607.00266）
+・能動学習でトラップイオンの2キュービットゲートを較正する — Walton et al（arxiv:2607.00284）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.00040 — 量子振幅推定で確率的勾配最適化を高速化する
+https://arxiv.org/abs/2607.00063 — スペクトル幾何学とボソン・ブロッホ探査で量子学習を診断する
+https://arxiv.org/abs/2607.00110 — セレン化亜鉛中の単一ホールスピンを光で捕まえる
+https://arxiv.org/abs/2607.00131 — 測定つきイジング鎖における仕事の統計
+https://arxiv.org/abs/2607.00172 — 高温・強磁場でも動く超伝導スパイラルインダクタ
+https://arxiv.org/abs/2607.00193 — マスター方程式に潜む「隠れた冗長性」を解明する
+https://arxiv.org/abs/2607.00210 — 有限体クリフォード双対ユニタリ回路の分類と完全マスキング
+https://arxiv.org/abs/2607.00235 — 測定ベースとコヒーレント量子学習で低エネルギー部分空間の重なりを予測する
+https://arxiv.org/abs/2607.00266 — 2モードガウス状態の量子優位性資源とガロアの壁
+https://arxiv.org/abs/2607.00284 — 能動学習でトラップイオンの2キュービットゲートを較正する
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-03-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8069368" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-03</guid>
+      <pubDate>Fri, 03 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータ最新論文解説：IBM最大独立集合・量子金融ほか【2026/07/02】</title>
+      <description>2026年7月1日投稿のarXiv量子コンピュータ・量子情報論文から10本を厳選。IBM Researchによる実用規模180キュービットでの最大独立集合問題への挑戦、DBS銀行とClassiqによる量子振幅推定を使った金融リスク評価、量子機械学習のプライベート学習まで、最前線の研究をずんだもん＋四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・高精度化した同位体濃縮ゲルマニウムのホールスピンキュービット — Zeng et al（arxiv:2606.28695）
+・量子振幅推定による対カウンターパーティ信用リスク評価 — Jha et al（arxiv:2606.28701）
+・基底状態を用意せずに量子相を判定する散逸的手法 — Li, Yang, Lin（arxiv:2606.28750）
+・バイパータイト・ガウスボソンサンプリングによる有向グラフのハミルトン閉路探索 — Yu et al（arxiv:2606.28775）
+・固体スピン欠陥における遷移双極子偏光の統一的決定手法 — Da Prato, Tittel, Gröblacher（arxiv:2606.28784）
+・実用規模での最大独立集合問題への量子変分アプローチ — Dasgupta et al（arxiv:2606.28866）
+・大規模量子シミュレーションのための高性能パウリ代数フレームワーク — Li et al（arxiv:2606.28952）
+・古典テンソルネットワークシミュレーションのためのシャドウトモグラフィー — Sun, Chan（arxiv:2606.29133）
+・多環芳香族炭化水素のための量子埋め込みDFT「QmDFT」 — Manglani et al（arxiv:2606.29245）
+・量子機械学習におけるプライベート学習 — Sedrakyan, Grosshans, Kashefi（arxiv:2606.29293）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.28695 — 高精度化した同位体濃縮ゲルマニウムのホールスピンキュービット
+https://arxiv.org/abs/2606.28701 — 量子振幅推定による対カウンターパーティ信用リスク評価
+https://arxiv.org/abs/2606.28750 — 基底状態を用意せずに量子相を判定する散逸的手法
+https://arxiv.org/abs/2606.28775 — バイパータイト・ガウスボソンサンプリングによる有向グラフのハミルトン閉路探索
+https://arxiv.org/abs/2606.28784 — 固体スピン欠陥における遷移双極子偏光の統一的決定手法
+https://arxiv.org/abs/2606.28866 — 実用規模での最大独立集合問題への量子変分アプローチ
+https://arxiv.org/abs/2606.28952 — 大規模量子シミュレーションのための高性能パウリ代数フレームワーク
+https://arxiv.org/abs/2606.29133 — 古典テンソルネットワークシミュレーションのためのシャドウトモグラフィー
+https://arxiv.org/abs/2606.29245 — 多環芳香族炭化水素のための量子埋め込みDFT「QmDFT」
+https://arxiv.org/abs/2606.29293 — 量子機械学習におけるプライベート学習
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-02-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9746849" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-02</guid>
+      <pubDate>Thu, 02 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータ最新論文解説：マジック状態蒸留・量子生成モデルほか【2026/07/01】</title>
+      <description>2026年6月26〜27日投稿のarXiv量子コンピュータ・量子情報論文から10本を厳選。Google Quantum AIによるマジック状態蒸留工場の統一探索、CERNチームの大規模量子フーリエ生成モデル、光量子計算の閾値下問題、トラップイオンによる動的量子相転移の実験観測など、最前線の研究をずんだもん＋四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・量子木探索の新手法：振幅増幅による動的分岐探索の高速化 — Wichert（arxiv:2606.28452）
+・大規模学習可能な量子フーリエ生成モデル — Tüysüz, Kyriienko, Grossi（arxiv:2606.28483）
+・融合型光量子計算の閾値下問題 — Löbl et al（arxiv:2606.28490）
+・ホーキング放射アナログの超伝導回路における散逸効果 — Urtubey et al（arxiv:2606.28505）
+・マジック状態蒸留工場の統一探索「借用アイデンティティ」 — Singh, Gidney, Jones（arxiv:2606.28518）
+・ダイヤモンド中ゲルマニウム空孔センターの高収率生成 — Dietel et al（arxiv:2606.28528）
+・マイクロピラー共振器中の量子ドットスピンのダイナミカルデカップリング — Huet et al（arxiv:2606.28535）
+・線形ランプQAOAのためのパウリ疎な断熱ショートカット — Cipolla, Durastante（arxiv:2606.28536）
+・病原体エピトープ結合予測へのエンタングルメントの効果を探る量子機械学習 — Brisebois et al（arxiv:2606.28655）
+・トラップイオンのディッケモデルにおける時間的動的量子相転移 — Bian et al（arxiv:2606.28664）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.28452 — 量子木探索の新手法：振幅増幅による動的分岐探索の高速化
+https://arxiv.org/abs/2606.28483 — 大規模学習可能な量子フーリエ生成モデル
+https://arxiv.org/abs/2606.28490 — 融合型光量子計算の閾値下問題
+https://arxiv.org/abs/2606.28505 — ホーキング放射アナログの超伝導回路における散逸効果
+https://arxiv.org/abs/2606.28518 — マジック状態蒸留工場の統一探索「借用アイデンティティ」
+https://arxiv.org/abs/2606.28528 — ダイヤモンド中ゲルマニウム空孔センターの高収率生成
+https://arxiv.org/abs/2606.28535 — マイクロピラー共振器中の量子ドットスピンのダイナミカルデカップリング
+https://arxiv.org/abs/2606.28536 — 線形ランプQAOAのためのパウリ疎な断熱ショートカット
+https://arxiv.org/abs/2606.28655 — 病原体エピトープ結合予測へのエンタングルメントの効果を探る量子機械学習
+https://arxiv.org/abs/2606.28664 — トラップイオンのディッケモデルにおける時間的動的量子相転移
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-01-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9574252" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-01</guid>
+      <pubDate>Wed, 01 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータ最新論文解説：I-QMapper・量子電池・クローン不可能定理ほか【2026/06/30】</title>
+      <description>2026年6月29日投稿のarXiv量子コンピュータ・量子情報論文から10本を厳選。NISQデバイス向けレイアウト最適化・量子MLによる医療画像診断・量子電池の無損失充電・量子アンサンブルの新たなクローン不可能定理など、最前線の研究をずんだもん＋四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・NISQハードウェア向けエラー対応レイアウト最適化ツール「I-QMapper」 — Bazayeva, Merz（arxiv:2606.27508）
+・量子オートエンコーダによる脳MRI異常検出 — Ganguly et al.（arxiv:2606.27411）
+・リザーバー非依存の量子電池無損失充電 — Asad Ali et al.（arxiv:2606.27403）
+・時間スケーリング法による多体量子ダイナミクスのスケーラブルな加速 — de Almeida Filho et al.（arxiv:2606.27630）
+・量子アンサンブルのクローン不可能定理 — Zhenyu Du et al.（arxiv:2606.27756）
+・耐障害性量子アルゴリズムによる静的構造因子計算と有限サイズ効果 — Bhardwaj et al.（arxiv:2606.27734）
+・量子オークションと量子加算プロトコルの汎用構造と等価性 — Sandhu et al.（arxiv:2606.27693）
+・高次フィッシャー情報による量子計測の一般化クラメール・ラオ限界 — Liu et al.（arxiv:2606.27633）
+・SU(2)格子ゲージ理論における量子典型性の持続 — Wang, Braunstein（arxiv:2606.27402）
+・クーディット量子シミュレータにおける非エルミート相互作用の工学的構築 — Wauters et al.（arxiv:2606.27424）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.27508 — NISQハードウェア向けエラー対応レイアウト最適化ツール「I-QMapper」
+https://arxiv.org/abs/2606.27411 — 量子オートエンコーダによる脳MRI異常検出
+https://arxiv.org/abs/2606.27403 — リザーバー非依存の量子電池無損失充電
+https://arxiv.org/abs/2606.27630 — 時間スケーリング法による多体量子ダイナミクスのスケーラブルな加速
+https://arxiv.org/abs/2606.27756 — 量子アンサンブルのクローン不可能定理
+https://arxiv.org/abs/2606.27734 — 耐障害性量子アルゴリズムによる静的構造因子計算と有限サイズ効果
+https://arxiv.org/abs/2606.27693 — 量子オークションと量子加算プロトコルの汎用構造と等価性
+https://arxiv.org/abs/2606.27633 — 高次フィッシャー情報による量子計測の一般化クラメール・ラオ限界
+https://arxiv.org/abs/2606.27402 — SU(2)格子ゲージ理論における量子典型性の持続
+https://arxiv.org/abs/2606.27424 — クーディット量子シミュレータにおける非エルミート相互作用の工学的構築
+
+#量子コンピュータ #量子情報 #IBM #量子機械学習 #量子電池 #量子メトロジー #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-30-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8977906" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-30</guid>
+      <pubDate>Tue, 30 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AIが量子実験を自律制御！超伝導新アーキテクチャほか量子コンピュータ論文7本【2026/06/29】</title>
+      <description>超伝導トランスモンの格子パッチアーキテクチャ・AIエージェントが自律制御するトラップイオン実験・フェルミオンシャドウの理論改善・VQEアンサッツ新設計など、今週の量子コンピュータ論文7本をずんだもん＆四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・超伝導トランスモン量子コンピュータのための格子パッチアーキテクチャ — 韓国・光雲大学（arXiv:2606.27017）
+・AIエージェントが自律制御するトラップイオン実験 — 米国・デューク大学（arXiv:2606.27231）
+・粒子数保存フェルミオンシャドウのモード数独立サンプル複雑度 — 米国・ロスアラモス国立研究所（arXiv:2606.27254）
+・ギベンス交換アンサッツによる分子VQE — オーストラリア・メルボルン大学（arXiv:2606.26912）
+・超低損失Si3N4集積フォトニクスによる量子情報処理プラットフォーム — 中国・南京大学（arXiv:2606.26910）
+・スケーラブル量子グラフニューラルネットワーク — 英国・エディンバラ大学（arXiv:2606.26873）
+・非エルミートスキンダイナミクス観測 — 中国・北京大学（arXiv:2606.27043）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.27017  — 超伝導トランスモン量子コンピュータのための格子パッチアーキテクチャ
+https://arxiv.org/abs/2606.27231  — AIエージェントが自律制御するトラップイオン実験
+https://arxiv.org/abs/2606.27254  — 粒子数保存フェルミオンシャドウのモード数独立サンプル複雑度
+https://arxiv.org/abs/2606.26912  — ギベンス交換アンサッツによる分子VQE
+https://arxiv.org/abs/2606.26910  — 超低損失Si3N4集積フォトニクスプラットフォーム
+https://arxiv.org/abs/2606.26873  — スケーラブル量子グラフニューラルネットワーク
+https://arxiv.org/abs/2606.27043  — 非エルミートスキンダイナミクス観測
+
+#量子コンピュータ #量子情報 #IBM #Google #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー #VQE #超伝導量子ビット #量子機械学習</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-29-arxiv-qc/arxiv_qc_yukkuri.m4a" length="7615146" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-29</guid>
+      <pubDate>Mon, 29 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータ最新論文解説 2026/06/28｜ツイーザーイオン新アーキテクチャ・1000イオンゲート合成・量子群符号</title>
+      <description>ずんだもん＋四国めたんが今日のarXiv量子コンピュータ最新論文10本を解説します！
+
+📌 今日のラインナップ
+
+1. ツイーザーアレイのイオンを使った量子コンピュータアーキテクチャ — 光ピンセットとトラップイオンを融合したスケーラブルな新設計
+   https://arxiv.org/abs/2606.27249
+
+2. トラップイオン系の大規模マルチモードエンタングリングゲート合成 — 1000個のイオン鎖でも制御資源が急増しない新手法
+   https://arxiv.org/abs/2606.27266
+
+3. 非クリフォードロジックのための量子群符号 — マジックステート蒸留コストをほぼ線形の係数分削減
+   https://arxiv.org/abs/2606.27211
+
+4. フォールトトレラント量子計算のための効率的な基盤デコーダー — 転移学習でニューラルデコーダーを大規模符号に展開
+   https://arxiv.org/abs/2606.27119
+
+5. フォールトトレラント二進位相回転のための論理触媒培養 — 合成近似誤差ゼロで非クリフォードゲートを実現
+   https://arxiv.org/abs/2606.27358
+
+6. 量子MaxCutのリドベルグ原子による0.651近似 — 古典最良の0.614を超えるハイブリッド量子最適化
+   https://arxiv.org/abs/2606.27224
+
+7. レート2/3・ガース8の量子LDPCコード — 東工大チームによる[[34542,23032]]の高レート量子符号
+   https://arxiv.org/abs/2606.27130
+
+8. セルフシフティング量子鍵配送 — 鍵情報を直接符号化しない新しい双方向QKDプロトコル
+   https://arxiv.org/abs/2606.27299
+
+9. バレンス結合埋め込みで深い化学計算を浅い量子回路で実現 — 大規模分子を単一回路で精密計算
+   https://arxiv.org/abs/2606.26882
+
+10. スケーラブルなメッセージパッシング量子グラフニューラルネットワーク — 56キュービットまで検証した理論的保証付き量子GNN
+    https://arxiv.org/abs/2606.26873
+
+#量子コンピュータ #量子情報 #arxiv #ずんだもん #四国めたん #フォールトトレラント #量子誤り訂正 #トラップイオン #量子機械学習 #量子暗号</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-28-arxiv-qc/arxiv_qc_yukkuri.m4a" length="7307763" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-28</guid>
+      <pubDate>Sun, 28 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arxiv 論文解説 2026/06/27</title>
+      <description>arxiv 論文解説 2026/06/27
+
+今日のハイライト: オンライン学習でクラシカル計算に差をつける散逸型量子乗法重み更新アルゴリズム、量子プログラミング言語の包括的サーベイ、そして量子機械学習にカスタム埋め込みを組み込む変分オートエンコーダーフレームワークの3本は特に注目です。
+
+論文1: 散逸型量子乗法重み更新とサンプリングフィードバック——クラシカル計算が困難な開放系プリミティブ
+
+2026年6月26日提出。Agung Trisetyarso, Lenny Putri Yulianti, Kridanto Surendro（インドネシア・バンドン工科大学など）。
+
+量子コンピュータがオンライン学習においてクラシカルコンピュータより本質的に優れているかを問う研究です。クラシカルシミュレーションが困難なプリミティブを物理的に実現することが目標でした。
+
+本論文では、散逸型量子乗法重み更新（DQMWサンプル）と呼ぶ新しいオンライン学習のプリミティブを導入します。工学的に設計した開放量子系の動的過程でギブス状態を準備し、計算基底測定からフィードバックを取り込む仕組みです。デービス</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-27-arxiv-qc/arxiv_qc_yukkuri.m4a" length="11482898" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-27</guid>
+      <pubDate>Sat, 27 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arxiv 論文解説 2026/06/26</title>
+      <description>arxiv 論文解説 2026/06/26
+
+今日のハイライト: フォールトトレラント量子シミュレーションを5.5倍効率化する高レートSTARアーキテクチャ、非局所量子相転移という新しい物理現象の理論的発見、そしてフェルミオン位相に量子誤り訂正を拡張するマヨラナパウリ安定化符号の3本は特に注目です。
+
+論文1: フォールトトレラント量子シミュレーション向け高レートSTARアーキテクチャ
+
+2026年6月26日提出。Refaat Ismail, Milan Kornjača, HongYe Hu, Nishad Maskara, ShengTao Wang, Hengyun Zhou, Chen Zhao（ハーバード大学・QuEra Computing・その他）。
+
+フォールトトレラント量子シミュレーションでは、論理キュービットのエンコードオーバーヘッド・論理クリフォード演算・マジック状態準備・回転合成を同時最適化することが課題です。既存のSTAR（SpaceTime efficient Analog Rotation）アーキテクチャは表面符号の低エンコードレート $O(1/d^2)$ </description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-26-arxiv-qc/arxiv_qc_yukkuri.m4a" length="7893995" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-26</guid>
+      <pubDate>Fri, 26 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータ最新論文10選 2026/06/25【QAOA・量子センシング・量子暗号】</title>
+      <description>2026年6月24日提出のarXiv量子コンピュータ論文から10本を厳選して解説します。
+
+▼ 今回の論文ラインナップ
+
+1. カーネルPCAでQAOAパラメータ空間を次元削減——深い回路での近似比が大幅改善
+   https://arxiv.org/abs/2606.23718
+
+2. レーザー粉末床溶融結合の溶融プール予測にハイブリッド量子古典アプローチを応用
+   https://arxiv.org/abs/2606.23719
+
+3. 刺激ラマン光学活性の量子強化推定——2モードスクイーズド真空でショットノイズ限界を突破
+   https://arxiv.org/abs/2606.23722
+
+4. CV-QKDの超低レート情報調停——繰り返し符号 vs 専用符号の比較
+   https://arxiv.org/abs/2606.23726
+
+5. 量子古典モーメント双対性でQAOA出力を認証、回路カットにも応用
+   https://arxiv.org/abs/2606.23727
+
+6. 動的パラメータ化量子回路によるバレンプラトー緩和の理論的限界を解明
+   https://arxiv.org/abs/2606.23751
+
+7. 量子トモグラフィと量子逆推定の統一——ペッツ写像が橋渡し
+   https://arxiv.org/abs/2606.23777
+
+8. ガウス状態を使った分散センシングでは完全プライバシーが不可能という不可能定理
+   https://arxiv.org/abs/2606.23796
+
+9. マッチゲート回路に非ガウスゲートをドープしてユニタリデザインを生成
+   https://arxiv.org/abs/2606.23800
+
+10. 因子化グラフ保存操作でグラフ状態純化を効率化——量子ネットワーク応用へ
+    https://arxiv.org/abs/2606.23809
+
+▼ 解説キャラクター
+ずんだもん（東北きりたん声）・四国めたん が最新論文をわかりやすく解説！
+
+#量子コンピュータ #量子情報 #QAOA #量子センシング #量子暗号 #arXiv #論文解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-25-arxiv-qc/arxiv_qc_yukkuri.m4a" length="7035354" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-25</guid>
+      <pubDate>Thu, 25 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arxiv 論文解説 2026/06/24</title>
+      <description>arxiv 論文解説 2026/06/24
+
+論文1: k局所リンドブラディアンの頑健な構造学習
+
+2026年6月22日提出。Tim Möbus、Thiago Bergamaschi、Daniel Stilck França、Cambyse Rouzé（テクニカル大学ミュンヘン・カリフォルニア大学バークレー校他）。
+
+量子コンピュータ上で動く開放量子系（ノイズがある系）を理解するには、その動的な振る舞いを支配する「リンドブラディアン」を実験データから学習する必要があります。しかし従来手法は事前に相互作用構造の知識を必要としたり、複雑な測定が要求されたりしていました。
+
+本論文では、n量子ビット系のk局所リンドブラディアンを、積状態の準備・短時間発展・単一量子ビットのパウリ測定だけで効率的に学習するプロトコルを提案します。事前の相互作用構造知識なしに、全ハミルトニアン・散逸パウリGKSL係数を精度ε、失敗確率δ以下で推定できます。サンプル数はO(ε⁻²n^{2k}log(1/δ))で、古典後処理も多項式時間。スパース構造が既知なら依存性は対数的に改善します。開放量子系のキャラクタリゼーシ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-24-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8341819" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-24</guid>
+      <pubDate>Wed, 24 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子LDPC・変分アルゴリズム・量子化学最前線｜arxiv量子コンピュータ論文解説2026/06/23</title>
+      <description>今日の量子コンピュータ論文解説です（2026年6月23日）。ずんだもんと四国めたんが10本の最新論文を解説します。
+
+▼ 本日のラインナップ
+
+論文1: バインコード（Vine Codes） — 平面正方格子上に実装できる量子LDPCコード。表面符号より物理キュービット40〜50%削減。iSWAP/CZゲートのみで超伝導ハードウェア対応。
+https://arxiv.org/abs/2606.20263
+
+論文2: ノイズ変分量子アルゴリズムのリソース最適化 — VQEで目標精度を最小コストで達成するリソース配分の処方箋を理論的に導出。
+https://arxiv.org/abs/2606.20153
+
+論文3: グローバー探索×ハートリー・フォック — GAS-SCF法で量子化学のSCF最適化に二次の量子加速。
+https://arxiv.org/abs/2606.20176
+
+論文4: 多コピー量子アルゴリズムへのランダム射影 — 少ない測定数でtr(ρ^K)などを効率的に推定する新フレームワーク。
+https://arxiv.org/abs/2606.20238
+
+論文5: ベルペア注入法QPUベンチマーキング（MQA） — IBMが提案。もつれの空間分布と臨界回路深さを同定。
+https://arxiv.org/abs/2606.20123
+
+論文6: トロッター誤り対称性回復 — 事後処理で対称性違反成分を除去する誤り緩和手法。格子ゲージ理論に応用。
+https://arxiv.org/abs/2606.20242
+
+論文7: 演算子学習による量子計算効率化 — バックプロパゲーションで任意演算子をハードウェア適応回路に変換。
+https://arxiv.org/abs/2606.20184
+
+論文8: 最適シャドウ推定の最小測定基底数 — d次元系でΘ(d²)基底が必要十分と証明。
+https://arxiv.org/abs/2606.20003
+
+論文9: 全有効状態HOBO符号化（大阪大学） — 巡回セールスマン問題でVQE精度を大幅改善。
+https://arxiv.org/abs/2606.20017
+
+論文10: 量子電池×パラメトリック増幅器 — 量子ポンプによるスクイージング生成と量子電池の仕事源としての可能性。
+https://arxiv.org/abs/2606.20306
+
+#量子コンピュータ #量子情報 #IBM #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-23-arxiv-qc/arxiv_qc_yukkuri.m4a" length="4970357" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-23</guid>
+      <pubDate>Tue, 23 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子通信×AI・暗号・ハードウェア最前線 arxiv論文解説10選 2026/06/22</title>
+      <description>量子リングオールリデュースで分散学習の通信量を2分の1に、CV-QKDの有限サイズ安全性証明、量子カーネル＝テンソルネットワークの等価性など、2026年6月18日提出の量子コンピュータ・量子情報分野の注目論文10本をずんだもんと四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・量子リングオールリデュース：分散学習の通信効率と情報理論的プライバシー — María Gragera Garcés他（EPFL）（arXiv:2606.20344）
+・離散変調連続変数量子鍵配送の有限サイズ安全性証明 — Mariana Navarro他（バルセロナ光子科学研究所）（arXiv:2606.20346）
+・量子カーネルはスペクトルテンソルネットワークである — Erik M. Åsgrim他（KTH王立工科大学）（arXiv:2606.20402）
+・測定の微小なずれで量子もつれを偽造できる — Jaime Moreno他（ウィーン大学）（arXiv:2606.20396）
+・変分量子機械学習における対称性の活用 — Markus Baumann他（LMUミュンヘン）（arXiv:2606.20316）
+・シリコン量子ドット核スピンのスピン軌道結合による位相ロック — Habitamu Y. Walelign他（ロチェスター大学）（arXiv:2606.20340）
+・電子シュレーディンガー方程式のスパース配置間相互作用と量子符号化 — Michael Griebel他（ボン大学）（arXiv:2606.20385）
+・円錐時空における因果ループの不可能性 — Maarten Grothus他（ETHチューリッヒ）（arXiv:2606.20476）
+・トポロジカル安定化状態の多体カイラリティ — Tyler D. Ellison他（ペリメーター研究所）（arXiv:2606.20472）
+・多部系における真の非局所集合の最小リソース識別 — Ziying Hou他（中国科学院）（arXiv:2606.20380）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.20344  — 量子リングオールリデュース：分散学習の通信効率と情報理論的プライバシー
+https://arxiv.org/abs/2606.20346  — 離散変調連続変数量子鍵配送の有限サイズ安全性証明
+https://arxiv.org/abs/2606.20402  — 量子カーネルはスペクトルテンソルネットワークである
+https://arxiv.org/abs/2606.20396  — 測定の微小なずれで量子もつれを偽造できる
+https://arxiv.org/abs/2606.20316  — 変分量子機械学習における対称性の活用：対称性を超えた設計自由度
+https://arxiv.org/abs/2606.20340  — シリコン量子ドット核スピンのスピン軌道結合による位相ロック
+https://arxiv.org/abs/2606.20385  — 電子シュレーディンガー方程式のスパース配置間相互作用と量子符号化の影響
+https://arxiv.org/abs/2606.20476  — 円錐時空における因果ループの不可能性：超光速シグナリング禁止から
+https://arxiv.org/abs/2606.20472  — トポロジカル安定化状態の多体カイラリティ
+https://arxiv.org/abs/2606.20380  — 多部系における真の非局所集合の最小リソース識別
+
+#量子コンピュータ #量子情報 #量子暗号 #量子機械学習 #量子通信 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-22-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9379083" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-22</guid>
+      <pubDate>Mon, 22 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子LDPCデコーダ・IBMエラー緩和・中性原子コンパイラ 最新論文解説【2026/06/21】</title>
+      <description>arxiv quant-ph から選りすぐった10本を解説。量子誤り訂正・フォールトトレラント計算・ハードウェア実装の最前線をずんだもん＋四国めたんが丁寧に紹介します。
+
+▼ 今日の論文ラインナップ
+・ノイズ環境での量子基底状態準備アルゴリズム比較 — Max Planck Institute of Quantum Optics（arxiv:2606.20551）
+・空間群に基づくトポロジカル量子誤り訂正符号 — 中国科学技術大学（arxiv:2606.20548）
+・局所リンドブラディアンの準最適学習アルゴリズム — テクニオン他（arxiv:2606.20535）
+・量子LDPCコードの近似最適フロンティアデコーダ — INRIA / EPFL（arxiv:2606.20513）
+・超伝導断熱CZゲートの時間依存散逸忠実度解析 — チャルマース工科大学（arxiv:2606.20501）
+・中性原子量子コンピュータの汎用回路マッピング最適化 — モンペリエ大学（arxiv:2606.20503）
+・多キュートリット系のエントロピー推定 変分QA vs CNN — インド工科大学マドラス（arxiv:2606.20504）
+・双極子BECの断熱ショートカット制御 — バスク大学他（arxiv:2606.20507）
+・不確定因果順序ゲームのGPU加速半正定値計画 — ウィーン大学（arxiv:2606.20519）
+・パウリ伝播ハイブリッドエラー緩和（56キュービット実験） — IBM量子（arxiv:2606.20441）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.20551  — ノイズ環境における量子基底状態準備アルゴリズムのベンチマーク
+https://arxiv.org/abs/2606.20548  — 空間群に基づくトポロジカル量子誤り訂正符号
+https://arxiv.org/abs/2606.20535  — 局所リンドブラディアンの準最適学習アルゴリズム
+https://arxiv.org/abs/2606.20513  — 量子LDPCコードの近似最適フロンティアデコーダ
+https://arxiv.org/abs/2606.20501  — 超伝導断熱CZゲートの時間依存散逸忠実度解析
+https://arxiv.org/abs/2606.20503  — 中性原子量子コンピュータの汎用回路マッピング最適化
+https://arxiv.org/abs/2606.20504  — 多キュートリット系のエントロピー推定：変分QAとCNN
+https://arxiv.org/abs/2606.20507  — 双極子ボーズ・アインシュタイン凝縮体の滑らかな時間制御
+https://arxiv.org/abs/2606.20519  — 不確定因果順序ゲームのGPU加速半正定値計画
+https://arxiv.org/abs/2606.20441  — パウリ伝播を用いたノイズキャンセリングオブザーバブルの計算
+
+#量子コンピュータ #量子情報 #IBM #量子誤り訂正 #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-21-arxiv-qc/arxiv_qc_yukkuri.m4a" length="6970981" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-21</guid>
+      <pubDate>Sun, 21 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータ論文解説 2026年6月20日【LDPCコード/量子化学/中性原子実機応用】</title>
+      <description>2026年6月20日のarXiv最新論文から、量子コンピュータ・量子情報分野の注目論文10本をずんだもんと四国めたんが解説します。
+
+■ 本日のラインナップ
+
+1. 最近傍ゲートだけで実現する高レート量子LDPCコード（arXiv:2606.19482）
+   - フリー大学ベルリン他 / 表面符号比1000倍低エラー率を超伝導向け設計で達成
+
+2. フォールトトレラント量子計算のパイプライン実行と投機的処理（arXiv:2606.19593）
+   - シカゴ大学 / 古典CPUのパイプライン技術を量子計算に応用、20〜40%高速化
+
+3. 完全活性空間波動関数の効率的な古典表現と量子状態準備（arXiv:2606.19457）
+   - ケンブリッジ大学 / 量子化学の状態準備を指数コストから多項式O(d³)へ改善
+
+4. 中性原子量子コンピュータによる防災拠点配置問題の解法（arXiv:2606.19589）
+   - Pasqal他 / フレスネル量子プロセッサで100ノード防災最適化を実機実証
+
+5. QAOAのエンタングルメントスケーリングと断熱量子計算の比較（arXiv:2606.19502）
+   - ジョンズ・ホプキンス大学 / QAOAのエンタングルメントがフェルミオンガウス状態に一致
+
+6. Influence Matrixブートストラップによる量子多体非平衡ダイナミクスの解法（arXiv:2606.19430）
+   - 清華大学 / 隠れマルコフ秩序という新概念を発見、リドベルク原子で検証可能
+
+7. 不定量子因果性：プロセス行列形式と最新動向レビュー（arXiv:2606.19438）
+   - クイーンズランド大学・ウィーン大学他 / 量子スイッチと不定因果順序の包括的レビュー
+
+8. アンサッツ不要ハミルトニアン学習の最適インシトゥアルゴリズム（arXiv:2606.19486）
+   - UCバークレー校 / 制御回路・補助量子ビット不要の最適ハミルトニアン学習
+
+9. ポール表面トラップ上のミクロン粒子が引き起こす電気ノイズの計測（arXiv:2606.19585）
+   - UCバークレー校 / トラップ内で1000倍変動するノイズの原因をミクロン粒子と特定
+
+10. パッシブユーザー向けベル状態ループバックQKDプロトコル（arXiv:2606.19551）
+    - コネマラ研究所 / 量子装置不要のユーザー向け量子鍵配送プロトコル提案
+
+■ arXivリンク
+https://arxiv.org/abs/2606.19482
+https://arxiv.org/abs/2606.19593
+https://arxiv.org/abs/2606.19457
+https://arxiv.org/abs/2606.19589
+https://arxiv.org/abs/2606.19502
+https://arxiv.org/abs/2606.19430
+https://arxiv.org/abs/2606.19438
+https://arxiv.org/abs/2606.19486
+https://arxiv.org/abs/2606.19585
+https://arxiv.org/abs/2606.19551
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-20-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8559231" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-20</guid>
+      <pubDate>Sat, 20 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子データセンター・誤り訂正・VQE加速…今週の重要論文10本を解説【2026/06/19】</title>
+      <description>分散フォールトトレラント量子コンピューティングのネットワーク制約分析、表面符号とランダム行列理論の融合、パルス最適化でVQEを大幅高速化、3ノード量子ネットワークで三者間エンタングルメント実証など、2026年6月の量子コンピュータ分野の最新論文10本をずんだもんと四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+00:00 オープニング
+01:30 論文1: 分散フォールトトレラント量子コンピューティングへのネットワーク制約の影響 (arXiv:2606.17495)
+05:00 論文2: 表面符号の射影論理アンサンブルとランダム行列理論 (arXiv:2606.17140)
+09:00 論文3: スケーラブルでノイズ耐性の高い量子化学のためのパルス最適化回路要素 (arXiv:2606.17357)
+13:00 論文4: 遠隔原子量子ビットの三者間エンタングルメント (arXiv:2606.17173)
+17:00 論文5: 自転車フレームを破る：コセット型量子LDPCコード (arXiv:2606.17268)
+21:00 論文6: フェルミオンハミルトニアンエンジニアリングと局所制御 (arXiv:2606.17158)
+25:00 論文7: 昼間自由空間量子鍵配送における偶発同時計数の時間・スペクトル制御 (arXiv:2606.17365)
+29:00 論文8: 双方向テレポーテーションの後選択確率と忠実度 (arXiv:2606.17251)
+33:00 論文9: ジョセフソン接合の非理想性がAQFP回路に与える影響 (arXiv:2606.17338)
+37:00 論文10: 2次元格子上の対角ユニタリ合成の漸近最適回路深さ (arXiv:2606.17589)
+
+▼ 参考論文 arXiv URL
+https://arxiv.org/abs/2606.17495
+https://arxiv.org/abs/2606.17140
+https://arxiv.org/abs/2606.17357
+https://arxiv.org/abs/2606.17173
+https://arxiv.org/abs/2606.17268
+https://arxiv.org/abs/2606.17158
+https://arxiv.org/abs/2606.17365
+https://arxiv.org/abs/2606.17251
+https://arxiv.org/abs/2606.17338
+https://arxiv.org/abs/2606.17589
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-19-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8606617" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-19</guid>
+      <pubDate>Fri, 19 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が今週注目した量子コンピュータ論文解説【2026/06/18】</title>
+      <description>2026年6月18日のarXivから、量子コンピュータ・量子情報分野の最新論文6本をずんだもんと四国めたんが解説します。
+
+今回は表面符号とランダム行列理論の接点、フェルミオン系のハミルトニアンエンジニアリング、3ノード間の遠隔エンタングルメント実験、量子LDPCコードの新構成、昼間QKDの実用化技術、そして2次元格子ハードウェアでの回路最適化理論をお届けします。
+
+▼ 今日の論文
+1. [2606.17140] 表面符号の射影論理アンサンブルとランダム行列理論
+   - QECとランダム行列理論を結ぶ理論研究。符号距離が大きくなるとGUEに収束することを証明。
+
+2. [2606.17158] 局所制御によるフェルミオンハミルトニアンエンジニアリング
+   - フロケット平均ハミルトニアンを用いて量子シミュレータで実現できるフェルミオン系の範囲を拡大。
+
+3. [2606.17173] 遠隔原子量子ビットの三者間エンタングルメント（Monroe研究室）
+   - 捕捉イオン3ノード間でGHZ状態を光子インターコネクトで生成。モジュラー量子コンピュータへの道。
+
+4. [2606.17268] 自転車フレームを破る：コセット型量子LDPCコード
+   - 2BGA構成を部分群コセット作用に一般化。[[90,8,10]]など新コードを発見。
+
+5. [2606.17365] 昼間自由空間QKDにおける偶発同時計数の時間・スペクトル制御
+   - BBM92プロトコルで太陽光ノイズ下の昼間QKDを実用化するための受信器フレームワーク。
+
+6. [2606.17589] 2次元格子上の対角ユニタリ合成の漸近最適回路深さ
+   - QAOA・ハミルトニアンシミュレーションで重要な対角ユニタリを近傍接続で最適深さで実装する理論。
+
+▼ チャプター
+00:00 オープニング
+01:30 表面符号と射影論理アンサンブル
+08:00 フェルミオンハミルトニアンエンジニアリング
+14:30 遠隔三者間エンタングルメント実験
+21:00 コセット型量子LDPCコード
+28:00 昼間自由空間QKD
+34:30 対角ユニタリの漸近最適回路
+40:00 エンディング
+
+#量子コンピュータ #arxiv #論文解説 #ずんだもん #四国めたん #量子誤り訂正 #量子情報 #量子通信 #LDPC #量子鍵配送 #量子ネットワーク #フォールトトレラント</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-18-arxiv-qc/arxiv_qc_yukkuri.m4a" length="5776657" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-18</guid>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータの最新論文15本解説【2026/06/10】</title>
+      <description>2026年6月10日、arxivに投稿された量子コンピュータ関連の最新論文15本をずんだもんと四国めたんが解説します。量子コンパイラ最適化、マジック状態蒸留、量子センサー、ニューラル量子状態、フォトニック集積回路への原子統合、不確定性原理100周年まで幅広い内容です。
+
+▼ 今日の論文ラインナップ
+・Hardware-aware Low-latency Quantum Compilation with Data-driven Lightweight Error Detection — Sumit Chongder（IITジョドプール）(arxiv:2606.07666)
+・Correlation-Assisted Odd-Parity Encoded Gates in Coupled Fluxonium Qubits under Non-Markovian TLS Noise — Chenghong Ji, Chaoying Zhao（中国）(arxiv:2606.07699)
+・Benchmarking Quantum Algorithmic Resilience for CVaR Portfolio Optimization — Prashik N. Somkuwar et al.（インド）(arxiv:2606.07727)
+・Exploring the landscape of compact magic-state distillation factories — Hugo Jacinto et al.（フランス・CEAなど）(arxiv:2606.07734)
+・Exact metastability in a class of driven-dissipative quantum many-body systems — David D. Noachtar, Aashish A. Clerk（シカゴ大学）(arxiv:2606.07736)
+・100±Δt Years of Quantum Uncertainty: From Origins to Modern Insights — Lorcan O. Conlon et al.（国際共同）(arxiv:2606.07747)
+・Floquet Entanglement Generation in Parametrically Driven Coupled Superconducting Qubits — Gustavo M. Meneses A. et al.（アルゼンチン）(arxiv:2606.07797)
+・Near-deterministic single-atom loading on a photonic integrated circuit — Xinchao Zhou et al.（パデュー大学）(arxiv:2606.07800)
+・Hamiltonian-Guided Leverage Embedding: Robust Subspace Compression for Efficient QAOA Parameter Estimation — Sumanta Mukherjee et al.（IBM Research）(arxiv:2606.07814)
+・Projected Inverse Iteration: An Eigenvalue Approach to Ground-State Computation with Neural Quantum States — Hang Zhang et al.（チューリッヒ工科大学など）(arxiv:2606.07825)
+・Affine Filtering Measurements and Their Applications to Quantum Decoding — Avijit Mandal et al.（スタンフォード大学など）(arxiv:2606.07852)
+・Defining Unique, Redundant, and Synergistic Quantum Information — Sean Ericson et al.（オレゴン大学）(arxiv:2606.07880)
+・All-Optical Wide-Field Magnetometry with Van Der Waals Quantum Sensor — Feifei Zhou et al.（中国）(arxiv:2606.07899)
+・Repair Before Veto, When Repair Is Hidden: Quantum-Accessible Features for Repair-Augmented Constraint Learning — Yifan Wang (arxiv:2606.08020)
+・Numerical solution of the nonlinear Dirac equation by a splitting variational quantum algorithm — Qian Zuo et al.（中国）(arxiv:2606.08053)
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.07666 — ハードウェア対応低遅延量子コンパイルとデータ駆動型軽量エラー検出
+https://arxiv.org/abs/2606.07699 — 非マルコフTLSノイズ下のフラクソニウム量子ビット奇パリティ符号化ゲート
+https://arxiv.org/abs/2606.07727 — CVaRポートフォリオ最適化における量子アルゴリズム耐性のベンチマーク
+https://arxiv.org/abs/2606.07734 — コンパクトなマジック状態蒸留ファクトリーの地形探索
+https://arxiv.org/abs/2606.07736 — 駆動散逸量子多体系における厳密な準安定性
+https://arxiv.org/abs/2606.07747 — 量子不確定性原理の100年：起源から現代的洞察へ
+https://arxiv.org/abs/2606.07797 — パラメトリック駆動超伝導量子ビット間のフロケエンタングルメント生成
+https://arxiv.org/abs/2606.07800 — 光子集積回路上へのほぼ決定論的単一原子ローディング
+https://arxiv.org/abs/2606.07814 — ハミルトニアン誘導レバレッジ埋め込みによるQAOAパラメータ推定の圧縮
+https://arxiv.org/abs/2606.07825 — ニューラル量子状態による基底状態計算への射影逆反復法
+https://arxiv.org/abs/2606.07852 — アフィンフィルタリング測定と量子復号への応用
+https://arxiv.org/abs/2606.07880 — ユニーク・冗長・協調量子情報の定義
+https://arxiv.org/abs/2606.07899 — ファンデルワールス量子センサーによる全光学広視野磁気測定
+https://arxiv.org/abs/2606.08020 — 量子修復前拒否フレームワークと量子アクセス可能特徴
+https://arxiv.org/abs/2606.08053 — 非線形ディラック方程式の分割変分量子アルゴリズムによる数値解法
+
+#量子コンピュータ #量子情報 #IBM #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-10-arxiv-qc/arxiv_qc_yukkuri.m4a" length="10717295" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-10</guid>
+      <pubDate>Wed, 10 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子格子手術の実証から量子センサーまで！今週の重要論文を解説【2026/06/09】</title>
+      <description>今日の量子コンピュータ最新論文10本を、ずんだもんと四国めたんがわかりやすく解説します！
+
+━━ 今日の論文ラインナップ ━━
+
+1. 超伝導表面符号プロセッサで格子手術を実証（格子手術 × 論理ベル状態）
+   → https://arxiv.org/abs/2606.06598
+
+2. 量子秘密分散から設計する暗号化クローニング（クローン禁止定理を逆手に）
+   → https://arxiv.org/abs/2606.06552
+
+3. グラフ状態の内積とArf不変量（スタンフォード大学の理論的発見）
+   → https://arxiv.org/abs/2606.06582
+
+4. 量子ダーウィニズムを量子誤り訂正で解明（なぜ私たちは同じ現実を見るのか）
+   → https://arxiv.org/abs/2606.06588
+
+5. 量子ベクトルホップフィールドネットワーク（量子ゆらぎが記憶を安定化！）
+   → https://arxiv.org/abs/2606.06597
+
+6. 量子多体スカーによるACフィールドセンシング（精度が時間の2乗で向上）
+   → https://arxiv.org/abs/2606.06611
+
+7. 非マルコフ型カー・フィードバックで量子リザバー計算が計算優越
+   → https://arxiv.org/abs/2606.06689
+
+8. 断片化系での高次対称量子ムペンバ効果（壊れたほうが早く回復する不思議）
+   → https://arxiv.org/abs/2606.06653
+
+9. グッツヴィラー射影のスケーラブル量子アルゴリズム（振幅増幅で2次加速）
+   → https://arxiv.org/abs/2606.06919
+
+10. QUBOと量子ハイブリッドで鉄道ダイヤ最適化（実社会への量子応用）
+    → https://arxiv.org/abs/2606.06543
+
+━━ チャプター ━━
+
+00:00 オープニング
+00:30 論文1: 超伝導格子手術の実験実証
+03:00 論文2: 量子暗号化クローニング
+05:00 論文3: グラフ状態とArf不変量
+07:00 論文4: 量子ダーウィニズムと誤り訂正
+09:00 論文5: 量子ホップフィールドネットワーク
+11:00 論文6: 量子多体スカーセンシング
+13:00 論文7: 非マルコフ量子リザバー計算
+15:00 論文8: 量子ムペンバ効果
+17:00 論文9: グッツヴィラー射影アルゴリズム
+19:00 論文10: QUBO鉄道最適化
+21:00 まとめ・エンディング
+
+━━ このチャンネルについて ━━
+
+量子コンピュータ・生成AIの最新arXiv論文を毎日解説！
+ずんだもんと四国めたんがテンポよく・数式まで踏み込んで解説します。
+
+チャンネル登録・高評価で毎日の更新をお見逃しなく！
+
+#量子コンピュータ #量子情報 #arxiv #論文解説 #量子誤り訂正 #超伝導量子コンピュータ #量子センサー #量子機械学習 #ずんだもん #四国めたん #サイエンス #物理学</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-09-arxiv-qc/arxiv_qc_yukkuri.m4a" length="11910303" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-09</guid>
+      <pubDate>Tue, 09 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータ2日間論文まとめ【20本解説】エラー訂正・量子化学・QKD 2026/06/07-08</title>
+      <description>6月7日・8日の2日分まとめ！量子LDPCコードのブレークイーブン達成、大阪大学実機で化学精度の量子化学計算、270kmの実用QKDネットワーク、バーベルコード（超伝導向け新qLDPC）、量子熱論理ゲートまで最前線20本を一挙解説！富士通・大阪大学ら日本チームも活躍。
+
+▼ 今日の論文ラインナップ（全20本）
+・量子LDPCコードのブレークイーブン実証 — IonQ（米国）(arxiv:2606.06455)
+・時空リフティングによる低オーバーヘッド量子フォールトトレランス — MIT（米国）(arxiv:2606.06365)
+・早期フォールトトレラント量子コンピュータによるナノ構造モデリング — Oxford大・Riverlane（英国）(arxiv:2606.06442)
+・量子要素ごと変換の改良アルゴリズム — MITリンカーン研究所（米国）(arxiv:2606.06456)
+・270kmの量子鍵配送実用ネットワーク実証 — リンショーピング大・TeliaCarrier（スウェーデン）(arxiv:2606.06107)
+・量子コンピュータによる希少事象の高速発見とサンプリング — シンガポール国立大（シンガポール）(arxiv:2606.06316)
+・変分量子回路バレンプラトー問題の落とし穴 — EPFL（スイス）(arxiv:2507.22054)
+・室温ナノキャビティでのコヒーレントダイポール同期 — Cambridge大（英国）(arxiv:2606.06490)
+・三角形カットスパース化のための量子アルゴリズム — 中国科技大（中国）(arxiv:2606.06287)
+・パウリ和ハミルトニアン制御時間発展回路の効率的構成 — 富士通（日本）(arxiv:2606.06070)
+・バーベルコード：超伝導量子チップ向けqLDPCの新実装 — Riverlane（欧州）(arxiv:2606.06062)
+・量子コンピュータによる大規模電子構造計算：大阪大学実機で化学精度達成 — 大阪大学（日本）(arxiv:2606.06015)
+・アダプトVQEで対称性の罠を破る——3分子での実証 — バンドン工科大（インドネシア）(arxiv:2606.05968)
+・GKP状態生成のガウシアンボソンサンプリング回路機械学習高速スクリーニング — Amirkabir大（イラン）(arxiv:2606.05992)
+・量子熱論理ゲート——熱電流で演算する新パラダイム — IIT Bombay（インド）(arxiv:2606.06432)
+・大気乱流の量子限界精度推定——空間モード分解で達成 — Lebedev物理研・Sorbonne大（露・仏）(arxiv:2606.06101)
+・超伝導人工原子の禁止遷移——電場ゼロ点でのキュービット操作 — Chalmers大（スウェーデン）(arxiv:2606.06069)
+・フロケマスター方程式のベンチマーク——パルス制御理論の信頼性評価 — TU Dresden（ドイツ）(arxiv:2606.06341)
+・量子情報科学教育研究リソースレター——国連量子年記念 — Colorado工科大（米国）(arxiv:2606.06445)
+・古典的シミュレーション可能量子状態族の半正定値計画階層 — 北京郵電大（中国）(arxiv:2606.06204)
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.06455  — 量子LDPCコードのブレークイーブン実証
+https://arxiv.org/abs/2606.06365  — 時空リフティングによる低オーバーヘッド量子フォールトトレランス
+https://arxiv.org/abs/2606.06442  — 早期フォールトトレラント量子コンピュータによるナノ構造モデリング
+https://arxiv.org/abs/2606.06456  — 量子要素ごと変換の改良アルゴリズム
+https://arxiv.org/abs/2606.06107  — 270kmの量子鍵配送実用ネットワーク実証
+https://arxiv.org/abs/2606.06316  — 量子コンピュータによる希少事象の高速発見
+https://arxiv.org/abs/2507.22054  — 変分量子回路バレンプラトー問題の落とし穴
+https://arxiv.org/abs/2606.06490  — 室温ナノキャビティでのコヒーレントダイポール同期
+https://arxiv.org/abs/2606.06287  — 三角形カットスパース化のための量子アルゴリズム
+https://arxiv.org/abs/2606.06070  — パウリ和ハミルトニアン制御時間発展回路の効率的構成
+https://arxiv.org/abs/2606.06062  — バーベルコード：超伝導量子チップ向けqLDPC
+https://arxiv.org/abs/2606.06015  — 量子コンピュータによる大規模電子構造計算（大阪大学実機）
+https://arxiv.org/abs/2606.05968  — アダプトVQEで対称性の罠を破る
+https://arxiv.org/abs/2606.05992  — GKP状態生成の機械学習高速スクリーニング
+https://arxiv.org/abs/2606.06432  — 量子熱論理ゲート
+https://arxiv.org/abs/2606.06101  — 大気乱流の量子限界精度推定
+https://arxiv.org/abs/2606.06069  — 超伝導人工原子の禁止遷移
+https://arxiv.org/abs/2606.06341  — フロケマスター方程式のベンチマーク
+https://arxiv.org/abs/2606.06445  — 量子情報科学教育研究リソースレター
+https://arxiv.org/abs/2606.06204  — 古典的シミュレーション可能量子状態族の半正定値計画階層
+
+#量子コンピュータ #量子情報 #IonQ #量子エラー訂正 #量子暗号 #arxiv #論文解説 #ずんだもん #量子機械学習 #富士通 #テクノロジー #量子化学 #ゆっくり解説 #量子力学 #フォールトトレラント</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-08-arxiv-qc/arxiv_qc_yukkuri.m4a" length="5546494" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-08</guid>
+      <pubDate>Mon, 08 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>qLDPCコードがブレークイーブン達成！量子誤り訂正の最前線【2026/06/07】</title>
+      <description>2026年6月4日投稿の量子コンピュータ・量子情報分野のarXiv最新論文10本を、ずんだもんと四国めたんがわかりやすく解説します。捕捉イオン型量子コンピュータでの誤り訂正コード実証から量子アルゴリズム理論まで、今日も盛りだくさんです！
+
+▼ 今日の論文ラインナップ
+・qLDPCコードのブレークイーブン実証（捕捉イオン） — IonQ（米国）（arxiv:2606.06455）
+・時空リフティングによる低オーバーヘッド量子フォールトトレランス — MIT（米国）（arxiv:2606.06365）
+・早期フォールトトレラント量子コンピュータによるナノ構造モデリング — Oxford大学・Riverlane（英国）（arxiv:2606.06442）
+・量子要素ごと変換アルゴリズム：指数的空間削減 — MIT・Google（米国）（arxiv:2606.06456）
+・量子強化によるレアイベント発見とサンプリング — 国立シンガポール大学（シンガポール）（arxiv:2606.06316）
+・三角形カットスパーシフィケーションの量子アルゴリズム — 香港大学・マサチューセッツ大学（arxiv:2606.06287）
+・もつれ操作の頑健性：ほぼi.i.d.ソース解析 — ケンブリッジ大学（英国）（arxiv:2606.06392）
+・量子熱論理ゲート：熱電流で論理演算を実現 — インド工科大学カラグプル（インド）（arxiv:2606.06432）
+・多体量子仮説検定の次元自由一ショット上界 — 国立台湾大学・中央研究院（台湾）（arxiv:2606.06246）
+・古典シミュラブル状態族のSDPヒエラルキー — 北京郵電大学（中国）（arxiv:2606.06204）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.06455  — qLDPCコードのブレークイーブン実証（捕捉イオン）
+https://arxiv.org/abs/2606.06365  — 時空リフティングによる低オーバーヘッド量子フォールトトレランス
+https://arxiv.org/abs/2606.06442  — 早期フォールトトレラント量子コンピュータによるナノ構造モデリング
+https://arxiv.org/abs/2606.06456  — 量子要素ごと変換アルゴリズム
+https://arxiv.org/abs/2606.06316  — 量子強化レアイベント発見とサンプリング
+https://arxiv.org/abs/2606.06287  — 三角形カットスパーシフィケーションの量子アルゴリズム
+https://arxiv.org/abs/2606.06392  — もつれ操作の頑健性
+https://arxiv.org/abs/2606.06432  — 量子熱論理ゲート
+https://arxiv.org/abs/2606.06246  — 多体量子仮説検定の次元自由上界
+https://arxiv.org/abs/2606.06204  — 古典シミュラブル状態族のSDPヒエラルキー
+
+#量子コンピュータ #量子情報 #フォールトトレラント #量子誤り訂正 #qLDPC #量子アルゴリズム #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー #IonQ #MIT #量子もつれ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-07-arxiv-qc/arxiv_qc_yukkuri.m4a" length="6445772" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-07</guid>
+      <pubDate>Sun, 07 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子ラビ模型・QAOA・量子レーダーも！今週の重要論文を解説【2026/06/06】</title>
+      <description>超伝導プロセッサで光-物質相互作用を自在にプログラム、100キュービット以上のQAOA最適化、Tゲートを70%削減するフォールトトレラント新手法など、今日も量子情報・量子コンピュータの最前線を10本まとめて解説します。
+
+▼ 今日の論文ラインナップ
+・プログラマブル異方性量子ラビシミュレータ — 中国科学院・中国科学技術大学（arxiv:2606.05270）
+・ユーティリティスケールQAOAの角度設定戦略 — IBM Research（arxiv:2606.05311）
+・量子機械学習における特徴エンコーディング体系的調査 — University of Naples Federico II（arxiv:2606.05387）
+・ダイアディック位相固定：Tゲートを70%削減 — UC Berkeley・Lawrence Berkeley National Lab（arxiv:2606.05397）
+・キュービット検証の暗号理論的構造 — UC Berkeley・Weizmann Institute（arxiv:2606.05527）
+・2光子もつれ状態を用いた量子レーダー断面積 — KIST・US Army Research Lab（arxiv:2606.05603）
+・時空コードのゲージ化：誤り訂正と格子ゲージ理論の統一 — Caltech（arxiv:2606.05664）
+・長時間でのハミルトニアン学習 — MIT・Harvard・Caltech（arxiv:2606.05690）
+・ボソン格子モデルへの連続変数ADAPT-VQE — Jefferson Lab・Virginia Tech・BNL（arxiv:2606.05297）
+・スパイラルドライブにおける自己相似量子復活 — University of Pittsburgh・Hannover（arxiv:2606.05288）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.05270 — プログラマブル異方性量子ラビシミュレータ
+https://arxiv.org/abs/2606.05311 — ユーティリティスケールQAOAの角度設定戦略
+https://arxiv.org/abs/2606.05387 — 量子機械学習における特徴エンコーディング体系的調査
+https://arxiv.org/abs/2606.05397 — ダイアディック位相固定によるフォールトトレラント量子コンパイル
+https://arxiv.org/abs/2606.05527 — キュービット検証の暗号理論的構造
+https://arxiv.org/abs/2606.05603 — 2光子もつれ状態を用いた量子レーダー断面積
+https://arxiv.org/abs/2606.05664 — 時空コードのゲージ化
+https://arxiv.org/abs/2606.05690 — 長時間でのハミルトニアン学習
+https://arxiv.org/abs/2606.05297 — ボソン格子モデルへの連続変数ADAPT-VQE
+https://arxiv.org/abs/2606.05288 — スパイラルドライブにおける自己相似量子復活
+
+#量子コンピュータ #量子情報 #IBM #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-06-arxiv-qc/arxiv_qc_yukkuri.m4a" length="7428395" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-06</guid>
+      <pubDate>Sat, 06 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータ最新論文解説 2026-06-05｜トーリック符号90サイクル実証・高次元QKD・量子化学フロー他10本【ずんだもん＆四国めたん】</title>
+      <description>今日の量子コンピュータ・量子情報の最新論文を、ずんだもんと四国めたんがわかりやすく解説！
+中性原子でトーリック符号の繰り返し誤り訂正を90サイクル実証した画期的な研究から、マルチコアファイバーで世界最高レートの4次元QKD、12キュービットで量子化学の大規模計算、量子回路を迷路に見立てた分割理論まで、盛りだくさんの10本を紹介します。
+
+▼ 今日の論文ラインナップ
+① Atom Computing — トーリック符号で90サイクル繰り返し誤り訂正実証（中性原子）
+② イリノイ大・IBM Quantum — 最尤推定でパウリチャンネルトモグラフィー改善
+③ 太平洋北西国立研究所 — 量子フローアルゴリズムで12キュービットが量子化学大規模計算
+④ コンセプシオン大（チリ）他 — マルチコアファイバーで4次元QKD、世界最高パルスあたりレート
+⑤ パドヴァ大・ミラノ大（伊）他 — 量子回路分割をラビリンスとして定式化、浸透相転移で解析
+⑥ Eviden（仏） — ブール多項式因数分解で量子Toffoliゲートを最大5倍削減
+⑦ RMIT大・メルボルン大（豪） — 半導体超高速光分光のデジタル量子シミュレーションフレームワーク
+⑧ カルガリー大（加） — 光子ヘラルド量子操作の誤りを摂動論的に解析
+⑨ コンセプシオン大（チリ） — 量子ミラーで連続変数量子状態トモグラフィーを効率化
+⑩ アルゼンチン — 非エルミートSwansonハミルトニアンのOTOCと例外点近傍臨界スケーリング
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.04079
+https://arxiv.org/abs/2606.04096
+https://arxiv.org/abs/2606.04186
+https://arxiv.org/abs/2606.04211
+https://arxiv.org/abs/2606.04070
+https://arxiv.org/abs/2606.04038
+https://arxiv.org/abs/2606.04295
+https://arxiv.org/abs/2606.04312
+https://arxiv.org/abs/2606.04277
+https://arxiv.org/abs/2606.04062
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-05-arxiv-qc/arxiv_qc_yukkuri.m4a" length="11462445" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-05</guid>
+      <pubDate>Fri, 05 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータ最新論文解説 2026-06-04</title>
+      <description>量子コンピュータ最新論文解説 20260604
+
+本日のハイライト
+
+本日は arxiv の量子物理・量子コンピュータ分野から、特に重要な8本の論文を取り上げます。スケーラブルな量子ハードウェアの新記録、機械学習を用いたエラー緩和、新材料を使った超伝導キュービット改善など、量子コンピューティングの実用化に向けた最前線の研究が揃いました。
+
+
+
+1. 単一メタサーフェスで11,000原子トラップ — 量子コンピュータの新記録
+
+論文: arXiv:2606.02715  
+著者: Yuqing Wang, Zhongchi Zhang, Tao Zhang ほか（清華大学・中国科学院）  
+URL: https://arxiv.org/abs/2606.02715
+
+背景
+原子アレイ量子コンピュータは、すべての物理キュービットが同一の原子であることから本質的なスケーラビリティを持ちます。これまでの課題は、いかに多くの原子を捕捉・制御するかという点にありました。
+
+手法
+単一のメタサーフェス（直径約2cm）を用いて、ツイーザーアレイ全体を生成するという独自のアプローチを取りました。従来の顕</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-04-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8236772" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-04</guid>
+      <pubDate>Thu, 04 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータが材料・偏微分方程式に挑む！今週の重要論文5本解説【2026/06/03】</title>
+      <description>今日は量子誤り訂正・新ハードウェアアーキテクチャ・量子アルゴリズムから5本を深掘り解説します。
+※FeMoCo論文は本日の投稿ゼロ。次回お楽しみに！
+
+▼ 今日の論文ラインナップ
+・中間測定バックアクションの学習 — 動的量子回路に不可欠な誤り特性評価（arXiv:2606.00433）
+・対称性保護量子計算のためのメタマテリアル新アーキテクチャ（arXiv:2606.00254）
+  超伝導・トラップイオン・フォトニクスに続く第4の道？
+・量子シグナルプロセッシングで線形偏微分方程式を解く・実機実験（arXiv:2606.00368）
+・物理インフォームド機械学習でトランスモンノイズを学習・QAOA信頼性向上（arXiv:2606.00353）
+・「量子チーズ」材料シミュレーションの限界：指数的微細構造への量子オラクル（arXiv:2606.00222）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2606.00433  — Mid-circuit Measurement Backaction Learning
+https://arxiv.org/abs/2606.00254  — Symmetry-Protected QC with Metamaterials
+https://arxiv.org/abs/2606.00368  — Quantum Signal Processing for Linear PDEs
+https://arxiv.org/abs/2606.00353  — Physics-Informed Error Learning for QAOA
+https://arxiv.org/abs/2606.00222  — Quantum Geometry Oracles for Materials
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-03-arxiv-qc/arxiv_qc_yukkuri.m4a" length="4351634" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-03</guid>
+      <pubDate>Wed, 03 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータ論文解説 2026-06-02</title>
+      <description>量子コンピュータ論文解説 20260602
+
+1. YBCOコプラナー導波路共振器の二重チューナブル設計
+arxiv: 2605.30425
+著者: Kenny Fohmann ほか (Tübingen大学)
+
+ 高温超伝導体YBCO（イットリウム・バリウム・銅酸化物）を用いたマイクロ波共振器
+ ヘリウムイオンビーム照射でジョセフソン接合を局所的に生成し、フラックスチューナブルを実現
+ フランホーファー変調パターンにより共振周波数とフラックス応答性を独立制御可能
+ 14 K（ケルビン）まで良好な特性を維持し、高磁場・高温環境への適用性を示した
+ 量子情報から天体物理検出器まで幅広い応用が期待できる柔軟なプラットフォーム
+
+
+
+2. PnCPマップによる二部エンタングルメント検出
+arxiv: 2605.30426
+著者: Gaël Massé ほか (パリ大学ほか)
+
+ 正値非完全正値（PnCP）マップを使ってエンタングルメントを検出する手法
+ 非SumofSquares多項式に基づくアルゴリズムを数値的に安定な形で実装
+ 生成されたマップは分解不可能（indecomposable）で</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-02-arxiv-qc/arxiv_qc_yukkuri.m4a" length="7164512" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-02</guid>
+      <pubDate>Tue, 02 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータ論文10本解説：同期崩壊・産業最適化・東大分子MD【2026/06/01】</title>
+      <description>今回は2026年5月28日にarXivに投稿された量子物理・量子コンピュータ最新論文から厳選10本を解説します！
+
+📌 今回のラインナップ：
+① 乱流大気中の構造化光伝播モデル（衛星QKD向け解析ツール）
+② 量子限界サイクルの脱同期（コペンハーゲン大学：量子位相スリップによる同期崩壊）
+③ 原子核構造のキュービット効率的VQE（サリー大学：¹⁰B・¹²C の基底状態計算）
+④ 産業物流向け量子最適化HUBO（マルチバース社：QUBOを超えた高次定式化）
+⑤ 不定因果順序で実数が複素数を超える（ブリュッセル自由大学：基礎量子論の驚くべき逆転）
+⑥ 非アーベルミキサーQAOA（ハイブリッドプロセッサ向けMax-Cut改善）
+⑦ スクイーズド真空光による巨視的量子状態の超高速生成
+⑧ 部分エラー訂正を散逸資源として再利用（追加キュービット不要の開放系シミュレーション）
+⑨ DMRG誘導確率的虚時間発展（東京大学：エンコーディング障壁克服）
+⑩ 量子回路上の完全分子動力学（東京大学：ランジュバンサーモスタット付きMD）
+
+難しい量子の話をずんだもんと四国めたんがわかりやすく解説するのだ！
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🔗 論文リンク（arxiv）
+① https://arxiv.org/abs/2605.30304
+② https://arxiv.org/abs/2605.30302
+③ https://arxiv.org/abs/2605.30261
+④ https://arxiv.org/abs/2605.30252
+⑤ https://arxiv.org/abs/2605.30238
+⑥ https://arxiv.org/abs/2605.30234
+⑦ https://arxiv.org/abs/2605.30224
+⑧ https://arxiv.org/abs/2605.30217
+⑨ https://arxiv.org/abs/2605.30141
+⑩ https://arxiv.org/abs/2605.30143
+━━━━━━━━━━━━━━━━━━━━━━━
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-06-01-arxiv-qc/arxiv_qc_yukkuri.m4a" length="7035009" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-06-01</guid>
+      <pubDate>Mon, 01 Jun 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータ最新論文10本を解説！IBM実機・量子最適化・分子動力学【2026/05/31】</title>
+      <description>2026年5月最新のquant-ph論文から厳選10本を解説。リンドブラディアン・シミュレーションの計算量改善、IBM量子ハードウェアでの核構造計算、産業ロジスティクスへの量子最適化応用、NTT Researchと東京大学による量子回路分子動力学まで、実用化に直結する研究を網羅します。
+
+▼ 今日の論文ラインナップ
+・リンドブラディアン・シミュレーションのサンプル計算量改善 — KAIST・Louisiana State University（arxiv:2605.30301）
+・キュービット効率的な変分アルゴリズムによる核構造計算 — University of Surrey（arxiv:2605.30261）
+・産業ロジスティクス・スケジューリングへの量子最適化 — Kipu Quantum（arxiv:2605.30252）
+・不定因果順序が実数・複素数ヒエラルキーを逆転 — Perimeter Institute（arxiv:2605.30238）
+・ハイブリッド量子プロセッサ向け非アーベル混合器付きケーオーエーエー — AWS Quantum Computing（arxiv:2605.30234）
+・部分量子誤り訂正によるプログラマブル散逸 — Caltech・Google Quantum AI（arxiv:2605.30217）
+・量子回路上のランジュバン・サーモスタット付き分子動力学 — NTT Research・東京大学（arxiv:2605.30143）
+・グリーン・久保輸送係数のためのクーブマン・フォン・ノイマン分子動力学 — NTT Research・東京大学（arxiv:2605.30142）
+・DMRG誘導確率的虚時間発展による行列積状態符号化バリアの克服 — NTT Research・東京大学（arxiv:2605.30141）
+・リミットサイクルの量子非同期化 — コペンハーゲン大学（arxiv:2605.30302）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2605.30301 — リンドブラディアン・シミュレーションのサンプル計算量改善
+https://arxiv.org/abs/2605.30261 — キュービット効率的な変分アルゴリズムによる核構造計算
+https://arxiv.org/abs/2605.30252 — 産業ロジスティクス・スケジューリングへの量子最適化
+https://arxiv.org/abs/2605.30238 — 不定因果順序が実数・複素数ヒエラルキーを逆転
+https://arxiv.org/abs/2605.30234 — ハイブリッド量子プロセッサ向け非アーベル混合器付きケーオーエーエー
+https://arxiv.org/abs/2605.30217 — 部分量子誤り訂正によるプログラマブル散逸
+https://arxiv.org/abs/2605.30143 — 量子回路上のランジュバン・サーモスタット付き分子動力学
+https://arxiv.org/abs/2605.30142 — グリーン・久保輸送係数のクーブマン・フォン・ノイマン分子動力学
+https://arxiv.org/abs/2605.30141 — DMRG誘導確率的虚時間発展による行列積状態符号化
+https://arxiv.org/abs/2605.30302 — リミットサイクルの量子非同期化
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-31-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8806648" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-05-31</guid>
+      <pubDate>Sun, 31 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026年5月30日 量子コンピュータ最新論文解説｜量子同期・産業最適化</title>
+      <description>arXiv quant-ph より2026年5月最新の量子情報・量子コンピュータ論文10本をずんだもん＆四国めたんが解説！量子同期の破綻メカニズム、QUBO超え産業最適化、不確定性原理の幾何学的再定式化など盛りだくさん。
+
+▼ 今日の論文ラインナップ
+・量子非同期化：リミットサイクルの量子位相スリップ — コペンハーゲン大学（arxiv:2605.30302）
+・フォック状態の量子同期 — アーヘン工科大学 他（arxiv:2605.30271）
+・核構造のための量子ビット効率的変分アルゴリズム — サリー大学（arxiv:2605.30261）
+・産業物流・スケジューリング向けQUBO超え量子最適化（arxiv:2605.30252）
+・不定因果順序が実数・複素数ヒエラルキーを逆転させる（arxiv:2605.30238）
+・非アーベルミキサーによるQAOA：ハイブリッド振動子量子ビットプロセッサ（arxiv:2605.30234）
+・絡み合い検出：状態準備と局所測定（arxiv:2303.16368）
+・リンドブラッドシミュレーションのサンプル複雑度改善 — LSU 他（arxiv:2605.30301）
+・量子不確定性の幾何学的定式化 — ウィーン大学（arxiv:2605.01103）
+・量子誤り訂正による部分的なプログラマブル散逸（arxiv:2605.30217）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2605.30302  — 量子非同期化：リミットサイクルの量子位相スリップ
+https://arxiv.org/abs/2605.30271  — フォック状態の量子同期
+https://arxiv.org/abs/2605.30261  — 核構造のための量子ビット効率的変分アルゴリズム
+https://arxiv.org/abs/2605.30252  — 産業物流・スケジューリング向けQUBO超え量子最適化
+https://arxiv.org/abs/2605.30238  — 不定因果順序が実数・複素数ヒエラルキーを逆転させる
+https://arxiv.org/abs/2605.30234  — 非アーベルミキサーによるQAOA
+https://arxiv.org/abs/2303.16368  — 絡み合い検出：状態準備と局所測定
+https://arxiv.org/abs/2605.30301  — リンドブラッドシミュレーションのサンプル複雑度改善
+https://arxiv.org/abs/2605.01103  — 量子不確定性の幾何学的定式化
+https://arxiv.org/abs/2605.30217  — 量子誤り訂正による部分的なプログラマブル散逸
+
+#量子コンピュータ #量子情報 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-30-arxiv-qc/arxiv_qc_yukkuri.m4a" length="5912042" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-05-30</guid>
+      <pubDate>Sat, 30 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026年5月29日 量子コンピュータ最新論文解説｜VQA・QKDネットワーク・量子暗号解析</title>
+      <description>今日は arXiv から量子コンピュータ・量子情報分野の最新論文10本を厳選してずんだもんと四国めたんが解説します。
+変分量子アルゴリズムの設計自動化、量子鍵配送ネットワークの最適化、ポスト量子暗号解析まで幅広くカバー！
+
+▼ 今日の論文ラインナップ
+・量子変分線形ソルバーによるPDE演算子学習（NVQLS）— Chanyoung Kim et al.（KAIST系グループ）（arxiv:2605.27408）
+・ゼロショット量子ニューラルアーキテクチャ探索（MZeQAS）— Tung Dao et al.（ハノイ工科大学）（arxiv:2605.27410）
+・量子連合学習への回路レベルバックドア攻撃（CULT）— Aakar Mathur et al.（インド工科大学等）（arxiv:2605.27416）
+・量子暗号化クローニングにおける情報漏洩の完全特性化 — Gabriele Gianini et al.（ミラノ大学等）（arxiv:2605.27421）
+・キャリブレーション不確実性下の量子速度限界 — S. S. Wani, S. Al-Kuwari（カタール大学）（arxiv:2605.27423）
+・QKDネットワーク向け量子インスパイア・ハミルトニアン最適化ルーティング — Jose Luis Rosales（マドリード大学）（arxiv:2605.27425）
+・デコヒーレンスフリー部分空間による量子リザバーネットワーク — V. V. Akshay et al.（ロシア科学アカデミー等）（arxiv:2605.27427）
+・最大重みBirkhoff-von Neumann分解によるLCU回路幅削減 — Ammar Daskin（イスタンブール・メダニエット大学）（arxiv:2605.27430）
+・E91量子ネットワークにおけるサブ二次認証スケーリング — Jose Luis Rosales（マドリード大学）（arxiv:2605.27434）
+・GFSPXブロック暗号の量子回路実現とGrover暗号解析 — Ibrahim Ulgen et al.（中東工科大学 / アンカラ大学）（arxiv:2605.27443）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2605.27408  — 量子変分線形ソルバーによるPDE演算子学習（NVQLS）
+https://arxiv.org/abs/2605.27410  — ゼロショット量子ニューラルアーキテクチャ探索（MZeQAS）
+https://arxiv.org/abs/2605.27416  — 量子連合学習への回路レベルバックドア攻撃（CULT）
+https://arxiv.org/abs/2605.27421  — 量子暗号化クローニングにおける情報漏洩の完全特性化
+https://arxiv.org/abs/2605.27423  — キャリブレーション不確実性下の量子速度限界
+https://arxiv.org/abs/2605.27425  — QKDネットワーク向け量子インスパイア・ハミルトニアン最適化ルーティング
+https://arxiv.org/abs/2605.27427  — デコヒーレンスフリー部分空間による量子リザバーネットワーク
+https://arxiv.org/abs/2605.27430  — 最大重みBirkhoff-von Neumann分解によるLCU回路幅削減
+https://arxiv.org/abs/2605.27434  — E91量子ネットワークにおけるサブ二次認証スケーリング
+https://arxiv.org/abs/2605.27443  — GFSPXブロック暗号の量子回路実現とGrover暗号解析
+
+#量子コンピュータ #量子情報 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-29-arxiv-qc/arxiv_qc_yukkuri.m4a" length="7399320" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-05-29</guid>
+      <pubDate>Fri, 29 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026年5月28日 量子コンピュータ最新論文解説｜139量子ビット熱状態・クロストーク問題・スカーETH</title>
+      <description>139量子ビットで強相関量子スピン系の熱状態を実機準備、フォールトトレラント計算の要となるTステート準備の体系的比較、量子デバイスのクロストークノイズ総覧など、2026年5月28日のarXiv最新論文10本をずんだもん＆四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・139量子ビットでフラストレート量子スピン系の熱状態準備 — UCB/IBM（arxiv:2605.26245）
+・論理的Tステート準備プロトコルのリソース比較 — 北京大（arxiv:2605.26522）
+・現代量子デバイスのクロストーク問題 包括的サーベイ — メルボルン大（arxiv:2605.26528）
+・フェルミオン非ガウス性の実用テストと証人 — ICFO/ポーランド（arxiv:2605.26218）
+・有向パーコレーションによる量子もつれパターン転移 — TU München（arxiv:2605.26219）
+・単一観測量の不確定性関係 — 東京理科大（arxiv:2605.26331）
+・白色熱雑音下での量子もつれ生成普遍的上限 — Caltech（arxiv:2605.26215）
+・ボーアの相補性原理 100年の歴史的レビュー — ブラジル連邦大/アリガル大（arxiv:2605.26375）
+・キュービットによる多パラメータスクイージング — Texas A&amp;M（arxiv:2605.26377）
+・スカーETH：カオスとスカーの統一理論 — 中国科学院（arxiv:2605.26389）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2605.26245  — Preparing thermal states with 139 qubits
+https://arxiv.org/abs/2605.26522  — Logical T-State Preparation Resource Comparison
+https://arxiv.org/abs/2605.26528  — Crosstalk In Contemporary Quantum Devices
+https://arxiv.org/abs/2605.26218  — Practical Tests of Fermionic non-Gaussianity
+https://arxiv.org/abs/2605.26219  — Entanglement Pattern Transition from Directed Percolation
+https://arxiv.org/abs/2605.26331  — Uncertainty Relation for a Single Observable
+https://arxiv.org/abs/2605.26215  — Universal Bound for Entanglement Generation
+https://arxiv.org/abs/2605.26375  — Bohr's Complementarity Review
+https://arxiv.org/abs/2605.26377  — Multiparameter Squeezing with Qudits
+https://arxiv.org/abs/2605.26389  — Scar Full Eigenstate Thermalization Hypothesis
+
+#量子コンピュータ #量子情報 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-28-arxiv-qc/arxiv_qc_yukkuri.m4a" length="6393208" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-05-28</guid>
+      <pubDate>Thu, 28 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026年5月26日 量子コンピュータ最新論文解説｜Cat Qubitと量子カオスの謎・センシング統一理論</title>
+      <description>2026年5月26日のarXiv量子コンピュータ（quant-ph）最新論文を7本、ずんだもん＆四国めたんがわかりやすく解説します！
+
+▼ 今日の論文ラインナップ
+・ネコ量子ビットのビット反転エラーと量子カオスの関係（arXiv:2605.24100）
+・量子センシングと量子誤り訂正は「同じコインの両面」（arXiv:2605.24120）
+・量子非破壊測定が耐障害性量子計算の新プリミティブに（arXiv:2605.24262）
+・4進数メッセージパッシング復号で量子誤り訂正を大規模化（arXiv:2605.24177）
+・ハイブリッド量子古典MLでエネルギー需給予測を高度化（arXiv:2605.24252）
+・デジタルツインと量子古典ハイブリッドでFMCWレーダー改善（arXiv:2605.24187）
+・シリコン空孔（SiV）の表面処理が量子ノイズを左右する（arXiv:2605.24157）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2605.24100  — ネコ量子ビットのビット反転と量子カオス
+https://arxiv.org/abs/2605.24120  — 量子センシングと量子誤り訂正の統一的理解
+https://arxiv.org/abs/2605.24262  — 量子非破壊測定と耐障害性量子計算
+https://arxiv.org/abs/2605.24177  — 4進数メッセージパッシング復号
+https://arxiv.org/abs/2605.24252  — ハイブリッド量子古典MLとエネルギー予測
+https://arxiv.org/abs/2605.24187  — デジタルツインとFMCWレーダー
+https://arxiv.org/abs/2605.24157  — SiV表面処理と量子ノイズ低減
+
+#量子コンピュータ #量子情報 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-26-arxiv-qc/arxiv_qc_yukkuri.m4a" length="3366139" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-05-26</guid>
+      <pubDate>Tue, 26 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arxiv 量子コンピュータ論文解説 — 2026年5月23日</title>
+      <description>arxiv 量子コンピュータ論文解説 — 2026年5月23日
+
+本日は quantph の最新論文から8本をピックアップして解説します。
+
+
+
+本日のハイライト
+
+ Testing Superpositions — 量子場の中に置かれた「2か所同時に存在する検出器」の実験提案
+ ATHENA — 分散量子コンピュータのための最適スケジューリングコンパイラ
+ Zerolevel CCZ — マジックステート蒸留のコストをほぼゼロにする画期的手法
+
+
+
+1. 「2か所同時に存在する検出器」で量子場理論をテストする
+
+著者: arXiv:2605.21595 日付: 20260522
+
+背景
+量子力学では粒子が「2か所に同時に存在する」重ね合わせが可能。しかし、そのような重ね合わせ状態にある検出器が量子場と相互作用するとき、何が起きるかは理論的に未解決。
+
+手法
+ビームスプリッタを使ってレーザープローブを2経路に分割し、各経路をボーズアインシュタイン凝縮体（BEC）の異なる2点に当てる。再結合後のヘテロダイン測定から、重ね合わせ検出器と量子場の相互作用の痕跡を調べる。
+
+結果
+現行技術で実</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-23-arxiv-qc/arxiv_qc_yukkuri.m4a" length="4584888" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-05-23</guid>
+      <pubDate>Sat, 23 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arxiv 量子コンピュータ論文解説 — 2026年5月21日</title>
+      <description>arxiv 量子コンピュータ論文解説 — 2026年5月21日
+
+今日は量子コンピュータ分野の最新論文7本を解説します。重力によるエンタングルメント検出、QAOAの動作原理解明、量子機械学習など、多彩なトピックを取り上げます。
+
+
+
+論文1: 重力でエンタングルメントが生まれる？光力学系で検証
+
+タイトル: Gravitational Entanglement in Optomechanics: Distinguishing Classical and Quantum Models  
+arxiv: 2605.20330  2026年5月21日
+
+背景
+ 量子重力の検証は現代物理学最大の課題のひとつです
+ 重力によって誘起されるエンタングルメントを観測できれば、重力が量子的である証拠になるとされています
+ しかし「古典的な重力でも同様の相関が生じるのでは？」という反論があり、解釈が難しい状況でした
+
+手法
+ 光力学（オプトメカニクス）システム：光子と機械振動子を結合させた実験系を使います
+ 古典モデルと量子モデルの違いを定量的に区別するための新しい判定基準を提案
+ ウィグナー関数の負値</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-05-21-arxiv-qc/arxiv_qc_yukkuri.m4a" length="5945475" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-05-21</guid>
+      <pubDate>Thu, 21 May 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
