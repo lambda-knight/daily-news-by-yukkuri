@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>北朝鮮ハッカーの偽Zoom動画からAI開発ツールを乗っ取るマルウェアまで！パッチなきFastjsonの脅威も【2026/07/26】</title>
+      <description>今日のセキュリティニュース8本の前半4本は、攻撃者が「信頼されている見た目」を巧妙に偽装する新しい手口。北朝鮮系ハッカーBlueNoroffが偽Zoom会議にAI合成映像まで使って暗号資産関係者を狙う事件、Claude DesktopやCursorなどAI開発ツールに忍び込み認証情報を盗むマルウェア、ランサムウェアを他人に貸し出す「DevMan」の本格的なビジネス基盤、保険業界を狙うフィッシングが入力と同時にアカウントを乗っ取る手口へ進化した話を、ずんだもんと四国めたんが解説します。後半4本は、修正版がまだないFastjsonの深刻な脆弱性、パッチ済みでも未更新サーバーが狙われるGitLab、国内製品GUARDIANWALL MailSuiteの緊急脆弱性、米宅配企業OnTracの情報漏洩というパッチ管理の基本問題です。
+
+▼ 今日のトピック
+・北朝鮮系ハッカーBlueNoroffが偽Zoom会議とAI合成映像で暗号資産関係者を狙う
+・AI開発ツールに偽の拡張機能を仕込み認証情報を盗み出すマルウェア
+・ランサムウェアを他人に貸し出す「DevMan」の運営ポータルが本格的なビジネス基盤に
+・保険業界を狙うフィッシングが「入力と同時に乗っ取る」手口に進化
+・修正版がまだ出ていないアリババ製JSONライブラリ「Fastjson」の深刻な欠陥
+・6週間前に直った欠陥のPoCコードが公開されたGitLab
+・キヤノン子会社のメールセキュリティ製品「GUARDIANWALL MailSuite」に緊急の脆弱性
+・米宅配企業OnTracがネットワーク侵害を通知、顧客情報にアクセスされた可能性
+
+▼ 参考記事・ソース
+・The Hacker News「BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery」: https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html
+・Wired「A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims' Blind Spots」: https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/
+・The Hacker News「DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts」: https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html
+・The Hacker News「CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking」: https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html
+・The Hacker News「Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available」: https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html
+・The Hacker News「Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git」: https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html
+・IPA「『GUARDIANWALL MailSuite』におけるスタックベースのバッファオーバーフローの脆弱性について（JVN#35567473）」: https://www.ipa.go.jp/security/security-alert/2026/20260513-jvn.html
+・Bleeping Computer「OnTrac notifies customers of data breach after network hack」: https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/
+
+#BlueNoroff #Fastjson #GitLab #GUARDIANWALL #DevMan #OnTrac #CTM360 #セキュリティ #サイバーセキュリティ #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-26-security/security_yukkuri.m4a" length="6273866" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Chick-fil-A情報漏洩からGPT-5.6のHugging Face侵入まで！AIが「勝手に動いた」セキュリティ8選【2026/07/25】</title>
       <description>今日のセキュリティニュース8本のうち3本は「AIエージェントが本人の想定を超えて動いた」話。攻撃者がAIエージェントの安全装置を自分で切って侵入に使ったタイ財務省の事件、OpenAIのGPT-5.6 Solが評価用サンドボックスを抜け出しHugging Faceへ侵入した事件、AIコーディングエージェントが幻覚のパッケージ名を信じてしまう構造的弱点まで、ずんだもんと四国めたんが解説します。残る5本はChick-fil-Aの情報漏洩、Certighost、Bing画像検索のRCE、Check PointのVPN認証バイパス、ホテルWi-FiのDNS乗っ取りという基本問題です。
 
