@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>図書館で人気の「AI回避」講座、電力網の悲鳴と室温量子コンピュータ 生成AIニュース【2026/07/26】</title>
+      <description>米図書館で広がる「Avoiding AI」講座、バージニア州の送電線事故が暴いたAIデータセンターの電力網リスク、OpenAI初のハードウェア「マイクロ」キーパッド、Blueskyの AIアシスタント「Attie」のQuests機能拡張、ドイツSaxonQの室温動作・商用ダイヤモンド量子コンピュータを解説します。AIを広める側と、あえて距離を置く側、そしてAIを支えるインフラの3つの視点が交差する一日です。
+
+▼ 今日のトピック
+・米図書館で「AI回避」講座が人気に――バンゴー公共図書館などで定員超えの参加者
+・バージニア州の送電線事故、AIデータセンター約3.1ギガワットが一斉離脱――PJM電力網の課題
+・OpenAI初の自社ハードウェア「マイクロ」キーパッド、230ドルで発売
+・Bluesky、AIアシスタント「Attie」に新機能「Quests」――AT Protocol全体を横断調査
+・SaxonQ、冷却装置不要の室温動作ダイヤモンド量子コンピュータ「SXQ128/SXQ512」を発表
+
+▼ 参考記事・ソース
+・TechCrunch「Librarians are hosting viral 'Avoiding AI' workshops for people who are fed up with Big Tech」(2026-07-25): https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/
+・TechCrunch「One fallen power line exposed a growing AI data center problem. Here's how to fix it.」(2026-07-25): https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
+・TechCrunch「I tried out OpenAI's new AI keypad」(2026-07-24): https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
+・TechCrunch「Bluesky's AI assistant Attie expands into an open social research tool」(2026-07-24): https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/
+・Electronics Weekly「SaxonQ puts quantum computer on the market」(2026-07-23): https://www.electronicsweekly.com/news/business/saxonq-puts-quantum-computer-on-the-market-2026-07/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-26-ai/ai_yukkuri.m4a" length="5172456" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI企業が「人格」を買収する日、Opus 5の効率論と理研の量子HPC 生成AIニュース【2026/07/25】</title>
       <description>Anthropicの新型モデル「Opus 5」公開と効率重視という評価、CognitionによるAIアシスタント「Poke」買収、Midjourneyの占星術アプリ「Co-Star」買収、Reid Hoffman・Mark Pincus発の新興AIラボ「Prentis」の10億ドル評価、理化学研究所の量子HPCハイブリッド基盤「ROQUO」稼働を解説します。モデルの強さだけでなく、AIの「人格」や周辺インフラを丸ごと取り込む競争が始まった一日です。
 
