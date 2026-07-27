@@ -26,6 +26,32 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>OpenAI侵害に「1億ドル」要求、議会でAI下書きが露呈 生成AIニュース【2026/07/27】</title>
+      <description>ハギングフェイスCEOがOpenAIの「暴走エージェント」侵害事件で1億ドルと全ログ公開を要求、中国発モデル「Kimi」がシリコンバレーに引き起こした「中国AIパニック」、カナダ州議会でAIの下書き指示がそのまま読み上げられた失態、アストラゼネカのAI創薬、IBMが国家プロジェクト「Genesis Mission」へ提供する5000万ドル分の量子コンピュートアクセスを解説します。AIの「事故」がいろいろな形で表に出た一日です。
+
+▼ 今日のトピック
+・ハギングフェイスCEOが「徹底した透明性」と1億ドル相当の計算資源をOpenAIに要求――「暴走エージェント」侵害事件の続報
+・中国Moonshot AIの新モデル「Kimi」がシリコンバレー・ウォール街に引き起こした「中国AIパニック」の中身
+・カナダ・ニューブランズウィック州議員が議会演説でAIの下書き指示文をそのまま読み上げ、動画が拡散
+・アストラゼネカ、AIで次世代バイオ医薬品の設計を加速――創薬期間を最大50%短縮の試算も
+・IBM、米エネルギー省の国家科学プロジェクト「Genesis Mission」に5000万ドル相当の量子コンピュートアクセスを提供
+
+▼ 参考記事・ソース
+・TechCrunch「Hugging Face CEO calls for 'radical transparency' after 'unprecedented' OpenAI hack」(2026-07-26): https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/
+・Benzinga「Hugging Face CEO Urges OpenAI to Release Rogue AI Logs, Commit $100 Million in Compute After Breach」(2026-07-26): https://www.benzinga.com/markets/tech/26/07/60685593/hugging-face-ceo-urges-openai-to-release-rogue-ai-logs-commit-100-million-in-compute-after-breach
+・TechCrunch「Making sense of the panic over Chinese AI」(2026-07-26): https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/
+・Ars Technica「Canadian legislator reads out apparent LLM response in floor speech」(2026-07-25): https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/
+・MIT Technology Review「How AI helps scientists design the next generation of medicines」(2026-07-23): https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/
+・IBM Research「IBM commits $50M in quantum access for US Genesis Mission」(2026-07-22): https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-27-ai/ai_yukkuri.m4a" length="6217830" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-27</guid>
+      <pubDate>Mon, 27 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>図書館で人気の「AI回避」講座、電力網の悲鳴と室温量子コンピュータ 生成AIニュース【2026/07/26】</title>
       <description>米図書館で広がる「Avoiding AI」講座、バージニア州の送電線事故が暴いたAIデータセンターの電力網リスク、OpenAI初のハードウェア「マイクロ」キーパッド、Blueskyの AIアシスタント「Attie」のQuests機能拡張、ドイツSaxonQの室温動作・商用ダイヤモンド量子コンピュータを解説します。AIを広める側と、あえて距離を置く側、そしてAIを支えるインフラの3つの視点が交差する一日です。
 
