@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>重罪犯が運営するゼロデイ買い取りスタートアップからFBIのボットネット差し押さえまで！Steamゲーマー標的の採掘マルウェアも【2026/07/27】</title>
+      <description>今日のセキュリティニュース8本の前半4本は「摘発・詐欺・裏社会」の話。FBIが200万台規模のボットネットにつながる住宅用プロキシ「NetNut」を差し押さえた事件、重罪判決を受けた人物たちがゼロデイ脆弱性を1万ドルから700万ドルで買い取るスタートアップ「IRIS C2」を堂々と運営している実態、ShinyHuntersを騙るビットコイン2000ドルのセクストーション詐欺、Steamフォーラムの「修正方法」投稿でゲーマーが採掘マルウェアに感染する手口を、ずんだもんと四国めたんが解説します。後半4本は技術的な脆弱性と防御の話で、ランサムウェア集団Cl0pが製造業向けソフトPTC Windchill/FlexPLMを狙う脆弱性連鎖、ブラウザのメモリ上でマルウェアを組み立てる「SourTrade」広告キャンペーン、多くのパソコンに入っているOracle Javaの月例更新、GitHubとPyPIがサプライチェーン攻撃に導入した時間差の防御策を取り上げます。
+
+▼ 今日のトピック
+・FBIが住宅用プロキシ「NetNut」とPopaボットネットを差し押さえ
+・重罪判決を受けた人物たちがゼロデイ買い取りスタートアップ「IRIS C2」を運営
+・情報流出ブランドを騙るビットコイン2000ドルのセクストーション詐欺
+・Steamフォーラムの「修正方法」を装った投稿でゲーマーが採掘マルウェアに感染
+・ランサムウェア集団Cl0pが製造業向けソフトの脆弱性を連鎖させ二重恐喝
+・ブラウザのメモリ上でマルウェアを組み立てる「SourTrade」広告キャンペーン
+・多くのパソコンに入っているOracle Javaの月例更新
+・GitHubとPyPIがソフトウェア部品を狙うサプライチェーン攻撃に「時間差」の防御を導入
+
+▼ 参考記事・ソース
+・Krebs on Security「FBI Seizes NetNut Proxy Platform, Popa Botnet」: https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/
+・Krebs on Security「Felons, Fraudsters Flog Offensive Cybersecurity Startup」: https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/
+・Bleeping Computer「ShinyHunters data leaks fuel $2,000 sextortion email scam」: https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/
+・Bleeping Computer「Steam forum ClickFix attacks infect gamers with XMRig cryptominers」: https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/
+・The Hacker News「Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE」: https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html
+・Bleeping Computer「Malicious sites use JavaScript to build malware in browser memory」: https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/
+・IPA「Oracle Java の脆弱性対策について(2026年7月)」: https://www.ipa.go.jp/security/security-alert/2026/0722-jre.html
+・Bleeping Computer「GitHub, PyPI add time-based defenses against supply chain attacks」: https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/
+
+#NetNut #Popa #IRISC2 #ShinyHunters #Cl0p #SourTrade #セキュリティ #サイバーセキュリティ #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-27-security/security_yukkuri.m4a" length="6455694" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-27</guid>
+      <pubDate>Mon, 27 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>北朝鮮ハッカーの偽Zoom動画からAI開発ツールを乗っ取るマルウェアまで！パッチなきFastjsonの脅威も【2026/07/26】</title>
       <description>今日のセキュリティニュース8本の前半4本は、攻撃者が「信頼されている見た目」を巧妙に偽装する新しい手口。北朝鮮系ハッカーBlueNoroffが偽Zoom会議にAI合成映像まで使って暗号資産関係者を狙う事件、Claude DesktopやCursorなどAI開発ツールに忍び込み認証情報を盗むマルウェア、ランサムウェアを他人に貸し出す「DevMan」の本格的なビジネス基盤、保険業界を狙うフィッシングが入力と同時にアカウントを乗っ取る手口へ進化した話を、ずんだもんと四国めたんが解説します。後半4本は、修正版がまだないFastjsonの深刻な脆弱性、パッチ済みでも未更新サーバーが狙われるGitLab、国内製品GUARDIANWALL MailSuiteの緊急脆弱性、米宅配企業OnTracの情報漏洩というパッチ管理の基本問題です。
 
