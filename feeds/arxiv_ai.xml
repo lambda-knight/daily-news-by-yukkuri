@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>ハーネスごと鍛えるAIエージェント研究ほか生成AI論文10本解説【2026/07/27】</title>
+      <description>今日は、Claude CodeやCodexのような推論ハーネスそのものを強化学習で鍛える基盤、自然言語だけで物理的にもっともらしい4Dワールドを作るマルチエージェント手法、百万トークン級の長文脈で投機的デコーディングを高速化する仕組みから、LLMがなぜ「言い直し」を多用してしまうのかという言語スタイルの分析、心理言語学の定説「サプライザル理論」への根本的批判まで、生成AI論文10本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・ハーネス常駐型AIエージェントをあらゆる環境で訓練する『OpenForgeRL』
+・生成シミュレーションで4D物理世界を作る『GS-Agent』
+・LLMが臨床症例をゲーム化する医学教育フレームワーク『MedGame』
+・クラウドを使わないエージェント型コーディング：縦断データ整形をオープンウェイトLLMで評価する
+・百万トークン文脈での投機的デコーディングを高速化する『Windowed-MTP』
+・ランダム化設計でKVキャッシュ破棄の誤差を証明可能にする
+・思考トークン予算の飽和と、推論が収束しない兆候の機構的早期検出
+・What・Where・Howで解剖する、コード生成モデルの内部表現
+・人工的なエパノルソシス：LLMはなぜ「言い直し」を多用するのか
+・サプライザル理論はトートロジーである、合理的根拠なしには
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.21557 — OpenForgeRL: Train Harness-native Agents in Any Environment
+https://arxiv.org/abs/2607.21522 — GS-Agent: Creating 4D Physical Worlds With Generative Simulation
+https://arxiv.org/abs/2607.21570 — MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education
+https://arxiv.org/abs/2607.21482 — Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks
+https://arxiv.org/abs/2607.21535 — Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context
+https://arxiv.org/abs/2607.21475 — Error Certificates for KV-Cache Eviction via Randomized Design
+https://arxiv.org/abs/2607.21433 — Token Budget Saturation and Mechanistic Early Detection of Reasoning Non-Convergence in Chain-of-Thought Models
+https://arxiv.org/abs/2607.21491 — What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations
+https://arxiv.org/abs/2607.21498 — Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it
+https://arxiv.org/abs/2607.21574 — Surprisal Theory is Tautological (without Rational Grounding)
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-27-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9955553" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-27</guid>
+      <pubDate>Mon, 27 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>モデルを守り・効率化し・見張る——生成AI最新論文10本解説【2026/07/26】</title>
       <description>今日は、LLMを実運用で動かし続けるための工学的な工夫と、動かし続けた結果現れる制御しにくい振る舞いという2つの軸を追う回。欧州発のオープンウェイト推論モデル、長文脈を安く読ませるアテンション設計、LLMエージェントの記憶保持、知識蒸留への対抗策、検索拡張生成(RAG)へのグラフ理論的防御から、確信を持って人を欺くLLM、ニュース文脈由来の情報バイアス、フロンティアモデルの応答ドリフト、物語パターンの継承まで、生成AI論文10本をずんだもんと四国めたんが解説します。
 

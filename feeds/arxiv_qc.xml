@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子優位性は本物か？消えるカーネル優位性ほか量子コンピュータ論文10本【2026/07/27】</title>
+      <description>今日は、量子コンピュータ実験を多項式時間の古典アルゴリズムで再現してしまう研究と、株式リターン予測で量子カーネルの優位性が評価設計しだいで現れたり消えたりすることを解剖した研究から、バイアスノイズ量子ビットのフォールトトレランス指針、強化学習による量子LDPC符号の高速復号、遠隔論理もつれ生成、グラフニューラルネットワークによる中性原子量子計算機のコンパイル高速化、AIエージェントによる量子定理証明のベンチマークまで、量子コンピュータ論文10本をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・量子化学実験を1分で再現する古典アルゴリズム：ユニタリークラスタージャストロー回路
+・消える量子カーネル優位性：株式リターン予測での検証手続きの落とし穴
+・バイアスノイズ量子ビットで実現する効率的フォールトトレランス
+・強化学習とクラスタ化スケジューリングで量子LDPC符号を高速復号する
+・フロケ型リザバーエンジニアリングによる遠隔論理もつれ生成
+・共有ランダム性によるもつれ純粋化の性能向上
+・ARGON：グラフニューラルネットワークで中性原子量子計算機のコンパイルを1万倍高速化
+・中性原子と捕捉イオンをつなぐハイブリッド量子インターフェース
+・量子アルゴリズムの定理証明をAIエージェントに解かせるベンチマーク
+・ブロックチェーンで守る量子連合学習フレームワーク「QuantumChain」
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.21337 — Efficient classical simulation of large-scale unitary cluster Jastrow circuits
+https://arxiv.org/abs/2607.20168 — Quantum Kernels and the Cross-Section of Stock Returns: Anatomy of a Vanishing Advantage
+https://arxiv.org/abs/2607.20143 — Biased-noise qubits: a guide to efficient fault-tolerance using the hierarchy of errors
+https://arxiv.org/abs/2607.20130 — Learning to Decode Quantum LDPC Codes via Cluster-Based Sequential Belief Propagation
+https://arxiv.org/abs/2607.21360 — Floquet Reservoir Engineering for Remote Logical Entanglement
+https://arxiv.org/abs/2607.21555 — Enhancing Entanglement Purification with Shared Randomness
+https://arxiv.org/abs/2607.21216 — ARGON: A GNN-Empowered Compilation Framework for Scalable Neutral Atom Computing
+https://arxiv.org/abs/2607.20998 — A Quantum Interface Between Neutral-Atoms and Trapped-Ions Quantum Registers
+https://arxiv.org/abs/2607.21533 — Benchmarking Agents for Proving Theorems in Quantum Algorithms and Quantum Information
+https://arxiv.org/abs/2607.21449 — QuantumChain: Blockchain-Backed Quantum Federated Learning for Financial Fraud Detection
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-27-arxiv-qc/arxiv_qc_yukkuri.m4a" length="10050334" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-27</guid>
+      <pubDate>Mon, 27 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv量子コンピュータニュース（2026年7月26日）</title>
       <description>arXiv量子コンピュータニュース（2026年7月26日）
 
