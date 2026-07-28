@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>コカ・コーラ系列とEYに相次ぐ情報流出、Claudeチャット漏えいからロンドン地下鉄ハッカーの罪状認否まで——過去最多570件のMicrosoftパッチも【2026/07/28】</title>
+      <description>今日のセキュリティニュース8本の前半4本は「実害・流出・摘発」の話。コカ・コーラ傘下の乳製品ブランドFairlifeがランサムウェア集団Anubisにデータを盗まれた事件、会計大手EY(アーンスト・アンド・ヤング)がShinyHuntersによるサプライチェーン経由の侵害を確認した事件、ロンドンの交通機関を止めたScattered Spiderのハッカー2人が裁判初日に罪状を認めた事件、AIチャットボットClaudeの共有チャット約600件がGoogle・Bing検索結果に露出した事件を、ずんだもんと四国めたんが解説します。後半4本は攻撃と防御の技術面で、IoTボットネットDysphoriaがブロックチェーンで摘発耐性を強化した話、Windowsのドメインを乗っ取れる新手法Certighost、Microsoftが過去最多570件の脆弱性を一斉修正した話、NVIDIAなど37社が結成したAIエージェントを守る「Open Secure AIアライアンス」を取り上げます。
+
+▼ 今日のトピック
+・コカ・コーラ傘下Fairlifeにランサムウェア攻撃、Anubisが1テラバイト窃取と主張
+・会計大手EY(アーンスト・アンド・ヤング)がShinyHuntersによる侵害を確認、サプライチェーン経由か
+・ロンドン地下鉄を止めたScattered Spiderの2人、裁判初日に罪状を認める
+・AIチャットボット「Claude」の共有チャット約600件がGoogle・Bing検索結果に露出
+・IoTボットネット「Dysphoria」が20万台超に拡大、ブロックチェーンで摘発耐性を強化
+・Windowsのドメインを乗っ取れる新手法「Certighost」の実証コードが公開
+・Microsoftが過去最多570件の脆弱性を一斉修正、AIによる発見加速も要因に
+・NVIDIAなど37社がAIエージェントを守る「Open Secure AIアライアンス」を結成
+
+▼ 参考記事・ソース
+・Bleeping Computer「Coca-Cola confirms data theft in Fairlife ransomware attack」: https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/
+・Bleeping Computer「Ernst &amp; Young data breach claimed by ShinyHunters extortion gang」: https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/
+・Krebs on Security「Scattered Spider Hackers Plead Guilty on Day 1 of Trial」: https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/
+・Wired「Private Claude Chats Exposed in Google and Bing Search Results」: https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/
+・The Hacker News「Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption」: https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html
+・Bleeping Computer「New Certighost PoC exploit lets attackers hijack Windows domains」: https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/
+・Krebs on Security「Microsoft Patches a Record 570 Security Flaws」: https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/
+・The Hacker News「NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework」: https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html
+
+#Fairlife #ShinyHunters #ScatteredSpider #Dysphoria #Certighost #NOOA #セキュリティ #サイバーセキュリティ #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-28-security/security_yukkuri.m4a" length="8318030" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-28</guid>
+      <pubDate>Tue, 28 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>重罪犯が運営するゼロデイ買い取りスタートアップからFBIのボットネット差し押さえまで！Steamゲーマー標的の採掘マルウェアも【2026/07/27】</title>
       <description>今日のセキュリティニュース8本の前半4本は「摘発・詐欺・裏社会」の話。FBIが200万台規模のボットネットにつながる住宅用プロキシ「NetNut」を差し押さえた事件、重罪判決を受けた人物たちがゼロデイ脆弱性を1万ドルから700万ドルで買い取るスタートアップ「IRIS C2」を堂々と運営している実態、ShinyHuntersを騙るビットコイン2000ドルのセクストーション詐欺、Steamフォーラムの「修正方法」投稿でゲーマーが採掘マルウェアに感染する手口を、ずんだもんと四国めたんが解説します。後半4本は技術的な脆弱性と防御の話で、ランサムウェア集団Cl0pが製造業向けソフトPTC Windchill/FlexPLMを狙う脆弱性連鎖、ブラウザのメモリ上でマルウェアを組み立てる「SourTrade」広告キャンペーン、多くのパソコンに入っているOracle Javaの月例更新、GitHubとPyPIがサプライチェーン攻撃に導入した時間差の防御策を取り上げます。
 
