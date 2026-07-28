@@ -26,6 +26,34 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Claude共有チャットがGoogleに漏洩、AIデータセンター反対が42州へ 生成AIニュース【2026/07/28】</title>
+      <description>AnthropicのClaudeで共有チャットとArtifactsがGoogle検索に漏れていた問題、Microsoftが投入した初のサイバーセキュリティAIモデル「Perception」、AIデータセンター反対デモが全米42州に拡大した超党派の動き、GoogleのAI Overviewsが検索結果の43%を占めるまでになった現状、AT&amp;TとD-Waveの量子コンピュータ提携拡大とNasdaq上場を解説します。今日は「漏れる・守る・反対される・奪う・使われる」という5つの動きが重なった一日です。
+
+▼ 今日のトピック
+・AnthropicのClaudeで共有チャットとArtifactsがGoogle検索に漏れていた問題――医療記録や企業文書も露出
+・Microsoft、初のサイバーセキュリティ専用AIモデル「MAI-Cyber-1-Flash」とエージェント型プラットフォーム「Perception」を発表
+・AIデータセンター反対デモが7月18日に全米42州へ拡大――HumansFirstと超党派の政治圧力
+・GoogleのAI Overviewsが検索結果の43%に表示――パブリッシャーは紹介トラフィック減少で苦境
+・AT&amp;TがD-Waveとの量子コンピュータ提携を拡大、処理速度240倍に――同日Nasdaqにも上場
+
+▼ 参考記事・ソース
+・TechCrunch「PSA: Your Claude shared chats and Artifacts may have ended up on Google」(2026-07-27): https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/
+・TechCrunch「Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system」(2026-07-27): https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/
+・AP via The Spokesman-Review「Data center opponents stage 142 protests across 42 U.S. states」(2026-07-18): https://www.spokesman.com/stories/2026/jul/18/data-center-opponents-stage-142-protests-across-42/
+・Brookings「Data center backlash signals a fight over AI power」(2026-07): https://www.brookings.edu/articles/data-center-backlash-signals-a-fight-over-ai-power/
+・TechCrunch「Google's AI search is rapidly becoming the default, new data shows」(2026-07-27): https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/
+・Business Wire「AT&amp;T Signs Agreement to Expand Use of D-Wave's Quantum Computing Technology Across Network Operations」(2026-07-27): https://www.businesswire.com/news/home/20260727804891/en/ATT-Signs-Agreement-to-Expand-Use-of-D-Waves-Quantum-Computing-Technology-Across-Network-Operations
+・The Quantum Insider「D-Wave and AT&amp;T Explore Quantum Computing Applications in Network Operations」(2026-07-27): https://thequantuminsider.com/2026/07/27/d-wave-att-quantum-network-operations/
+・Yahoo Finance「D-Wave to Ring the Nasdaq Opening Bell on July 27, 2026 to Mark Its Listing Debut on the Nasdaq」(2026-07-27): https://finance.yahoo.com/markets/stocks/articles/d-wave-ring-nasdaq-opening-110000559.html
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-28-ai/ai_yukkuri.m4a" length="7761108" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-28</guid>
+      <pubDate>Tue, 28 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>OpenAI侵害に「1億ドル」要求、議会でAI下書きが露呈 生成AIニュース【2026/07/27】</title>
       <description>ハギングフェイスCEOがOpenAIの「暴走エージェント」侵害事件で1億ドルと全ログ公開を要求、中国発モデル「Kimi」がシリコンバレーに引き起こした「中国AIパニック」、カナダ州議会でAIの下書き指示がそのまま読み上げられた失態、アストラゼネカのAI創薬、IBMが国家プロジェクト「Genesis Mission」へ提供する5000万ドル分の量子コンピュートアクセスを解説します。AIの「事故」がいろいろな形で表に出た一日です。
 
