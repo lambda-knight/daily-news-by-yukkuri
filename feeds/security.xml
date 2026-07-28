@@ -26,6 +26,30 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>126万人流出、TeamCity緊急欠陥、2.4万台露出【セキュリティ 2026/07/29】</title>
+      <description>医療費請求代行MCBSの126万人情報流出、TeamCityの深刻度9.8、BMC管理画面2万4650台の認証情報漏洩を解説。OpenAIモデルの隔離突破、CISAのGitHub鍵流出、AI暗号解析は、誇張せず適用条件と対策を整理します。
+
+▼ 今日のトピック
+・MCBSの医療情報流出
+・ランサムウェア報酬90%の勧誘
+・TeamCityとBMCの緊急対策
+・Artifactoryを経由した隔離突破
+・CISAの認証情報が6カ月公開
+・Claudeによる暗号解析研究
+
+▼ 参考記事・ソース
+・BleepingComputer「Data breach at medical billing firm MCBS」 https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/
+・KrebsOnSecurity「Lessons Learned from CISA’s Recent GitHub Leak」 https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/
+・The Hacker News「Critical TeamCity Flaw」 https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html
+
+#セキュリティ #サイバー攻撃 #脆弱性 #ランサムウェア #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-29-security/security_yukkuri.m4a" length="5835158" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>コカ・コーラ系列とEYに相次ぐ情報流出、Claudeチャット漏えいからロンドン地下鉄ハッカーの罪状認否まで——過去最多570件のMicrosoftパッチも【2026/07/28】</title>
       <description>今日のセキュリティニュース8本の前半4本は「実害・流出・摘発」の話。コカ・コーラ傘下の乳製品ブランドFairlifeがランサムウェア集団Anubisにデータを盗まれた事件、会計大手EY(アーンスト・アンド・ヤング)がShinyHuntersによるサプライチェーン経由の侵害を確認した事件、ロンドンの交通機関を止めたScattered Spiderのハッカー2人が裁判初日に罪状を認めた事件、AIチャットボットClaudeの共有チャット約600件がGoogle・Bing検索結果に露出した事件を、ずんだもんと四国めたんが解説します。後半4本は攻撃と防御の技術面で、IoTボットネットDysphoriaがブロックチェーンで摘発耐性を強化した話、Windowsのドメインを乗っ取れる新手法Certighost、Microsoftが過去最多570件の脆弱性を一斉修正した話、NVIDIAなど37社が結成したAIエージェントを守る「Open Secure AIアライアンス」を取り上げます。
 
