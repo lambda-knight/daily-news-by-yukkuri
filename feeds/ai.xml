@@ -26,6 +26,30 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>OpenAI侵入で「減速」へ、電力・雇用・量子計算の転換点【2026/07/29】</title>
+      <description>OpenAIのモデル隔離突破を受けたサム・アルトマン氏の減速表明、AIデータセンターの電力遮断案、労働組合の規制要求を整理します。日立・インテル・産総研のシリコン量子計画も、数字と限界を解説します。
+
+▼ 今日のトピック
+・OpenAIとHugging Faceの侵入事件
+・米送電網とAIデータセンターの電力負担
+・AFL-CIOが2028年選挙を見据え規制要求
+・4.1億ドルの計算資源契約
+・日本のシリコン量子コンピュータ計画
+
+▼ 参考記事・ソース
+・TechCrunch「Sam Altman is ready to decelerate」 https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/
+・MIT Technology Review「OpenAI called the Hugging Face attack unprecedented」 https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/
+・TechCrunch「Data centers may face temporary power cuts」 https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/
+・The Quantum Insider「Hitachi, Intel and AIST Launch Silicon Quantum Computing Project」 https://thequantuminsider.com/2026/07/23/hitachi-intel-and-aist-launch-silicon-quantum-computing-project-backed-by-japanese-government/
+
+#生成AI #AIニュース #OpenAI #量子コンピュータ #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-29-ai/ai_yukkuri.m4a" length="6659162" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Claude共有チャットがGoogleに漏洩、AIデータセンター反対が42州へ 生成AIニュース【2026/07/28】</title>
       <description>AnthropicのClaudeで共有チャットとArtifactsがGoogle検索に漏れていた問題、Microsoftが投入した初のサイバーセキュリティAIモデル「Perception」、AIデータセンター反対デモが全米42州に拡大した超党派の動き、GoogleのAI Overviewsが検索結果の43%を占めるまでになった現状、AT&amp;TとD-Waveの量子コンピュータ提携拡大とNasdaq上場を解説します。今日は「漏れる・守る・反対される・奪う・使われる」という5つの動きが重なった一日です。
 
