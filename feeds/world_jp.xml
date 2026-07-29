@@ -14,14 +14,14 @@
     <itunes:summary>海外メディアや国際市場は日本の政治・経済・文化をどう読み解くのか。日本を外から見るニュース解説です。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/world_jp.png"/>
+    <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/world_jp_v2.png"/>
     <itunes:category text="News"/>
     <itunes:owner>
       <itunes:name>daily-news-by-yukkuri</itunes:name>
       <itunes:email>tokomakoma123@gmail.com</itunes:email>
     </itunes:owner>
     <image>
-      <url>https://lambda-knight.github.io/daily-news-by-yukkuri/art/world_jp.png</url>
+      <url>https://lambda-knight.github.io/daily-news-by-yukkuri/art/world_jp_v2.png</url>
       <title>世界から見た日本</title>
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
