@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>研究者が今週驚いた生成AI論文【推論リレー蒸留ほか10本解説 2026/07/30】</title>
+      <description>誤った推論だけ教師へ渡す蒸留、25ヘルツで反応するロボット、GUI遷移ベンチマーク、エージェント記憶、動画生成の並列蒸留まで、最新10論文を評価条件と限界込みで解説します。
+
+▼ 今日の論文ラインナップ
+・誤った推論だけ教師へ渡すリレー型オンポリシー蒸留（arXiv:2607.26057）
+・視覚が遅くても25ヘルツで反応するロボット方策（arXiv:2607.26055）
+・不確かなトークンだけ専門家を増やすCARE（arXiv:2607.26052）
+・獣医診断支援を端末とクラウドに分けるVetClaw（arXiv:2607.26042）
+・GUI操作の因果変化を測るDesktop-Delta Bench（arXiv:2607.26041）
+・競争で遅れる恐怖が安全軽視を生む行動実験（arXiv:2607.26034）
+・未知のマルチモーダルグラフへ転移するCHARM（arXiv:2607.26023）
+・エピソード記憶をパラメータへ統合するUniMem（arXiv:2607.26017）
+・カメラ視点だけで3500万キロ学ぶ自動運転Pictura（arXiv:2607.26005）
+・複数デノイズ段階を一度に予測する並列蒸留（arXiv:2607.26004）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.26057
+https://arxiv.org/abs/2607.26055
+https://arxiv.org/abs/2607.26052
+https://arxiv.org/abs/2607.26042
+https://arxiv.org/abs/2607.26041
+https://arxiv.org/abs/2607.26034
+https://arxiv.org/abs/2607.26023
+https://arxiv.org/abs/2607.26017
+https://arxiv.org/abs/2607.26005
+https://arxiv.org/abs/2607.26004
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-30-arxiv-ai/arxiv_ai_yukkuri.m4a" length="11936927" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-30</guid>
+      <pubDate>Thu, 30 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>思考の連鎖でも見えない推論？生成AI重要論文10本【2026/07/29】</title>
       <description>LLMは説明に書かない計算をしているのか。見えない推論、適応的な推論予算、医療文書の矛盾検出、教育AI、多言語評価まで、最新10本を数値と限界を含めて解説します。
 
