@@ -26,6 +26,17 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Claudeが嘘で利益最大化？AI検出・ロボット規制・量子技術【2026/07/30】</title>
+      <description>自販機エージェントの規範、PangramのAI検出、外国製ロボット規制、AIによる脆弱性発見、量子ドットとダイヤモンド空孔を、誤り・救済・比較条件から解説します。
+
+#生成AI #Claude #AI #量子コンピュータ #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-30-ai/ai_yukkuri.m4a" length="4699452" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-07-30</guid>
+      <pubDate>Thu, 30 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>OpenAI侵入で「減速」へ、電力・雇用・量子計算の転換点【2026/07/29】</title>
       <description>OpenAIのモデル隔離突破を受けたサム・アルトマン氏の減速表明、AIデータセンターの電力遮断案、労働組合の規制要求を整理します。日立・インテル・産総研のシリコン量子計画も、数字と限界を解説します。
 
@@ -273,14 +284,22 @@ https://www.nsf.gov/news/nsf-launches-project-triad-advance-quantum-technology-r
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>高額AIエージェントと創作者保護【生成AIニュース 2026/07/18】</title>
-      <description>Vertuの6,880ドルAIエージェントを手がかりに、業務AIの権限・承認・監査を解説します。PatreonのAIスクレイピング遮断からは、robots.txtの限界、同意、検索との両立を考えます。
+      <title>6,880ドルAIは安全？Patreon遮断・量子25倍を検証 2026/07/18</title>
+      <description>Vertuの高額AIエージェントは何を代理実行できるのか。Patreonの学習ボット遮断、IBMの量子ビット初期化25倍高速化、米国のAI政策づくりを、数字の限界と利用者の制御から解説します。
 
-出典
+▼ トピック
+・6,880ドルの行動型AIと権限管理
+・創作者の公開と学習同意
+・IBM量子リセット25倍の意味
+・データセンターと地域参加
+
+▼ 参考ソース
 https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/
 https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/
+https://abacas.be/articles/quantum-news-july-17-2026
+https://www.axios.com/2026/07/17/obama-biden-alumni-ai-policy-initiative
 
-#生成AI #AIエージェント #Patreon #AIスクレイピング #ずんだもん</description>
+#生成AI #AIエージェント #量子コンピュータ #ずんだもん</description>
       <enclosure url="https://archive.org/download/news-pickup-2026-07-18-ai/ai_yukkuri.m4a" length="6363189" type="audio/mp4"/>
       <guid isPermaLink="false">ai-2026-07-18</guid>
       <pubDate>Sat, 18 Jul 2026 07:00:00 +0900</pubDate>
@@ -288,24 +307,18 @@ https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>AIが本人・アプリ・注文を動かす時代、表現の自由と量子実証【生成AIニュース 2026/07/17】</title>
-      <description>Google Vidsの個人アバター、AI Modeのアプリ連携、DoorDashのAIエージェント注文、政治表現を巡るLLM評価、ESAの量子コンピュータ実証を解説します。
+      <title>AIが本人・アプリ・注文を動かす日｜権限設計と量子実証【2026/07/17】</title>
+      <description>Google Vidsの本人アバター、AI Modeの外部アプリ操作、DoorDash注文エージェント、政治表現の拒否、ESAの6量子ビット実証を解説。便利さだけでなく、同意・権限・救済・比較条件を確認します。
 
-▼ 今日のトピック
-・Google Vidsの個人アバター
-・Google AI Modeのアプリ連携
-・DoorDashのdd-cli
-・AIと政治表現の評価
-・ESAのBell-1量子コンピュータ
+▼ 参考
+https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/
+https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/
+https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/
+https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/
+https://philab.esa.int/esas-first-quantum-computer-will-shift-computing-frontiers-in-space/
 
-▼ 参考記事・ソース
-・Google Vids https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/
-・AI Mode https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/
-・Oversight Board https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/
-・ESA Φ-lab https://philab.esa.int/esas-first-quantum-computer-will-shift-computing-frontiers-in-space/
-
-#生成AI #AIエージェント #表現の自由 #量子コンピュータ #ずんだもん</description>
-      <enclosure url="https://archive.org/download/news-pickup-2026-07-17-ai/ai_yukkuri.m4a" length="1749752" type="audio/mp4"/>
+#生成AI #AIエージェント #Google #量子コンピュータ #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-17-ai/ai_yukkuri.m4a" length="4563585" type="audio/mp4"/>
       <guid isPermaLink="false">ai-2026-07-17</guid>
       <pubDate>Fri, 17 Jul 2026 07:00:00 +0900</pubDate>
       <itunes:author>daily-news-by-yukkuri</itunes:author>
