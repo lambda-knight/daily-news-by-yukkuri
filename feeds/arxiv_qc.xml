@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子コンピュータが雑音接続を克服？重要論文8本を解説【2026/07/30】</title>
+      <description>量子トポロジカルデータ解析、モジュラー誤り訂正、量子通信、秘匿量子メモリまで、2026年7月30日の重要論文8本を大学院レベルで解説します。結果だけでなく、比較条件・限界・実用化までの距離も整理します。
+
+▼ 今日の論文ラインナップ
+・低次モーメントで実用化する量子トポロジカルデータ解析（arXiv:2607.27206）
+・雑音インターフェースを越えるモジュラー論理演算（arXiv:2607.27204）
+・エンタングルメント変換の非常に強い不可逆性（arXiv:2607.27195）
+・単一量子ビット測定だけで行う量子状態認証（arXiv:2607.27184）
+・再構成可能な光学系で示す一方向量子通信優位（arXiv:2607.27181）
+・委託量子問い合わせを隠すオブリビアス量子メモリ（arXiv:2607.27171）
+・整数フラクソニウムによる消失誤り検出（arXiv:2607.27123）
+・状態スペクトル推定で二乗コピー壁を破る（arXiv:2607.27117）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.27206 — 低次モーメントで実用化する量子トポロジカルデータ解析
+https://arxiv.org/abs/2607.27204 — 雑音インターフェースを越えるモジュラー論理演算
+https://arxiv.org/abs/2607.27195 — エンタングルメント変換の非常に強い不可逆性
+https://arxiv.org/abs/2607.27184 — 単一量子ビット測定だけで行う量子状態認証
+https://arxiv.org/abs/2607.27181 — 再構成可能な光学系で示す一方向量子通信優位
+https://arxiv.org/abs/2607.27171 — 委託量子問い合わせを隠すオブリビアス量子メモリ
+https://arxiv.org/abs/2607.27123 — 整数フラクソニウムによる消失誤り検出
+https://arxiv.org/abs/2607.27117 — 状態スペクトル推定で二乗コピー壁を破る
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-30-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8258430" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-30</guid>
+      <pubDate>Thu, 30 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子優位の交差点が千年から1日未満へ？重要論文8本【2026/07/29】</title>
       <description>完全量子メトロポリス歩行、雑音バイアスを保つ猫量子ビット間ゲート、近似量子誤り訂正の統一理論など、量子計算の実用化条件を8本の最新論文から解説します。
 
