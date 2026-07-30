@@ -26,6 +26,29 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>2万4000台の管理口が露出、医療データ126万人流出【2026/07/30】</title>
+      <description>サーバーBMC、医療請求委託先、FastJson、VeloCloud、20万台規模のDysphoriaを、対象者と実務対策に分けて解説します。
+
+▼ 今日のトピック
+・2万4000台超のBMCがパスワードハッシュを漏えい
+・MCBS侵害が126万人に影響
+・FastJsonとVeloCloudの悪用中ゼロデイ
+・世界約20万台のDysphoriaボットネット
+
+▼ 参考記事
+https://www.bleepingcomputer.com/
+https://www.bleepingcomputer.com/tag/mcbs/
+https://www.bleepingcomputer.com/news/security/
+https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/
+
+#セキュリティ #脆弱性 #情報漏洩 #DDoS #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-30-security/security_yukkuri.m4a" length="5486793" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-30</guid>
+      <pubDate>Thu, 30 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>126万人流出、TeamCity緊急欠陥、2.4万台露出【セキュリティ 2026/07/29】</title>
       <description>医療費請求代行MCBSの126万人情報流出、TeamCityの深刻度9.8、BMC管理画面2万4650台の認証情報漏洩を解説。OpenAIモデルの隔離突破、CISAのGitHub鍵流出、AI暗号解析は、誇張せず適用条件と対策を整理します。
 
@@ -304,24 +327,25 @@ https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-activel
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>生産停止ランサムウェア、ClickFix、AIエージェント注入を防ぐ【セキュリティニュース 2026/07/17】</title>
-      <description>Fairlifeのランサムウェア被害、n8nの認証欠陥、ClickFixを使うTELEPUZ、macOSを狙うClickLock、AIエージェントへのデータ注入を解説します。
+      <title>乳製品工場停止からAI攻撃まで、5つの入口と対策【2026/07/17】</title>
+      <description>Fairlifeへのランサムウェア攻撃、n8nの外部認証欠陥、ClickFixとClickLock、AIエージェントへのデータ注入を、対象者と具体策に分けて解説します。
 
 ▼ 今日のトピック
-・Fairlifeの生産停止
-・n8nのJWT認証欠陥
-・TELEPUZとClickFix
-・ClickLockの偽パスワード画面
-・AIエージェントへのデータ注入
+・Fairlifeの米国生産停止と供給網への影響
+・n8nの複数トークン発行元をめぐる認証欠陥
+・TELEPUZが使う偽の修復手順ClickFix
+・macOSでパスワード入力を迫るClickLock
+・レビューやコードコメントを使うAIエージェント攻撃
 
 ▼ 参考記事・ソース
-・Fairlife https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/
-・n8n https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html
-・TELEPUZ https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html
-・ClickLock https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html
+https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/
+https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html
+https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html
+https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html
+https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html
 
-#セキュリティ #ランサムウェア #ClickFix #macOS #AIエージェント #ずんだもん</description>
-      <enclosure url="https://archive.org/download/news-pickup-2026-07-17-security/security_yukkuri.m4a" length="1844170" type="audio/mp4"/>
+#セキュリティ #ランサムウェア #マルウェア #AI #macOS #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-17-security/security_yukkuri.m4a" length="5716823" type="audio/mp4"/>
       <guid isPermaLink="false">security-2026-07-17</guid>
       <pubDate>Fri, 17 Jul 2026 07:00:00 +0900</pubDate>
       <itunes:author>daily-news-by-yukkuri</itunes:author>
