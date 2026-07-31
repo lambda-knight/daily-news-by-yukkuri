@@ -26,6 +26,36 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>VMware緊急修正とTeams偽サポート攻撃【セキュリティニュース 2026/07/31】</title>
+      <description>VMwareの認証回避・仮想マシン脱出、Teamsの偽IT担当から17時間未満で進むランサムウェア、npmサプライチェーン侵害、ChromeのAI脆弱性修正、Analog Devicesの情報流出を解説します。
+
+▼ 今日のトピック
+・npm人気パッケージ侵害を北朝鮮系へ帰属
+・VMwareのCVSS 9点台3件、回避策なし
+・Chrome 2版で1,072件を修正
+・Teams通話からChaosランサムウェア
+・Analog Devicesがファイル流出を開示
+
+▼ 参考記事
+・BleepingComputer「Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers」
+https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/
+・BleepingComputer「VMware fixes three critical flaws allowing auth bypass, VM escapes」
+https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/
+・BleepingComputer「Google says AI helped Chrome fix 1,072 security bugs in two releases」
+https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/
+・BleepingComputer「Microsoft Teams vishing attacks lead to Chaos ransomware attacks」
+https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/
+・BleepingComputer「Analog Devices discloses data breach, says operations unaffected」
+https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/
+
+#サイバーセキュリティ #ランサムウェア #VMware #Chrome #MicrosoftTeams #脆弱性 #情報漏えい #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-31-security/security_yukkuri.m4a" length="6379888" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-07-31</guid>
+      <pubDate>Fri, 31 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2万4000台の管理口が露出、医療データ126万人流出【2026/07/30】</title>
       <description>サーバーBMC、医療請求委託先、FastJson、VeloCloud、20万台規模のDysphoriaを、対象者と実務対策に分けて解説します。
 
