@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv生成AI・機械学習ニュース（2026年8月1日）</title>
+      <description>arXiv生成AI・機械学習ニュース（2026年8月1日）
+
+キーワード: 語り口バイアス / 認識様相の論理推論 / エージェント型RAG / 小規模言語モデル / 技能の重み合成 / マルチエージェント信念伝播
+
+本日は、同じ症例でも患者の話し方で診断が変わる臨床モデルの失敗様式から、「たぶん」「必ず」を含む文の推論能力、エージェント型検索生成の層別故障、10億パラメータ級で成立する最小構成RAG、重みとテキストを同時に扱う技能合成、そして言語モデル集団の中で信念がどう伝わるかまで10本を扱う。数値の大きさより、何と何を比べ、どの層の失敗を直したのかを分けて読む回になる。
+
+オープニング：2026年8月1日 — arXiv生成AI・機械学習ニュース
+
+本日取り上げる10本は、いずれも「うまくいった」ことよりも「どこで、なぜ崩れるか」を切り分ける設計に力を入れている。臨床、法務、企業検索といった失敗コストの高い領域が並ぶため、報告された改善幅は必ず比較条件と併せて確認する。
+
+論文1: 患者の語り口で診断が揺れる臨床言語モデル
+
+出典: Same Facts, Different D</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-01-arxiv-ai/arxiv_ai_yukkuri.m4a" length="18593489" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-01</guid>
+      <pubDate>Sat, 01 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv生成AI・機械学習ニュース（2026年7月31日）</title>
       <description>arXiv生成AI・機械学習ニュース（2026年7月31日）
 
