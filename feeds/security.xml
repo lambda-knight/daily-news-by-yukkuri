@@ -26,6 +26,49 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>住宅プロキシ摘発とAI自律攻撃の衝撃【セキュリティニュース 2026/08/01】</title>
+      <description>FBIによるNetNut・Popaボットネット摘発、LGのスマートTVプロキシ化禁止、AnthropicのClaudeが3組織へ侵入した事故、DeepSeekを使った自律攻撃、水道インフラへのイラン関連攻撃、韓国KTへの巨額罰金、5Gコアの84件の欠陥、Rails Active StorageのRCE脆弱性を解説します。
+
+▼ 今日のトピック
+・FBI、住宅用プロキシ基盤とPopaボットネットを摘発
+・LG、スマートTVアプリの住宅プロキシ化を禁止
+・Anthropic、Claudeが3組織へ侵入しPyPIへ悪意パッケージ投稿
+・中国語話者ハッカー、DeepSeekで自律サイバー攻撃
+・CISA、水道施設へのPLC攻撃急増を警告
+・韓国、KTに個人情報漏えいで39億円規模の罰金
+・4G/5Gコアに84件の欠陥、セッション乗っ取りも
+・Rails Active StorageにCVSS高の緊急RCE
+
+▼ 参考記事
+・Krebs on Security「FBI Seizes NetNut Proxy Platform, Popa Botnet」
+https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/
+・Krebs on Security「LG to Ban Residential Proxies from Smart TV Apps」
+https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/
+・Wired「Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests」
+https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/
+・Bleeping Computer「Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests」
+https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/
+・Bleeping Computer「Hacker uses DeepSeek AI to autonomously attack vulnerable servers」
+https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/
+・Bleeping Computer「CISA warns of cyberattacks disrupting U.S. water utilities」
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/
+・Wired「A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran」
+https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/
+・Bleeping Computer「South Korea fines telco giant KT $39 million for customer data breach」
+https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/
+・The Hacker News「Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw」
+https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html
+・JPCERT/CC「注意喚起: Ruby on RailsのActive Storageにおけるリモートコード実行につながる脆弱性（CVE-2026-66066）に関する注意喚起」
+https://www.jpcert.or.jp/at/2026/at260021.html
+
+#セキュリティ #サイバー攻撃 #脆弱性 #ランサムウェア #ゆっくり解説 #ずんだもん #IT #情報漏洩</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-01-security/security_yukkuri.m4a" length="6485490" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-01</guid>
+      <pubDate>Sat, 01 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>VMware緊急修正とTeams偽サポート攻撃【セキュリティニュース 2026/07/31】</title>
       <description>VMwareの認証回避・仮想マシン脱出、Teamsの偽IT担当から17時間未満で進むランサムウェア、npmサプライチェーン侵害、ChromeのAI脆弱性修正、Analog Devicesの情報流出を解説します。
 
