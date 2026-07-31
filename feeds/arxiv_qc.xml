@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv量子コンピュータ論文ニュース（2026年8月1日）</title>
+      <description>arXiv量子コンピュータ論文ニュース（2026年8月1日）
+
+キーワード: 調和タイトフレーム / 安定化子回路 / フォールトトレラント計測 / Floquet符号 / シリコン核スピン / ボソニックユニタリ学習
+
+本日は、量子測定の実装から、測定制約下の状態識別、標準量子限界を超える計測へのノーゴー定理、測定だけで動く量子誤り訂正、シリコン核スピンの読み出し、非ガウス型ボソニック過程の学習可能性まで6本を扱う。性能値だけでなく、成立条件と実装上の制約を分けて読む。
+
+オープニング：2026年8月1日 — arXiv量子コンピュータ論文ニュース
+
+今回の共通点は、抽象的な量子資源を、実際に許される測定、ゲート、ノイズ、学習回数へ落とし込んでいることである。理論上の利得が示されても、必要な検査演算子の重みや測定回路が大きすぎれば実装できない。各論文について、何が可能になり、どの条件がボトルネックとして残るかを確認する。
+
+論文1: 対称性から量子測定を設計する調和タイトフレーム
+
+調和タイトフレームは、有限アーベル群のユニタリ作用が作る軌道として表せる、対称性の高いベクトル集合であ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-01-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8928683" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-01</guid>
+      <pubDate>Sat, 01 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv量子コンピュータニュース（2026年7月31日）</title>
       <description>arXiv量子コンピュータニュース（2026年7月31日）
 
