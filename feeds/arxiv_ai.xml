@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv生成AI・機械学習ニュース（2026年7月31日）</title>
+      <description>arXiv生成AI・機械学習ニュース（2026年7月31日）
+
+キーワード: 強化学習 / メンタル世界モデル / AI研究エージェント / 会計ベンチマーク / AI文章検出 / 多言語検索
+
+本日は、価値関数の事前学習を疑い直す強化学習から、人の信念まで状態に含める世界モデル、研究自動化の限界、実務会計、AI文章検出、人間チームへの社会的費用まで8本を扱う。性能値だけでなく、比較の単位、閉鎖評価、外的妥当性を分けて読む。
+
+オープニング：2026年7月31日 — arXiv生成AI・機械学習ニュース
+
+論文1: Q関数の事前学習は本当に必要か
+
+出典: Do You Really Need to Pretrain QFunctions for Online RL FineTuning?. [arXiv:2607.27203](https://arxiv.org/abs/2607.27203) (2026).
+
+事前学習済み方策をオンライン強化学習で調整するとき、行動価値関数Qもオフラインデータで事前学習するのが自然に見える。しかし事前学習Qは元の方策を評価しており、オンライン更新後</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-31-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9754081" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-07-31</guid>
+      <pubDate>Fri, 31 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>研究者が今週驚いた生成AI論文【推論リレー蒸留ほか10本解説 2026/07/30】</title>
       <description>誤った推論だけ教師へ渡す蒸留、25ヘルツで反応するロボット、GUI遷移ベンチマーク、エージェント記憶、動画生成の並列蒸留まで、最新10論文を評価条件と限界込みで解説します。
 
