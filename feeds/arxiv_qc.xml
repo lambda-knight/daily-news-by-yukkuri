@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv量子コンピュータニュース（2026年7月31日）</title>
+      <description>arXiv量子コンピュータニュース（2026年7月31日）
+
+キーワード: SYK模型 / MacWilliams変換 / 量子ドラゴン / 誤り訂正 / 時間ビン量子ビット / 量子中心スーパーコンピューティング
+
+本日は、7月30日に扱った8本を除外し、SYK模型の基底エネルギー、符号理論のMacWilliams変換、量子線形ソルバーによる輸送、低誤り率の外挿、時間ビン符号化に加え、IBM Heronと富岳を結ぶ電子構造計算など8本を読む。理論の漸近保証、ハイブリッド計算の規模、量子単独の優位を混同しない。
+
+オープニング：2026年7月31日 — arXiv量子コンピュータニュース
+
+論文1: SYK模型の基底エネルギーに鋭い漸近境界
+
+出典: Sharp Bounds on Ground State Energy of the SYK Model. [arXiv:2607.27185](https://arxiv.org/abs/2607.27185) (2026).
+
+SYK模型はn個のMajoranaモードにランダムなk体相互作用を入れる量子多体系で、作用素ノルムすなわち極</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-31-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9281665" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-07-31</guid>
+      <pubDate>Fri, 31 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子コンピュータが雑音接続を克服？重要論文8本を解説【2026/07/30】</title>
       <description>量子トポロジカルデータ解析、モジュラー誤り訂正、量子通信、秘匿量子メモリまで、2026年7月30日の重要論文8本を大学院レベルで解説します。結果だけでなく、比較条件・限界・実用化までの距離も整理します。
 
