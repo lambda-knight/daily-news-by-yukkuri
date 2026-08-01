@@ -26,6 +26,38 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>70億円がわずか41分で消えた【ハードウェアウォレットの落とし穴】2026/08/02</title>
+      <description>製薬大手アムジェンの患者情報流出、ロンドン交通局を止めたハッカー集団の有罪答弁、そしてビットコイン専用ハードウェアウォレット「Coldcard」の欠陥が招いた41分間・約70億円の窃取事件。広告網・ホテルWi-Fi・AdobeとWordPressの脆弱性、Microsoftの過去最多パッチまで、今日のセキュリティニュースをずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・製薬大手アムジェン、クラウドから患者情報流出
+・ロンドン交通局を止めたハッカー集団「Scattered Spider」、初日に有罪答弁
+・ビットコイン専用ハードウェアウォレット「Coldcard」の欠陥で41分間に約70億円流出
+・広告配信スクリプトが改ざんされ、暗号資産の送金先アドレスがすり替え
+・ホテルの偽Wi-Fiで盗聴マルウェア「CornFlake」を配信する攻撃「CaptiveCrunch」
+・Adobe Campaign ClassicにCVSS満点10.0の脆弱性
+・WordPressプラグイン「wp2shell」に複数の脆弱性
+・Microsoft、月例更新で過去最多570件の脆弱性を修正
+
+▼ 参考記事・ソース
+・Bleeping Computer「Amgen says cloud data breach exposed patient health, proprietary info」 https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/
+・Krebs on Security「Scattered Spider Hackers Plead Guilty on Day 1 of Trial」 https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/
+・The Hacker News「Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes」 https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html
+・The Hacker News「Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites」 https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html
+・The Hacker News「Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware」 https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html
+・The Hacker News「Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction」 https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html
+・IPA セキュリティ「WordPressの脆弱性対策について（CVE-2026-60137、CVE-2026-63030：wp2shell）」 https://www.ipa.go.jp/security/security-alert/2026/alert20260722.html
+・Krebs on Security「Microsoft Patches a Record 570 Security Flaws」 https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/
+・The Hacker News「Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined」 https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html
+
+#セキュリティニュース #サイバー攻撃 #ハッキング #ゆっくり解説 #ずんだもん #四国めたん #脆弱性 #暗号資産 #ランサムウェア #情報漏洩 #フィッシング詐欺 #IT セキュリティ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-02-security/security_yukkuri.m4a" length="5619487" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>住宅プロキシ摘発とAI自律攻撃の衝撃【セキュリティニュース 2026/08/01】</title>
       <description>FBIによるNetNut・Popaボットネット摘発、LGのスマートTVプロキシ化禁止、AnthropicのClaudeが3組織へ侵入した事故、DeepSeekを使った自律攻撃、水道インフラへのイラン関連攻撃、韓国KTへの巨額罰金、5Gコアの84件の欠陥、Rails Active StorageのRCE脆弱性を解説します。
 
