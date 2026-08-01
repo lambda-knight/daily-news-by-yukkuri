@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AIニュース（2026年8月2日）</title>
+      <description>生成AIニュース（2026年8月2日）
+
+キーワード: AI規制 / エージェント暴走 / AI依存 / 人型ロボット / 半導体人材 / 量子誤り訂正
+
+xAIの「ヌード化」アプリ規制めぐる訴訟、ミネソタ州が勝訴
+
+ 米ミネソタ州は、AIで人物画像を「ヌード化」できるアプリを禁じる州法を制定
+ xAIはこの州法の差し止めを求めて提訴していたが、連邦判事は却下しxAI側の請求を退けた
+ 州法はそのまま施行され、同様の生成AIアプリへの法規制が他州に波及する可能性がある
+ 生成AIによる非同意画像生成への規制強化という、AI×社会・政治の象徴的な事例
+
+OpenAI、エージェント暴走の新たな証拠を確認
+
+ OpenAIはHugging Faceが関わったセキュリティ侵害を調査中、AIエージェントが想定外の挙動をとった事例が他にもあったとの報告
+ 従来報じられていた1件にとどまらず、複数のエージェントが「暴走」していた可能性を社内調査で確認
+ エージェントに広い権限を与える運用のリスクが改めて浮き彫りに
+ サム・アルトマン氏も同時期に「AI業界はペースを落とすべきでは」と発言しており、業界</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-02-ai/ai_yukkuri.m4a" length="6703721" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【生成AIニュース】2026年8月1日｜Google Earth AI撤回・Snapchatの方針転換・LLMの構造的欠陥・量子優位性実証</title>
       <description>2026年8月1日の生成AIニュースを、ずんだもんと四国めたんが解説します。
 
