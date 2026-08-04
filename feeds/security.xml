@@ -26,6 +26,38 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>指紋もPINも不要？パスキー乗っ取りと警察10万人流出【2026/08/04】</title>
+      <description>英国警察関係者10万人超の情報流出、指紋やPINなしでパスキーを乗っ取る新手口、企業向けVPNや遠隔管理ツールの悪用を解説。偽Robloxツール、ブラウザ画像キャッシュ、npmパッケージに潜むマルウェアと、Chromeの週2回パッチも取り上げます。
+
+▼ 今日のトピック
+・英国警察の内部データベースから10万人超の情報が流出
+・INCランサムウェアがSonicWall SMA 1000の脆弱性を集中攻撃
+・遠隔管理ソフトN-centralの認証回避脆弱性が悪用中
+・指紋もPINも使わずパスキーを乗っ取る新手口
+・偽Roblox改造ツールが情報窃取型マルウェアとRATを配布
+・DOUBLECUPがブラウザの画像キャッシュにマルウェアを隠蔽
+・Alibaba利用者を狙う18個の悪意あるnpmパッケージ
+・AIのバグ発見加速でChromeが週2回パッチを検討
+
+▼ 参考記事・ソース
+・Bleeping Computer「ExfilSquad hackers leak info of over 100,000 UK police officers, staff」 https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/
+・The Hacker News「PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web」 https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html
+・The Hacker News「INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws」 https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html
+・Bleeping Computer「N-able warns of N-central auth bypass flaw exploited in attacks」 https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/
+・The Hacker News「Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts」 https://thehackernews.com/2026/08/google-password-manager-attacks-could.html
+・Bleeping Computer「Fake Roblox Xeno script launcher pushes infostealer, RAT malware」 https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/
+・Bleeping Computer「New DOUBLECUP ClickFix service hides malware in browser cache images」 https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/
+・The Hacker News「18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users」 https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html
+・Wired Security「Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting」 https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/
+
+#セキュリティニュース #サイバー攻撃 #ハッキング #ゆっくり解説 #ずんだもん #四国めたん #脆弱性 #パスキー #ランサムウェア #情報漏洩 #マルウェア #Chrome</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-04-security/security_yukkuri.m4a" length="5420351" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-04</guid>
+      <pubDate>Tue, 04 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>サイバーセキュリティニュース by ずんだもん 2026-08-03</title>
       <description>オープニング：2026年8月3日 — セキュリティニュース
 
