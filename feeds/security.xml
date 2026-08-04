@@ -26,6 +26,23 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>サイバーセキュリティニュース by ずんだもん 2026-08-03</title>
+      <description>オープニング：2026年8月3日 — セキュリティニュース
+
+今日は、CISA自身が半年近く気づかなかった認証情報漏えいの教訓、Fortinet製ファイアウォール8万台超の認証情報流出、そして格安AndroidTVボックスがスマホになりすまして広告詐欺と回線の又貸しを同時に行う手口まで、身近な機器から国家レベルの防御体制まで幅広く取り上げます。
+
+セキュリティ機関CISA自身がGitHubに認証情報を半年間放置
+
+ CISA(米サイバーセキュリティ・インフラセキュリティ庁)の外部委託先が、AWS GovCloud(政府専用クラウド)の鍵を含む数十件の内部認証情報を、公開GitHubリポジトリに約6か月間放置していたことが判明した。
+ 発覚のきっかけはKrebs on Securityによる指摘で、CISAが自ら気づいたわけではなかった。CISAは事後報告書(ポストモーテム)を公表し、初動対応の遅れや委託先管理の不備を認めた。
+ 専門家は、防御を指導する立場の機関自身が基本的な「秘密情報のスキャン」を怠っていた点を教訓とし、企業のセキュリティ担当者にも「自社のGitHubに鍵が漏れていな</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-03-security/security_yukkuri.m4a" length="5966478" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-03</guid>
+      <pubDate>Mon, 03 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>70億円がわずか41分で消えた【ハードウェアウォレットの落とし穴】2026/08/02</title>
       <description>製薬大手アムジェンの患者情報流出、ロンドン交通局を止めたハッカー集団の有罪答弁、そしてビットコイン専用ハードウェアウォレット「Coldcard」の欠陥が招いた41分間・約70億円の窃取事件。広告網・ホテルWi-Fi・AdobeとWordPressの脆弱性、Microsoftの過去最多パッチまで、今日のセキュリティニュースをずんだもんと四国めたんが解説します。
 
