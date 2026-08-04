@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv量子コンピュータニュース（2026年8月4日）</title>
+      <description>arXiv量子コンピュータニュース（2026年8月4日）
+
+キーワード: qLDPC符号 / 非可換群符号 / トラップドイオン量子エンジン / 非エルミート物理 / シリコンカラーセンター / 量子生成モデル
+
+今回は、非可換群構造を使った高レート誤り訂正符号から、測定フィードバックで動く量子熱機関の実機実証、非エルミート物理の初の実験的実現、量子機械学習まで、理論と実験の両面から10本を取り上げる。ハイライトは、カリフォルニア工科大学らのチームが示した「ミトン符号」による大規模論理演算の実証、40Ca+イオン系での測定フィードバック量子エンジン、そしてグリフィス大学らによる指数関数的コヒーレンス増幅の3本。
+
+オープニング：2026年8月4日 — arxiv 量子コンピュータ論文解説
+
+高レート量子誤り訂正から量子熱機関、量子光学、量子機械学習まで、10本の成果と未検証条件を順に確認する。
+
+論文1: 非可換群構造で誤り率を10桁下げる「ミトン符号」
+
+出典: Highrate qLDPC processors. [arXiv:2607.28795](https://arxiv.o</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-04-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9295945" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-04</guid>
+      <pubDate>Tue, 04 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子コンピュータが4096次元の波動方程式を解いた？今週の重要論文9本【2026/08/03】</title>
       <description>量子誤り訂正符号の新しい構成法から、開放系ダイナミクスの学習理論、IBM実機とテンソルネットワークのベンチマーク、複製不可能暗号、トラップドイオン実機での大規模シミュレーション、量子鍵配送のサイドチャネル対策まで、注目の量子コンピュータ論文9本をずんだもんと四国めたんが解説します。
 

@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AIの評価と安全はどこまで進んだ？注目論文10本【2026/08/04】</title>
+      <description>生成AIをどう評価し、効率化し、守るのか。ベンチマーク監査、推論の早期終了、キャッシュ変換、プロンプト復元、AIコンパニオンの長期安定性まで、最新10論文を解説します。
+
+▼ 今日の論文ラインナップ
+・ベンチマークは一枚岩ではない（arxiv:2607.28801）
+・テキストクローク（arxiv:2607.28862）
+・サイコファンシーのトークン診断（arxiv:2607.28906）
+・ブレードによる推論の早期終了（arxiv:2607.28966）
+・異種モデル間のキャッシュ変換（arxiv:2607.28979）
+・高速化に伴う内容ドリフト（arxiv:2607.29079）
+・無益な推論の中断学習（arxiv:2607.29211）
+・ゼロトークンのエージェント記憶（arxiv:2607.29377）
+・直前トークン予測によるプロンプト復元（arxiv:2607.29378）
+・AIコンパニオンの人格崩壊（arxiv:2607.28818）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.28801 — ベンチマークは一枚岩ではない
+https://arxiv.org/abs/2607.28862 — テキストクローク
+https://arxiv.org/abs/2607.28906 — サイコファンシーのトークン診断
+https://arxiv.org/abs/2607.28966 — 推論の早期終了
+https://arxiv.org/abs/2607.28979 — 異種モデル間のキャッシュ変換
+https://arxiv.org/abs/2607.29079 — 高速化に伴う内容ドリフト
+https://arxiv.org/abs/2607.29211 — 無益な推論の中断学習
+https://arxiv.org/abs/2607.29377 — ゼロトークンのエージェント記憶
+https://arxiv.org/abs/2607.29378 — プロンプト復元攻撃
+https://arxiv.org/abs/2607.28818 — AIコンパニオンの人格崩壊
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-04-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8508906" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-04</guid>
+      <pubDate>Tue, 04 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>LLM審査員はなぜ騙されるのか？研究者が驚いた生成AI論文10本【2026/08/03】</title>
       <description>LLMを「審査員」として使うときに潜む二種類のバイアス問題、画像を混ぜただけで性能が大きく落ちるマルチモーダルモデルの脆さ、財務諸表を読ませたときに露呈する推論の浅さ、そして規制の厳しい金融業界でAIを実運用に載せる際の「人間によるチェック負担」を定量化した研究まで、評価にまつわる10本をまとめて解説します。
 
