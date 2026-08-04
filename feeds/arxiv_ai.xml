@@ -26,6 +26,76 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>LLM審査員はなぜ騙されるのか？研究者が驚いた生成AI論文10本【2026/08/03】</title>
+      <description>LLMを「審査員」として使うときに潜む二種類のバイアス問題、画像を混ぜただけで性能が大きく落ちるマルチモーダルモデルの脆さ、財務諸表を読ませたときに露呈する推論の浅さ、そして規制の厳しい金融業界でAIを実運用に載せる際の「人間によるチェック負担」を定量化した研究まで、評価にまつわる10本をまとめて解説します。
+
+▼ 今日の論文ラインナップ
+・LLMは項目困難度を本当に理解しているか（arxiv:2607.28634）
+・偏りに強いLLM審査員を作るクロスモデル監査 チェーン・オブ・モデルズ（arxiv:2607.28636）
+・経験から「状態に紐づく予測知識」を学習する（arxiv:2607.28638）
+・知識蒸留が小型言語モデルの偏りに与える非対称な影響（arxiv:2607.28639）
+・マルチモーダルLLMの「モダリティギャップ」を測り、減らす トークンスワップ（arxiv:2607.28640）
+・「形式主義の罠」LLM審査員は合意の模倣に目をくらまされるか（arxiv:2607.28641）
+・LLMの財務推論は信頼できるか 長期決算書での実地テスト（arxiv:2607.28661）
+・チェッキング問題 規制業界でAIを出荷する前に必要な条件（arxiv:2607.28666）
+・大規模推論モデルのチェーン・オブ・ソート圧縮、エントロピー選択の効果を検証する（arxiv:2607.28707）
+・自己教師あり方式によるスキル最適化（arxiv:2607.28777）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.28634 — LLMは項目困難度を本当に理解しているか
+https://arxiv.org/abs/2607.28636 — 偏りに強いLLM審査員を作るクロスモデル監査
+https://arxiv.org/abs/2607.28638 — 経験から「状態に紐づく予測知識」を学習する
+https://arxiv.org/abs/2607.28639 — 知識蒸留が小型言語モデルの偏りに与える非対称な影響
+https://arxiv.org/abs/2607.28640 — マルチモーダルLLMの「モダリティギャップ」を測り、減らす
+https://arxiv.org/abs/2607.28641 — 「形式主義の罠」LLM審査員は合意の模倣に目をくらまされるか
+https://arxiv.org/abs/2607.28661 — LLMの財務推論は信頼できるか 長期決算書での実地テスト
+https://arxiv.org/abs/2607.28666 — チェッキング問題 規制業界でAIを出荷する前に必要な条件
+https://arxiv.org/abs/2607.28707 — 大規模推論モデルのチェーン・オブ・ソート圧縮、エントロピー選択の効果を検証する
+https://arxiv.org/abs/2607.28777 — 自己教師あり方式によるスキル最適化
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-03-arxiv-ai/arxiv_ai_yukkuri.m4a" length="11156347" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-03</guid>
+      <pubDate>Mon, 03 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が今週驚いた生成AI論文【システムプロンプト監査ほか10本解説 2026/08/02】</title>
+      <description>市販AI製品に隠されたシステムプロンプトの大規模監査、意識帰属を抑える安全対策が信念まで抑圧してしまう発見、そしてオンコール対応・ローカル計算機操作・マルチエージェント協調まで、実運用に近い場面でのAIエージェントの弱点と工夫を10本まとめて解説します。
+
+▼ 今日の論文ラインナップ
+・市販AI製品のシステムプロンプトを大規模監査する — スタンフォード大学・MIT等共同研究（arxiv:2607.28617）
+・「意識を持たない」と言わせる安全調整が人間らしい信念まで消す — Google・シカゴ大学等共同研究（arxiv:2607.28607）
+・コーディングエージェントはオンコール対応に耐えられるか — コーネル大学テック校・コロンビア大学（arxiv:2607.28545）
+・通信構造そのものを推論時に自己進化させるマルチエージェント（arxiv:2607.28527）
+・ローカル計算機操作エージェントに推論時スケーリングは効くのか — 漢陽大学（arxiv:2607.28573）
+・自己検証をテスト時計算の制御信号として学習する — 中山大学等（arxiv:2607.28457）
+・「50メートル先の洗車場」に歩いて行くと答えてしまう顕著性バイアス（arxiv:2607.28478）
+・過去のプルリクエストからコーディングエージェント用タスクを自動生成する — Microsoft等（arxiv:2607.28591）
+・マクロ推論とミクロ照合を切り分けるマルチモーダル検索拡張生成 — 北京航空航天大学（arxiv:2607.28580）
+・国家主体の情報操作にモデルがどれだけ加担しうるかを測る生きたベンチマーク（arxiv:2607.28503）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.28617 — 市販AI製品のシステムプロンプトを大規模監査する
+https://arxiv.org/abs/2607.28607 — 「意識を持たない」と言わせる安全調整が人間らしい信念まで消す
+https://arxiv.org/abs/2607.28545 — コーディングエージェントはオンコール対応に耐えられるか
+https://arxiv.org/abs/2607.28527 — 通信構造そのものを推論時に自己進化させるマルチエージェント
+https://arxiv.org/abs/2607.28573 — ローカル計算機操作エージェントに推論時スケーリングは効くのか
+https://arxiv.org/abs/2607.28457 — 自己検証をテスト時計算の制御信号として学習する
+https://arxiv.org/abs/2607.28478 — 「50メートル先の洗車場」に歩いて行くと答えてしまう顕著性バイアス
+https://arxiv.org/abs/2607.28591 — 過去のプルリクエストからコーディングエージェント用タスクを自動生成する
+https://arxiv.org/abs/2607.28580 — マクロ推論とミクロ照合を切り分けるマルチモーダル検索拡張生成
+https://arxiv.org/abs/2607.28503 — 国家主体の情報操作にモデルがどれだけ加担しうるかを測る生きたベンチマーク
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-02-arxiv-ai/arxiv_ai_yukkuri.m4a" length="11476677" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv生成AI・機械学習ニュース（2026年8月1日）</title>
       <description>arXiv生成AI・機械学習ニュース（2026年8月1日）
 

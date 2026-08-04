@@ -26,6 +26,74 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子コンピュータが4096次元の波動方程式を解いた？今週の重要論文9本【2026/08/03】</title>
+      <description>量子誤り訂正符号の新しい構成法から、開放系ダイナミクスの学習理論、IBM実機とテンソルネットワークのベンチマーク、複製不可能暗号、トラップドイオン実機での大規模シミュレーション、量子鍵配送のサイドチャネル対策まで、注目の量子コンピュータ論文9本をずんだもんと四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・群拡大とグラフリフトで作るリフティッド積符号の新構成（arxiv:2607.28621）
+・未知のリンドブラディアンを時間発展だけから学習する（arxiv:2607.28610）
+・DMRGとIBM実機でLipkin-Meshkov-Glick模型を1400粒子までベンチマーク（arxiv:2607.28570）
+・任意長メッセージに対する統計的に安全な複製不可能暗号（arxiv:2607.28561）
+・量子信号処理でオーバーラップフェルミオンのカイラル対称性を厳密に保つ（arxiv:2607.28524）
+・トラップドイオン実機で波動方程式を4096次元まで解く（arxiv:2607.28499）
+・中性原子アナログ量子プロセッサのノイズを考慮したエミュレーションと実機検証（arxiv:2607.28364）
+・単一AODで表面符号の原子並べ替えを対数時間に短縮する（arxiv:2607.28149）
+・後選択なしでサイドチャネル攻撃に頑健な決定論的QKD光源（arxiv:2607.28063）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.28621 — 群拡大とグラフリフトで作るリフティッド積符号の新構成
+https://arxiv.org/abs/2607.28610 — 未知のリンドブラディアンを時間発展だけから学習する
+https://arxiv.org/abs/2607.28570 — DMRGとIBM実機でLipkin-Meshkov-Glick模型を1400粒子までベンチマーク
+https://arxiv.org/abs/2607.28561 — 任意長メッセージに対する統計的に安全な複製不可能暗号
+https://arxiv.org/abs/2607.28524 — 量子信号処理でオーバーラップフェルミオンのカイラル対称性を厳密に保つ
+https://arxiv.org/abs/2607.28499 — トラップドイオン実機で波動方程式を4096次元まで解く
+https://arxiv.org/abs/2607.28364 — 中性原子アナログ量子プロセッサのノイズを考慮したエミュレーションと実機検証
+https://arxiv.org/abs/2607.28149 — 単一AODで表面符号の原子並べ替えを対数時間に短縮する
+https://arxiv.org/abs/2607.28063 — 後選択なしでサイドチャネル攻撃に頑健な決定論的QKD光源
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-03-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8725297" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-03</guid>
+      <pubDate>Mon, 03 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータが誤り訂正のコストを下げる？今週の重要論文を解説【2026/08/02】</title>
+      <description>量子誤り訂正の論理命令セット設計から、フォールトトレラント回路の高速シミュレータ、クラウド量子計算機のコスト評価、量子化学計算、有限温度でのブラックホール情報復元実験まで、注目の量子コンピュータ論文10本をずんだもんと四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・超高レートqLDPC符号に論理命令セットを与えるリフティッド積符号（arxiv:2607.28605）
+・クリフォード-パウリフレームでフォールトトレラント回路を高速シミュレートするSymFT（arxiv:2607.28600）
+・クラウド量子計算機を価格で比較するQuantum Fidelity-per-Cost（arxiv:2607.28572）
+・サンプルベース量子対角化で分子動力学の勾配を計算する（arxiv:2607.28548）
+・オラクルなしでハイブリッド発振子-量子ビットが解く非線形常微分方程式（arxiv:2607.28541）
+・有限温度で量子ギブス状態が古典的に見える境界を階層化する（arxiv:2607.28536）
+・ZX計算からカラーコードの時空間レイアウトを自動合成する（arxiv:2607.28504）
+・カスケード接続マイクロリング共振器で広帯域光スクイージングを作る（arxiv:2607.28493）
+・パウリ文字列で作る一ビット暗号の複製不可能性とその限界（arxiv:2607.28602）
+・SYK模型からの初期状態で有限温度Hayden–Preskill復元を実機実証する（arxiv:2607.28486）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.28605 — 超高レートqLDPC符号に論理命令セットを与えるリフティッド積符号
+https://arxiv.org/abs/2607.28600 — クリフォード-パウリフレームでフォールトトレラント回路を高速シミュレートするSymFT
+https://arxiv.org/abs/2607.28572 — クラウド量子計算機を価格で比較するQuantum Fidelity-per-Cost
+https://arxiv.org/abs/2607.28548 — サンプルベース量子対角化で分子動力学の勾配を計算する
+https://arxiv.org/abs/2607.28541 — オラクルなしでハイブリッド発振子-量子ビットが解く非線形常微分方程式
+https://arxiv.org/abs/2607.28536 — 有限温度で量子ギブス状態が古典的に見える境界を階層化する
+https://arxiv.org/abs/2607.28504 — ZX計算からカラーコードの時空間レイアウトを自動合成する
+https://arxiv.org/abs/2607.28493 — カスケード接続マイクロリング共振器で広帯域光スクイージングを作る
+https://arxiv.org/abs/2607.28602 — パウリ文字列で作る一ビット暗号の複製不可能性とその限界
+https://arxiv.org/abs/2607.28486 — SYK模型からの初期状態で有限温度Hayden–Preskill復元を実機実証する
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-02-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9187534" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv量子コンピュータ論文ニュース（2026年8月1日）</title>
       <description>arXiv量子コンピュータ論文ニュース（2026年8月1日）
 
