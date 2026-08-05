@@ -26,6 +26,26 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース 2026年8月5日</title>
+      <description>セキュリティニュース 2026年8月5日
+キーワード: 水道インフラ攻撃, ホテルWiFi侵入, npmサプライチェーン, MFA回避フィッシング, Rails脆弱性, AIエージェント乗っ取り
+
+オープニング：2026年8月5日 — セキュリティニュース
+
+今日は、ホテルのWiFi経由で企業アカウントを狙う国家系ハッカー、水道インフラを狙うイラン関連の攻撃、そして20億回もダウンロードされてきたnpmパッケージ群への侵入まで、生活インフラと開発現場の両方に迫る話題を取り上げます。
+
+ホテルの公衆WiFiから侵入、ロシア系ハッカーがMicrosoft 365を乗っ取る
+
+ Microsoftは、宿泊施設のWiFiネットワークを狙った世界規模の攻撃キャンペーンを、ロシアの国家系ハッカー集団「Midnight Blizzard」(別名APT29)によるものと断定した。
+ 攻撃者は独自開発のマルウェアを使い、ホテルの公衆WiFiに接続した利用者からMicrosoft 365アカウントの情報を窃取していたとみられる。
+ 出張先でホテルのフリーWiFiに接続して会社のメールを開く、という行動は多</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-05-security/security_yukkuri.m4a" length="6103912" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-05</guid>
+      <pubDate>Wed, 05 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>指紋もPINも不要？パスキー乗っ取りと警察10万人流出【2026/08/04】</title>
       <description>英国警察関係者10万人超の情報流出、指紋やPINなしでパスキーを乗っ取る新手口、企業向けVPNや遠隔管理ツールの悪用を解説。偽Robloxツール、ブラウザ画像キャッシュ、npmパッケージに潜むマルウェアと、Chromeの週2回パッチも取り上げます。
 
