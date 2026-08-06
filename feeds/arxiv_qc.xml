@@ -26,31 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
-      <title>1426論理キュービットを一ブロックへ？量子論文8本【2026/08/06】</title>
-      <description>最新arXiv論文を、手法・比較条件・結果・限界まで研究セミナー調で解説します。
+      <title>101キュービット実験と高符号化率QEC｜量子論文6本【2026/08/06】</title>
+      <description>2026年8月6日の新着arXivから、内容と検証条件を具体的に追える量子コンピュータ論文6本を解説します。証明、量子実機、古典シミュレーション、雑音モデルからの外挿を区別し、各研究が示したことと、まだ示していないことを整理します。
 
 ▼ 今日の論文ラインナップ
 ・混合状態テンソルネットワークに基本定理はあるか（arXiv:2608.02724）
-・頂点重みなしでもギャップ付きクリーク・ホモロジーは難しい（arXiv:2608.02726）
 ・量子化ハミルトニアン・シミュレーションの定数を詰める（arXiv:2608.02734）
-・ガウス則を制約でなく動力学の設計資源にする（arXiv:2608.02756）
-・1426論理キュービットを一ブロックへ詰めるコーヌコピア符号（arXiv:2608.02773）
-・電子顕微鏡の像形成を量子回路として記述するクースコープ（arXiv:2608.02782）
-・中性原子量子計算でエネルギー・時間・忠実度を同時最適化（arXiv:2608.02815）
-・複雑なダイヤモンド・スピン環境のデコヒーレンスを第一原理から予測する（arXiv:2608.02846）
+・ガウス則から格子ゲージ理論の動力学を作る（arXiv:2608.02756）
+・高符号化率のコーヌコピア量子誤り訂正符号（arXiv:2608.02773）
+・電子顕微鏡の像形成を量子回路へ写すクースコープ（arXiv:2608.02782）
+・欠陥の種類からダイヤモンド量子センサーのデコヒーレンスを予測する（arXiv:2608.02846）
 
-▼ 参考論文（arXiv）
-https://arxiv.org/abs/2608.02724 — 混合状態テンソルネットワークに基本定理はあるか
-https://arxiv.org/abs/2608.02726 — 頂点重みなしでもギャップ付きクリーク・ホモロジーは難しい
-https://arxiv.org/abs/2608.02734 — 量子化ハミルトニアン・シミュレーションの定数を詰める
-https://arxiv.org/abs/2608.02756 — ガウス則を制約でなく動力学の設計資源にする
-https://arxiv.org/abs/2608.02773 — 1426論理キュービットを一ブロックへ詰めるコーヌコピア符号
-https://arxiv.org/abs/2608.02782 — 電子顕微鏡の像形成を量子回路として記述するクースコープ
-https://arxiv.org/abs/2608.02815 — 中性原子量子計算でエネルギー・時間・忠実度を同時最適化
-https://arxiv.org/abs/2608.02846 — 複雑なダイヤモンド・スピン環境のデコヒーレンスを第一原理から予測する
+▼ 参考論文
+https://arxiv.org/abs/2608.02724
+https://arxiv.org/abs/2608.02734
+https://arxiv.org/abs/2608.02756
+https://arxiv.org/abs/2608.02773
+https://arxiv.org/abs/2608.02782
+https://arxiv.org/abs/2608.02846
 
-#量子コンピュータ #量子情報 #IBM #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
-      <enclosure url="https://archive.org/download/news-pickup-2026-08-06-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9363798" type="audio/mp4"/>
+#量子コンピュータ #量子誤り訂正 #量子シミュレーション #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-06-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8588785" type="audio/mp4"/>
       <guid isPermaLink="false">arxiv_qc-2026-08-06</guid>
       <pubDate>Thu, 06 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:author>daily-news-by-yukkuri</itunes:author>
