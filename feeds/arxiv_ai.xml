@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>線形注意はなぜAに固着した？生成AI重要論文10本【2026/08/06】</title>
+      <description>最新arXiv論文を、手法・比較条件・結果・限界まで研究セミナー調で解説します。
+
+▼ 今日の論文ラインナップ
+・選択肢「A」に固着する——線形注意への変換で壊れるインターフェース（arXiv:2608.02689）
+・下書きしてから直す——拡散言語モデルの投機的訂正（arXiv:2608.02625）
+・量子化から取り残された出力ヘッドを畳む（arXiv:2608.02703）
+・RLVRは推論の枝を広げるのか、それとも刈り込むのか（arXiv:2608.02867）
+・反省だけでは足りない——少数事例で指示を鍛えるFLARE（arXiv:2608.02919）
+・端末の中で個人の記憶を扱う——MemArenaが暴いた権限の穴（arXiv:2608.02613）
+・好まれることは安全であることではない——臨床評価の落とし穴（arXiv:2608.02617）
+・個人情報フィルタは物語文で崩れる——42ベンチマークの独立検証（arXiv:2608.02616）
+・目的関数が書けない問題を言葉から解く——BBOWP-Bench（arXiv:2608.02612）
+・4000年の壁を双方向に越える——楔形文字を書けるようにする（arXiv:2608.02609）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.02689 — 選択肢「A」に固着する——線形注意への変換で壊れるインターフェース
+https://arxiv.org/abs/2608.02625 — 下書きしてから直す——拡散言語モデルの投機的訂正
+https://arxiv.org/abs/2608.02703 — 量子化から取り残された出力ヘッドを畳む
+https://arxiv.org/abs/2608.02867 — RLVRは推論の枝を広げるのか、それとも刈り込むのか
+https://arxiv.org/abs/2608.02919 — 反省だけでは足りない——少数事例で指示を鍛えるFLARE
+https://arxiv.org/abs/2608.02613 — 端末の中で個人の記憶を扱う——MemArenaが暴いた権限の穴
+https://arxiv.org/abs/2608.02617 — 好まれることは安全であることではない——臨床評価の落とし穴
+https://arxiv.org/abs/2608.02616 — 個人情報フィルタは物語文で崩れる——42ベンチマークの独立検証
+https://arxiv.org/abs/2608.02612 — 目的関数が書けない問題を言葉から解く——BBOWP-Bench
+https://arxiv.org/abs/2608.02609 — 4000年の壁を双方向に越える——楔形文字を書けるようにする
+
+#生成AI #LLM #AI #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-06-arxiv-ai/arxiv_ai_yukkuri.m4a" length="12584026" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-06</guid>
+      <pubDate>Thu, 06 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIの評価と安全はどこまで進んだ？注目論文10本【2026/08/04】</title>
       <description>生成AIをどう評価し、効率化し、守るのか。ベンチマーク監査、推論の早期終了、キャッシュ変換、プロンプト復元、AIコンパニオンの長期安定性まで、最新10論文を解説します。
 
