@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子誤り緩和は精度4.7倍、でも時間11倍？重要論文6本【2026/08/07】</title>
+      <description>156量子ビット実機の誤り管理比較から、量子化・基礎論・チャネル学習・量子化学・量子アルゴリズムまで、大学院セミナー密度で6本を解説します。
+
+▼ 今日の論文ラインナップ
+・誤り管理の横断ベンチマーク（arXiv:2608.05202）
+・一量子ビットが一ビット量子化を上回る条件（arXiv:2608.05240）
+・有限速度隠れ影響のクラスター状態証人（arXiv:2608.05271）
+・限定並列アクセスでの量子チャネル学習（arXiv:2608.05307）
+・量子化学サンプル型対角化の古典比較（arXiv:2608.05314）
+・非可換群の隠れ部分群問題（arXiv:2608.05321）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.05202
+https://arxiv.org/abs/2608.05240
+https://arxiv.org/abs/2608.05271
+https://arxiv.org/abs/2608.05307
+https://arxiv.org/abs/2608.05314
+https://arxiv.org/abs/2608.05321
+
+#量子コンピュータ #量子情報 #量子誤り緩和 #量子化学 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-07-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9238595" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-07</guid>
+      <pubDate>Fri, 07 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>101キュービット実験と高符号化率QEC｜量子論文6本【2026/08/06】</title>
       <description>2026年8月6日の新着arXivから、内容と検証条件を具体的に追える量子コンピュータ論文6本を解説します。証明、量子実機、古典シミュレーション、雑音モデルからの外挿を区別し、各研究が示したことと、まだ示していないことを整理します。
 
