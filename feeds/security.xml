@@ -26,6 +26,48 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>1億人の通信履歴と570万ドル流出、便利な基盤の死角【2026/08/07】</title>
+      <description>Snowflake恐喝事件の有罪答弁から、KVM・Cisco・水道PLC・暗号資産・iCloud・子ども用GPS時計まで、今日確認すべき対策を解説します。
+
+▼ 今日のトピック
+・165組織超への侵入とAT&amp;T顧客1億人超の通信履歴
+・CVE-2026-64561とCiscoの深刻度9.8脆弱性
+・外部露出したRockwell PLC 4,407台
+・弱い乱数による暗号資産570万ドル以上の流出
+・iCloud Private Relayと子ども用GPS時計のプライバシー
+
+▼ 参考記事・ソース
+・Krebs on Security https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/
+・The Hacker News https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html
+・WIRED https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/
+
+#サイバーセキュリティ #情報漏洩 #脆弱性 #CVE #セキュリティニュース #ずんだもん #ゆっくり解説</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-07-security/security_yukkuri.m4a" length="6763755" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-07</guid>
+      <pubDate>Fri, 07 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>格安Claudeの罠、入力内容が丸見えに？ 2026/08/06</title>
+      <description>安さや便利さの裏側を確認するため、AI転売、Mac向けClickFix、クラウド管理製品の脆弱性を解説します。
+
+▼ 今日のトピック
+・ゼロデイ買取業者の運営者問題
+・格安Claude利用権とプロンプト窃取
+・悪用中3脆弱性に3日以内の対処命令
+
+▼ 参考記事・ソース
+本文末尾の参考ソースをご覧ください。
+
+#サイバーセキュリティ #情報漏洩 #フィッシング #Claude #Mac #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-06-security/security_yukkuri.m4a" length="4871321" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-06</guid>
+      <pubDate>Thu, 06 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース 2026年8月5日</title>
       <description>セキュリティニュース 2026年8月5日
 キーワード: 水道インフラ攻撃, ホテルWiFi侵入, npmサプライチェーン, MFA回避フィッシング, Rails脆弱性, AIエージェント乗っ取り
