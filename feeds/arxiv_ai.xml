@@ -26,34 +26,57 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
-      <title>線形注意はなぜAに固着した？生成AI重要論文10本【2026/08/06】</title>
-      <description>最新arXiv論文を、手法・比較条件・結果・限界まで研究セミナー調で解説します。
+      <title>生成AIの精度は条件で逆転する？重要論文8本解説 2026/08/07</title>
+      <description>産業シミュレータ接続、GraphRAGの過剰引用、安全回路、モデル間ステアリングなど、生成AIを信頼できるシステムへ組み込むための最新8論文を大学院セミナー水準で解説します。
 
 ▼ 今日の論文ラインナップ
-・選択肢「A」に固着する——線形注意への変換で壊れるインターフェース（arXiv:2608.02689）
-・下書きしてから直す——拡散言語モデルの投機的訂正（arXiv:2608.02625）
-・量子化から取り残された出力ヘッドを畳む（arXiv:2608.02703）
-・RLVRは推論の枝を広げるのか、それとも刈り込むのか（arXiv:2608.02867）
-・反省だけでは足りない——少数事例で指示を鍛えるFLARE（arXiv:2608.02919）
-・端末の中で個人の記憶を扱う——MemArenaが暴いた権限の穴（arXiv:2608.02613）
-・好まれることは安全であることではない——臨床評価の落とし穴（arXiv:2608.02617）
-・個人情報フィルタは物語文で崩れる——42ベンチマークの独立検証（arXiv:2608.02616）
-・目的関数が書けない問題を言葉から解く——BBOWP-Bench（arXiv:2608.02612）
-・4000年の壁を双方向に越える——楔形文字を書けるようにする（arXiv:2608.02609）
+・産業因果推論をシミュレータで接地（2608.05151）
+・GraphRAGの三重頑健性監査（2608.05153）
+・足場グラフと重みの共進化（2608.05156）
+・LLMが脅かす二重盲検査読（2608.05157）
+・安全回路を固定する自己進化（2608.05158）
+・概念表現プーリングの標準評価（2608.05162）
+・異種モデル間ステアリング転送（2608.05164）
+・会話文脈による認知バイアス（2608.05166）
 
 ▼ 参考論文（arXiv）
-https://arxiv.org/abs/2608.02689 — 選択肢「A」に固着する——線形注意への変換で壊れるインターフェース
-https://arxiv.org/abs/2608.02625 — 下書きしてから直す——拡散言語モデルの投機的訂正
-https://arxiv.org/abs/2608.02703 — 量子化から取り残された出力ヘッドを畳む
-https://arxiv.org/abs/2608.02867 — RLVRは推論の枝を広げるのか、それとも刈り込むのか
-https://arxiv.org/abs/2608.02919 — 反省だけでは足りない——少数事例で指示を鍛えるFLARE
-https://arxiv.org/abs/2608.02613 — 端末の中で個人の記憶を扱う——MemArenaが暴いた権限の穴
-https://arxiv.org/abs/2608.02617 — 好まれることは安全であることではない——臨床評価の落とし穴
-https://arxiv.org/abs/2608.02616 — 個人情報フィルタは物語文で崩れる——42ベンチマークの独立検証
-https://arxiv.org/abs/2608.02612 — 目的関数が書けない問題を言葉から解く——BBOWP-Bench
-https://arxiv.org/abs/2608.02609 — 4000年の壁を双方向に越える——楔形文字を書けるようにする
+https://arxiv.org/abs/2608.05151
+https://arxiv.org/abs/2608.05153
+https://arxiv.org/abs/2608.05156
+https://arxiv.org/abs/2608.05157
+https://arxiv.org/abs/2608.05158
+https://arxiv.org/abs/2608.05162
+https://arxiv.org/abs/2608.05164
+https://arxiv.org/abs/2608.05166
 
-#生成AI #LLM #AI #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+#生成AI #LLM #AI #arxiv #論文解説 #機械学習 #ディープラーニング #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-07-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9133889" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-07</guid>
+      <pubDate>Fri, 07 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>「A」しか選ばないAI——平均点が隠す故障を解く論文6本【2026/08/06】</title>
+      <description>軽量化、拡散言語モデル、推論強化学習、個人記憶、医療安全、個人情報検出を扱う最新論文6本を解説します。平均スコアの裏で何が壊れたのかを、比較条件・数値・限界まで分けて読みます。
+
+▼ 今日の論文ラインナップ
+・選択肢「A」に固着する——線形化で壊れた回答インターフェース（arXiv:2608.02689）
+・完成した下書きを全体から直す——拡散言語モデルの投機的訂正（arXiv:2608.02625）
+・強化学習は推論の枝を増やすのか——BODHIによる意味的探索の測定（arXiv:2608.02867）
+・端末内の個人記憶は誰に何を話すべきか——MemArenaの権限テスト（arXiv:2608.02613）
+・好まれた医療回答は安全なのか——臨床選好と危険率のずれ（arXiv:2608.02617）
+・個人情報フィルタはどこで崩れるか——22言語42ベンチマークの検証（arXiv:2608.02616）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.02689 — 選択肢「A」に固着する
+https://arxiv.org/abs/2608.02625 — 拡散言語モデルの投機的訂正
+https://arxiv.org/abs/2608.02867 — BODHIによる意味的探索の測定
+https://arxiv.org/abs/2608.02613 — MemArenaの権限テスト
+https://arxiv.org/abs/2608.02617 — 臨床選好と危険率のずれ
+https://arxiv.org/abs/2608.02616 — 22言語42ベンチマークの個人情報検出評価
+
+#生成AI #LLM #AI #機械学習 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #AI安全性 #プライバシー</description>
       <enclosure url="https://archive.org/download/news-pickup-2026-08-06-arxiv-ai/arxiv_ai_yukkuri.m4a" length="12584026" type="audio/mp4"/>
       <guid isPermaLink="false">arxiv_ai-2026-08-06</guid>
       <pubDate>Thu, 06 Aug 2026 07:00:00 +0900</pubDate>
