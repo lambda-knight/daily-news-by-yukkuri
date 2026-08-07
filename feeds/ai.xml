@@ -26,6 +26,50 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AIは「最強モデル」より選び方へ？Runway・Claude・量子決算 2026/08/07</title>
+      <description>生成AIの競争は、モデル単体の性能から「選び方・接続先・信頼の設計」へ。Runwayの生成メディアルーター、Claude音声モードの外部アプリ操作、ChatGPT Healthの全米展開、Meta広告の文化的矛盾、D-Waveの受注と売上の差を解説します。
+
+▼ 今日のトピック
+・Runway Media Routerが品質・速度・コストでモデルを自動選択
+・Claude音声モードがOpus・Sonnet・Haikuと外部アプリに対応
+・ChatGPT Healthは週3億件の健康相談と安全性をどう両立するか
+・MetaのAI楽観広告が終末を歌う楽曲を採用
+・D-Waveの約3550万ドル受注は売上へ変わるか
+
+▼ 参考記事・ソース
+・TechCrunch「Runway launches AI model router as generative media gets crowded」 https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/
+・TechCrunch「Anthropic updates Claude voice mode with more capable models」 https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/
+・TechCrunch「OpenAI makes ChatGPT Health available to all US users」 https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/
+・TechCrunch「Meta launched a new AI optimism ad set to a song about human extinction」 https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/
+・D-Wave「AT&amp;T Signs Agreement to Expand Use of D-Wave's Quantum Computing Technology」 https://www.dwavequantum.com/company/newsroom/press-release/at-t-signs-agreement-to-expand-use-of-d-wave-s-quantum-computing-technology/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #量子コンピュータ #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-07-ai/ai_yukkuri.m4a" length="6019835" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-07</guid>
+      <pubDate>Fri, 07 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Google中枢人事とAnthropic独自チップ、AI競争は基盤へ 2026/08/06</title>
+      <description>生成AI競争の重心が、モデル性能から人材・半導体・制度へ移る一日を解説します。
+
+▼ 今日のトピック
+・ハサビス氏の新職とジェフ・ディーン氏の独立
+・Anthropicの独自チップ設計チーム
+・EU AI Act透明性義務とIonQの垂直統合
+
+▼ 参考記事・ソース
+本文末尾の参考ソースをご覧ください。
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #量子コンピュータ #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-06-ai/ai_yukkuri.m4a" length="5200613" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-06</guid>
+      <pubDate>Thu, 06 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIニュース（2026年8月5日）</title>
       <description>生成AIニュース（2026年8月5日）
 
