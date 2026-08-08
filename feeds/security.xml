@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>800個の偽npm・Mac窃取・18年越しLinux欠陥【2026/08/08】</title>
+      <description>約800個の悪性npmパッケージ、Macを狙うClickFix、私物電話へのボイスフィッシング、WordPress全版の認証前XSS、18年越しのLinux欠陥など、実務と生活に直結する8件を解説します。
+
+▼ 今日のトピック
+・約800個の悪性npmパッケージ
+・Mac向けClickFixとキーチェーン窃取
+・UNC6671の電話フィッシング
+・WordPressのCVE-2026-64638
+・Linux SCTPのroot化・コンテナ脱出
+・NATを操るNatJack
+・Metabase SQL注入ゼロデイ
+・医療ソフト委託先侵害で380万人へ影響
+
+▼ 参考記事・ソース
+・The Hacker News「Nearly 800 Malicious npm Packages」 https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html
+・The Hacker News「ClickFix macOS Stealer」 https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html
+・The Hacker News「Linux SCTP Flaw」 https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html
+・Bleeping Computer「Metabase SQLi zero-day」 https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/
+
+#セキュリティ #サイバー攻撃 #脆弱性 #WordPress #Linux #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-08-security/security_yukkuri.m4a" length="5897549" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-08</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1億人の通信履歴と570万ドル流出、便利な基盤の死角【2026/08/07】</title>
       <description>Snowflake恐喝事件の有罪答弁から、KVM・Cisco・水道PLC・暗号資産・iCloud・子ども用GPS時計まで、今日確認すべき対策を解説します。
 
