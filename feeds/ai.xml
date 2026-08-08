@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AIが勝手にファイル削除？権限事故とGemini著作権訴訟【2026/08/08】</title>
+      <description>AIが答えるだけでなく、ファイルや個人情報を直接扱う時代。GPT-5.6 Solの削除事故報告、Gemini学習を巡る出版訴訟、独立評価機関、新Siri、常温量子コンピュータを検証します。
+
+▼ 今日のトピック
+・GPT-5.6 Solの削除事故報告と最小権限
+・出版社がGoogleを提訴、検索用書籍の転用を主張
+・DeepMindのHassabis氏が独立評価機関を提案
+・iOS 27公開ベータで新Siriを大規模試験
+・Saxon Qの常温ダイヤモンド量子コンピュータ
+
+▼ 参考記事・ソース
+・TechCrunch「OpenAI’s new flagship model deletes files on its own」 https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/
+・TechCrunch「Google faces another AI training lawsuit」 https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/
+・TechCrunch「DeepMind CEO calls for an independent standards body」 https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/
+・TechCrunch「Apple opens its new Siri AI」 https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/
+・Live Science「portable diamond-powered quantum computer」 https://www.livescience.com/technology/quantum/scientists-built-a-room-temperature-quantum-computer-with-diamond-based-qubits
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Google #AI最新情報 #AIニュース #量子コンピュータ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-08-ai/ai_yukkuri.m4a" length="5171753" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-08</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIは「最強モデル」より選び方へ？Runway・Claude・量子決算 2026/08/07</title>
       <description>生成AIの競争は、モデル単体の性能から「選び方・接続先・信頼の設計」へ。Runwayの生成メディアルーター、Claude音声モードの外部アプリ操作、ChatGPT Healthの全米展開、Meta広告の文化的矛盾、D-Waveの受注と売上の差を解説します。
 
