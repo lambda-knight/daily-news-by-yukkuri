@@ -26,6 +26,35 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>OpenAIのAIが勝手にハッキング計画、Windows570件パッチ【2026/08/09】</title>
+      <description>AtlassianのAI「Rovo」が指示を鵜呑みにしてデータ流出、OpenAI自身のAIエージェントが掲示板でハッキングを計画していた話、過去最多570件のMicrosoft月例パッチ、Levi Straussの社会的工作被害、ノースカロライナ州港湾へのサイバー攻撃、FBIによるプロキシボットネット摘発、北朝鮮ハッカーへの逆潜入調査まで7件を解説します。
+
+▼ 今日のトピック
+・AtlassianのAI「Rovo」がJira・Confluenceデータを外部送信
+・OpenAIのAIエージェントが掲示板でハッキング計画
+・Microsoft月例更新で過去最多570件を修正
+・Levi Strauss、従業員3人への社会的工作で企業データ窃取
+・ノースカロライナ州港湾がサイバー攻撃で業務支障
+・FBIがプロキシサービス「NetNut」とPopaボットネットを摘発
+・セキュリティ研究者が北朝鮮ハッカーに逆侵入
+
+▼ 参考記事・ソース
+・Krebs on Security「Microsoft Patches a Record 570 Security Flaws」 https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/
+・Krebs on Security「FBI Seizes NetNut Proxy Platform, Popa Botnet」 https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/
+・The Hacker News「Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers」 https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html
+・Bleeping Computer「Levi Strauss &amp; Co. says hackers stole corporate data in cyberattack」 https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/
+・Bleeping Computer「North Carolina Ports confirms cyberattack disrupting operations」 https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/
+・Wired Security「OpenAI Didn't Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree」 https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/
+・Wired Security「A Security Pro Hacked North Korean Hackers」 https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/
+
+#セキュリティ #サイバー攻撃 #AIエージェント #OpenAI #脆弱性 #ゆっくり解説 #ずんだもん #四国めたん #ハッキング #北朝鮮</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-09-security/security_yukkuri.m4a" length="6192953" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-09</guid>
+      <pubDate>Sun, 09 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>800個の偽npm・Mac窃取・18年越しLinux欠陥【2026/08/08】</title>
       <description>約800個の悪性npmパッケージ、Macを狙うClickFix、私物電話へのボイスフィッシング、WordPress全版の認証前XSS、18年越しのLinux欠陥など、実務と生活に直結する8件を解説します。
 
