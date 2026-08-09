@@ -26,6 +26,23 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv量子コンピュータ論文解説（2026年8月9日）</title>
+      <description>arXiv量子コンピュータ論文解説（2026年8月9日）
+
+キーワード: 量子シャドウトモグラフィー / 量子制御システム / 量子データ隠蔽 / 時間反転対称性 / カイラル位相端符号 / シンドローム測定タイミング
+
+本日は、量子誤り訂正の理論三本（時間反転選択則、カイラル位相端の近似符号、最適シンドロームタイミング）、量子情報理論の三本（次元非依存シャドウトモグラフィー、量子データ隠蔽、大域観測量と積観測量の境界）、そして量子制御ハードウェア、量子センシングの基礎限界、量子工学的な位相物質、量子古典ハイブリッド最適化を扱う10本を読む。理論の存在証明・数値シミュレーション・実機実装のどの段階の主張かを区別しながら確認する。
+
+オープニング：2026年8月9日 — arXiv量子コンピュータ論文解説
+
+今回そろった論文は、「量子的な資源やアクセス能力をどう定式化し、その限界をどこまで詰められるか」という問いを共有している。シャドウトモグラフィーのサンプル数の下限、量子データ隠蔽の分離可能球の半径、量子センシングにおける後選択確率込みの情報量、いずれも理論上の到達点を厳密に定めようと</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-09-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9914219" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-09</guid>
+      <pubDate>Sun, 09 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子誤り緩和は精度4.7倍、でも時間11倍？重要論文6本【2026/08/08】</title>
       <description>156量子ビット実機の誤り管理比較から、量子化・基礎論・チャネル学習・量子化学・量子アルゴリズムまで、大学院セミナー密度で6本を解説します。
 
