@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AIの精度は条件で逆転する？重要論文8本解説 2026/08/08</title>
+      <description>産業シミュレータ接続、GraphRAGの過剰引用、安全回路、モデル間ステアリングなど、生成AIを信頼できるシステムへ組み込むための最新8論文を大学院セミナー水準で解説します。
+
+▼ 今日の論文ラインナップ
+・産業因果推論をシミュレータで接地（2608.05151）
+・GraphRAGの三重頑健性監査（2608.05153）
+・足場グラフと重みの共進化（2608.05156）
+・LLMが脅かす二重盲検査読（2608.05157）
+・安全回路を固定する自己進化（2608.05158）
+・概念表現プーリングの標準評価（2608.05162）
+・異種モデル間ステアリング転送（2608.05164）
+・会話文脈による認知バイアス（2608.05166）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.05151
+https://arxiv.org/abs/2608.05153
+https://arxiv.org/abs/2608.05156
+https://arxiv.org/abs/2608.05157
+https://arxiv.org/abs/2608.05158
+https://arxiv.org/abs/2608.05162
+https://arxiv.org/abs/2608.05164
+https://arxiv.org/abs/2608.05166
+
+#生成AI #LLM #AI #arxiv #論文解説 #機械学習 #ディープラーニング #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-08-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9133397" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-08</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIの精度は条件で逆転する？重要論文8本解説 2026/08/07</title>
       <description>産業シミュレータ接続、GraphRAGの過剰引用、安全回路、モデル間ステアリングなど、生成AIを信頼できるシステムへ組み込むための最新8論文を大学院セミナー水準で解説します。
 
