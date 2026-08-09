@@ -26,20 +26,55 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
-      <title>arXiv生成AIニュース（2026年8月9日）</title>
-      <description>arXiv生成AIニュース（2026年8月9日）
+      <title>arXiv生成AIニュース（2026年8月10日）</title>
+      <description>arXiv生成AIニュース（2026年8月10日）
 
-キーワード: プログラム的ツール呼び出し / 選択的信頼 / クロネッカー分解量子化 / オンポリシー自己蒸留 / 生成報酬モデルのランキング化 / 構文情報位置埋め込み
+キーワード: 選択的信頼 / ツール呼び出し / エージェント評価 / 動画言語モデル / 多言語推論転移 / ハイパーパラメータ不要量子化
 
-オープニング：2026年8月9日 — arXiv生成AI論文解説
+オープニング：2026年8月10日 — 生成AI論文解説
 
-本日は、エージェントのツール呼び出し設計、RAGの信頼性評価、量子化・強化学習・報酬モデリングの効率化、そしてマルチモーダル推論の因果監査という5つの切り口から、直近に投稿された10本の論文を取り上げる。いずれも2026年8月6日に登録された、まだ査読前のプレプリントである点に留意されたい。
+本日は、外部文脈を選択的に信頼する学習法、ツール呼び出し方式の比較、エージェント評価の早期停止など、生成AIをどう検証するかに焦点を当てる。
 
-論文1: プログラム的ツール呼び出しの苦い教訓
+今回は、大規模言語モデル（LLM）とマルチモーダルLLMを「どう鍛えるか」ではなく「どう検証するか」に焦点が当たった一週間だった。文脈への過信・過小信頼を切り分ける選好最適化、プログラムとしてのツール呼び出し、対戦型エージェント評価のための統計的停止規則、動画理解の時間的失敗を診断するベンチマーク、そして長期エージェント軌跡の因果的なエラー追跡まで、いずれも「性能が上がった／下がった」の一段先にある評価設計そのものを問う論文が並ぶ。締めくくりに、GPTQ系量子化の計算量を理論的に削減するアルゴリズム論文を置いた。
 
-出典: The Bitter Lesson of Tool Calling. [arXiv:2608.06370](https://arxiv.org/abs/2608.06370) (2026).
+論文1: 選択的信頼のための文脈選好最適化（SCOPE）
 
-LLMをエージェントとして動かす際、ツールをどう呼び出させるかは実装上の細部に見えて、実は性能を大きく左右する設計選択である。この研究は、ツールをJSON形式</description>
+Duke大学、シ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-10-arxiv-ai/arxiv_ai_yukkuri.m4a" length="17428851" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-10</guid>
+      <pubDate>Mon, 10 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>プログラム的ツール呼び出しの苦い教訓、選択的信頼RAG等10論文 2026/08/09</title>
+      <description>エージェントのツール呼び出し設計、RAGの信頼性評価、量子化・強化学習・報酬モデリングの効率化、マルチモーダル推論の因果監査まで、2026年8月6日投稿のプレプリント10本を大学院セミナー水準で解説します。
+
+▼ 今日の論文ラインナップ
+・プログラム的ツール呼び出しの苦い教訓（2608.06370）
+・選択的信頼を学習するコンテキスト選好最適化（2608.06377）
+・クロネッカー分解ヘシアンによる効率的量子化 BaKron（2608.06291）
+・発散適応的な教師付与範囲によるオンポリシー自己蒸留 DASH（2608.06243）
+・ランキングに基づく報酬構成による生成報酬モデルの活用 RRC（2608.06310）
+・トップK検索を超えて――解釈可能なエージェント的操作による表探索（2608.06305）
+・低頻度の罠――映像言語モデルは単純な事象の計数に失敗する（2608.06361）
+・視覚ツール利用の幻影――画像による思考の因果監査（2608.06270）
+・系列順序を超えて――トランスフォーマーのための構文情報位置埋め込み SiPE（2608.06111）
+・訓練不要のトークン単位ステアリングによる個人化された共同執筆 SteerWrite（2608.06069）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.06370
+https://arxiv.org/abs/2608.06377
+https://arxiv.org/abs/2608.06291
+https://arxiv.org/abs/2608.06243
+https://arxiv.org/abs/2608.06310
+https://arxiv.org/abs/2608.06305
+https://arxiv.org/abs/2608.06361
+https://arxiv.org/abs/2608.06270
+https://arxiv.org/abs/2608.06111
+https://arxiv.org/abs/2608.06069
+
+#生成AI #LLM #AI #arxiv #論文解説 #機械学習 #ディープラーニング #ずんだもん</description>
       <enclosure url="https://archive.org/download/news-pickup-2026-08-09-arxiv-ai/arxiv_ai_yukkuri.m4a" length="11097595" type="audio/mp4"/>
       <guid isPermaLink="false">arxiv_ai-2026-08-09</guid>
       <pubDate>Sun, 09 Aug 2026 07:00:00 +0900</pubDate>
