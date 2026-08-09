@@ -1,5 +1,5 @@
 ---
-title: "arxiv 量子コンピュータ論文解説 2026-08-09"
+title: "量子シャドウトモグラフィーの多重対数限界、誤り訂正等10論文 2026/08/09"
 layout: default
 ---
 
@@ -8,13 +8,45 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# arxiv 量子コンピュータ論文解説 2026-08-09
+# 量子シャドウトモグラフィーの多重対数限界、誤り訂正等10論文 2026/08/09
 
 **2026-08-09 / arxiv 量子コンピュータ論文解説**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-08-09-arxiv-qc/arxiv_qc_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-08-09-arxiv-qc)
+
+---
+
+## 概要
+
+量子シャドウトモグラフィー、量子制御系のメモリボトルネック解消、量子誤り訂正の時間反転選択則、非ガウス状態の推定限界まで、量子コンピュータ関連の最新プレプリント10本を大学院セミナー水準で解説します。
+
+▼ 今日の論文ラインナップ
+・逐次プリティグッド測定によるディメンションフリーな多重対数量子シャドウトモグラフィー（2608.06345）
+・量子制御システムのメモリボトルネックを解消するAnt-Q（2608.06318）
+・最適な量子データ隠蔽と最大分離可能球（2608.06308）
+・量子誤り訂正のための時間反転選択則（2608.06304）
+・カイラル位相端における近似量子誤り訂正（2608.06258）
+・最適なシンドローム測定タイミングによる論理誤り率の指数的低減（2608.06242）
+・ガウス資源から生成するヘラルド光学非ガウス状態のパラメータ推定の基本限界（2608.06239）
+・二部量子系における大域観測量と積観測量のシャープな境界（2608.06235）
+・量子工学的分数チャーン絶縁体におけるエニオン-不純物束縛状態（2608.06233）
+・低深度QAOAによるMaxCut緩和のウォームスタート（2608.06212）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.06345
+https://arxiv.org/abs/2608.06318
+https://arxiv.org/abs/2608.06308
+https://arxiv.org/abs/2608.06304
+https://arxiv.org/abs/2608.06258
+https://arxiv.org/abs/2608.06242
+https://arxiv.org/abs/2608.06239
+https://arxiv.org/abs/2608.06235
+https://arxiv.org/abs/2608.06233
+https://arxiv.org/abs/2608.06212
+
+#量子コンピュータ #量子誤り訂正 #arxiv #論文解説 #物理学 #ずんだもん
 
 ---
 

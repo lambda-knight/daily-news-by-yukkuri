@@ -1,5 +1,5 @@
 ---
-title: "arxiv AI論文解説 2026-08-09"
+title: "プログラム的ツール呼び出しの苦い教訓、選択的信頼RAG等10論文 2026/08/09"
 layout: default
 ---
 
@@ -8,13 +8,45 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# arxiv AI論文解説 2026-08-09
+# プログラム的ツール呼び出しの苦い教訓、選択的信頼RAG等10論文 2026/08/09
 
 **2026-08-09 / arxiv AI論文解説**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-08-09-arxiv-ai/arxiv_ai_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-08-09-arxiv-ai)
+
+---
+
+## 概要
+
+エージェントのツール呼び出し設計、RAGの信頼性評価、量子化・強化学習・報酬モデリングの効率化、マルチモーダル推論の因果監査まで、2026年8月6日投稿のプレプリント10本を大学院セミナー水準で解説します。
+
+▼ 今日の論文ラインナップ
+・プログラム的ツール呼び出しの苦い教訓（2608.06370）
+・選択的信頼を学習するコンテキスト選好最適化（2608.06377）
+・クロネッカー分解ヘシアンによる効率的量子化 BaKron（2608.06291）
+・発散適応的な教師付与範囲によるオンポリシー自己蒸留 DASH（2608.06243）
+・ランキングに基づく報酬構成による生成報酬モデルの活用 RRC（2608.06310）
+・トップK検索を超えて――解釈可能なエージェント的操作による表探索（2608.06305）
+・低頻度の罠――映像言語モデルは単純な事象の計数に失敗する（2608.06361）
+・視覚ツール利用の幻影――画像による思考の因果監査（2608.06270）
+・系列順序を超えて――トランスフォーマーのための構文情報位置埋め込み SiPE（2608.06111）
+・訓練不要のトークン単位ステアリングによる個人化された共同執筆 SteerWrite（2608.06069）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.06370
+https://arxiv.org/abs/2608.06377
+https://arxiv.org/abs/2608.06291
+https://arxiv.org/abs/2608.06243
+https://arxiv.org/abs/2608.06310
+https://arxiv.org/abs/2608.06305
+https://arxiv.org/abs/2608.06361
+https://arxiv.org/abs/2608.06270
+https://arxiv.org/abs/2608.06111
+https://arxiv.org/abs/2608.06069
+
+#生成AI #LLM #AI #arxiv #論文解説 #機械学習 #ディープラーニング #ずんだもん
 
 ---
 
