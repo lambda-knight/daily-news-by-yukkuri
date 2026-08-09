@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】OpenAIがNextSlide買収&amp;Astra減速、量子で電力網防衛も 2026/08/09</title>
+      <description>2026年8月9日の生成AIニュースまとめ。OpenAIのプレゼンAI「NextSlide」買収と新モデル「Astra」の安全減速、メタへの567億円追加制裁とニューメキシコ州の未成年保護命令、中国のAI恋人規制で大手2社がペルソナ機能停止、そしてイートン・Infleqtion・ペンシルベニア州立大による量子コンピュータの電力網防衛実証実験まで、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・OpenAI、スライド作成AIスタートアップ「NextSlide」を買収
+・OpenAIが新モデル「Astra」の開発を意図的に減速、安全懸念で
+・メタに567億円の追加支払い命令、若者のメンタルヘルス被害巡り公共妨害と認定
+・中国のAI恋人規制で大手2社がキャラクター機能を一斉停止
+・Eaton・Infleqtion・ペン州立大、量子コンピュータで電力網防衛の実証実験へ
+・OpenAI、300〜400ドルのAIスマートスピーカーを準備中と報道
+
+▼ 参考記事・ソース
+・TechCrunch「OpenAI acquires presentation startup NextSlide」 https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/
+・TechCrunch「OpenAI says it slowed Astra model development over security concerns」 https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/
+・TechCrunch「New Mexico court orders Meta to pay additional $567M in child safety case」 https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/
+・TechCrunch「OpenAI's new AI smart speaker will reportedly sell for between $300 and $400」 https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/
+・Latham &amp; Watkins「China Introduces Rules for AI Companion and Emotional Interaction Services」 https://www.lw.com/en/insights/china-introduces-rules-for-ai-companion-and-emotional-interaction-services
+・The Quantum Insider「Daily Quantum Update for Saturday, August 8, 2026」 https://drbobsutor.substack.com/p/daily-quantum-update-for-saturday-837
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-09-ai/ai_yukkuri.m4a" length="5086620" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-09</guid>
+      <pubDate>Sun, 09 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIが勝手にファイル削除？権限事故とGemini著作権訴訟【2026/08/08】</title>
       <description>AIが答えるだけでなく、ファイルや個人情報を直接扱う時代。GPT-5.6 Solの削除事故報告、Gemini学習を巡る出版訴訟、独立評価機関、新Siri、常温量子コンピュータを検証します。
 
