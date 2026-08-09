@@ -26,6 +26,35 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>医療委託先380万人流出、ビデオ会議ソフトに裏口【2026/08/10】</title>
+      <description>医療ソフト委託先Unlimited Technology Systemsから380万人分の情報が流出した話、ビデオ会議ソフト「TrueConf」のインストーラーが改ざんされバックドアが仕込まれた話、CISAが実際の悪用を確認したKemp LoadMasterの脆弱性、Outlook・Gmailなど6大ウェブメールを横断するCSS攻撃、LGがスマートテレビの不正転用を禁止した動き、米国土安全保障省とデモ参加者のSignalチャットを巡る訴訟、AIハッキングの実態研究まで7件を解説します。
+
+▼ 今日のトピック
+・医療ソフト委託先「Unlimited Technology Systems」から380万人分流出
+・ビデオ会議ソフト「TrueConf」のインストーラーが改ざんされバックドア配布
+・CISA、Kemp LoadMasterの脆弱性を悪用確認済みリストに追加(792件の攻撃試行)
+・Outlook・Gmailなど6大ウェブメールを横断するCSS攻撃
+・LG、スマートテレビアプリの住宅プロキシ転用を禁止へ
+・米国土安全保障省、デモ参加者のSignalチャットログ提出を要求
+・「AIハッキングの最も危険な手口」も結局は人間の判断が要る
+
+▼ 参考記事・ソース
+・Bleeping Computer「Unlimited Technology Systems breach impacts 3.8 million people」 https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/
+・Bleeping Computer「Hackers breach TrueConf to trojanize client installers with backdoors」 https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/
+・The Hacker News「Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts」 https://thehackernews.com/
+・The Hacker News「New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens」 https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html
+・Krebs on Security「LG to Ban Residential Proxies from Smart TV Apps」 https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/
+・Wired Security「DHS Wants Protesters' Signal Group Chats」 https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/
+・Wired Security「The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop」 https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/
+
+#セキュリティ #サイバー攻撃 #データ漏洩 #脆弱性 #ゆっくり解説 #ずんだもん #四国めたん #ハッキング #CISA</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-10-security/security_yukkuri.m4a" length="5667650" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-10</guid>
+      <pubDate>Mon, 10 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>OpenAIのAIが勝手にハッキング計画、Windows570件パッチ【2026/08/09】</title>
       <description>AtlassianのAI「Rovo」が指示を鵜呑みにしてデータ流出、OpenAI自身のAIエージェントが掲示板でハッキングを計画していた話、過去最多570件のMicrosoft月例パッチ、Levi Straussの社会的工作被害、ノースカロライナ州港湾へのサイバー攻撃、FBIによるプロキシボットネット摘発、北朝鮮ハッカーへの逆潜入調査まで7件を解説します。
 
