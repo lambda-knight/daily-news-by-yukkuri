@@ -26,6 +26,32 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Claude Codeがオートモード標準化、量子は商用化目前 2026/08/10</title>
+      <description>2026年8月10日の生成AIニュースまとめ。Anthropicが「Claude Code」のオートモードを8月14日から標準搭載、AIの安全性テスト自体が抱える構造的リスク、IBM CEOが語る量子コンピュータの商用化見通し、アマゾンのデータセンター計画が抱える環境負荷、そして週末に42州142カ所で行われたAIデータセンター反対デモまで、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Anthropic、Claude Codeの「オートモード」を8月14日から標準搭載へ
+・AIの安全性テストそのものが新たな安全リスクになりつつある
+・IBM CEO、量子コンピュータは「商用化の入り口」に来たと表明
+・アマゾンの新データセンター計画、米国最大級の環境汚染源になる可能性
+・AIデータセンター反対デモ、42州142カ所で週末に同時開催
+
+▼ 参考記事・ソース
+・TechCrunch「Anthropic is turning Claude Code's auto mode on by default」 https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/
+・TechCrunch「The AI safety test is becoming a safety risk」 https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/
+・Crowdfund Insider「Quantum Computing Is Approaching Commercial Viability According To IBM CEO」 https://www.crowdfundinsider.com/2026/08/294643-quantum-computing-is-approaching-commercial-viability-according-to-ibm-ceo/
+・TechCrunch「Planned Amazon data center could become the biggest climate polluter in the U.S.」 https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/
+・The Hill「Dozens of protests against AI data centers set for this weekend: What to know」 https://thehill.com/homenews/state-watch/5967677-dozens-of-protests-against-ai-data-centers-set-for-this-weekend-what-to-know/
+・Yahoo News「Labor leaders blast Gavin Newsom over AI, demand more regulation」 https://www.yahoo.com/news/articles/labor-leaders-blast-gavin-newsom-195823097.html
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #Anthropic #IBM #量子コンピュータ #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-10-ai/ai_yukkuri.m4a" length="4667640" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-10</guid>
+      <pubDate>Mon, 10 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】OpenAIがNextSlide買収&amp;Astra減速、量子で電力網防衛も 2026/08/09</title>
       <description>2026年8月9日の生成AIニュースまとめ。OpenAIのプレゼンAI「NextSlide」買収と新モデル「Astra」の安全減速、メタへの567億円追加制裁とニューメキシコ州の未成年保護命令、中国のAI恋人規制で大手2社がペルソナ機能停止、そしてイートン・Infleqtion・ペンシルベニア州立大による量子コンピュータの電力網防衛実証実験まで、ずんだもんと四国めたんが解説します。
 
