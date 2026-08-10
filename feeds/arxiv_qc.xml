@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子雑音が資源に変わる？重要論文10本を解説【2026/08/11】</title>
+      <description>変動雑音へ適応するゼロノイズ外挿、量子ジャンプで充電する量子電池、相関雑音を使う量子変換と安全通信、標準量子限界を超える磁力計など、量子コンピュータ・量子情報の最新10論文を条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・文脈付きバンディットによる適応ゼロノイズ外挿（arXiv:2608.06426）
+・一方向量子ジャンプを使う三準位量子電池（arXiv:2608.06479）
+・ディラック方程式の格子ボルツマン法を量子回路へ（arXiv:2608.06570）
+・一回測定の量子ビット周波数追跡（arXiv:2608.06636）
+・相関雑音を使うマイクロ波・光量子変換（arXiv:2608.06683）
+・ショアのアルゴリズムとファンアウトの必要性（arXiv:2608.06703）
+・交流電力潮流で量子優位が成立する条件（arXiv:2608.06711）
+・サブ真空ジャミングによる安全通信（arXiv:2608.06720）
+・弱測定のデバイス独立認証（arXiv:2608.06726）
+・標準量子限界を超える光学磁力計（arXiv:2608.06815）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.06426
+https://arxiv.org/abs/2608.06479
+https://arxiv.org/abs/2608.06570
+https://arxiv.org/abs/2608.06636
+https://arxiv.org/abs/2608.06683
+https://arxiv.org/abs/2608.06703
+https://arxiv.org/abs/2608.06711
+https://arxiv.org/abs/2608.06720
+https://arxiv.org/abs/2608.06726
+https://arxiv.org/abs/2608.06815
+
+#量子コンピュータ #量子情報 #量子誤り緩和 #量子通信 #量子センシング #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-11-arxiv-qc/arxiv_qc_yukkuri.m4a" length="10659326" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-11</guid>
+      <pubDate>Tue, 11 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv量子コンピュータニュース（2026年8月10日）</title>
       <description>arXiv量子コンピュータニュース（2026年8月10日）
 
