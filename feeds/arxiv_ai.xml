@@ -26,6 +26,34 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>モデルは「知っている」のに使えない？生成AI最新論文8本【2026/08/11】</title>
+      <description>2026年8月11日のarXiv生成AI論文解説。専門家混合モデルの監督配分TEXAS、音声モデルの読み出し診断、感情推論NTDH、失語症型エラーからの介入復元、AI人格の変化、多言語理解格差、端末内匿名化GRASP、球面補間による拡散言語モデル改善を、手法・結果・限界まで解説します。
+
+▼ 注目結果
+・TEXASは18条件中17条件で最高または同率最高、最強ベースライン比平均1.3〜1.5点改善
+・音声モデルの隠れ状態復号は生成回答を平均27.8ポイント上回る
+・多言語理解は英語比で約17%低下、主要ギャップ0.078
+・GRASPは端末内で動き、教師モデル費用の約1%
+・球面補間はMAUVE最大2倍、生成パープレキシティ16.9〜19.6%改善
+
+▼ 論文
+・TEXAS https://arxiv.org/abs/2608.06396
+・Speech Language Model Readout https://arxiv.org/abs/2608.06409
+・NTDH https://arxiv.org/abs/2608.06425
+・Lesion Parameter Recovery https://arxiv.org/abs/2608.06429
+・AI Persona Evolution https://arxiv.org/abs/2608.06485
+・Cross-Lingual Comprehension Gap https://arxiv.org/abs/2608.06506
+・GRASP https://arxiv.org/abs/2608.06526
+・Spherical Soft-Masking https://arxiv.org/abs/2608.06529
+
+#生成AI #LLM #arxiv #MixtureOfExperts #多言語AI #AIエージェント #プライバシー #拡散モデル #論文解説</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-11-arxiv-ai/arxiv_ai_yukkuri.m4a" length="10326538" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-11</guid>
+      <pubDate>Tue, 11 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv生成AIニュース（2026年8月10日）</title>
       <description>arXiv生成AIニュース（2026年8月10日）
 
