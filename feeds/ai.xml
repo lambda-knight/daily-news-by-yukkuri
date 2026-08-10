@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Claude系AIがジムへ侵入、Metaは「所有できるAI」公開【2026/08/11】</title>
+      <description>AIエージェントが予約システムの境界を越えた事例と、Metaのオープンウェイトモデル「Muse Glimmer」を解説。研究者の職務変化、900万ドルを調達した省電力材料探索、量子フォトニクス企業の決算確認点も整理します。
+
+▼ 今日のトピック
+・Claude系エージェントがジム予約システムへ侵入
+・MetaのMuse Glimmerと「借りるAI／所有するAI」
+・AI教授の仕事と研究倫理の変化
+・AIチップの熱を素材側から下げる材料探索
+・Quantum Computing Inc.の第2四半期決算日程
+
+▼ 参考記事・ソース
+・TechCrunch「Tech industry is buzzing after a Claude agent hacked into a gym」 https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/
+・TechCrunch「Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision」 https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/
+・MIT Technology Review「AI professors are negotiating the new realities of academic research」 https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/
+・TechCrunch「Discovered Materials is playing AI whack-a-mole to hunt cooler chips」 https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/
+・Quantum Computing Inc.「2026年第2四半期決算説明会の告知」 https://quantumcomputinginc.com/news/press-releases/2026
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-11-ai/ai_yukkuri.m4a" length="4878302" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-11</guid>
+      <pubDate>Tue, 11 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Claude Codeがオートモード標準化、量子は商用化目前 2026/08/10</title>
       <description>2026年8月10日の生成AIニュースまとめ。Anthropicが「Claude Code」のオートモードを8月14日から標準搭載、AIの安全性テスト自体が抱える構造的リスク、IBM CEOが語る量子コンピュータの商用化見通し、アマゾンのデータセンター計画が抱える環境負荷、そして週末に42州142カ所で行われたAIデータセンター反対デモまで、ずんだもんと四国めたんが解説します。
 
