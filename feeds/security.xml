@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>パスキーも狙われる？Steam配送漏洩と新型ランサムウェア【2026/08/11】</title>
+      <description>新型ランサムウェアStormEncryptor、北朝鮮系KimsukyのオフラインAI、パスキーを巡る3研究を解説。偽VS Code拡張機能、SonicWall悪用、Steam配送委託先の情報漏洩について、利用者と管理者が取るべき対策を整理します。
+
+▼ 今日のトピック
+・StormEncryptorと遠隔管理製品N-central
+・KimsukyがオフラインAIで攻撃準備を効率化
+・パスキーの暗号ではなく同期と端末を狙う研究
+・偽Solidity Pro拡張機能がウォレットとAPI鍵を窃取
+・SonicWall SMA1000の修正済み脆弱性を悪用
+・Steam配送委託先CEVAから連絡先流出の恐れ
+
+▼ 参考記事・ソース
+・The Hacker News「China-Linked Hackers Deploy New StormEncryptor Ransomware」 https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html
+・The Hacker News「Kimsuky Builds Offline AI Stack」 https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html
+・The Hacker News「New Passkey Attacks」 https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html
+・The Hacker News「Solidity Pro VS Code Extensions Steal Crypto Wallets」 https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html
+・BleepingComputer「CISA: SonicWall SMA1000 flaws now exploited」 https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/
+・BleepingComputer「Valve notifies Steam hardware customers of a data breach」 https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/
+
+#サイバーセキュリティ #ランサムウェア #パスキー #Steam #情報漏洩 #フィッシング #ゆっくり解説 #ずんだもん #四国めたん #セキュリティニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-11-security/security_yukkuri.m4a" length="6505471" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-11</guid>
+      <pubDate>Tue, 11 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>医療委託先380万人流出、ビデオ会議ソフトに裏口【2026/08/10】</title>
       <description>医療ソフト委託先Unlimited Technology Systemsから380万人分の情報が流出した話、ビデオ会議ソフト「TrueConf」のインストーラーが改ざんされバックドアが仕込まれた話、CISAが実際の悪用を確認したKemp LoadMasterの脆弱性、Outlook・Gmailなど6大ウェブメールを横断するCSS攻撃、LGがスマートテレビの不正転用を禁止した動き、米国土安全保障省とデモ参加者のSignalチャットを巡る訴訟、AIハッキングの実態研究まで7件を解説します。
 
