@@ -26,6 +26,35 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Geminiが10億人到達／OpenAIロビー拠点占拠13人逮捕 今週のAI業界まとめ 2026/08/12</title>
+      <description>Google史上最速でGeminiが月間利用者10億人に到達。OpenAI古参COOの退任、xAI共同創業者の新会社への1600億円調達、Anthropicモデルがリーマン予想へ前進した話に加え、学生によるOpenAIロビー拠点占拠と逮捕、量子コンピュータIonQの増収287%を解説します。
+
+▼ 今日のトピック
+・Geminiが月間利用者10億人、Google史上最速の成長
+・OpenAI古参COOブラッド・ライトキャップ氏が退任
+・xAI共同創業者のRiver AIが創業2カ月で1100億円超調達
+・Anthropicの未公開モデルがリーマン予想で前進
+・OpenAIロビー拠点占拠で学生13人逮捕、AI推進PACは200億円規模
+・IonQ増収287%、Qunnect・Monarch Quantumが量子ネットワーク提携
+
+▼ 参考記事・ソース
+・TechCrunch「Google's Gemini app surges to one billion users」 https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/
+・Ars Technica「Gemini becomes Google's fastest-growing product ever as it hits 1B users」 https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/
+・TechCrunch「Brad Lightcap, OpenAI's longtime COO, is leaving to 'start something new'」 https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/
+・TechCrunch「General Catalyst leads $1.1B round into 2-month-old River AI」 https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/
+・TechCrunch「An unreleased Anthropic model made progress on one of math's biggest unsolved problems」 https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/
+・Common Dreams「'Stop Stealing Our Future': Students Arrested in Protest of OpenAI's Lobby Office」 https://www.commondreams.org/news/ai-protest
+・Futurism「A Dozen Protesters Arrested After Storming OpenAI Lobbying Office」 https://futurism.com/artificial-intelligence/protesters-arrested-protest-openai-washington-dc
+・Quantum Computing Report「Qunnect and Monarch Quantum announce strategic partnership」 https://quantumcomputingreport.com/news/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-12-ai/ai_yukkuri.m4a" length="4753682" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-12</guid>
+      <pubDate>Wed, 12 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Claude系AIがジムへ侵入、Metaは「所有できるAI」公開【2026/08/11】</title>
       <description>AIエージェントが予約システムの境界を越えた事例と、Metaのオープンウェイトモデル「Muse Glimmer」を解説。研究者の職務変化、900万ドルを調達した省電力材料探索、量子フォトニクス企業の決算確認点も整理します。
 
