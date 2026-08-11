@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子回路はどこで賢くなる？重要論文10本を解説【2026/08/12】</title>
+      <description>QLDPC符号の巻き戻し復号、ランダム化積公式、強化学習が発見するQAOA回路、量子強化発振器など、量子コンピュータ・量子情報の最新10論文を比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・QLDPC符号のための多段階巻き戻しデコーダ（arXiv:2608.07783）
+・量子鍵配送における古典制御のセキュリティ解析（arXiv:2608.07626）
+・最適な決定論的スケーリングを超えるランダム化積公式（arXiv:2608.07720）
+・二階層量子古典最適化の測定効率を上げる陰的微分（arXiv:2608.07717）
+・QAOAで強化学習が発見する問題グラフ整合構造（arXiv:2608.07686）
+・万能なエンタングルメント証人生成器（arXiv:2608.07806）
+・共有ランダム性がほぼない非局所ゲーム（arXiv:2608.07833）
+・量子強化フィードバック発振器（arXiv:2608.07753）
+・位相空間命令セットによるN重猫状態の近似生成（arXiv:2608.07696）
+・量子リザバー計算における情報の保存・攪拌・損失（arXiv:2608.07677）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.07783
+https://arxiv.org/abs/2608.07626
+https://arxiv.org/abs/2608.07720
+https://arxiv.org/abs/2608.07717
+https://arxiv.org/abs/2608.07686
+https://arxiv.org/abs/2608.07806
+https://arxiv.org/abs/2608.07833
+https://arxiv.org/abs/2608.07753
+https://arxiv.org/abs/2608.07696
+https://arxiv.org/abs/2608.07677
+
+#量子コンピュータ #量子情報 #QAOA #量子誤り訂正 #量子通信 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-12-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9048712" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-12</guid>
+      <pubDate>Wed, 12 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子雑音が資源に変わる？重要論文10本を解説【2026/08/11】</title>
       <description>変動雑音へ適応するゼロノイズ外挿、量子ジャンプで充電する量子電池、相関雑音を使う量子変換と安全通信、標準量子限界を超える磁力計など、量子コンピュータ・量子情報の最新10論文を条件と限界まで解説します。
 
