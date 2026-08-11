@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>幻覚検出と計算配分の弱点を追う生成AI論文8本【2026/08/12】</title>
+      <description>幻覚の動的評価、状態を更新する長文書エージェント、検索報酬、解釈可能性、人格表現まで、生成AI研究の新着8本を解説します。
+
+▼ 今日の論文ラインナップ
+・マルチモーダル幻覚を進化的に暴くSAMF（arXiv:2608.07525）
+・長文書理解を状態が変わる環境として設計するDocAtlas（arXiv:2608.07527）
+・検索エージェントに証拠への忠実さを教えるSearch-G1（arXiv:2608.07531）
+・解釈可能性を学習に組み込む言語モデル（arXiv:2608.07594）
+・サーベイ査読者を人間基準に揃えるSurveyReview（arXiv:2608.07641）
+・基盤モデルを認知科学で使う条件（arXiv:2608.07812）
+・アシスタント人格の内部表現（arXiv:2608.07852）
+・複数問題へのテスト時計算配分（arXiv:2608.07968）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.07525 — マルチモーダル幻覚を進化的に暴くSAMF
+https://arxiv.org/abs/2608.07527 — 長文書理解を状態が変わる環境として設計するDocAtlas
+https://arxiv.org/abs/2608.07531 — 検索エージェントに証拠への忠実さを教えるSearch-G1
+https://arxiv.org/abs/2608.07594 — 解釈可能性を学習に組み込む言語モデル
+https://arxiv.org/abs/2608.07641 — サーベイ査読者を人間基準に揃えるSurveyReview
+https://arxiv.org/abs/2608.07812 — 基盤モデルを認知科学で使う条件
+https://arxiv.org/abs/2608.07852 — アシスタント人格の内部表現
+https://arxiv.org/abs/2608.07968 — 複数問題へのテスト時計算配分
+
+#生成AI #ChatGPT #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-12-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9133941" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-12</guid>
+      <pubDate>Wed, 12 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>モデルは「知っている」のに使えない？生成AI最新論文8本【2026/08/11】</title>
       <description>2026年8月11日のarXiv生成AI論文解説。専門家混合モデルの監督配分TEXAS、音声モデルの読み出し診断、感情推論NTDH、失語症型エラーからの介入復元、AI人格の変化、多言語理解格差、端末内匿名化GRASP、球面補間による拡散言語モデル改善を、手法・結果・限界まで解説します。
 
