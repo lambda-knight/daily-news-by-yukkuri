@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子制御に高周波予算を入れる？重要量子論文8本【2026/08/13】</title>
+      <description>超伝導量子ビットの周波数多重制御をRF回路の制約まで含めてコンパイルする研究、スライディング窓量子誤り訂正の非平衡動力学、量子メモリで長基線干渉計の光輸送をなくす提案など、新着8本を大学院セミナー水準で解説します。
+
+▼ 論文
+・RF予算付き超伝導量子ビット制御コンパイラ
+・熱で計算する機械の情報熱力学的コスト
+・触媒モードによる量子電池の安定化
+・雑音下の三次元フォトニック量子乱数
+・積符号を越える結合層量子符号
+・相関ポンプ超放射レーザーの位相図
+・量子メモリ長基線光干渉計
+・スライディング窓量子誤り訂正
+
+▼ arXiv
+https://arxiv.org/abs/2608.10013
+https://arxiv.org/abs/2608.10027
+https://arxiv.org/abs/2608.10032
+https://arxiv.org/abs/2608.10053
+https://arxiv.org/abs/2608.10069
+https://arxiv.org/abs/2608.10075
+https://arxiv.org/abs/2608.10078
+https://arxiv.org/abs/2608.10081
+
+#量子コンピュータ #量子誤り訂正 #超伝導量子ビット #量子情報 #量子メモリ #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-13-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8644223" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-13</guid>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子回路はどこで賢くなる？重要論文10本を解説【2026/08/12】</title>
       <description>QLDPC符号の巻き戻し復号、ランダム化積公式、強化学習が発見するQAOA回路、量子強化発振器など、量子コンピュータ・量子情報の最新10論文を比較条件と限界まで解説します。
 
