@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Claude透かしとTwitch学習データ、拒否権は誰にある？ 2026/08/13</title>
+      <description>Claudeの出力識別とTwitch配信のAI学習利用から、AI時代の「同意」と透明性を整理します。室温で動くダイヤモンド量子コンピューターの実力と未検証点も解説します。
+
+▼ 今日のトピック
+・Claudeの透かしと職場・授業のAI利用ルール
+・Twitch配信をAmazonが既定でAI学習へ利用
+・Hinton、Li、Ngが公開型AIの安全性を議論
+・LovableなどAI企業への巨額投資
+・Saxon Qの室温ダイヤモンド量子コンピューター
+
+▼ 参考記事・ソース
+・TechCrunch「Some Claude users are mad that Anthropic’s new watermarks will catch them cheating」 https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/
+・TechCrunch「Amazon will train on Twitch streamers’ content by default」 https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/
+・TechCrunch「As AI safety concerns mount, three pioneers make the case for staying open」 https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/
+・TechCrunch「Lovable confirms new $13.3B valuation, raises another $400M」 https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/
+・Live Science「Engineers build world's first portable diamond-powered quantum computer」 https://www.livescience.com/technology/quantum/scientists-built-a-room-temperature-quantum-computer-with-diamond-based-qubits
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-13-ai/ai_yukkuri.m4a" length="4761163" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-13</guid>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Geminiが10億人到達／OpenAIロビー拠点占拠13人逮捕 今週のAI業界まとめ 2026/08/12</title>
       <description>Google史上最速でGeminiが月間利用者10億人に到達。OpenAI古参COOの退任、xAI共同創業者の新会社への1600億円調達、Anthropicモデルがリーマン予想へ前進した話に加え、学生によるOpenAIロビー拠点占拠と逮捕、量子コンピュータIonQの増収287%を解説します。
 
