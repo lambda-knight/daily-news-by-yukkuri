@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>思考連鎖はいつ逆効果？生成AIの失敗条件8本【2026/08/13】</title>
+      <description>最新arXiv論文8本を、研究課題・差分・手法・評価・結果・限界・再現性に分けて解説します。
+
+▼ 今日の論文ラインナップ
+・LLM Agents Factory（arXiv:2608.09934）
+・多言語の量子化税（arXiv:2608.09941）
+・思考連鎖と直列深度（arXiv:2608.09942）
+・制約付きデコード補正（arXiv:2608.10137）
+・意味反転ゲート監査（arXiv:2608.10216）
+・軸外概念計算（arXiv:2608.10251）
+・医療対話の拒否崩壊（arXiv:2608.10258）
+・長文脈拡張の建築依存（arXiv:2608.10296）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.09934
+https://arxiv.org/abs/2608.09941
+https://arxiv.org/abs/2608.09942
+https://arxiv.org/abs/2608.10137
+https://arxiv.org/abs/2608.10216
+https://arxiv.org/abs/2608.10251
+https://arxiv.org/abs/2608.10258
+https://arxiv.org/abs/2608.10296
+
+#生成AI #LLM #AI #arxiv #論文解説 #機械学習 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-13-arxiv-ai/arxiv_ai_yukkuri.m4a" length="11817706" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-13</guid>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>幻覚検出と計算配分の弱点を追う生成AI論文8本【2026/08/12】</title>
       <description>幻覚の動的評価、状態を更新する長文書エージェント、検索報酬、解釈可能性、人格表現まで、生成AI研究の新着8本を解説します。
 
