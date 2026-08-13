@@ -26,6 +26,25 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Windowsゼロデイ悪用中、今すぐ確認する6対策【2026/08/13】</title>
+      <description>LazarusのWindowsゼロデイ、vCenter攻撃、悪性LiteLLM、Androidカード中継、偽VPN拡張737本、不正USBを技術条件と具体対策まで解説します。
+
+▼ 参考ソース
+https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/
+https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html
+https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html
+https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/
+https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/
+https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/
+
+#サイバーセキュリティ #脆弱性 #Windows #マルウェア #情報セキュリティ #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-13-security/security_yukkuri.m4a" length="6103209" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-13</guid>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>パスキーも狙われる？Steam配送漏洩と新型ランサムウェア【2026/08/11】</title>
       <description>新型ランサムウェアStormEncryptor、北朝鮮系KimsukyのオフラインAI、パスキーを巡る3研究を解説。偽VS Code拡張機能、SonicWall悪用、Steam配送委託先の情報漏洩について、利用者と管理者が取るべき対策を整理します。
 
