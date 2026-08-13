@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>GPT-5.6が14倍速に、AIエージェント同士は縄張り争い 2026/08/14</title>
+      <description>OpenAIの高速モード「Ultrafast」とAnthropicが観察した複数AIエージェントの衝突、Apple×パブリッシャーの使用料交渉、IBM×OpenAI提携、Databricksの大型調達、中国の光量子16量子ビットチップまで、今日の生成AI・量子ニュースをまとめて解説します。
+
+▼ 今日のトピック
+・OpenAI「Ultrafast」でGPT-5.6 Solが14倍速に
+・Anthropicのマルチエージェント実験、AI同士が縄張り争い
+・AppleがSiri向けニュース使用料をパブリッシャーと交渉
+・IBMがOpenAIと提携、数万人のコンサルタントを認定
+・Databricksが50億ドル調達、評価額1900億ドルへ
+・中国の光量子チップが16量子ビットを実証
+
+▼ 参考記事・ソース
+・TechCrunch「OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed」 https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/
+・TechCrunch「Anthropic set AI agents loose on the same task. They started a turf war.」 https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/
+・TechCrunch「Apple in talks to pay publishers to provide Siri with current news: report」 https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/
+・TechCrunch「IBM partners with OpenAI to bolster enterprise AI push」 https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/
+・TechCrunch「Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.」 https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/
+・Quantum Computing Report「Hefei Startup and USTC Demonstrate 16-Qubit On-Chip Photonic MBQC Architecture」 https://quantumcomputingreport.com/hefei-startup-and-ustc-demonstrate-16-qubit-on-chip-photonic-mbqc-architecture/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Databricks #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-14-ai/ai_yukkuri.m4a" length="6093000" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-14</guid>
+      <pubDate>Fri, 14 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Claude透かしとTwitch学習データ、拒否権は誰にある？ 2026/08/13</title>
       <description>Claudeの出力識別とTwitch配信のAI学習利用から、AI時代の「同意」と透明性を整理します。室温で動くダイヤモンド量子コンピューターの実力と未検証点も解説します。
 
