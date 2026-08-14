@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>QAOAは最適解の数え上げ級に難しい？量子論文10本【2026/08/14】</title>
+      <description>最新の量子コンピュータ論文10本を、研究課題・手法・評価・結果・限界・再現性に分けて専門的に解説します。
+
+▼ 今日の論文ラインナップ
+・トラッピングセットによるエラー床予測（arXiv:2608.11516）
+・連続測定によるボソニック論理ゲート（arXiv:2608.11369）
+・QAOA期待値評価の#P困難性（arXiv:2608.11385）
+・検出器変動に頑健な量子機械学習（arXiv:2608.11330）
+・腫瘍学データの量子・古典比較（arXiv:2608.11373）
+・生成学習による量子測定設計FlowMeas（arXiv:2608.11396）
+・量子中継器のスワッピング容量（arXiv:2608.11429）
+・多者間レインズ・エンタングルメント（arXiv:2608.11406）
+・多体量子カオスの局所幾何応答（arXiv:2608.11309）
+・時間変化チャネルのテレポーテーション（arXiv:2608.11314）
+
+▼ 参考論文
+https://arxiv.org/abs/2608.11516
+https://arxiv.org/abs/2608.11369
+https://arxiv.org/abs/2608.11385
+https://arxiv.org/abs/2608.11330
+https://arxiv.org/abs/2608.11373
+https://arxiv.org/abs/2608.11396
+https://arxiv.org/abs/2608.11429
+https://arxiv.org/abs/2608.11406
+https://arxiv.org/abs/2608.11309
+https://arxiv.org/abs/2608.11314
+
+#量子コンピュータ #量子情報 #QAOA #量子誤り訂正 #量子機械学習 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-14-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9125124" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-14</guid>
+      <pubDate>Fri, 14 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子制御に高周波予算を入れる？重要量子論文8本【2026/08/13】</title>
       <description>超伝導量子ビットの周波数多重制御をRF回路の制約まで含めてコンパイルする研究、スライディング窓量子誤り訂正の非平衡動力学、量子メモリで長基線干渉計の光輸送をなくす提案など、新着8本を大学院セミナー水準で解説します。
 
