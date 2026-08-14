@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>透かし任意化と裁判所への不正指示、AI従業員1,000人超の署名 2026/08/15</title>
+      <description>GoogleがAI生成物の可視透かしを任意化する一方、コネティカット州の裁判所ではAIへの不正指示を隠した書面が発覚。OpenAI・Google・Anthropicの従業員1,000人超が開発ペースの減速を求める書簡に署名し、中国の光量子コンピュータ企業TuringQはA株上場準備を開始しました。今日の生成AI・量子ニュースをまとめて解説します。
+
+▼ 今日のトピック
+・Googleが生成コンテンツの可視透かしを任意化
+・コネティカット州の裁判でAIへの不正指示(プロンプトインジェクション)発覚
+・AI大手3社の従業員1,000人超が開発ペース減速を求める書簡に署名
+・中国の光量子コンピュータ企業TuringQがA株上場準備を開始
+・Writer社がコスト抑制を狙った新AIモデルを発表
+
+▼ 参考記事・ソース
+・TechCrunch「Google will now allow users to remove visible watermark from its AI generations」 https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/
+・Ars Technica「Suspecting court of using AI, man injected prompts in filings to try to win case」 https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/
+・USRESIST NEWS「AI Protests Grow From Within (Technology Policy Brief #169)」 https://www.usresistnews.org/2026/08/13/ai-protests-grow-from-within-technology-policy-brief-169/
+・The Quantum Insider「TuringQ Joins China's IPO Pipeline as Quantum Firms Push Toward Commercialization」 https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/
+・TechCrunch「Writer introduces new AI model and upgraded harness to contain token costs」 https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #量子コンピュータ #AI規制 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-15-ai/ai_yukkuri.m4a" length="5004024" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-15</guid>
+      <pubDate>Sat, 15 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>GPT-5.6が14倍速に、AIエージェント同士は縄張り争い 2026/08/14</title>
       <description>OpenAIの高速モード「Ultrafast」とAnthropicが観察した複数AIエージェントの衝突、Apple×パブリッシャーの使用料交渉、IBM×OpenAI提携、Databricksの大型調達、中国の光量子16量子ビットチップまで、今日の生成AI・量子ニュースをまとめて解説します。
 
