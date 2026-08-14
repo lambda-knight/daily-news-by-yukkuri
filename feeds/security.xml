@@ -26,6 +26,22 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>160万件漏洩、SAPは修正3日で悪用【セキュリティ 2026/08/15】</title>
+      <description>RingCentralの160万アカウント漏洩、Shellから89GB窃取という主張、SAP Commerce Cloud、macOS遠隔操作、Metabase SQL注入、Commerzbank不正送金、Appleのスパイウェア通知を具体策まで解説します。
+
+▼ 今日の対策
+・委託先を含む認証情報の失効と多要素認証
+・SAP、macOS、Metabaseの修正版適用
+・Apple Threat Notification受信時の専門支援
+
+#セキュリティ #脆弱性 #情報漏洩 #マルウェア #サイバー攻撃 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-15-security/security_yukkuri.m4a" length="6384207" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-15</guid>
+      <pubDate>Sat, 15 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Snowflake恐喝犯が司法取引、AIの推論が盗まれる新脆弱性も【2026/08/14】</title>
       <description>Snowflake恐喝事件の司法取引、SharePoint認証バイパス実悪用、OpenAI・Anthropic・GoogleのAI推論漏えい、Trezorの委託先経由漏洩、子供用スマートウォッチ乗っ取り、ホワイトハウスのハックバック新方針を解説します。
 
