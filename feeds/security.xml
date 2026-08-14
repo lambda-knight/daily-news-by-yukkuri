@@ -26,6 +26,25 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Snowflake恐喝犯が司法取引、AIの推論が盗まれる新脆弱性も【2026/08/14】</title>
+      <description>Snowflake恐喝事件の司法取引、SharePoint認証バイパス実悪用、OpenAI・Anthropic・GoogleのAI推論漏えい、Trezorの委託先経由漏洩、子供用スマートウォッチ乗っ取り、ホワイトハウスのハックバック新方針を解説します。
+
+▼ 参考ソース
+https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/
+https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html
+https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html
+https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/
+https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/
+https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/
+
+#サイバーセキュリティ #脆弱性 #AIセキュリティ #情報漏洩 #情報セキュリティ #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-14-security/security_yukkuri.m4a" length="5091865" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-14</guid>
+      <pubDate>Fri, 14 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Windowsゼロデイ悪用中、今すぐ確認する6対策【2026/08/13】</title>
       <description>LazarusのWindowsゼロデイ、vCenter攻撃、悪性LiteLLM、Androidカード中継、偽VPN拡張737本、不正USBを技術条件と具体対策まで解説します。
 
