@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>研究者が今週驚いた生成AI論文【長期指示の保持とAI監査ほか8本 2026/08/14】</title>
+      <description>実行検証付き取引エージェント、反復深度の後付け、文脈圧縮で失われる長期指示、アンラーニング監査など、生成AI研究8本を比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・実行検証付き取引エージェント評価（arXiv:2608.11232）
+・事前学習モデルへの反復深度後付け（arXiv:2608.11233）
+・文脈圧縮と長期制約の損失（arXiv:2608.11242）
+・拡散言語モデルによる可逆圧縮（arXiv:2608.11249）
+・グロス不要の手話表現学習（arXiv:2608.11332）
+・プログラム技能学習SpeedRunner（arXiv:2608.11338）
+・アンラーニング後の知識回復監査（arXiv:2608.11408）
+・集団アラインメントと迎合（arXiv:2608.11528）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.11232
+https://arxiv.org/abs/2608.11233
+https://arxiv.org/abs/2608.11242
+https://arxiv.org/abs/2608.11249
+https://arxiv.org/abs/2608.11332
+https://arxiv.org/abs/2608.11338
+https://arxiv.org/abs/2608.11408
+https://arxiv.org/abs/2608.11528
+
+#生成AI #LLM #AI #arxiv #論文解説 #ゆっくり解説 #ずんだもん #機械学習</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-14-arxiv-ai/arxiv_ai_yukkuri.m4a" length="12482129" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-14</guid>
+      <pubDate>Fri, 14 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>思考連鎖はいつ逆効果？生成AIの失敗条件8本【2026/08/13】</title>
       <description>最新arXiv論文8本を、研究課題・差分・手法・評価・結果・限界・再現性に分けて解説します。
 
