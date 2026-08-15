@@ -26,6 +26,23 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv量子コンピュータ論文解説・量子エンコーディング特集（2026年8月15日）</title>
+      <description>arXiv量子コンピュータ論文解説・量子エンコーディング特集（2026年8月15日）
+
+キーワード: 振幅符号化 / 角度符号化 / 基底符号化 / 量子特徴写像 / ブロック符号化 / ハミルトニアン符号化 / 状態準備
+
+2026年8月15日のarXiv量子コンピュータ論文解説・量子エンコーディング特集では、7件を取り上げる。数値、計算資源、適用条件をそろえ、結果の強さと限界を具体的に読む。
+
+論文1: 振幅符号化―量子ビット効率とロード費用の交換
+
+振幅符号化は正規化したN次元ベクトルを、n=ceil(log2 N)量子ビットの2のn乗個の振幅へ載せる。量子ビット数は最小級だが、任意ベクトルの状態準備は一般にO(N)個規模の回転や古典前処理を要し、入力を毎サンプル読み込む学習では圧縮の利得を相殺する。qRAMを仮定すれば対数時間ロードを語れるが、誤り耐性、配線、更新費用を含む装置は無料ではない。振幅は測定一回で全成分を取り出せず、期待値を精度epsilonで推定するショット数も典型的にepsilonの逆二乗へ増える。したがって大規模線形代数で有望なのは、入力が量子過程から既に状態</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-15-arxiv-qc/arxiv_qc_yukkuri.m4a" length="12476214" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-15</guid>
+      <pubDate>Sat, 15 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>QAOAは最適解の数え上げ級に難しい？量子論文10本【2026/08/14】</title>
       <description>最新の量子コンピュータ論文10本を、研究課題・手法・評価・結果・限界・再現性に分けて専門的に解説します。
 
