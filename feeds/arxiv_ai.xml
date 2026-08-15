@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>知識蒸留は本当に能力を移す？最新8論文を徹底比較 2026/08/15</title>
+      <description>オンポリシー蒸留、自己蒸留、推論時能力移転、音声モデル圧縮を、数値と比較条件から解説します。
+
+▼ 今日の論文ラインナップ
+・オンポリシー蒸留は能力境界を広げるのか（arXiv:2608.11829）
+・REOPD―信頼できるトークンだけ外挿する（arXiv:2608.11698）
+・HPSE―新知識を使える形へ自己蒸留する（arXiv:2608.11660）
+・LoongReflect―大域教師から反省方策を蒸留する（arXiv:2608.11967）
+・推論時ハーネスによる訓練なし能力移転（arXiv:2608.12307）
+・8層から1層へ進行的に蒸留する音声強調（arXiv:2608.12099）
+・小型言語モデルの信頼性をどう継承するか（arXiv:2608.11981）
+・翻訳では蒸留が強化学習の前線を越えなかった（arXiv:2608.10812）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.11829 — オンポリシー蒸留は能力境界を広げるのか
+https://arxiv.org/abs/2608.11698 — REOPD―信頼できるトークンだけ外挿する
+https://arxiv.org/abs/2608.11660 — HPSE―新知識を使える形へ自己蒸留する
+https://arxiv.org/abs/2608.11967 — LoongReflect―大域教師から反省方策を蒸留する
+https://arxiv.org/abs/2608.12307 — 推論時ハーネスによる訓練なし能力移転
+https://arxiv.org/abs/2608.12099 — 8層から1層へ進行的に蒸留する音声強調
+https://arxiv.org/abs/2608.11981 — 小型言語モデルの信頼性をどう継承するか
+https://arxiv.org/abs/2608.10812 — 翻訳では蒸留が強化学習の前線を越えなかった
+
+#生成AI #LLM #知識蒸留 #モデル圧縮 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-15-arxiv-ai/arxiv_ai_yukkuri.m4a" length="13414257" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-15</guid>
+      <pubDate>Sat, 15 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>研究者が今週驚いた生成AI論文【長期指示の保持とAI監査ほか8本 2026/08/14】</title>
       <description>実行検証付き取引エージェント、反復深度の後付け、文脈圧縮で失われる長期指示、アンラーニング監査など、生成AI研究8本を比較条件と限界まで解説します。
 
