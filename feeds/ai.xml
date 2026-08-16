@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Grok性的画像被害の提訴、Anthropic透かし詳細、SpaceXがCursor買収完了 2026/08/16</title>
+      <description>xAIのGrokを使った性的画像生成の実害を女性が証言し集団訴訟に参加、Anthropicは新しい透かし技術の仕組みを詳しく開示しました。SpaceXはコーディングAI「Cursor」の買収を完了し、量子コンピュータ企業QuantinuumはOracle Cloudとの複数年契約を発表。データセンター向け天然ガス価格の3倍高騰予測も合わせて解説します。
+
+▼ 今日のトピック
+・Grokによる性的画像生成、テネシー州の女性が義父の加害を証言し集団訴訟に参加
+・Anthropicが透かし技術の仕組みを開示、コードより文章で効きやすい理由
+・SpaceXがコーディングAI「Cursor」買収を完了
+・Quantinuum、Oracle CloudへHelios量子コンピュータを統合
+・AIデータセンター向け天然ガス発電、価格3倍予測でコスト構造が揺らぐ
+
+▼ 参考記事・ソース
+・TechCrunch「Woman claims her stepfather used Grok to transform childhood photo into explicit imagery」 https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/
+・TechCrunch「Anthropic shares more details about how Claude's new watermarks will work」 https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/
+・TechCrunch「SpaceX officially closes its Cursor acquisition」 https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/
+・Quantinuum「Quantinuum and Oracle Partner to Accelerate Hybrid Quantum Compute Adoption on Oracle Cloud Infrastructure」 https://www.quantinuum.com/press-releases/quantinuum-and-oracle-partner-to-accelerate-hybrid-quantum-compute-adoption-on-oracle-cloud-infrastructure
+・TechCrunch「Hyperscalers might regret embracing natural gas if new forecast proves correct」 https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #量子コンピュータ #AI倫理 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-16-ai/ai_yukkuri.m4a" length="4261396" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-16</guid>
+      <pubDate>Sun, 16 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>透かし任意化と裁判所への不正指示、AI従業員1,000人超の署名 2026/08/15</title>
       <description>GoogleがAI生成物の可視透かしを任意化する一方、コネティカット州の裁判所ではAIへの不正指示を隠した書面が発覚。OpenAI・Google・Anthropicの従業員1,000人超が開発ペースの減速を求める書簡に署名し、中国の光量子コンピュータ企業TuringQはA株上場準備を開始しました。今日の生成AI・量子ニュースをまとめて解説します。
 
