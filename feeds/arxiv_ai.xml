@@ -26,6 +26,19 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>日本語なら核攻撃を勧めにくい？生成AIの安全性・記憶10論文【2026/08/16】</title>
+      <description>2026年8月16日の生成AI最新論文10本を解説。18モデルが最大圧力下で約3回に1回、研究公正性の重要判断を誤ったIntegrityBench、人間とLLMで倫理判断の理由がずれる500項目評価、同じ核攻撃シナリオでも日本語で推奨率が下がる多言語実験を取り上げます。
+
+後半はプレフィルとデコードを分けるデュアルフロー・トランスフォーマー、PAC-Bayes正則化を使うメタLoRA、アストラゼネカの社内研究支援エージェント、複数指示で起きる制約充足の相転移、MindMemOS、ε-MemEvo、因果寄与スコアCASを解説します。
+
+#生成AI #LLM #AI安全性 #AIエージェント #LoRA #arxiv #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-16-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8789148" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-16</guid>
+      <pubDate>Sun, 16 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>知識蒸留は本当に能力を移す？最新8論文を徹底比較 2026/08/15</title>
       <description>オンポリシー蒸留、自己蒸留、推論時能力移転、音声モデル圧縮を、数値と比較条件から解説します。
 
