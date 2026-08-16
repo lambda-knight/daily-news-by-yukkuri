@@ -26,6 +26,28 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>NetScaler認証突破とCVSS 10.0、家庭ルーターも踏み台に【2026/08/16】</title>
+      <description>2026年8月16日のセキュリティニュースを、技術者と一般利用者の両方に向けて解説します。
+
+▼ 主なトピック
+・NetScaler ADC/GatewayのCVE-2026-8452：SAML構成で認証なしコード実行の恐れ
+・Adobe ColdFusionなど：CVSS 10.0を含む重大欠陥3件
+・Linuxボットネット「Evooo1Bot」：家庭用ルーターをSOCKS5中継ノード化
+・硬貨サイズの装置と60秒未満の物理アクセスで旅客機へ影響する研究
+・AIとの20回未満のやり取りで発見されたZoomの修正済みバグ
+・米税関国境警備局職員による内部データベースの私的濫用疑惑
+・広告追跡業者を可視化する無料サービス「DecryptAds」
+
+境界機器はパッチ適用とSAML構成の棚卸し、家庭ではルーター管理画面の外部公開停止、初期パスワード変更、ファームウェア更新が具体策です。
+
+#セキュリティ #脆弱性 #NetScaler #ColdFusion #ボットネット #情報漏洩</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-16-security/security_yukkuri.m4a" length="5242836" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-16</guid>
+      <pubDate>Sun, 16 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>160万件漏洩、SAPは修正3日で悪用【セキュリティ 2026/08/15】</title>
       <description>RingCentralの160万アカウント漏洩、Shellから89GB窃取という主張、SAP Commerce Cloud、macOS遠隔操作、Metabase SQL注入、Commerzbank不正送金、Appleのスパイウェア通知を具体策まで解説します。
 
