@@ -26,6 +26,32 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Anthropic CEOの信頼危機発言、Zuckerberg AI構想への逆風、Flock監視規制強化 2026/08/17</title>
+      <description>Anthropic CEOダリオ・アモデイ氏がAIへの反発を「信頼の危機」と説明し、Meta CEOザッカーバーグ氏の「AIは万人のため」構想は過去の約束との食い違いから逆風を受けています。警察のナンバープレート監視AI企業Flockは46件の濫用事例を受けて規制を強化。GPU推論を高速化するフランスのKogと、量子コンピュータの光学的な壁を破ったPasqalの技術実証も合わせて解説します。
+
+▼ 今日のトピック
+・Anthropic CEOアモデイ氏、AI批判は「信頼の危機」と反論
+・ザッカーバーグ氏の「AIは万人のため」構想、Glimmerも支持されない理由
+・警察のナンバープレート監視AI、Flockが規制強化——46件の濫用受け
+・GPU推論を高速化するフランス発Kog、DEFCON出身CEOの挑戦
+・Pasqal、光子チップで中性原子を捕捉——量子コンピュータ拡張の壁を打破
+
+▼ 参考記事・ソース
+・TechCrunch「Anthropic CEO says AI backlash is 'fundamentally a crisis of trust'」 https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/
+・TechCrunch「Why people aren't buying Mark Zuckerberg's AI future」 https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/
+・TechCrunch「Does Mark Zuckerberg really believe AI is 'for everyone'?」 https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/
+・MIT Technology Review「Flock is tightening its rules in response to a growing surveillance backlash」 https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/
+・TechCrunch「Kog is going deeper to squeeze more inference out of GPUs」 https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/
+・The Quantum Insider「Pasqal Demonstrates Photonic Chip-Based Control for Neutral-Atom Quantum Computers」 https://thequantuminsider.com/2026/08/10/pasqal-photonic-chip-control-neutral-atom-quantum-computers/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #量子コンピュータ #AI倫理 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-17-ai/ai_yukkuri.m4a" length="5830332" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-17</guid>
+      <pubDate>Mon, 17 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Grok性的画像被害の提訴、Anthropic透かし詳細、SpaceXがCursor買収完了 2026/08/16</title>
       <description>xAIのGrokを使った性的画像生成の実害を女性が証言し集団訴訟に参加、Anthropicは新しい透かし技術の仕組みを詳しく開示しました。SpaceXはコーディングAI「Cursor」の買収を完了し、量子コンピュータ企業QuantinuumはOracle Cloudとの複数年契約を発表。データセンター向け天然ガス価格の3倍高騰予測も合わせて解説します。
 
