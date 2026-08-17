@@ -26,6 +26,28 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>北朝鮮系ラザルスのゼロデイ攻撃、AI機材強盗まで【2026/08/17】</title>
+      <description>2026年8月17日のセキュリティニュースを、技術者と一般利用者の両方に向けて解説します。
+
+▼ 主なトピック
+・北朝鮮系ハッカー「Lazarus」：Windowsゼロデイで防衛・航空宇宙企業にバックドア
+・VMware vCenterのCVE-2026-59310：パッチ公開直後から実悪用、持続的アクセスの手口
+・マイクロソフト2026年8月月例更新：398件の脆弱性を修正、1件は実悪用済み
+・AI開発ツール「LiteLLM」の不正パッケージ：PyPI公開40分で2,100超組織に影響のおそれ
+・Chrome向け無料VPN拡張737件：正規サービスへのなりすましも確認
+・暗号化メッセージアプリ「Threema」：大規模DDoS攻撃で通信障害
+・AI用サーバー機材を狙う貨物強盗の暴力化（カリフォルニア州）
+
+企業はvCenterとマイクロソフト製品のパッチ適用状況を優先確認し、個人は無料VPN拡張機能の開発元確認とWindows Updateの即時適用が具体策です。
+
+#セキュリティ #脆弱性 #Lazarus #VMware #マイクロソフト #LiteLLM</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-17-security/security_yukkuri.m4a" length="6304891" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-17</guid>
+      <pubDate>Mon, 17 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>NetScaler認証突破とCVSS 10.0、家庭ルーターも踏み台に【2026/08/16】</title>
       <description>2026年8月16日のセキュリティニュースを、技術者と一般利用者の両方に向けて解説します。
 
