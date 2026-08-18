@@ -26,6 +26,28 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>ポケモンセンター漏洩とSnowflake恐喝犯有罪答弁【2026/08/18】</title>
+      <description>2026年8月18日のセキュリティニュースを、技術者と一般利用者の両方に向けて解説します。
+
+▼ 主なトピック
+・ポケモンセンター：委託先物流企業CEVA Logistics経由で英独顧客情報が流出、一部注文キャンセルも
+・Snowflake恐喝事件：カナダ人男性が有罪を認める、AT&amp;T顧客1億人超のデータ窃取も認定
+・フランス税務当局（DGFiP）：67万8千人分のデータが流出
+・GitLab：CVE-2026-19478（CVSS9.4）、未認証でも公開プロジェクトを削除可能な致命的脆弱性
+・マイクロソフト：Defenderのゼロデイ「ShieldBreak」（CVE-2026-69414）への対応継続中
+・Unisocモデム：VoLTEビデオ通話一本でAndroidカーネルを完全乗っ取り、修正未定
+・子ども向けスマートウォッチ：WIRED記者が位置追跡・盗聴の実験対象に
+
+委託先や部品を経由した漏洩・攻撃が目立つ一日でした。企業はGitLabとDefenderのパッチ適用状況を優先確認し、家庭ではGPS内蔵の子ども向け見守り製品の選定に注意が必要です。
+
+#セキュリティ #脆弱性 #ポケモンセンター #Snowflake #GitLab #Unisoc</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-18-security/security_yukkuri.m4a" length="5988817" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-18</guid>
+      <pubDate>Tue, 18 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>北朝鮮系ラザルスのゼロデイ攻撃、AI機材強盗まで【2026/08/17】</title>
       <description>2026年8月17日のセキュリティニュースを、技術者と一般利用者の両方に向けて解説します。
 
