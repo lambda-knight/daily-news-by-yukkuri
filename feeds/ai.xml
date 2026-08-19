@@ -26,6 +26,25 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>OpenAI監視強化とAnthropic650億ドル、量子化学実証【2026/08/19】</title>
+      <description>生成AIの成長と安全対策を、6本の具体的ニュースで比較します。
+
+▼ 今日のトピック
+・OpenAIの侵害後監視とティーン向け安全機能
+・Anthropicの年換算収益650億ドル
+・Copilot脆弱性、Etched、QC WareとIBMの量子実証
+
+▼ 参考記事・ソース
+原稿末尾の参考ソース一覧をご覧ください。
+
+#生成AI #ChatGPT #AI #量子コンピュータ #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-19-ai/ai_yukkuri.m4a" length="5473652" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Amazon稀少本破棄疑惑、Stripe70億ドルOpenRouter買収、Quantinuum量子提携 2026/08/18</title>
       <description>Amazonが稀少本をAI訓練のため破棄している疑いを404 Mediaが追跡装置で確認。決済大手StripeはAIゲートウェイ企業OpenRouterを70億ドル超で買収し、NvidiaはSoftBank系データセンターに15億ドルを投資してOpenAIプロジェクトの計算基盤を独占します。AIチップ企業GroqはネオクラウドへピボットしQuantinuumはOracleと量子コンピュータの提携を発表。学習データ・資金・計算インフラという「土台」の動きをまとめて解説します。
 
@@ -44,7 +63,7 @@
 ・Quantinuum「Quantinuum and Oracle Partner to Accelerate Hybrid Quantum Compute Adoption on Oracle Cloud Infrastructure」 https://www.quantinuum.com/press-releases/quantinuum-and-oracle-partner-to-accelerate-hybrid-quantum-compute-adoption-on-oracle-cloud-infrastructure
 
 #生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #量子コンピュータ #AI倫理 #AIニュース</description>
-      <enclosure url="https://archive.org/download/news-pickup-2026-08-18-ai/ai_yukkuri.m4a" length="5271100" type="audio/mp4"/>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-18-ai/ai_yukkuri.m4a" length="5271120" type="audio/mp4"/>
       <guid isPermaLink="false">ai-2026-08-18</guid>
       <pubDate>Tue, 18 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:author>daily-news-by-yukkuri</itunes:author>
