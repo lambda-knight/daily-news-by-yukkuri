@@ -26,6 +26,78 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>研究者が読む生成AI新着論文10本【トークン効率と潜在推論 2026/08/19】</title>
+      <description>生成AI論文解説の新着10本を、手法・比較条件・数値結果・限界まで研究者向けに解説します。
+
+▼ 今日の論文ラインナップ
+・言語サーバーはコーディングエージェントのトークンを節約するか（arxiv:2608.13568）
+・潜在空間で考え、言葉で説明する—自己説明可能な潜在推論（arxiv:2608.13570）
+・トークンは平等ではない—インフレーションを考慮したエージェントLLMのルーティング（arxiv:2608.13571）
+・ブロック単位の因果記憶で長文脈を扱うトランスフォーマー（arxiv:2608.13578）
+・ジャイス2—アラビア語中心のオープン大規模言語モデル（arxiv:2608.13580）
+・イテルコンプ—マルチホップ質問応答のための推論考慮型プロンプト圧縮（arxiv:2608.13588）
+・英語を超えたGRPO—多言語設定における大規模実証研究（arxiv:2608.13698）
+・クレアフィン—金融QAにおける主張単位検証と適応的討論のマルチエージェント基盤（arxiv:2608.13706）
+・ティーチメイトジーピーティー—理科カリキュラムからの評価問題自動生成（arxiv:2608.13708）
+・増幅されても予測力があるとは限らない—思考モデルの推論挙動（arxiv:2608.13760）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.13568 — 言語サーバーはコーディングエージェントのトークンを節約するか
+https://arxiv.org/abs/2608.13570 — 潜在空間で考え、言葉で説明する—自己説明可能な潜在推論
+https://arxiv.org/abs/2608.13571 — トークンは平等ではない—インフレーションを考慮したエージェントLLMのルーティング
+https://arxiv.org/abs/2608.13578 — ブロック単位の因果記憶で長文脈を扱うトランスフォーマー
+https://arxiv.org/abs/2608.13580 — ジャイス2—アラビア語中心のオープン大規模言語モデル
+https://arxiv.org/abs/2608.13588 — イテルコンプ—マルチホップ質問応答のための推論考慮型プロンプト圧縮
+https://arxiv.org/abs/2608.13698 — 英語を超えたGRPO—多言語設定における大規模実証研究
+https://arxiv.org/abs/2608.13706 — クレアフィン—金融QAにおける主張単位検証と適応的討論のマルチエージェント基盤
+https://arxiv.org/abs/2608.13708 — ティーチメイトジーピーティー—理科カリキュラムからの評価問題自動生成
+https://arxiv.org/abs/2608.13760 — 増幅されても予測力があるとは限らない—思考モデルの推論挙動
+
+#生成AI #LLM #AI #機械学習 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-19-arxiv-ai/arxiv_ai_yukkuri.m4a" length="14493787" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>思考モデルの「それらしさ」は正解率に効くのか？生成AI論文10本【2026/08/18】</title>
+      <description>2026年8月18日の生成AI最新論文10本を解説。推論トレースで増幅される振る舞いと実際に正解率へ効く振る舞いのずれを1万5282件のトレースで測ったBehavioral Lift研究、潜在推論を自分自身で言語化するSELR、長文脈を効率化するBCMT、アラビア語中心の700億パラメータオープンLLM「Jais 2」を取り上げます。
+
+中盤はエージェントの再試行コストを定量化するトークンインフレーション研究とInflationAgent、コーディングエージェントにLanguage Serverがトークンを節約させるかを検証した測定研究、多段階質問応答のプロンプト圧縮IterCOMPを解説。後半は英語以外の言語でのGRPO強化学習の大規模研究、金融QAの幻覚対策CLAIR-Fin、文章から時系列データを生成するGALAを扱います。
+
+▼ 今日の論文ラインナップ
+・増幅される振る舞いと正解率に効く振る舞いは別物だった（arxiv:2608.13760）
+・潜在空間で考え、言葉で説明するSELR（arxiv:2608.13570）
+・密な注意機構を使わない長文脈設計BCMT（arxiv:2608.13578）
+・アラビア語に特化した700億パラメータのオープンLLM「Jais 2」（arxiv:2608.13580）
+・再試行のコストを見積もる「トークンインフレーション」（arxiv:2608.13571）
+・コーディングエージェントにLanguage Serverはトークンを節約させるか（arxiv:2608.13568）
+・多段階質問応答のためのプロンプト圧縮IterCOMP（arxiv:2608.13588）
+・英語以外の言語でGRPOはどこまで効くか（arxiv:2608.13698）
+・主張単位で検証する金融QAのマルチエージェント枠組みCLAIR-Fin（arxiv:2608.13706）
+・自然言語からの時系列生成を文と信号で正しく対応付けるGALA（arxiv:2608.13741）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.13760 — 増幅される振る舞いと正解率に効く振る舞いは別物だった
+https://arxiv.org/abs/2608.13570 — 潜在空間で考え、言葉で説明するSELR
+https://arxiv.org/abs/2608.13578 — 密な注意機構を使わない長文脈設計BCMT
+https://arxiv.org/abs/2608.13580 — アラビア語に特化した700億パラメータのオープンLLM「Jais 2」
+https://arxiv.org/abs/2608.13571 — 再試行のコストを見積もる「トークンインフレーション」
+https://arxiv.org/abs/2608.13568 — コーディングエージェントにLanguage Serverはトークンを節約させるか
+https://arxiv.org/abs/2608.13588 — 多段階質問応答のためのプロンプト圧縮IterCOMP
+https://arxiv.org/abs/2608.13698 — 英語以外の言語でGRPOはどこまで効くか
+https://arxiv.org/abs/2608.13706 — 主張単位で検証する金融QAのマルチエージェント枠組みCLAIR-Fin
+https://arxiv.org/abs/2608.13741 — 自然言語からの時系列生成を文と信号で正しく対応付けるGALA
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #AIエージェント #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-18-arxiv-ai/arxiv_ai_yukkuri.m4a" length="10480222" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-18</guid>
+      <pubDate>Tue, 18 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ポスター作成AIが自己改善？生成AIのエージェント設計10論文【2026/08/17】</title>
       <description>2026年8月17日の生成AI最新論文10本を解説。論文からポスターを作る作業手順を実行結果から自己改善させるAutoDesign（平均スコア54.99→67.39）、生データを直接知覚する全モーダルAI科学者OmniScientist、小学校教材相当に知識を絞ったLittleLearnerを取り上げます。
 
