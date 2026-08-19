@@ -26,6 +26,24 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース｜SafePal、暗号資産ハードウェアウォレット利【2026/08/19】</title>
+      <description>2026年8月19日のセキュリティニュース。固有名詞、数字、当事者の声を軸に、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・SafePal、暗号資産ハードウェアウォレット利用者約4万人分の個人情報が流出
+・ランサム集団Clop、業務システム「Windchill」侵入専用の自作ツールを開発
+・偽の開発者向け部品（RubyGems）16種、ブラウザのパスワードと暗号資産を盗む
+・マイクロソフトCopilot Personal、リンクを1回クリックしただけで情報が抜き取られる脆弱性
+・CISA、Windowsの脆弱性がランサムウェア集団に悪用されていると正式確認
+
+#ニュース #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-19-security/security_yukkuri.m4a" length="5108064" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ポケモンセンター漏洩とSnowflake恐喝犯有罪答弁【2026/08/18】</title>
       <description>2026年8月18日のセキュリティニュースを、技術者と一般利用者の両方に向けて解説します。
 
@@ -41,7 +59,7 @@
 委託先や部品を経由した漏洩・攻撃が目立つ一日でした。企業はGitLabとDefenderのパッチ適用状況を優先確認し、家庭ではGPS内蔵の子ども向け見守り製品の選定に注意が必要です。
 
 #セキュリティ #脆弱性 #ポケモンセンター #Snowflake #GitLab #Unisoc</description>
-      <enclosure url="https://archive.org/download/news-pickup-2026-08-18-security/security_yukkuri.m4a" length="5988817" type="audio/mp4"/>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-18-security/security_yukkuri.m4a" length="5988837" type="audio/mp4"/>
       <guid isPermaLink="false">security-2026-08-18</guid>
       <pubDate>Tue, 18 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:author>daily-news-by-yukkuri</itunes:author>
