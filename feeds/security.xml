@@ -26,6 +26,25 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース｜さくらインターネット不正アクセス・136万件流出か【2026/08/20】</title>
+      <description>2026年8月20日のセキュリティニュース。固有名詞、数字、当事者の声を軸に、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・さくらインターネット、営業管理システムに不正アクセス 最大136万件の顧客情報流出の可能性
+・米ヘルステック企業CareCloud、患者370万人分のデータ漏洩が判明
+・監視カメラメーカーDahua製、1万4500台超が35日間で乗っ取られる「CameraSwarm」攻撃
+・パスワードスプレー攻撃が155倍に急増、多要素認証の抜け穴を突く
+・米、知的財産窃盗34億ドル相当でイラン人ハッカー17人を起訴
+・Citrix NetScaler ADC/Gatewayに未認証リモートコード実行の脆弱性、JPCERT/CCが注意喚起
+
+#ニュース #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-20-security/security_yukkuri.m4a" length="5684697" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース｜SafePal、暗号資産ハードウェアウォレット利【2026/08/19】</title>
       <description>2026年8月19日のセキュリティニュース。固有名詞、数字、当事者の声を軸に、ずんだもんと四国めたんが解説します。
 
