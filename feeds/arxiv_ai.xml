@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>研究者が今週驚いた生成AI論文【メモリ転移・脱同定・ヴォイニッチ手稿ほか10本解説 2026/08/20】</title>
+      <description>外部メモリを別バックボーンへ転移するEngramの追試、施設固有の医療個人情報を取りこぼす脱同定システムをLLMプロンプトで補う研究、多言語埋め込みに「呪い」の理論的必然性はないという証明の3本を中心に、10本の新着論文を研究セミナー調で読み解きます。
+
+▼ 今日の論文ラインナップ
+・マージン正則化構造的意味アラインメントによる脳ー言語対応（arxiv:2608.16975）
+・ターゲット側リーダー適応によるモデル間メモリ転移（arxiv:2608.17050）
+・施設特化型LLMプロンプティングで見逃された医療個人情報を回収する（arxiv:2608.17051）
+・根拠に基づくエージェント型ディープリサーチによる臨床コード予測（arxiv:2608.17075）
+・埋め込み空間構造に多言語性の呪いの理論的根拠はない（arxiv:2608.17088）
+・ヴォイニッチ手稿の記号・トークン・空白は文字・単語・単語区切りではない（arxiv:2608.17096）
+・音声と表情をまたぐ感情表現ー多モーダル基盤モデルの共有機構（arxiv:2608.17102）
+・子どもは単語学習で加速するがLLMは加速しない（arxiv:2608.17120）
+・より安全なRAGへーシステム2思考のできるエージェントのみが未検証文書にアクセスすべき（arxiv:2608.17153）
+・どちらの情報源が勝つか？視覚言語モデルのタスク依存的な情報源依存（arxiv:2608.17205）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.16975 — マージン正則化構造的意味アラインメントによる脳ー言語対応
+https://arxiv.org/abs/2608.17050 — ターゲット側リーダー適応によるモデル間メモリ転移
+https://arxiv.org/abs/2608.17051 — 施設特化型LLMプロンプティングで見逃された医療個人情報を回収する
+https://arxiv.org/abs/2608.17075 — 根拠に基づくエージェント型ディープリサーチによる臨床コード予測
+https://arxiv.org/abs/2608.17088 — 埋め込み空間構造に多言語性の呪いの理論的根拠はない
+https://arxiv.org/abs/2608.17096 — ヴォイニッチ手稿の記号・トークン・空白は文字・単語・単語区切りではない
+https://arxiv.org/abs/2608.17102 — 音声と表情をまたぐ感情表現ー多モーダル基盤モデルの共有機構
+https://arxiv.org/abs/2608.17120 — 子どもは単語学習で加速するがLLMは加速しない
+https://arxiv.org/abs/2608.17153 — より安全なRAGへーシステム2思考のできるエージェントのみが未検証文書にアクセスすべき
+https://arxiv.org/abs/2608.17205 — どちらの情報源が勝つか？視覚言語モデルのタスク依存的な情報源依存
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-20-arxiv-ai/arxiv_ai_yukkuri.m4a" length="10195849" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>研究者が読む生成AI新着論文10本【トークン効率と潜在推論 2026/08/19】</title>
       <description>生成AI論文解説の新着10本を、手法・比較条件・数値結果・限界まで研究者向けに解説します。
 
