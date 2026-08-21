@@ -26,6 +26,26 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース｜マイクロソフト8月定例更新398件・Rustサプライチェーン攻撃【2026/08/21】</title>
+      <description>2026年8月21日のセキュリティニュース。固有名詞、数字、当事者の声を軸に、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・マイクロソフト、8月定例更新で398件の脆弱性を修正 1件はすでに悪用済み
+・開発基盤Rustのパッケージが乗っ取られ、ダウンロード2億4500万件超のクレートに攻撃コード混入
+・ロシア系とみられるハッカー集団、GoogleのログインとWhatsAppの端末連携機能を悪用しアカウント乗っ取り
+・AIが生成した攻撃スクリプトが米重要インフラの制御機器シーメンスS7 PLCを標的に
+・メールサーバーZimbraの脆弱性が実際の攻撃で悪用される、パッチ済みでも要確認
+・米CISA、AI開発基盤「MLflow」の脆弱性が実際に悪用されていると警告
+・欧州でAndroidマルウェア「Manic」拡大、近くの感染端末を中継してデータを盗み出す
+
+#ニュース #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-21-security/security_yukkuri.m4a" length="5855260" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-21</guid>
+      <pubDate>Fri, 21 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース｜さくらインターネット不正アクセス・136万件流出か【2026/08/20】</title>
       <description>2026年8月20日のセキュリティニュース。固有名詞、数字、当事者の声を軸に、ずんだもんと四国めたんが解説します。
 
