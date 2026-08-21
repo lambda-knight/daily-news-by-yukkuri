@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>研究者が今週驚いた生成AI論文【4億パラメータで人間超えほか10本解説 2026/08/21】</title>
+      <description>4億1000万パラメータの小型モデルが人間並みのエンティティ追跡能力を持つという意外な結果から、脱獄手法アブリテレーションへの新しい防御、低資源アフリカ言語で拒否機構が発火しない問題、LLMの中東表象を測る新指標まで、今週注目の生成AI論文10本をずんだもんと四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・4億パラメータ級モデルで人間超えのエンティティ追跡が出現（arxiv:2608.18083）
+・性格を持つLLMエージェントは対話品質を上げるが真実性を犠牲にする（arxiv:2608.18085）
+・インドの言語向けに形態素を壊さないトークン化手法SuTRA（arxiv:2608.18087）
+・低資源アフリカ言語で拒否機構が発火しない問題を訓練なしで直す（arxiv:2608.18089）
+・脱獄手法アブリテレーションへの新しい防御「拒否の別名化」（arxiv:2608.18093）
+・コンパイラのフィードバックで探索を制御する定理証明フレームワーク（arxiv:2608.18084）
+・モデル内部にある「感情の軸」をわずか9カテゴリのラベルで見つける（arxiv:2608.18090）
+・LLM審査員は「自分のラベル」と「他人のラベル」だけでスコアを歪める（arxiv:2608.18091）
+・対話が話題転換しても素早く追従するKVキャッシュ管理（arxiv:2608.18098）
+・LLMの中東表象を測る指標「MECSS」と「セイード・ウォッシング」（arxiv:2608.18100）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.18083 — 4億パラメータ級モデルで人間超えのエンティティ追跡が出現
+https://arxiv.org/abs/2608.18085 — 性格を持つLLMエージェントは対話品質を上げるが真実性を犠牲にする
+https://arxiv.org/abs/2608.18087 — インドの言語向けに形態素を壊さないトークン化手法SuTRA
+https://arxiv.org/abs/2608.18089 — 低資源アフリカ言語で拒否機構が発火しない問題を訓練なしで直す
+https://arxiv.org/abs/2608.18093 — 脱獄手法アブリテレーションへの新しい防御「拒否の別名化」
+https://arxiv.org/abs/2608.18084 — コンパイラのフィードバックで探索を制御する定理証明フレームワーク
+https://arxiv.org/abs/2608.18090 — モデル内部にある「感情の軸」をわずか9カテゴリのラベルで見つける
+https://arxiv.org/abs/2608.18091 — LLM審査員は「自分のラベル」と「他人のラベル」だけでスコアを歪める
+https://arxiv.org/abs/2608.18098 — 対話が話題転換しても素早く追従するKVキャッシュ管理
+https://arxiv.org/abs/2608.18100 — LLMの中東表象を測る指標「MECSS」と「セイード・ウォッシング」
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-21-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8247833" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-21</guid>
+      <pubDate>Fri, 21 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>研究者が今週驚いた生成AI論文【メモリ転移・脱同定・ヴォイニッチ手稿ほか10本解説 2026/08/20】</title>
       <description>外部メモリを別バックボーンへ転移するEngramの追試、施設固有の医療個人情報を取りこぼす脱同定システムをLLMプロンプトで補う研究、多言語埋め込みに「呪い」の理論的必然性はないという証明の3本を中心に、10本の新着論文を研究セミナー調で読み解きます。
 
