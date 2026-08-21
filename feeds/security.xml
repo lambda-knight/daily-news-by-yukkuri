@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース｜AWS漏洩キー9300件放置・GitLab即日悪用【2026/08/22】</title>
+      <description>2026年8月22日のセキュリティニュース。固有名詞、数字、当事者の声を軸に、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・公開放置されたAWSアクセスキー9300件超、今も有効なまま乗っ取り放題
+・GitLabの脆弱性CVE-2026-19478、公開からわずか数日で実際の攻撃に悪用
+・Ciscoの業務ソフトCrosswork・Secure Workloadに脆弱性9件、5件は最悪水準の深刻度10.0
+・米CISA、ビデオ会議サーバー「TrueConf」の悪用中脆弱性に緊急パッチを命令
+・偽装したnpmパッケージがAI制御のLinuxバックドア「RedC2 4.0」を配布
+・顔写真検索サービスから900万枚超の顔画像データベースが露出
+・Meta、女性政治家を「ヌード化」する偽アプリの広告を掲載していた
+・JPCERT/CC、分析ツール「Metabase」のSQLインジェクション脆弱性に注意喚起
+
+#ニュース #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-22-security/security_yukkuri.m4a" length="5429513" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース｜マイクロソフト8月定例更新398件・Rustサプライチェーン攻撃【2026/08/21】</title>
       <description>2026年8月21日のセキュリティニュース。固有名詞、数字、当事者の声を軸に、ずんだもんと四国めたんが解説します。
 
