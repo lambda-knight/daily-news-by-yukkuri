@@ -26,6 +26,25 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース（2026年8月23日）</title>
+      <description>セキュリティニュース（2026年8月23日）
+
+キーワード: Entra ID誤報訂正 / NetScaler認証なしRCE / 車載Android詐欺網 / Defender純正ドライバ悪用 / TikTok400億円和解 / Snowflake恐喝有罪
+
+オープニング：2026年8月23日 — セキュリティニュース
+
+ 本日はマイクロソフトのEntra ID脆弱性を巡る「悪用済み」表記の訂正騒動、NetScalerの認証なしリモートコード実行に発展しうる脆弱性、車載Android端末を狙う広告詐欺マルウェア、Windows Defenderの純正ドライバを悪用してセキュリティソフトを消す手口、TikTokの児童プライバシー訴訟400億円和解、Snowflake恐喝事件の実行役の有罪答弁、Microsoft Teamsを悪用した新型フィッシング、CISA自身の認証情報漏えいから得た教訓まで8本を取り上げる
+
+マイクロソフトのEntra ID脆弱性、「悪用済み」表記が誤りだったと訂正
+
+ The Hacker Newsの報道によると、マイクロソフトが公開したセキュリティ情報で、法人向け</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-23-security/security_yukkuri.m4a" length="5507417" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-23</guid>
+      <pubDate>Sun, 23 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース｜AWS漏洩キー9300件放置・GitLab即日悪用【2026/08/22】</title>
       <description>2026年8月22日のセキュリティニュース。固有名詞、数字、当事者の声を軸に、ずんだもんと四国めたんが解説します。
 
