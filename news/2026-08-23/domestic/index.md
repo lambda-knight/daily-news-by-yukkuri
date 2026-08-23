@@ -21,10 +21,10 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <details>
 <summary>スライド（クリックで展開）</summary>
 
-<h1>関東で震度5弱の地震、ICC制裁批判は産経にも拡大（2026年8月23日）</h1>
+<h1>関東で震度5弱、ICC所長制裁を産経・読売はどう報じたか（2026年8月23日）</h1>
 <h2>オープニング：2026年8月23日 — 国内8紙比較</h2>
 <ul>
-<li>取得した8媒体96件から、関東地方で発生した震度5弱の地震と毎日の集中報道、ICC（国際刑事裁判所）赤根智子所長への米制裁を巡り産経が初めて社説で撤回を求めた批判の広がり、継続特集「関東大震災103年・朝鮮人虐殺の追悼要求と大学の軍事研究拠点化批判」、大阪パチンコ店放火5人殺害事件の死刑執行の4テーマを比較する</li>
+<li>取得した8媒体96件から、関東地方で発生した震度5弱の地震と毎日の集中報道、ICC（国際刑事裁判所）赤根智子所長への米制裁を巡る産経の撤回要求と読売の政府談話分析、継続特集「関東大震災103年・朝鮮人虐殺の追悼要求と大学の軍事研究拠点化批判」、大阪パチンコ店放火5人殺害事件の死刑執行の4テーマを比較する</li>
 <li>掲載が確認できない媒体は賛否を推測せず、取得一覧での非掲載として扱う</li>
 </ul>
 <h2>テーマ1: 関東地方で震度5弱の地震、毎日が集中報道</h2>
@@ -85,7 +85,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>毎日以外の7媒体には当日取得分に地震関連の新規記事が確認できず、取得タイミングによる速報反映の差が大きく表れた</li>
 <li>茨城・古河では震度5弱を観測したが被害の連絡はなく、横揺れが十数秒続いたと報じられており、地域による被害の濃淡も示されている</li>
 </ul>
-<h2>テーマ2: 継続特集：ICC所長制裁への批判拡大 — 産経も社説で初めて撤回要求</h2>
+<h2>テーマ2: 継続特集：ICC所長制裁 — 産経は撤回要求、読売は政府表現を分析</h2>
 <table>
 <thead>
 <tr>
@@ -127,8 +127,8 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </tr>
 <tr>
 <td>読売</td>
-<td>取得一覧では該当記事なし</td>
-<td>当日取得12件では確認できず</td>
+<td>日本政府の談話「very unfortunate」と抑制的…ICC所長制裁、中露への「遺憾」より弱く</td>
+<td>日本政府の英語表現を、中露への制裁時に使った「遺憾」より弱いと比較し、政府対応の抑制ぶりを焦点にする</td>
 </tr>
 <tr>
 <td>日経</td>
@@ -138,10 +138,11 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </tbody>
 </table>
 <ul>
-<li>産経が「＜主張＞米が赤根氏に制裁　撤回しICCとの対話を」と社説を掲載したのは、8月20〜22日の取得分になかった動きで、これまで東京・赤旗・日経が中心だった制裁批判に、保守系の産経も加わったことを示す</li>
+<li>産経が「＜主張＞米が赤根氏に制裁　撤回しICCとの対話を」と社説を掲載したのは、8月20〜22日の取得分になかった動きで、保守系紙も米国に撤回と対話を求めたことを示す</li>
+<li>読売は日本政府の談話「very unfortunate」を、中露への制裁時に使った「遺憾」より弱い表現だと比較し、米国への配慮がにじむ政府対応を分析した</li>
 <li>赤旗は自ら米大使館前での抗議行動を報じると同時に、「全国紙が社説で主張」という見出しで、赤旗以外の全国紙が制裁撤回を求め始めた状況を報じ、批判の広がりを二重に確認する構成を取った</li>
 <li>東京の赤根氏本人コメント記事は8月22日から継続掲載されているのみで、当日の新規記事は確認できなかった</li>
-<li>NHK・朝日・毎日・読売・日経の5媒体には当日取得分にICC制裁の新規記事が確認できず、この日の論点を扱ったのは赤旗・産経・東京（継続分）にとどまった</li>
+<li>NHK・朝日・毎日・日経の4媒体には当日取得分にICC制裁の新規記事が確認できず、この日の新規記事は赤旗・産経・読売、東京は前日記事の継続掲載だった</li>
 </ul>
 <h2>テーマ3: 継続特集：平和憲法・戦争責任 — 関東大震災103年の朝鮮人虐殺追悼要求と大学の軍事研究拠点化批判</h2>
 <table>
@@ -281,10 +282,10 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <h2>まとめ</h2>
 <ul>
 <li>関東地方で震度5弱の地震が発生し、毎日は取得12件中9件を地震関連に充てて被害を細かく報じたが、他7媒体には当日取得分に地震関連の新規記事が確認できず、速報の反映タイミングに大きな差が出た</li>
-<li>ICC所長制裁を巡っては、これまで批判の中心だった東京・赤旗・日経に加え、保守系の産経が初めて社説で撤回を求め、批判が政治的立場を超えて広がる動きが見られた</li>
+<li>ICC所長制裁を巡っては、産経が社説で撤回と対話を求め、読売は日本政府の談話が中露への「遺憾」より弱いと分析した。赤旗の抗議報道と合わせ、同じ制裁を撤回要求、政府批判、抗議行動という異なる角度から扱った</li>
 <li>継続特集の平和憲法・戦争責任は、関東大震災103年の朝鮮人虐殺追悼要求と大学の軍事研究拠点化批判という、赤旗のみが扱った2つの論点に当日の主視点を移し、大阪パチンコ店放火事件の死刑執行は朝日のみが報じた</li>
 </ul>
-<h2>参考ソース</h2>
+<h3>参考ソース</h3>
 <ul>
 <li>毎日新聞「東京、千葉、埼玉、茨城の17市区町で震度5弱　各地でけが人も」 https://mainichi.jp/articles/20260823/k00/00m/040/039000c</li>
 <li>毎日新聞「JR東、関東の一部区間で始発から運転見合わせ　震度5弱で」 https://mainichi.jp/articles/20260823/k00/00m/040/043000c</li>
@@ -295,6 +296,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>しんぶん赤旗「ＩＣＣ所長への『制裁』米を批判／米大使館前　抗議の行動」 https://news.google.com/rss/articles/CBMidEFVX3lxTFBXeV9qcHRZVGNFQWtDdkZuVUROaWEwb2IzcTFhbFlGSDNESHEyOXA3aXIwdG1qZmtfWWhrb2d2TVh2d3ZQbWc1N1V2YXh0RXRtNnk0eVpRUU9UOGtXX1lBdVZOSEhuYU9KcTBJbmpuOWcxUVps?oc=5</li>
 <li>しんぶん赤旗「ＩＣＣ所長への『制裁』米を批判／政府は『制裁』撤回求めよ／全国紙が社説で主張」 https://news.google.com/rss/articles/CBMidEFVX3lxTFBBbFQ2OWlIblUybDdtQ2NtSWlpVXJMcnNUOGhjRURTdGdmbFFmYmlkOUd4T3hPYWVFNl95dzdtVTRlRV9kMHdqYjM3aDM1WVlHMUZ4b1FEbzV5bVBFNGowNVdTTEZ5NU85Vm4wOEdqMF9tRi1j?oc=5</li>
 <li>産経ニュース「＜主張＞米が赤根氏に制裁　撤回しICCとの対話を　社説」 https://news.google.com/rss/articles/CBMidkFVX3lxTE93MkVEUmxNR2QxcWZuVFZ6bXN0LUN5d1M5Um1MMVFPMFMtSmlKWm9OYTBaUlRscl9fRGZ2a1YtaVl3dVdLRkNUY0k1SkdLY3ZFY1FZLXh0MlNqczJqdWQtSTBQZVFBc25PYXd4bkIyM3czZkgyeVE?oc=5</li>
+<li>読売新聞「日本政府の談話『very unfortunate』と抑制的…ICC所長制裁、中露への『遺憾』より弱く」 https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ycGhQck9HY0c2MVNwQ3dMYkxEQXNNeGp1ZDk3RDZQOUdrUWM3NjJsTTlsV25kcG5rdTFaWWduejhNM3FJZlJsUXpmWGVkSzBNSWxwQjZwa0dKRldRdTJJc0dJVmFFdw?oc=5</li>
 <li>しんぶん赤旗「都知事は追悼文送れ／朝鮮人ら虐殺　議会３会派が要請／関東大震災」 https://news.google.com/rss/articles/CBMidEFVX3lxTFBRZ21xRFkta19BdWJZVDlsMDRWVmNfMmFlX2hVYWV4TkYtTXRFeE1MaUdmYUdKaXB3dXJpU1RteElIR3MtV0JFU2JjSGVOV1ptYVZkRGtxaVFwUEhza1V6NUFwYU91bkg3cjVrSTQ4N3FiNGtf?oc=5</li>
 <li>しんぶん赤旗「主張／大学に軍事研究所／学術研究の土台破壊する暴挙」 https://news.google.com/rss/articles/CBMidEFVX3lxTE5RX0c3TTVhbldrVEhJS1ExOUZaNHFRNUpJeTVFMlNPUVFqU2ZvTmtiLUFjWElacUhpNlNYZnVvb0pOU1FHY251Yk8tRU5UN3p2eHhvWEktN0dGdjF3Q0pRazlkX2M1cHE4ODVhbk42aGdfYlk2?oc=5</li>
 <li>朝日新聞「死刑を執行、遺族『急で驚いた』　大阪市のパチンコ店放火5人殺害」 http://www.asahi.com/articles/ASV8Q3H8RV8QUTIL00ZM.html?ref=rss</li>
