@@ -26,6 +26,58 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv量子コンピュータニュース（2026年8月23日）</title>
+      <description>arXiv量子コンピュータニュース（2026年8月23日）
+
+キーワード: 並列量子優位性 / 中性原子アレイの量子積符号 / ニシモリ臨界性 / シャドウトモグラフィーの反例 / ハイブリッド量子鍵配送 / 強化学習トロッター分解
+
+オープニング：2026年8月23日 — arXiv量子コンピュータ論文解説
+
+arXivのquantphフィードは土日を投稿休止日としているため、今日は直近の投稿日である8月20日にarXivへ提出された論文群から、量子計算の理論的基盤と誤り訂正・量子通信の実装寄りの成果を中心に9本を選んだ。量子アルゴリズムの複雑性理論、フォールトトレラント量子計算に向けた符号設計とコンパイラ、実機での状態検証、そして量子鍵配送や長時間量子シミュレーションの実用化に関わる論文まで、基礎理論と応用の両方をカバーしている。
+
+共通する軸は「量子優位性や量子誤り訂正の理論的主張が、どこまで厳密に成り立ち、どこで崩れるか」という問いだ。並列クエリの古典シミュレーション可能性、シャドウトモグラフィーに関する既存予想への反例、学習可能性の相転移など、既存の理論的枠組みの限界や適用範</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-23-arxiv-qc/arxiv_qc_yukkuri.m4a" length="13394372" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-23</guid>
+      <pubDate>Sun, 23 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子コンピュータでブラックホールを再現？今週の重要論文を解説【2026/08/22】</title>
+      <description>超伝導量子プロセッサでブラックホールの地平線物理とスクランブリングを再現した実験から、ガウシアンボソンサンプリングの理論的基盤を固める証明、フォールトトレラント量子計算の資源見積もりを高速化する実用手法まで、今週注目の量子コンピュータ論文10本を解説します。
+
+▼ 今日の論文ラインナップ
+・格子ゲージ理論のためのHALOコンパイラ — O(1)ステップ圧縮と局所弦切断の実機観測（arxiv:2608.19243）
+・測定誘起相転移における適応的な測定配置（arxiv:2608.19248）
+・フォールトトレラント量子計算の誤り予算配分の最適化（arxiv:2608.19249）
+・ユニタリ発展を超えた量子ガウス過程回帰 — ロスアラモス国立研究所チーム（arxiv:2608.19306）
+・散逸するキャビティに結合したSYKモデル — プリンストン大学チーム（arxiv:2608.19310）
+・ガウシアンボソンサンプリングの隠蔽予想を完全証明 — NIST・メリーランド大学チーム（arxiv:2608.19314）
+・熱雑音下の量子状態転送の厳密限界 — NISTチーム（arxiv:2608.19315）
+・超伝導量子プロセッサでのブラックホールシミュレーション — IBM実機実験（arxiv:2608.19318）
+・非可換電荷を持つ監視下量子系の学習可能性転移（arxiv:2608.19325）
+・ノイズあり量子コンピュータでのガラス動力学観測（arxiv:2608.19335）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.19243 — 格子ゲージ理論のためのHALOコンパイラ
+https://arxiv.org/abs/2608.19248 — 測定誘起相転移における適応的な測定配置
+https://arxiv.org/abs/2608.19249 — フォールトトレラント量子計算の誤り予算配分の最適化
+https://arxiv.org/abs/2608.19306 — ユニタリ発展を超えた量子ガウス過程回帰
+https://arxiv.org/abs/2608.19310 — 散逸するキャビティに結合したSYKモデル
+https://arxiv.org/abs/2608.19314 — ガウシアンボソンサンプリングの隠蔽予想の完全証明
+https://arxiv.org/abs/2608.19315 — 熱雑音下の量子状態転送の厳密限界
+https://arxiv.org/abs/2608.19318 — 超伝導量子プロセッサでのブラックホールシミュレーション
+https://arxiv.org/abs/2608.19325 — 非可換電荷を持つ監視下量子系の学習可能性転移
+https://arxiv.org/abs/2608.19335 — ノイズあり量子コンピュータでのガラス動力学観測
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-22-arxiv-qc/arxiv_qc_yukkuri.m4a" length="10988535" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子機械学習の「量子性」を監査？今週の重要論文を解説【2026/08/21】</title>
       <description>量子機械学習の優位性を疑う監査研究、光量子プロセッサでの実機実験、量子誤り訂正の復号方式、量子通信のクローニングまで、幅広いレイヤーから10本を厳選して解説します。
 
