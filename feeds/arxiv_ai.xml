@@ -26,6 +26,60 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv生成AIニュース（2026年8月23日）</title>
+      <description>arXiv生成AIニュース（2026年8月23日）
+
+キーワード: 自己改善の測定監査 / 概念単位のアンラーニング / エージェント型ツール利用 / 文書知識の内在化 / スキル転移 / テスト時推論配分
+
+（今日のハイライト: 「モデルは本当に自己改善したのか」を統計的アーティファクトの観点から徹底監査した研究、訓練アルゴリズム自体を書き換えさせる再帰的自己改善ベンチマーク、そして問題ごとに考える時間を自分で調整させる適応的推論の3本を中心に、LLMエージェントの能力形成と評価の足場そのものを問い直す論文を10本紹介する。なお、arXivは土日に新規論文の告知を行わないため、本日は直近の平日（8月20日）に投稿された論文群から採用した。）
+
+オープニング：2026年8月23日 — arxiv生成AI論文解説
+
+本日はエージェント型LLMのスキル獲得・自己改善・推論配分をめぐる研究を中心に、安全なアンラーニング、モデルルーティング、文書知識の内在化まで10本の論文を幅広く紹介する。
+
+論文1: 自己改善の「見かけの伸び」を暴くPhantom Gains
+
+自己改善を主張する研究の多く</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-23-arxiv-ai/arxiv_ai_yukkuri.m4a" length="15392213" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-23</guid>
+      <pubDate>Sun, 23 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>研究者が今週驚いた生成AI論文【実配備アシスタントほか9本解説 2026/08/22】</title>
+      <description>石油業界に実配備された知識共有アシスタントATHENAの進化から、幻覚をあえて仮説生成の資源として使うマルチエージェント設計、電子透かしの頑健性を根本から測り直す幾何学理論、LLMの創造的出力が3年かけて似通ってきているという知見まで、今週注目の生成AI論文9本をずんだもんと四国めたんが解説します。
+
+▼ 今日の論文ラインナップ
+・石油業界に実配備された知識共有アシスタントATHENA（arxiv:2608.19199）
+・アテンションヘッドごとに文脈範囲を変えるAsymmetric Attention Heads（arxiv:2608.19203）
+・幻覚を欠陥でなく資源として使うマルチエージェント仮説生成（arxiv:2608.19206）
+・マルチモーダルLLMのシステムメッセージ遵守を測るVSysBench（arxiv:2608.19207）
+・無関係な文脈がマルチモーダルLLMの判断をアフィン変換的にずらす（arxiv:2608.19208）
+・韻律は表現されているのに使われない — 音声言語モデルの因果解析（arxiv:2608.19211）
+・対話AIは「私たちと彼ら」の境界を緩められるか（arxiv:2608.19220）
+・電子透かしの頑健性を「終点」でなく経路のホロノミーで測る（arxiv:2608.19369）
+・LLMの創造的な出力は3年かけて互いに似通ってきている（arxiv:2608.19437）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.19199 — 石油業界に実配備された知識共有アシスタントATHENA
+https://arxiv.org/abs/2608.19203 — アテンションヘッドごとに文脈範囲を変えるAsymmetric Attention Heads
+https://arxiv.org/abs/2608.19206 — 幻覚を欠陥でなく資源として使うマルチエージェント仮説生成
+https://arxiv.org/abs/2608.19207 — マルチモーダルLLMのシステムメッセージ遵守を測るVSysBench
+https://arxiv.org/abs/2608.19208 — 無関係な文脈がマルチモーダルLLMの判断をアフィン変換的にずらす
+https://arxiv.org/abs/2608.19211 — 韻律は表現されているのに使われない — 音声言語モデルの因果解析
+https://arxiv.org/abs/2608.19220 — 対話AIは「私たちと彼ら」の境界を緩められるか
+https://arxiv.org/abs/2608.19369 — 電子透かしの頑健性を「終点」でなく経路のホロノミーで測る
+https://arxiv.org/abs/2608.19437 — LLMの創造的な出力は3年かけて互いに似通ってきている
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-22-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9770997" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>研究者が今週驚いた生成AI論文【4億パラメータで人間超えほか10本解説 2026/08/21】</title>
       <description>4億1000万パラメータの小型モデルが人間並みのエンティティ追跡能力を持つという意外な結果から、脱獄手法アブリテレーションへの新しい防御、低資源アフリカ言語で拒否機構が発火しない問題、LLMの中東表象を測る新指標まで、今週注目の生成AI論文10本をずんだもんと四国めたんが解説します。
 
