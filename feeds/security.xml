@@ -26,6 +26,23 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース（2026年8月24日）</title>
+      <description>セキュリティニュース（2026年8月24日）
+
+キーワード: マイクロソフト月例570件AI起因 / 前科者運営ゼロデイ買取企業 / スマートTVプロキシ規制 / H96ストリーミングスティック広告詐欺 / ToxicPandaアプリブロック / WordPress wp2shell / RailsActiveStorageRCE
+
+オープニング：2026年8月24日 — セキュリティニュース
+
+ 本日はマイクロソフトの月例更新が570件と過去最多を更新しAIが脆弱性発見を加速させている件、前科のある陰謀論者が運営するゼロデイ買取企業の実態、韓国LGがスマートTVの不正プロキシアプリを締め出す動き、格安ストリーミングスティック「H96」が広告詐欺網の踏み台になっていた件、Android向けマルウェア「ToxicPanda」がGoogle Playを機能停止させる新手口、WordPressの2件の脆弱性を組み合わせた「wp2shell」、Ruby on RailsのActive Storageに見つかったリモートコード実行の脆弱性まで7本を取り上げる
+
+マイクロソフト月例更新、過去最多5</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-24-security/security_yukkuri.m4a" length="6453893" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-24</guid>
+      <pubDate>Mon, 24 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース（2026年8月23日）</title>
       <description>セキュリティニュース（2026年8月23日）
 
