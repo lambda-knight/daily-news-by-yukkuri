@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子計算の限界と実機性能が前進？重要論文10本【2026/08/24】</title>
+      <description>量子計算理論、誤り訂正、量子通信、シミュレーションの新着10本を、比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・並列量子クエリの量子優位性には構造が必要だと判明（arXiv:2608.20297）
+・中性原子アレイ上の高レート量子誤り訂正符号アーキテクチャ（arXiv:2608.20164）
+・局所同時測定による100量子ビット系の大規模もつれ構造検出（arXiv:2608.20170）
+・PottsモデルとZ3トーリック符号の学習における臨界現象（arXiv:2608.20268）
+・ファンアウト並列化によるハイゼンベルクシミュレーションの対数深度圧縮（arXiv:2608.20250）
+・浅い全結合量子回路の適切学習における鋭い遷移（arXiv:2608.20162）
+・強化学習で近似誤差を資源に変える長時間量子シミュレーション（arXiv:2608.20139）
+・シャドウトモグラフィーの分数彩色予想への反例（arXiv:2608.20113）
+・展開済みハイブリッド回線でのスクイーズド・コヒーレント状態量子鍵配送（arXiv:2608.20088）
+・相関触媒を伴うPPTもつれの非可逆性（arXiv:2608.20063）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.20297 — 並列量子クエリの量子優位性には構造が必要だと判明
+https://arxiv.org/abs/2608.20164 — 中性原子アレイ上の高レート量子誤り訂正符号アーキテクチャ
+https://arxiv.org/abs/2608.20170 — 局所同時測定による100量子ビット系の大規模もつれ構造検出
+https://arxiv.org/abs/2608.20268 — PottsモデルとZ3トーリック符号の学習における臨界現象
+https://arxiv.org/abs/2608.20250 — ファンアウト並列化によるハイゼンベルクシミュレーションの対数深度圧縮
+https://arxiv.org/abs/2608.20162 — 浅い全結合量子回路の適切学習における鋭い遷移
+https://arxiv.org/abs/2608.20139 — 強化学習で近似誤差を資源に変える長時間量子シミュレーション
+https://arxiv.org/abs/2608.20113 — シャドウトモグラフィーの分数彩色予想への反例
+https://arxiv.org/abs/2608.20088 — 展開済みハイブリッド回線でのスクイーズド・コヒーレント状態量子鍵配送
+https://arxiv.org/abs/2608.20063 — 相関触媒を伴うPPTもつれの非可逆性
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #量子通信 #量子シミュレーション #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-24-arxiv-qc/arxiv_qc_yukkuri.m4a" length="12927273" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-24</guid>
+      <pubDate>Mon, 24 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv量子コンピュータニュース（2026年8月23日）</title>
       <description>arXiv量子コンピュータニュース（2026年8月23日）
 
