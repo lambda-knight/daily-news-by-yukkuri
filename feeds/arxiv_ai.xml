@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>日本語の正答が採点で落ちる？生成AI最新論文8本【2026/08/25】</title>
+      <description>情報量より構造が効くデジタルツイン、臨床記録中央の21.9ポイント低下、多言語報酬検証器の日本語偽陰性を中心に、生成AI研究8本を比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・人物情報の構造を自動発見するデジタルツイン（2608.20344）
+・表面に出ない職業能力バイアスを因果的に測る（2608.20347）
+・電子健康記録の中央を救う問い合わせ条件付き抑制（2608.20348）
+・語句の小変更に強いプロンプトの構造（2608.20349）
+・推論途中を下書きに使う自己投機復号（2608.20359）
+・三つの特徴流を直接掛ける小型言語モデル（2608.20360）
+・関係の合成で反証可能な研究案を選ぶ（2608.20361）
+・日本語の正答を落とす多言語報酬検証器（2608.20362）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.20344
+https://arxiv.org/abs/2608.20347
+https://arxiv.org/abs/2608.20348
+https://arxiv.org/abs/2608.20349
+https://arxiv.org/abs/2608.20359
+https://arxiv.org/abs/2608.20360
+https://arxiv.org/abs/2608.20361
+https://arxiv.org/abs/2608.20362
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #機械学習</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-25-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8872541" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>研究者が今週驚いた生成AI論文【隠れ推論漏洩ほか10本 2026/08/24】</title>
       <description>隠れた推論や文脈内の秘密はどこから漏れるのか。生成モデルの選好最適化、圧縮、テスト時スケーリング、評価器と検証器の限界まで、最新10論文を研究セミナー調で解説します。
 
