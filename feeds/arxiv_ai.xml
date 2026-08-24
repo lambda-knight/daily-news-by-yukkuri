@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>研究者が今週驚いた生成AI論文【隠れ推論漏洩ほか10本 2026/08/24】</title>
+      <description>隠れた推論や文脈内の秘密はどこから漏れるのか。生成モデルの選好最適化、圧縮、テスト時スケーリング、評価器と検証器の限界まで、最新10論文を研究セミナー調で解説します。
+
+▼ 今日の論文ラインナップ
+・隠れた思考過程をほぼそのまま抜き出すEchoCoT（arXiv:2608.20055）
+・秘密が会話に混ざっているだけで漏れ出すInadvertent Context Leakage（arXiv:2608.19857）
+・選好最適化が生成モデルを学習済みの土台から逸脱させるManifold Drift（arXiv:2608.20011）
+・集約指標が覆い隠すモデル圧縮の非対称な害（arXiv:2608.19670）
+・教師の尤度だけに頼らず検証器の判定と整合させるGC-OPD（arXiv:2608.19181）
+・候補は増えているのに選び方が壊れているテスト時スケーリング（arXiv:2608.18931）
+・LLMキャッシュの退避方式を比べる系統研究（arXiv:2608.20280）
+・評価指標を自分の弱点から進化させるEvalCEGAR（arXiv:2608.18744）
+・プロジェクタだけを訓練するマルチモーダル適応（arXiv:2608.19726）
+・検証器の自律性を一つの軸で整理する研究（arXiv:2608.19009）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.20055
+https://arxiv.org/abs/2608.19857
+https://arxiv.org/abs/2608.20011
+https://arxiv.org/abs/2608.19670
+https://arxiv.org/abs/2608.19181
+https://arxiv.org/abs/2608.18931
+https://arxiv.org/abs/2608.20280
+https://arxiv.org/abs/2608.18744
+https://arxiv.org/abs/2608.19726
+https://arxiv.org/abs/2608.19009
+
+#生成AI #ChatGPT #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-24-arxiv-ai/arxiv_ai_yukkuri.m4a" length="13418223" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-24</guid>
+      <pubDate>Mon, 24 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv生成AIニュース（2026年8月23日）</title>
       <description>arXiv生成AIニュース（2026年8月23日）
 
