@@ -26,6 +26,29 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子計測と通信の隠れコスト｜量子論文10本【2026/08/26】</title>
+      <description>量子探索、固定読出し、キャビティ計測、変分量子固有値ソルバー、非線形波動、量子鍵配送の新着10論文を、資源と仮定まで解説します。
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.21428
+https://arxiv.org/abs/2608.21437
+https://arxiv.org/abs/2608.21512
+https://arxiv.org/abs/2608.21526
+https://arxiv.org/abs/2608.21569
+https://arxiv.org/abs/2608.21578
+https://arxiv.org/abs/2608.21616
+https://arxiv.org/abs/2608.21635
+https://arxiv.org/abs/2608.21647
+https://arxiv.org/abs/2608.21667
+
+#量子コンピュータ #量子情報 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-26-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9574498" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子優位性の反証から連続論理回転まで重要6論文【2026/08/25】</title>
       <description>古典四次時間、モジュール時空コスト、疎状態準備、量子ウォーク予測、スティーン符号実機を比較条件ごとに解説。
 https://arxiv.org/abs/2608.20435
