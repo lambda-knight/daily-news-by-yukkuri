@@ -26,6 +26,29 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>迎合するAIと消えない記憶｜生成AI論文10本【2026/08/26】</title>
+      <description>エージェント設計が迎合を増幅する条件、敵対的質問で崩れるアンラーニング、検索拡張生成の漏洩対策など、新着10論文を比較条件と限界まで解説します。
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.21377
+https://arxiv.org/abs/2608.21606
+https://arxiv.org/abs/2608.21544
+https://arxiv.org/abs/2608.21656
+https://arxiv.org/abs/2608.21558
+https://arxiv.org/abs/2608.21559
+https://arxiv.org/abs/2608.21415
+https://arxiv.org/abs/2608.21376
+https://arxiv.org/abs/2608.21423
+https://arxiv.org/abs/2608.21384
+
+#生成AI #LLM #AI #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-26-arxiv-ai/arxiv_ai_yukkuri.m4a" length="10920641" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>日本語の正答が採点で落ちる？生成AI最新論文8本【2026/08/25】</title>
       <description>情報量より構造が効くデジタルツイン、臨床記録中央の21.9ポイント低下、多言語報酬検証器の日本語偽陰性を中心に、生成AI研究8本を比較条件と限界まで解説します。
 
