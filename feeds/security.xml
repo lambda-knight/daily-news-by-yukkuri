@@ -26,6 +26,26 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース（2026年8月26日）</title>
+      <description>セキュリティニュース（2026年8月26日）
+
+キーワード: ノルウェー政府DDoS / Nutex Health患者情報流出 / Zimbra274台侵害 / AnonyMousKIT音声AI詐欺 / Mirage2FA4500社 / WhatsAppパスキー複数登録
+
+オープニング：2026年8月26日 — セキュリティニュース
+
+ 本日はノルウェー政府基盤への3度目のDDoS攻撃、米医療運営会社Nutex Healthの情報流出、メールサーバーZimbraの実被害拡大、音声AIを使ったiPhoneパスコード詐欺、Microsoft 365を狙うMirage2FA、WhatsAppの新しい認証機能、22カ国が連携した詐欺グループ摘発の7本を扱う。
+
+ノルウェー政府のデジタル基盤、3度目のDDoS攻撃で一部機能停止
+
+ 2026年8月25日午前3時38分（中欧時間）、ノルウェーのデジタル化庁（Digdir）と運用事業者Vivictaが管理する共通デジタル基盤が大規模DDoS攻撃を受けた。
+ 公的ログイン「IDporten」や電子署名「eSignering」、行政向けフォームなどが一時</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-26-security/security_yukkuri.m4a" length="5512167" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>398件の更新と顔画像900万件露出｜セキュリティ6選【2026/08/25】</title>
       <description>マイクロソフトの398件修正、スノーフレーク利用165組織超への恐喝、認証基盤と家庭用ルーターの欠陥、子ども・顔画像のプライバシー問題を具体策まで解説します。
 
