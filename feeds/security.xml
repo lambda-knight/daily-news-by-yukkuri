@@ -26,6 +26,26 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース（2026年8月27日）</title>
+      <description>セキュリティニュース（2026年8月27日）
+
+キーワード: ボストン・サイエンティフィック被弾 / QTFY摘発 / SharePoint連鎖攻撃 / Avadaゼロクリック / Ubiquiti最重要脆弱性 / GPUThor
+
+オープニング：2026年8月27日 — セキュリティニュース
+
+ 本日は医療機器大手ボストン・サイエンティフィックへのサイバー攻撃、米当局による中国国家系ハッキング基盤「QTFY」の摘発、Microsoft SharePointの連鎖脆弱性が実攻撃入りした件、WordPressの人気テーマAvadaのゼロクリックRCE、Ubiquiti製品の最重要脆弱性3件、NVIDIA GPUへのハードウェア攻撃「GPUThor」、CISAレッドチーム演習が示した防御力の差の7本を扱う。
+
+ボストン・サイエンティフィック、サイバー攻撃で世界規模の業務停止
+
+ 従業員5万9000人、13の製造施設を127カ国で展開し2025年に年間売上200億ドル超を上げる医療機器大手ボストン・サイエンティフィックが、2026年8月25日にサイバー攻撃を検知し、翌26日に公表した。
+ 同</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-27-security/security_yukkuri.m4a" length="5549078" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-27</guid>
+      <pubDate>Thu, 27 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース（2026年8月26日）</title>
       <description>セキュリティニュース（2026年8月26日）
 
