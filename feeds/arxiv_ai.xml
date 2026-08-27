@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>検出できても制御できない？活性化ステアリングと評価の落とし穴｜生成AI論文10本【2026/08/28】</title>
+      <description>内部ベクトルで検出できる性質は本当に制御できるのか、方言の不利益はモデルのどこで生まれるのか、教師なし事後学習の全体像、言語学ベンチマークの再検証、データベースクエリのGPU最適化、多言語評価やRAGの効率化まで、8月27日投稿の新着10論文を比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・検出できても制御はできない — 共感方向ベクトルによる自動スコア操作の限界（arxiv:2608.24901）
+・ファインチューニングは埋め込み型ステアリングを打ち消すのか（arxiv:2608.24988）
+・方言税 — 言語モデルのパイプライン全体に残る方言バイアス（arxiv:2608.24952）
+・教師なし事後学習の全体像 — 80手法を整理したサーベイ（arxiv:2608.24982）
+・未完了相のパラドックスは本当にモデルの欠陥か（arxiv:2608.25005）
+・DataKernelBench — データベースクエリのGPU最適化をLLMにやらせる（arxiv:2608.25061）
+・Padamitra — 古典サンスクリット語の語釈を自動生成する（arxiv:2608.25038）
+・HealthBench-Psych — メンタルヘルスに特化した評価セット（arxiv:2608.25071）
+・言語をまたいだ公平な比較は可能か — 多言語モデル評価の指標を検証する（arxiv:2608.25089）
+・RAGのボトルネックは動く — 証拠の前倒しと負荷適応型の予算配分（arxiv:2608.25115）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.24901  — 検出できても制御はできない
+https://arxiv.org/abs/2608.24988  — ファインチューニングは埋め込み型ステアリングを打ち消すのか
+https://arxiv.org/abs/2608.24952  — 方言税
+https://arxiv.org/abs/2608.24982  — 教師なし事後学習サーベイ
+https://arxiv.org/abs/2608.25005  — 未完了相のパラドックス再検証
+https://arxiv.org/abs/2608.25061  — DataKernelBench
+https://arxiv.org/abs/2608.25038  — Padamitra
+https://arxiv.org/abs/2608.25071  — HealthBench-Psych
+https://arxiv.org/abs/2608.25089  — 多言語モデル評価の比較可能性
+https://arxiv.org/abs/2608.25115  — RAGのボトルネックと証拠前倒し
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-28-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8942871" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>埋め込み高速化と評価の落とし穴｜生成AI論文10本【2026/08/27】</title>
       <description>高速な混合エキスパート型埋め込みモデル、マルチモーダル文脈内学習の理論、LLM審査員の評価バイアス二本立て、報酬設計、コード生成のセキュリティリスクなど、新着10論文を比較条件と限界まで解説します。
 
