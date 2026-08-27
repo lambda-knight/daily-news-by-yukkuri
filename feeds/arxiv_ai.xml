@@ -26,6 +26,30 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>埋め込み高速化と評価の落とし穴｜生成AI論文10本【2026/08/27】</title>
+      <description>高速な混合エキスパート型埋め込みモデル、マルチモーダル文脈内学習の理論、LLM審査員の評価バイアス二本立て、報酬設計、コード生成のセキュリティリスクなど、新着10論文を比較条件と限界まで解説します。
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.23806
+https://arxiv.org/abs/2608.23570
+https://arxiv.org/abs/2608.23705
+https://arxiv.org/abs/2608.23783
+https://arxiv.org/abs/2608.23719
+https://arxiv.org/abs/2608.23812
+https://arxiv.org/abs/2608.23830
+https://arxiv.org/abs/2608.23897
+https://arxiv.org/abs/2608.23969
+https://arxiv.org/abs/2608.23818
+
+#生成AI #LLM #AI #arxiv #論文解説 #ずんだもん
+&lt;/content&gt;</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-27-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9736066" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-27</guid>
+      <pubDate>Thu, 27 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>迎合するAIと消えない記憶｜生成AI論文10本【2026/08/26】</title>
       <description>エージェント設計が迎合を増幅する条件、敵対的質問で崩れるアンラーニング、検索拡張生成の漏洩対策など、新着10論文を比較条件と限界まで解説します。
 
