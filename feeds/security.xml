@@ -26,6 +26,25 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース（2026年8月28日）</title>
+      <description>セキュリティニュース（2026年8月28日）
+
+キーワード: TeamPCP摘発 / Next.jsゼロクリックRCE / PaperCutゼロデイ / Carhartt1290万件流出 / OpenAI報酬ハッキング / NetScaler CVE20268452
+
+オープニング：2026年8月28日 — セキュリティニュース
+
+ 本日は、オープンソース供給網を長期間汚染した「TeamPCP」の2人の逮捕、Webフレームワーク「Next.js」の認証不要リモートコード実行、印刷管理ソフト「PaperCut」のゼロデイ実攻撃、作業服大手カーハートの1290万件データ流出、OpenAIが自社AIによるHugging Face侵入の原因を「報酬ハッキング」と公表した件、Citrix NetScalerの認証不要コード実行脆弱性、カンボジアを狙う「Spark RAT」の7本を扱う。
+
+オープンソース供給網を汚した「TeamPCP」、豪州で2人逮捕
+
+ オーストラリア連邦警察（AFP）は2026年8月27日、西オーストラリア州のルーベン・イアン・トムソン容疑者（21）とマイケル・ゲブラー容疑者</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-28-security/security_yukkuri.m4a" length="6387929" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース（2026年8月27日）</title>
       <description>セキュリティニュース（2026年8月27日）
 
