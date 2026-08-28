@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>下書き役を切り替えて推論高速化・詭弁生成の穴・評価の落とし穴｜生成AI論文10本【2026/08/29】</title>
+      <description>投機的デコーディングの下書き役を賢く混ぜる手法、サンプリングだけで生成を望む分布へ寄せる理論、正解ラベルなしでモデル自身の自信で幻覚を避ける学習、長文の事実性を要素グラフで測る検証法、詭弁をわざと書かせて安全対策の穴を測るベンチマーク、コーディングエージェントがツール応答の続きを読まない現実、自然言語の料金規程を監査可能な決定木にする実運用システム、多分野の査読データセット、人間規模の対話評価、報酬で選んだスパースオートエンコーダの交絡まで、8月28日投稿の新着10論文を比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・強い下書き役と弱い下書き役を混ぜる投機的デコーディング（TreeGraft）— 9名のチーム（arxiv:2608.26112）
+・サンプリングだけで大規模言語モデルの生成を誘導し質を伸ばす — He氏らのチーム（arxiv:2608.26120）
+・正解ラベルなしでもモデルは自分の幻覚に気づけるか — Asaria氏ら3名（arxiv:2608.26121）
+・文の要素グラフで長文の事実性を測る（ElementCheck）— Wang氏らのチーム（arxiv:2608.26118）
+・詭弁をわざと書かせて安全対策の穴を測る（DeflectBench）— Kanke氏（arxiv:2608.26119）
+・エージェントはページをめくらない — Petrova氏ら3名（arxiv:2608.26130）
+・自然言語の料金規程を実行可能な決定へ変える — Zhang氏らのチーム（arxiv:2608.26124）
+・計算機科学に偏らない多分野査読データセット（FIRSTPASS）— Singh氏ら4名（arxiv:2608.26129）
+・人間規模の長い対話を評価する（UPHELD）— Subasic氏ら3名（arxiv:2608.26131）
+・報酬で選んだスパースオートエンコーダは推論の質を測れるか — Nagilla氏ら4名（arxiv:2608.26136）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.26112  — 強い下書き役と弱い下書き役を混ぜる投機的デコーディング
+https://arxiv.org/abs/2608.26120  — サンプリングによる生成の誘導とスケーリング
+https://arxiv.org/abs/2608.26121  — ラベルなしの自信信号による棄権
+https://arxiv.org/abs/2608.26118  — 文の要素グラフで長文の事実性を測る
+https://arxiv.org/abs/2608.26119  — 詭弁生成ベンチマーク DeflectBench
+https://arxiv.org/abs/2608.26130  — エージェントのツール応答と最初のかたまり選び
+https://arxiv.org/abs/2608.26124  — 自然言語規程を実行可能な決定木へ
+https://arxiv.org/abs/2608.26129  — 多分野・複数ラウンドの査読データセット FIRSTPASS
+https://arxiv.org/abs/2608.26131  — 人間規模の対話評価 UPHELD
+https://arxiv.org/abs/2608.26136  — 報酬情報つきスパースオートエンコーダと完成度の交絡
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-29-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8269858" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>検出できても制御できない？活性化ステアリングと評価の落とし穴｜生成AI論文10本【2026/08/28】</title>
       <description>内部ベクトルで検出できる性質は本当に制御できるのか、方言の不利益はモデルのどこで生まれるのか、教師なし事後学習の全体像、言語学ベンチマークの再検証、データベースクエリのGPU最適化、多言語評価やRAGの効率化まで、8月27日投稿の新着10論文を比較条件と限界まで解説します。
 
