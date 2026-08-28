@@ -26,6 +26,22 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース（2026年8月29日）</title>
+      <description>セキュリティニュース（2026年8月29日）
+
+キーワード: Microsoft398件パッチ / ownCloud CVE202349105 / Gitea CVE202660004 / ServiceNow最大深刻度3件 / 悪性ブラウザ拡張19個 / Snowflake恐喝有罪答弁 / Metabaseゼロデイ
+
+オープニング：2026年8月29日 — セキュリティニュース
+
+ 本日は、マイクロソフトが8月に修正した398件の脆弱性と実際に悪用中のゼロデイ、2023年に修正済みのownCloudの穴がフィリピンの原子力研究機関から核関連資料を盗むのに使われた件、コード管理ソフトGiteaで8000台超が未修正のまま暗号資産マイニングに悪用されている件、ServiceNowのAI基盤に見つかった認証不要の最大深刻度3件、暗号資産を盗む不正なChrome・Edge拡張機能19個、クラウド分析基盤Snowflakeを狙った大規模恐喝でカナダ人が有罪を認めた件、日本でも悪用が確認されているMetabaseのSQLインジェクションの7本を扱う。
+ 通底するのは「修正が出ている、あるいはとっ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-29-security/security_yukkuri.m4a" length="6477030" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース（2026年8月28日）</title>
       <description>セキュリティニュース（2026年8月28日）
 
