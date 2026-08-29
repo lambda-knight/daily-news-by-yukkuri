@@ -11,5 +11,6 @@ layout: default
 | arxiv AI論文解説 | [arxiv AI論文解説](./arxiv_ai/) |
 | arxiv 量子コンピュータ論文解説 | [arxiv 量子コンピュータ論文解説](./arxiv_qc/) |
 | 7カ国メディア比較 | [7カ国メディア比較](./compare/) |
+| 国際・日本報道比較 | [国際・日本報道比較](./intl_jp/) |
 
 [← トップに戻る](../../)
