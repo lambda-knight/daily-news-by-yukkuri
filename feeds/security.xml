@@ -26,6 +26,35 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Claude乗っ取り・870万人流出・ゾンビカード【セキュリティ 2026/08/31】</title>
+      <description>ログイン済みセッションの窃取、空港予約情報の流出、WordPress脆弱性、期限切れVisaカードの悪用など7件を、仕組みと対策まで解説します。
+
+▼ 今日のトピック
+・Claudeのログインセッション窃取
+・マンチェスター空港グループ870万人分の流出
+・WordPress人気プラグイン3種の脆弱性
+・TerminalFixと偽CAPTCHA
+・スマートテレビの住宅用プロキシ化
+・期限切れVisaのゾンビカード攻撃
+・Braveの無料メールエイリアス
+
+▼ 参考記事・ソース
+・BleepingComputer「Claude sessions hijacked」 https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/
+・BleepingComputer「Manchester Airports hack」 https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/
+・The Hacker News「Critical WordPress flaws」 https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html
+・The Hacker News「TerminalFix」 https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html
+・Krebs on Security「LG to Ban Residential Proxies」 https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/
+・The Hacker News「Zombie Card Attack」 https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html
+・BleepingComputer「Brave email aliases」 https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/
+
+#セキュリティ #サイバー攻撃 #情報漏洩 #WordPress #Claude #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-31-security/security_yukkuri.m4a" length="5544246" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-08-31</guid>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース（2026年8月30日）</title>
       <description>セキュリティニュース（2026年8月30日）
 
