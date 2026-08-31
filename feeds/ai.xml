@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【AI業界まとめ】マスクがタービン工場／ゲイツがAI進展に警鐘／サウジに中性原子量子 2026/8/31</title>
+      <description>2026年8月31日の生成AIニュース。AIの競争がモデルの外——電力、製造、現場作業、データの開放性、規制——へ広がるとき、その負担とリスクを誰が負うのかを軸に解説します。
+
+▼ 今日のトピック
+・イーロン・マスクのSpaceXがテキサス州バストロップにガスタービン翼の自前鋳造工場を建設。稼働を最大18カ月前倒しできると主張する一方、メンフィスではxAIの無許可稼働をNAACPが批判、バージニア州の調査では8基のタービンで年3.4〜6.5人の超過死亡・健康被害5300万〜9900万ドルと試算
+・キャタピラーが鉱山の自律運転で培った知見をAI・フィジカルAI展開へ。音声で修理手順を呼び出す「Cat AI Assistant」、接続機器160万台、5年1億ドルで11万8000人を訓練、発電部門は72%増の31億ドル
+・a16zで約40億ドルを率いたビジェイ・パンデ氏がAIネイティブVC「VZVC」を設立。「年30件は張らない」、AIが医療を変えるのは囲い込みでなく共有データセットだと主張
+・ビル・ゲイツ氏がAIの進展速度に警鐘。「バイオ、サイバー、心理社会、雇用破壊、制御の欠如で閾値を越えた」。MITテクノロジーレビューは同週に子ども特集も公開
+・仏パスカルとイレブン・ベンチャーズが合弁「Pasqal Arabia」を設立（8月24日）。中性原子方式の量子プロセッサをサウジ・MENAへ展開、ビジョン2030に沿い王国を地域ハブに、アブドゥルアジズ王子が会長
+
+▼ 参考記事・ソース
+・TechCrunch「Musk's faster path to more gas turbines comes with pollution problem」 https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/
+・TechCrunch「Caterpillar is bringing to AI deployment what it learned from automating mining」 https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/
+・TechCrunch「'We're not doing 30 bets a year': Vijay Pande on betting small after running $4 billion at a16z」 https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/
+・MIT Technology Review「The Download: the Kids issue arrives, and Bill Gates reveals his AI fears」 https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/
+・The Quantum Insider「Pasqal and Eleven Ventures Form Joint Venture for Quantum Computing in Saudi Arabia」 https://thequantuminsider.com/2026/08/24/pasqal-eleven-ventures-joint-venture-quantum-computing-saudi-arabia/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-31-ai/ai_yukkuri.m4a" length="5502211" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-08-31</guid>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIニュース（2026年8月30日）</title>
       <description>生成AIニュース（2026年8月30日）
 
