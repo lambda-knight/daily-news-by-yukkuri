@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子復号に「証明書」？量子重力計航法ほか重要論文10本【2026/8/31】</title>
+      <description>2026年8月31日の量子コンピュータ論文解説。復号の最適性証明、量子アルゴリズムのクエリ下限、超伝導量子ビットの実機数値、衛星に頼らない量子重力計航法まで、重要論文10本を大学院セミナー水準で整理します。
+
+▼ 今日の論文ラインナップ
+・量子LDPC符号の復号に最適性の証明書を付ける（arXiv:2608.25545）
+・√Tマジック状態のフォールトトレラントな準備で合成コストを削る（arXiv:2608.25797）
+・導きの状態がある基底エネルギー推定の最適なクエリ量（arXiv:2608.24494）
+・任意の回路深さでほぼ最適に振幅を推定する（arXiv:2608.24434）
+・量子ノイズが機械学習の汎化を助ける中間ノイズ最適の理論（arXiv:2608.24229）
+・配線数4のフラクソニウム格子で高忠実度のもつれ状態を作る（arXiv:2608.25503）
+・漏れの少ない100ナノ秒未満の超伝導量子ビット読み出し（arXiv:2608.25484）
+・浅いクエリの敵に対し構造なしで乱数生成を無条件に証明する（arXiv:2608.24832）
+・衛星に頼らない量子重力計で海上を航法する実証（arXiv:2608.25563）
+・圧縮性の乱流を量子インスパイア法で直接数値計算する（arXiv:2608.26995）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.25545 — 量子LDPC符号の証明書付き復号
+https://arxiv.org/abs/2608.25797 — √Tマジック状態の準備と注入
+https://arxiv.org/abs/2608.24494 — 導き付き基底エネルギー推定
+https://arxiv.org/abs/2608.24434 — 任意深さの振幅推定
+https://arxiv.org/abs/2608.24229 — 量子機械学習の有限ノイズ最適
+https://arxiv.org/abs/2608.25503 — 配線数4のフラクソニウム格子
+https://arxiv.org/abs/2608.25484 — 100ナノ秒未満の低漏れ読み出し
+https://arxiv.org/abs/2608.24832 — 浅いクエリ敵に対する認証乱数
+https://arxiv.org/abs/2608.25563 — 量子重力計による海上航法
+https://arxiv.org/abs/2608.26995 — 量子インスパイア圧縮性流体計算
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #量子アルゴリズム #量子センサー #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-31-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8498249" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-08-31</guid>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子コンピュータの「必ず残るコスト」を測る週｜ヤン・ミルズQSVT・符号復号ほか10本【2026/8/30】</title>
       <description>2026年8月27日にarXivへ投稿された量子情報の新着から、理論と実装のバランスで10本を選び、ずんだもんと四国めたんが解説します。共通テーマは「資源をそろえたとき、何が原理的にでき、どのコストが必ず残るか」。
 
