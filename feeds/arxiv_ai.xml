@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>感情でAIの助言が変わる？生成AI重要論文10本【2026/09/01】</title>
+      <description>感情文脈で早すぎる決断への後押しが強まる現象から、RAGの内部信号、拡散言語モデルの高速化まで、生成AIの新着論文10本を比較条件と数値に沿って解説します。
+
+▼ 今日の論文ラインナップ
+・感情的な文脈は大規模言語モデルの「早すぎる決断」への後押しを強めるか
+・答える前に知る — 検索拡張生成の信頼性を内部信号で判定する
+・拡散言語モデルのための軌跡レベル投機的デコーディング
+・ベクトル索引に基づく出力エンベディングで大規模言語モデルの推論を加速する
+・訓練するな、選べ — 大規模言語モデルによる選択を用いたモジュール型エンティティ曖昧性解消
+・線形プローブはどのように現れるのか — 概念を標的とした回路追跡の枠組み
+・言語モデルのためのルーブリック誘導強化学習サーベイ
+・インスパイア — 例に基づく数学的推論のための「内在化してから改善する」手法
+・トークナイザが失敗するとき — 低資源言語へのゼロショット転移のためのバイトレベル分割
+・大鎚か外科用メスか — 暗黙のヘイトスピーチのための細粒度適応フレームワーク
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.27465
+https://arxiv.org/abs/2608.27661
+https://arxiv.org/abs/2608.27514
+https://arxiv.org/abs/2608.27460
+https://arxiv.org/abs/2608.27470
+https://arxiv.org/abs/2608.27510
+https://arxiv.org/abs/2608.27505
+https://arxiv.org/abs/2608.27501
+https://arxiv.org/abs/2608.27658
+https://arxiv.org/abs/2608.27462
+
+#生成AI #LLM #AI #arxiv #論文解説 #ゆっくり解説 #ずんだもん #機械学習</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-01-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9446169" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-01</guid>
+      <pubDate>Tue, 01 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIの行動ゲートと暗黙の共謀ほか10本【2026/08/31】</title>
       <description>エージェント安全性、能力統合、推論効率、評価設計を、比較条件・数値・限界まで研究セミナー形式で解説します。
 
