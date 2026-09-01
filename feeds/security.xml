@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>ルーター潜伏・AI侵入自動化・CISA認証情報流出【2026/09/01】</title>
+      <description>中国系集団のルーター侵害、AI支援ツールを使うランサムウェア、署名済みソフトの悪用、CISAのGitHub流出など7件を解説します。
+
+▼ 今日のトピック
+・ファイアアントがルーターで盗聴
+・オーロラがカーソルで侵入を自動化
+・CISAの認証情報が半年間公開
+
+▼ 参考記事・ソース
+・The Hacker News https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html
+・BleepingComputer https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/
+・Krebs on Security https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/
+
+#セキュリティ #サイバー攻撃 #ランサムウェア #ゆっくり解説</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-01-security/security_yukkuri.m4a" length="5922887" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-09-01</guid>
+      <pubDate>Tue, 01 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Claude乗っ取り・870万人流出・ゾンビカード【セキュリティ 2026/08/31】</title>
       <description>ログイン済みセッションの窃取、空港予約情報の流出、WordPress脆弱性、期限切れVisaカードの悪用など7件を、仕組みと対策まで解説します。
 
