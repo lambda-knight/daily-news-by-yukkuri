@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>表面符号を0.2%の計算量で復号？量子論文10本【2026/09/01】</title>
+      <description>有限ビット量子状態トモグラフィから、実用ノイズ下の表面符号、量子資源推定、線形計算量のニューラル復号まで、量子コンピュータの新着論文10本を解説します。
+
+▼ 今日の論文ラインナップ
+・有限ビットのパウリ測定から低ランク量子状態を復元する
+・数学的条件と物理的条件を分けて量子力学を組み直す
+・2次元Z2ヒッグス格子ゲージ理論のフラックスチューブをリアルタイムで追う
+・二重同位体イッテルビウム配列の表面符号を現実的ノイズで評価する
+・SYKモデルのシミュレーションに必要な量子リソースを見積もる
+・ダイヤモンド光機械結晶で12ギガヘルツのひずみと周波数コムを作る
+・検出効率が極端に低くてもネットワークで量子ステアリングを示す
+・境界条件に合わせたスペクトル埋め込みで量子ディープオペレータ網を鍛える
+・機械学習で窒素空孔中心の非マルコフ動力学を丸ごと同定する
+・論理レベルの信念伝播で表面符号を線形計算量で復号する
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.27503
+https://arxiv.org/abs/2608.27543
+https://arxiv.org/abs/2608.27561
+https://arxiv.org/abs/2608.27568
+https://arxiv.org/abs/2608.27573
+https://arxiv.org/abs/2608.27581
+https://arxiv.org/abs/2608.27582
+https://arxiv.org/abs/2608.27626
+https://arxiv.org/abs/2608.27632
+https://arxiv.org/abs/2608.27682
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-01-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8972851" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-01</guid>
+      <pubDate>Tue, 01 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子復号に「証明書」？量子重力計航法ほか重要論文10本【2026/8/31】</title>
       <description>2026年8月31日の量子コンピュータ論文解説。復号の最適性証明、量子アルゴリズムのクエリ下限、超伝導量子ビットの実機数値、衛星に頼らない量子重力計航法まで、重要論文10本を大学院セミナー水準で整理します。
 
