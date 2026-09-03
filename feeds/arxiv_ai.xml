@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>過程報酬と次元ゲートでAIの判断を細かく測る｜重要論文8本 2026/09/04</title>
+      <description>生成AIの最終回答だけでなく、検索の一段、証拠が十分になる瞬間、介入する神経次元まで測る最新研究8本を、評価条件と限界から解説します。
+
+▼ 今日の論文ラインナップ
+・検索拡張生成の一段ごとを評価する過程報酬最適化（arXiv:2609.01658）
+・根拠が十分になった瞬間を学習する選択的回答（arXiv:2609.01687）
+・統計的先取りと定着効果を切り分ける過剰般化の回避（arXiv:2609.01794）
+・プロンプトの書き方がオンデバイス推論の消費電力を左右する（arXiv:2609.01798）
+・音声で裏付けて対話状態追跡の誤りを直す（arXiv:2609.01828）
+・大規模言語モデル内部に読み取れるうつ症状の表現（arXiv:2609.01832）
+・人間と推論モデルの思考量が一致するアブダクション推論（arXiv:2609.01867）
+・介入するニューロンまで選ぶ次元単位の条件付き活性化操舵（arXiv:2609.01878）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.01658
+https://arxiv.org/abs/2609.01687
+https://arxiv.org/abs/2609.01794
+https://arxiv.org/abs/2609.01798
+https://arxiv.org/abs/2609.01828
+https://arxiv.org/abs/2609.01832
+https://arxiv.org/abs/2609.01867
+https://arxiv.org/abs/2609.01878
+
+#生成AI #LLM #AI #arxiv #論文解説 #機械学習 #解釈可能性 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-04-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8830039" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>最終結果だけでは見抜けないAIの失敗、重要論文5本【2026/09/03】</title>
       <description>エージェント評価の潜在故障、安全拒否回路、呼吸音ゼロショット分類、視覚迎合、自律研究ループ崩壊を大学院生向けに解説します。
 
