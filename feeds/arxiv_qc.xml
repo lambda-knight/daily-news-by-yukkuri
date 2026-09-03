@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子優位性を古典計算が追試？量子計算の重要論文8本【2026/09/04】</title>
+      <description>量子アニーラーの古典追試、光子グラフ状態純化、ベル対一つの論理ゲートなど、量子計算の最新研究8本を比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・光子グラフ状態を線形光学だけで純化する
+・ディーウェーブ量子優位性実験を古典変分モンテカルロで追試する
+・サンプルレベル誤り緩和を優勢クラスタリングで確実にする
+・空間トポロジーを保つ量子多体系コンパイラ
+・ペアごとのフィデリティを超える量子表現学習
+・弱結合フラクソニウムによるボソニック量子制御
+・ベル対一つだけのフォールトトレラント量子計算
+・2次元音響波動方程式の量子回路・テンソルネットワーク実装
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.01710
+https://arxiv.org/abs/2609.01719
+https://arxiv.org/abs/2609.01744
+https://arxiv.org/abs/2609.01771
+https://arxiv.org/abs/2609.01797
+https://arxiv.org/abs/2609.01817
+https://arxiv.org/abs/2609.01901
+https://arxiv.org/abs/2609.01904
+
+#量子コンピュータ #量子情報 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-04-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8732132" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子実装の誤差を測って補正する重要論文5本【2026/09/03】</title>
       <description>GKPゲージ場、雑音学習、VQE地形、量子カーネル崩壊、損失耐性センシングを大学院生向けに解説します。
 
