@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】OpenAIの新推論に安全懸念、Googleは6週で3モデル 2026/09/03</title>
+      <description>OpenAI Astraの新しい推論方式、Gemini 3.8 Flash、AI学習と著作権、政府の安全性審査、恒星間探査、商用データセンターへ入る量子機を解説します。
+
+▼ 今日のトピック
+・OpenAI Astraの反復深度と監査可能性
+・Gemini 3.8 Flash、6週間で3本目
+・米政府が著作権訴訟でOpenAI側を支持
+・非公開AI安全性審査を巡る情報開示訴訟
+・AIが設計したアルファ・ケンタウリ探査
+・Diraqの8量子ビット機をシドニーへ設置
+
+▼ 参考記事・ソース
+・TechCrunch「OpenAI’s new reasoning technique alarms AI safety experts」 https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/
+・Ars Technica「Google releases Gemini 3.8 Flash」 https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/
+・TechCrunch「US government sides with OpenAI」 https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/
+・Ars Technica「Trump may be forced to reveal secret rules」 https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/
+・MIT Technology Review「How AI plotted an interstellar journey」 https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/
+・eWeek「Sydney Gets a World-First Quantum Computer」 https://www.eweek.com/news/sydney-world-first-silicon-spin-quantum-computer/
+
+#生成AI #ChatGPT #LLM #量子コンピュータ #ゆっくり解説 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-03-ai/ai_yukkuri.m4a" length="5172604" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIニュース（2026年9月2日）</title>
       <description>生成AIニュース（2026年9月2日）
 
