@@ -26,6 +26,66 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>最終結果だけでは見抜けないAIの失敗、重要論文5本【2026/09/03】</title>
+      <description>エージェント評価の潜在故障、安全拒否回路、呼吸音ゼロショット分類、視覚迎合、自律研究ループ崩壊を大学院生向けに解説します。
+
+▼ 今日の論文ラインナップ
+・最終回答だけでは見えないエージェント軌跡の故障（arXiv:2609.00038）
+・検知から拒否へつながる安全回路（arXiv:2609.00051）
+・医療語彙で接地した呼吸音分類（arXiv:2609.00055）
+・画像を見る前に文章へ迎合するモデル（arXiv:2609.00067）
+・自律研究ループのアルゴリズム的モード崩壊（arXiv:2609.00077）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.00038
+https://arxiv.org/abs/2609.00051
+https://arxiv.org/abs/2609.00055
+https://arxiv.org/abs/2609.00067
+https://arxiv.org/abs/2609.00077
+
+#生成AI #LLM #AI #arxiv #論文解説 #機械学習 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-03-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9146216" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>声や顔をAIの記憶に？生成AI論文10本解説【2026/09/02】</title>
+      <description>モデルの内部表現、答えられない問いへの過信、多肢選択の人気バイアス、テスト時学習、電力効率まで、数値と比較条件・限界を踏まえて研究セミナー形式で解説します。
+
+▼ 今日の論文ラインナップ
+・論文1：パラメトリックなマルチモーダル・ユーザー記憶 — キャプションが運べないものを蓄える（arXiv:2608.28609）
+・論文2：幻覚の信号は平均のずれである — なぜ単純なプローブで十分なのか（arXiv:2608.28930）
+・論文3：置き換えの幻想 — 基盤モデル時代に専用機械学習モデルを問い直す（arXiv:2608.28980）
+・論文4：認識と拒否のずれ — 言語モデルはなぜ構造的に答えられない問いに答えるのか（arXiv:2608.29109）
+・論文5：大規模言語モデルは人気の選択肢を体系的に好む — 多肢選択における証拠と緩和（arXiv:2608.29257）
+・論文6：言語モデルのウェブエージェントに単純なテスト時環境を学ばせる（arXiv:2608.29305）
+・論文7：科学的な方程式発見のためのテスト時スケーリング（arXiv:2608.28660）
+・論文8：グリーンベンチ — アップルシリコン上のオープンソース言語モデル推論の電力効率と炭素排出を測る（arXiv:2608.28667）
+・論文9：ルートスパース — 予算制約つき長文脈プリフィルのための入力条件つきパターン振り分け（arXiv:2608.29058）
+・論文10：深層リサーチの報告執筆を、忠実さのために作り直し監査する（arXiv:2608.28643）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2608.28609 — パラメトリックなマルチモーダル・ユーザー記憶 — キャプションが運べないものを蓄える
+https://arxiv.org/abs/2608.28930 — 幻覚の信号は平均のずれである — なぜ単純なプローブで十分なのか
+https://arxiv.org/abs/2608.28980 — 置き換えの幻想 — 基盤モデル時代に専用機械学習モデルを問い直す
+https://arxiv.org/abs/2608.29109 — 認識と拒否のずれ — 言語モデルはなぜ構造的に答えられない問いに答えるのか
+https://arxiv.org/abs/2608.29257 — 大規模言語モデルは人気の選択肢を体系的に好む — 多肢選択における証拠と緩和
+https://arxiv.org/abs/2608.29305 — 言語モデルのウェブエージェントに単純なテスト時環境を学ばせる
+https://arxiv.org/abs/2608.28660 — 科学的な方程式発見のためのテスト時スケーリング
+https://arxiv.org/abs/2608.28667 — グリーンベンチ — アップルシリコン上のオープンソース言語モデル推論の電力効率と炭素排出を測る
+https://arxiv.org/abs/2608.29058 — ルートスパース — 予算制約つき長文脈プリフィルのための入力条件つきパターン振り分け
+https://arxiv.org/abs/2608.28643 — 深層リサーチの報告執筆を、忠実さのために作り直し監査する
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #OpenAI #Anthropic #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-02-arxiv-ai/arxiv_ai_yukkuri.m4a" length="11049917" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-02</guid>
+      <pubDate>Wed, 02 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>感情でAIの助言が変わる？生成AI重要論文10本【2026/09/01】</title>
       <description>感情文脈で早すぎる決断への後押しが強まる現象から、RAGの内部信号、拡散言語モデルの高速化まで、生成AIの新着論文10本を比較条件と数値に沿って解説します。
 
