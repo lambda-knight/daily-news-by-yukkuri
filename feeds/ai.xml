@@ -26,6 +26,34 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】ChatGPT・Claude・Grok同時障害、Nvidiaが1.3兆円買収 2026/09/04</title>
+      <description>9月3日に起きたChatGPT・Claude・Grok・Geminiの同時障害、NvidiaによるHugging Face買収、Thinking Machinesの大型調達交渉、MetaのAI利用データ提供割引、AIガードレール除去ビジネス、そしてIonQ・NVIDIA・qBraidの量子誤り訂正の進展を解説します。
+
+▼ 今日のトピック
+・ChatGPT・Claude・Grok・Gemini、まれな同時障害
+・Nvidia、Hugging Faceを129億ドルで買収
+・Thinking Machines、時価総額400億ドルで調達交渉
+・Meta、AI利用データ提供に最大95%割引
+・Abliteration.ai、AIガードレール除去をビジネス化
+・IonQ・NVIDIA・qBraid、量子化学シミュレーションでエラー率54%減
+
+▼ 参考記事・ソース
+・Ars Technica「Four major AI models suffer rare overlapping downtime」 https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/
+・TechCrunch「Nvidia confirms it will buy Hugging Face for $12.9 billion」 https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/
+・CNBC「Nvidia agrees to buy Hugging Face for $12.9 billion」 https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html
+・TechCrunch「Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation」 https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/
+・TechCrunch「Meta is paying to peek at how you use their latest AI model」 https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/
+・TechCrunch「Abliteration.ai is making a business out of removing AI guardrails」 https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/
+・Quantum Computing Report「IonQ, NVIDIA, and qBraid Demonstrate 54% Error Reduction in Mid-Circuit Quantum Simulations」 https://quantumcomputingreport.com/ionq-nvidia-and-qbraid-demonstrate-54-error-reduction-in-mid-circuit-quantum-simulations/
+
+#生成AI #ChatGPT #Grok #量子コンピュータ #ゆっくり解説 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-04-ai/ai_yukkuri.m4a" length="5054001" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】OpenAIの新推論に安全懸念、Googleは6週で3モデル 2026/09/03</title>
       <description>OpenAI Astraの新しい推論方式、Gemini 3.8 Flash、AI学習と著作権、政府の安全性審査、恒星間探査、商用データセンターへ入る量子機を解説します。
 
