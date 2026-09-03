@@ -26,6 +26,48 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子実装の誤差を測って補正する重要論文5本【2026/09/03】</title>
+      <description>GKPゲージ場、雑音学習、VQE地形、量子カーネル崩壊、損失耐性センシングを大学院生向けに解説します。
+
+▼ 今日の論文ラインナップ
+・GKP安定化によるコンパクトU(1)ゲージ場（arXiv:2609.00167）
+・テンソルネットワークによる量子雑音学習（arXiv:2609.00169）
+・フラストレート系VQE最適化地形（arXiv:2609.00235）
+・フラクタル次元と量子カーネル崩壊（arXiv:2609.00475）
+・損失耐性分散量子センシング（arXiv:2609.00671）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.00167
+https://arxiv.org/abs/2609.00169
+https://arxiv.org/abs/2609.00235
+https://arxiv.org/abs/2609.00475
+https://arxiv.org/abs/2609.00671
+
+#量子コンピュータ #量子情報 #VQE #GKP #量子センシング #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-03-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8774804" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arXiv量子コンピュータニュース（2026年9月2日）</title>
+      <description>arXiv量子コンピュータニュース（2026年9月2日）
+
+キーワード: 近似量子誤り訂正の普遍的復元 / 変分回路のノイズドリフト制御 / QAOA前処理による組合せ最適化 / 量子信号処理と表現学習 / 交換相互作用だけのQML / 部分転置スペクトルの逆問題
+
+今日のハイライトは三本。ひとつめは、誤り訂正で「一つの復元操作がエラーの族すべてを同時に直せる」という普遍的復元の性質を、近似的な誤り訂正へ拡張した理論。ふたつめは、量子近似最適化アルゴリズムで得た相関情報を古典の厳密ソルバーに渡し、制約付き組合せ最適化を速く解かせるハイブリッド前処理。みっつめは、半導体スピン量子ビットの最小構成である二スピン単位と交換相互作用だけで、10000枚のMNIST手書き数字を90.9パーセントで分類したという量子機械学習の実験的提案です。
+
+論文1: 近似量子誤り訂正における普遍的な復元操作
+
+出典: Universal recovery in approximate quantum error correction. [arXiv:2608.28962](https://arxiv.org/</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-02-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9204807" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-02</guid>
+      <pubDate>Wed, 02 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>表面符号を0.2%の計算量で復号？量子論文10本【2026/09/01】</title>
       <description>有限ビット量子状態トモグラフィから、実用ノイズ下の表面符号、量子資源推定、線形計算量のニューラル復号まで、量子コンピュータの新着論文10本を解説します。
 
