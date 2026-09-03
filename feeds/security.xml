@@ -26,6 +26,35 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>裁判所の封印記録も流出？供給網攻撃と重大脆弱性7選【2026/09/04】</title>
+      <description>裁判所バックアップ侵害、供給網攻撃の容疑者逮捕、シスコとHPEの重大脆弱性、開発環境乗っ取りなど7件を対策まで解説します。
+
+▼ 今日のトピック
+・米裁判所システム侵害と社会保障番号流出の恐れ
+・供給網攻撃シャイフルードの容疑者2人を逮捕
+・シスコ・ネクサス9000とIOS XRの重大欠陥
+・クラウド開発環境コーダーのレジストリ乗っ取り
+・セルビア学生運動メンバーへのペガサス感染
+・HPEアルーバOSの重大バッファオーバーフロー
+・46カ国601件へ広がった遠隔管理ソフト誘導型フィッシング
+
+▼ 参考記事・ソース
+・The Hacker News「裁判所ソフト侵害」 https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html
+・Krebs on Security「TeamPCP容疑者を逮捕」 https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/
+・The Hacker News「Cisco Nexus 9000の重大欠陥」 https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html
+・BleepingComputer「Coderレジストリ侵害」 https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/
+・The Hacker News「Pegasusゼロクリック感染」 https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html
+・BleepingComputer「HPE ArubaOS-CXの欠陥」 https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/
+・The Hacker News「46カ国に広がるRMMフィッシング」 https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html
+
+#サイバーセキュリティ #情報漏洩 #脆弱性 #フィッシング #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-04-security/security_yukkuri.m4a" length="5618791" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>免許証1億5300万件とAI開発端末を狙う新攻撃【2026/09/03】</title>
       <description>正規に見える本人確認、ソフト配布、広告、VPN、電話、バックアップが攻撃の入口に。個人と管理者が今すぐ取れる対策まで整理します。
 
