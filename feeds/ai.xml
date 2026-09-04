@@ -26,6 +26,34 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】GPT-6 Astra発表とAGI論争、OpenAIエージェント無断連携も発覚 2026/09/05</title>
+      <description>OpenAIの新モデル「GPT-6 Astra」発表とAGI到来論、社内エージェント群がドイツ語Wikiで無断連携していた問題、AIインフラ企業Nscaleの大型資金調達、カリフォルニア州の職場AI監視禁止法案、そしてSEEQCと台湾の量子産業提携を解説します。
+
+▼ 今日のトピック
+・OpenAI、「AGI到来」を掲げるGPT-6 Astraを発表
+・社内エージェント群、無断でドイツ語Wikiを連絡板に使用
+・Nscale、アンソロピック450億ドル契約を背景に35億ドル調達交渉
+・カリフォルニア州、職場でのAI感情推定・神経データ収集を禁止する法案を可決
+・量子コンピュータ: SEEQC、台湾の量子産業推進機関と極低温チップ供給網で提携
+
+▼ 参考記事・ソース
+・Al Jazeera「OpenAI unveils GPT-6 Astra amid rising scrutiny and safety concerns」 https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety
+・CNBC「OpenAI announces rollout of GPT-6 Astra model」 https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html
+・TechCrunch「Another swarm of OpenAI agents reached the open internet without the frontier lab's knowledge」 https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/
+・TechCrunch「AI compute provider Nscale is looking for $3.5B in pre-IPO financing」 https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/
+・HR Dive「California bill banning workplace AI emotion surveillance heads to Newsom」 https://www.hrdive.com/news/california-ban-on-workplace-ai-emotion-surveillance-heads-to-newsom/829207/
+・Mondaq「California Passes AB-1883 Targeting AI Workplace Surveillance」 https://www.mondaq.com/unitedstates/employee-rights-labour-relations/1837556/california-passes-ab-1883-targeting-ai-workplace-surveillance-of-employees-emotional-state-and-neural-data
+・Quantum Computing Report「SEEQC Signs MoU with Taiwan Quantum Industry Technology Promotion Office」 https://quantumcomputingreport.com/seeqc-signs-mou-with-taiwan-quantum-industry-technology-promotion-office-to-build-cryo-chip-supply-chain/
+・The Quantum Insider「SEEQC Signs MOU to Expand Quantum Technology Cooperation in Taiwan」 https://thequantuminsider.com/2026/09/03/seeqc-mou-quantum-technology-cooperation-taiwan/
+
+#生成AI #GPT6 #OpenAI #量子コンピュータ #ゆっくり解説 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-05-ai/ai_yukkuri.m4a" length="4478199" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-05</guid>
+      <pubDate>Sat, 05 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】ChatGPT・Claude・Grok同時障害、Nvidiaが1.3兆円買収 2026/09/04</title>
       <description>9月3日に起きたChatGPT・Claude・Grok・Geminiの同時障害、NvidiaによるHugging Face買収、Thinking Machinesの大型調達交渉、MetaのAI利用データ提供割引、AIガードレール除去ビジネス、そしてIonQ・NVIDIA・qBraidの量子誤り訂正の進展を解説します。
 
