@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>免許証1億5300万件流出、パスキー39攻撃手法【セキュリティ 2026/09/05】</title>
+      <description>本人確認企業からの運転免許証画像流出、マイクロソフト398件修正、クロームの悪用済みゼロデイ、病院の多要素認証未導入など7件を解説します。
+
+▼ 今日のトピック
+・運転免許証1億5300万件超の流出
+・マイクロソフト月例更新398件
+・クロームとクラウドストライクのゼロデイ
+・シトリックス機器の実攻撃
+・パスキー周辺を突く39の手法
+
+▼ 参考記事・ソース
+（各記事の媒体名・URLは本編Markdown末尾の参考ソースを参照）
+
+#セキュリティ #脆弱性 #パスキー #サイバー攻撃 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-05-security/security_yukkuri.m4a" length="6069968" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-09-05</guid>
+      <pubDate>Sat, 05 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>裁判所の封印記録も流出？供給網攻撃と重大脆弱性7選【2026/09/04】</title>
       <description>裁判所バックアップ侵害、供給網攻撃の容疑者逮捕、シスコとHPEの重大脆弱性、開発環境乗っ取りなど7件を対策まで解説します。
 
