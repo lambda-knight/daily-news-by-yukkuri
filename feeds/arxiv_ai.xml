@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AIの効果はどこに宿る？重要論文8本を解説【2026/09/05】</title>
+      <description>エージェント設計、投機的デコード、評価汚染、欺瞞検出など、生成AI研究の新着8本を比較条件と限界まで掘り下げます。
+
+▼ 今日の論文ラインナップ
+・エージェントの土台改善はどこで効くのか（arXiv:2609.02889）
+・投機的デコードを窓でなく差分で判断する（arXiv:2609.02897）
+・汚染はスコアを底上げしてもランキングは崩さない（arXiv:2609.02899）
+・部分空間選択で見る欺瞞検出プローブの汎化（arXiv:2609.02893）
+・採点基準の文面だけでLLM審査員の判定は先読みできてしまう（arXiv:2609.02942）
+・必要なときだけグラフ検索を使う経路選択アダプタ（arXiv:2609.02894）
+・音声認識をベースとなる言語モデルの隠れ状態で自己修正する（arXiv:2609.02940）
+・敵対エージェント同士の対戦で鍛える企業向け対話エージェント（arXiv:2609.02902）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.02889 — エージェントの土台改善はどこで効くのか
+https://arxiv.org/abs/2609.02897 — 投機的デコードを窓でなく差分で判断する
+https://arxiv.org/abs/2609.02899 — 汚染はスコアを底上げしてもランキングは崩さない
+https://arxiv.org/abs/2609.02893 — 部分空間選択で見る欺瞞検出プローブの汎化
+https://arxiv.org/abs/2609.02942 — 採点基準の文面だけでLLM審査員の判定は先読みできてしまう
+https://arxiv.org/abs/2609.02894 — 必要なときだけグラフ検索を使う経路選択アダプタ
+https://arxiv.org/abs/2609.02940 — 音声認識をベースとなる言語モデルの隠れ状態で自己修正する
+https://arxiv.org/abs/2609.02902 — 敵対エージェント同士の対戦で鍛える企業向け対話エージェント
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-05-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9344729" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-05</guid>
+      <pubDate>Sat, 05 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>過程報酬と次元ゲートでAIの判断を細かく測る｜重要論文8本 2026/09/04</title>
       <description>生成AIの最終回答だけでなく、検索の一段、証拠が十分になる瞬間、介入する神経次元まで測る最新研究8本を、評価条件と限界から解説します。
 
