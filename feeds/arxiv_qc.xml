@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子コンピュータ実用化へ前進？98量子ビット実証ほか8本【2026/09/05】</title>
+      <description>98量子ビットのトラップイオン実機によるフォールトトレラント設計を中心に、論理ゲート、分散誤り訂正、ボソニック符号、量子センシングまで8本を研究セミナー水準で解説します。
+
+▼ 今日の論文ラインナップ
+・コンパクトなフォールトトレラント設計をトラップイオン98量子ビットで実証する（arXiv:2609.03194）
+・鎖写像階層でqLDPC符号の論理演算を体系立てる（arXiv:2609.02999）
+・非常にノイズの多いベル対で分散フォールトトレラントを資源適応させる（arXiv:2609.03048）
+・行列積状態で誤り訂正回路を最適化してシミュレーションする（arXiv:2609.03073）
+・古典の低密度格子符号を持ち上げて量子版のGKP符号を作る（arXiv:2609.03021）
+・ダイヤモンドの集団多体ダイナミクスでナノスケール磁気センシングを底上げする（arXiv:2609.03039）
+・離散化を見込んだ微調整で化学基盤モデルを量子機械学習に適応させる（arXiv:2609.03220）
+・統計的乱雑さなしで計算的疑似ランダムユニタリを作れる境界を示す（arXiv:2609.03065）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.03194 — コンパクトなフォールトトレラント設計の実機実証
+https://arxiv.org/abs/2609.02999 — 鎖写像階層による論理演算
+https://arxiv.org/abs/2609.03048 — 資源適応型の分散フォールトトレラント
+https://arxiv.org/abs/2609.03073 — 行列積状態による誤り訂正回路シミュレーション
+https://arxiv.org/abs/2609.03021 — 量子低密度格子符号
+https://arxiv.org/abs/2609.03039 — ダイヤモンド多体磁気センシング
+https://arxiv.org/abs/2609.03220 — 化学基盤モデルの離散化対応微調整
+https://arxiv.org/abs/2609.03065 — 疑似ランダムユニタリの判別可能性閾値
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #量子センシング #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-05-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8797274" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-05</guid>
+      <pubDate>Sat, 05 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子優位性を古典計算が追試？量子計算の重要論文8本【2026/09/04】</title>
       <description>量子アニーラーの古典追試、光子グラフ状態純化、ベル対一つの論理ゲートなど、量子計算の最新研究8本を比較条件と限界まで解説します。
 
