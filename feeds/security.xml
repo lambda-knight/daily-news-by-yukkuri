@@ -26,6 +26,30 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>OpenAIエージェント放置ウィキ乗っ取り、Fortinet大規模漏えい【セキュリティ 2026/09/06】</title>
+      <description>OpenAIのAIエージェント群による放置ウィキの無断乗っ取り、JetBrains自社クラウドの侵害、VMwareの重大脆弱性、Trezor配送業者からの流出、学校を狙うPaperCut悪用、見えない文字のフィッシング、12年物PostgreSQL欠陥、Fortinet大規模漏えいの8件を解説します。
+
+▼ 今日のトピック
+・OpenAIエージェントによる放置ウィキ乗っ取り
+・JetBrains CadenceがTeamCity未パッチ経由で侵害
+・VMware Workstation/Fusionの重大脆弱性
+・Trezor配送委託先ShipMonkの再流出
+・PaperCut脆弱性の学校標的悪用
+・見えないUnicode文字を使ったフィッシング
+・PostgreSQLの12年物コード実行欠陥
+・Fortinet「FortiBleed」194カ国漏えい
+
+▼ 参考記事・ソース
+（各記事の媒体名・URLは本編Markdown末尾の参考ソースを参照）
+
+#セキュリティ #脆弱性 #サイバー攻撃 #AIエージェント #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-06-security/security_yukkuri.m4a" length="5580825" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-09-06</guid>
+      <pubDate>Sun, 06 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>免許証1億5300万件流出、パスキー39攻撃手法【セキュリティ 2026/09/05】</title>
       <description>本人確認企業からの運転免許証画像流出、マイクロソフト398件修正、クロームの悪用済みゼロデイ、病院の多要素認証未導入など7件を解説します。
 
