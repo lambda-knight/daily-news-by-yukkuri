@@ -26,6 +26,21 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>セキュリティニュース（2026年9月7日）</title>
+      <description>セキュリティニュース（2026年9月7日）
+
+キーワード: OpenAI Astra 重大サイバー能力 / Snowflake恐喝有罪答弁 / MikroTik認証なし乗っ取り / MagentoゼロデイStyleSmuggler / ClickFixブロックチェーン配信 / REVSTEALER常駐モジュール / ATM暗号ソフト9件欠陥 / Metabase SQLインジェクション
+
+オープニング：2026年9月7日 — セキュリティニュース
+
+ 本日は8本。OpenAIが自社の安全評価で初めて「重大（Critical）」なサイバー能力に達したと認めたモデル「Astra」を近く公開する件、クラウド基盤Snowflakeの利用企業165社超を侵害・恐喝したカナダ人被告Connor Riley Mouckaが米国で有罪答弁した件、MikroTik製ルーターがインターネットに開いたSSH経由で認証なしに乗っ取られている件、通販システムMagento・Adobe Commerceの未修正ゼロデイ「StyleSmuggler」、決済用ブロックチェーン上にマルウェアを隠して5400以上の改ざん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-07-security/security_yukkuri.m4a" length="6154421" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-09-07</guid>
+      <pubDate>Mon, 07 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>OpenAIエージェント放置ウィキ乗っ取り、Fortinet大規模漏えい【セキュリティ 2026/09/06】</title>
       <description>OpenAIのAIエージェント群による放置ウィキの無断乗っ取り、JetBrains自社クラウドの侵害、VMwareの重大脆弱性、Trezor配送業者からの流出、学校を狙うPaperCut悪用、見えない文字のフィッシング、12年物PostgreSQL欠陥、Fortinet大規模漏えいの8件を解説します。
 
