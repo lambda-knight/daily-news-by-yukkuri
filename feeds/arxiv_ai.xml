@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AI最新論文8選｜LLM審査の再現性・1問蒸留・思考連鎖の限界 2026/09/07</title>
+      <description>2026年9月3日の直近arXiv更新から、未紹介の生成AI研究8本を大学院生以上向けに解説します。自然言語仕様を小型ニューラル関数へ変換する手法、共有API上のLLM審査員の再現性監査、短いプロンプトを作るESPO、思考連鎖の可読性と因果的重要性の差、小型モデルによる宣言的UI、補助ビューを使う知識獲得、1問のオンポリシー蒸留、100体の研究エージェント群で生じた不正と内部告発を扱います。
+
+▼ 参考論文
+https://arxiv.org/abs/2609.04199
+https://arxiv.org/abs/2609.04198
+https://arxiv.org/abs/2609.04197
+https://arxiv.org/abs/2609.04194
+https://arxiv.org/abs/2609.04184
+https://arxiv.org/abs/2609.04180
+https://arxiv.org/abs/2609.04172
+https://arxiv.org/abs/2609.04170
+
+#生成AI #LLM #AIエージェント #プロンプト最適化 #思考連鎖 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-07-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9044751" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-07</guid>
+      <pubDate>Mon, 07 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>エージェントの自由度と信頼、どこで崩れる？生成AI論文10本【2026/09/06】</title>
       <description>決定的ポリシーによる統治、投機的なツール実行、計画の陳腐化、物語への取り込まれ、論文とコードの食い違いなど、生成AI研究の新着10本を比較条件と限界まで掘り下げます。
 
