@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【量子論文】量子誤り訂正・量子化学・量子機械学習【2026/09/07】</title>
+      <description>98量子ビット実機でのフォールトトレラント実証から、分散誤り訂正、量子化学、量子カーネル崩壊まで、最新10論文を研究セミナーの密度で解説します。
+
+▼ 今日の論文ラインナップ
+・コンパクトなフォールトトレラント・アーキテクチャの実験実証（arXiv:2609.03194）
+・雑音の多いベルペアで動く分散フォールトトレランス（arXiv:2609.03048）
+・量子低密度格子符号（arXiv:2609.03021）
+・スピン量子ビット・シャトリングバスとマジック状態蒸留（arXiv:2609.02641）
+・水素分子の光イオン化計算手法の比較（arXiv:2609.02461）
+・タンパク質構造予測の対数スケール変分量子ソルバー（arXiv:2609.02113）
+・フラストレート量子スピン模型の最適化地形（arXiv:2609.00235）
+・損失関数をハミルトニアンに符号化する量子学習（arXiv:2609.03640）
+・フラクタル次元による量子カーネル崩壊予測（arXiv:2609.00475）
+・動的リー代数を高速分類するパウリー（arXiv:2608.30771）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.03194 — コンパクトなフォールトトレラント・アーキテクチャの実験実証
+https://arxiv.org/abs/2609.03048 — 雑音の多いベルペアで動く分散フォールトトレランス
+https://arxiv.org/abs/2609.03021 — 量子低密度格子符号
+https://arxiv.org/abs/2609.02641 — スピン量子ビット・シャトリングバスとマジック状態蒸留
+https://arxiv.org/abs/2609.02461 — 水素分子の光イオン化計算手法の比較
+https://arxiv.org/abs/2609.02113 — タンパク質構造予測の変分量子ソルバー
+https://arxiv.org/abs/2609.00235 — フラストレート量子スピン模型の最適化地形
+https://arxiv.org/abs/2609.03640 — コヒーレント量子学習
+https://arxiv.org/abs/2609.00475 — 量子カーネル崩壊の予測
+https://arxiv.org/abs/2608.30771 — 動的リー代数の高速分類
+
+#量子コンピュータ #量子誤り訂正 #量子化学 #量子機械学習 #表面符号 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-07-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8126710" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-07</guid>
+      <pubDate>Mon, 07 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子熱化＝最適な誤り訂正？回路合成NP困難ほか10本【2026/09/06】</title>
       <description>量子熱化そのものが最適な近似量子誤り訂正になっているという理論的発見を軸に、qLDPC符号の並列ゲート、誤り訂正のエネルギーコスト、CNOT回路合成のNP困難性、回路層あたり誤り率ベンチマーク、一定深さの量子射影デザインまで10本を研究セミナー水準で解説します。
 
