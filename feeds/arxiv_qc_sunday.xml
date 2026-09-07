@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>量子コンピュータ日曜深掘り by ずんだもん</title>
+    <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
+    <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/arxiv_qc_sunday.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <copyright>© 2026 daily-news-by-yukkuri</copyright>
+    <description>量子誤り訂正、量子化学、量子機械学習の最新論文を毎週日曜に深掘りします。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
+    <itunes:author>daily-news-by-yukkuri</itunes:author>
+    <itunes:summary>量子誤り訂正、量子化学、量子機械学習の最新論文を毎週日曜に深掘りします。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/arxiv_qc.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>daily-news-by-yukkuri</itunes:name>
+      <itunes:email>tokomakoma123@gmail.com</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://lambda-knight.github.io/daily-news-by-yukkuri/art/arxiv_qc.png</url>
+      <title>量子コンピュータ日曜深掘り by ずんだもん</title>
+      <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
+    </image>
+    <item>
+      <title>【日曜深掘り】量子誤り訂正・量子化学・量子機械学習【2026/09/06】</title>
+      <description>98量子ビット実機でのフォールトトレラント実証から、分散誤り訂正、量子化学、量子カーネル崩壊まで、最新10論文を研究セミナーの密度で解説します。
+
+▼ 今日の論文ラインナップ
+・コンパクトなフォールトトレラント・アーキテクチャの実験実証（arXiv:2609.03194）
+・雑音の多いベルペアで動く分散フォールトトレランス（arXiv:2609.03048）
+・量子低密度格子符号（arXiv:2609.03021）
+・スピン量子ビット・シャトリングバスとマジック状態蒸留（arXiv:2609.02641）
+・水素分子の光イオン化計算手法の比較（arXiv:2609.02461）
+・タンパク質構造予測の対数スケール変分量子ソルバー（arXiv:2609.02113）
+・フラストレート量子スピン模型の最適化地形（arXiv:2609.00235）
+・損失関数をハミルトニアンに符号化する量子学習（arXiv:2609.03640）
+・フラクタル次元による量子カーネル崩壊予測（arXiv:2609.00475）
+・動的リー代数を高速分類するパウリー（arXiv:2608.30771）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.03194 — コンパクトなフォールトトレラント・アーキテクチャの実験実証
+https://arxiv.org/abs/2609.03048 — 雑音の多いベルペアで動く分散フォールトトレランス
+https://arxiv.org/abs/2609.03021 — 量子低密度格子符号
+https://arxiv.org/abs/2609.02641 — スピン量子ビット・シャトリングバスとマジック状態蒸留
+https://arxiv.org/abs/2609.02461 — 水素分子の光イオン化計算手法の比較
+https://arxiv.org/abs/2609.02113 — タンパク質構造予測の変分量子ソルバー
+https://arxiv.org/abs/2609.00235 — フラストレート量子スピン模型の最適化地形
+https://arxiv.org/abs/2609.03640 — コヒーレント量子学習
+https://arxiv.org/abs/2609.00475 — 量子カーネル崩壊の予測
+https://arxiv.org/abs/2608.30771 — 動的リー代数の高速分類
+
+#量子コンピュータ #量子誤り訂正 #量子化学 #FeMoCo #量子機械学習 #VQE #表面符号 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-06-arxiv-qc-sunday/arxiv_qc_sunday_yukkuri.m4a" length="8127873" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc_sunday-2026-09-06</guid>
+      <pubDate>Sun, 06 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>未知状態6コピーで万能量子計算へ？量子誤り訂正・センシング8論文【2026/08/23】</title>
+      <description>この回は2026年8月16日取得論文を基礎・比較用に再構成しており、8月23日の新着紹介ではありません。
+量子コンピュータ日曜深掘り。8月16日取得分から、誤り訂正とフォールトトレラントを優先して8本を比較解説します。
+
+分散量子計算のブロック間CNOTをO(nk)へ抑える回路合成、未知の純粋状態6コピーから正確なCCZマジック状態を作る必要十分条件、インダクタ保護アンドレーエフ・スピン量子ビット、非マルコフ力学の量子シミュレーションを紹介。さらに単一量子ビットで測定回数を10の7乗分の1へ減らした信号学習、9量子ビット画像解析、因果順序を重ねる量子暗号、スペクトル局在とエンタングルメント抽出を扱います。
+
+#量子コンピュータ #量子誤り訂正 #フォールトトレラント #量子センシング #arxiv #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-23-arxiv-qc-sunday/arxiv_qc_sunday_yukkuri.m4a" length="6851766" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc_sunday-2026-08-23</guid>
+      <pubDate>Sun, 23 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>未知状態6コピーで万能量子計算へ？量子誤り訂正・センシング8論文【2026/08/16】</title>
+      <description>量子コンピュータ日曜深掘り。今週の新着15件から、誤り訂正とフォールトトレラントを優先して8本を解説します。
+
+分散量子計算のブロック間CNOTをO(nk)へ抑える回路合成、未知の純粋状態6コピーから正確なCCZマジック状態を作る必要十分条件、インダクタ保護アンドレーエフ・スピン量子ビット、非マルコフ力学の量子シミュレーションを紹介。さらに単一量子ビットで測定回数を10の7乗分の1へ減らした信号学習、9量子ビット画像解析、因果順序を重ねる量子暗号、スペクトル局在とエンタングルメント抽出を扱います。
+
+#量子コンピュータ #量子誤り訂正 #フォールトトレラント #量子センシング #arxiv #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-16-arxiv-qc-sunday/arxiv_qc_sunday_yukkuri.m4a" length="4909862" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc_sunday-2026-08-16</guid>
+      <pubDate>Sun, 16 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【日曜深掘り】量子誤り訂正・フェモコ・量子機械学習 最新論文まとめ12本【2026/07/26】</title>
+      <description>毎週日曜は量子コンピュータ深掘り特集！今週は誤り訂正・量子化学（フェモコ含む）・量子機械学習の3分野から、最新のarXiv論文を12本ご紹介します。しきい値の理論的限界から、フェモコの計算資源を4桁縮める工夫、大規模言語モデルに量子回路設計を任せる試みまで、条件と限界を精密に切り分けながら解説します。
+
+▼ 今日の論文ラインナップ（3分野）
+
+【量子誤り訂正】
+・複数の量子誤り訂正符号を貫く、しきい値の双対性 — シドニー大学（arxiv:2607.21160）
+・バイアスノイズ量子ビットで、フォールトトレラントの前提を見直す — Inria／アリス・アンド・ボブ（arxiv:2607.20143）
+・機械学習でシンドロームを選別し、誤り訂正の信頼性を底上げする — Technology Innovation Institute（arxiv:2607.19563）
+・古典アニーリングで、優れた量子誤り訂正符号を探し当てる（arxiv:2607.19574）
+
+【量子化学（フェモコ含む）】
+・フェモコ計算を軽くする、対称性を使った状態準備 — 大阪大学（arxiv:2601.08533）
+・回路を削っても精度を落とさない、SQDの資源効率化 — ラサラー工科大学（arxiv:2607.15076）
+・VQEの手詰まりを解く、演算子の可換性に着目した高速化 — バンドン工科大学（arxiv:2607.15906）
+・占有数だけで電子状態を求め、測定回数を大幅に減らす — ドノスティア国際物理センター（arxiv:2607.15425）
+
+【量子機械学習】
+・量子機械学習が公開データセットで勝てない理由 — マルチバース・コンピューティング（arxiv:2607.15815）
+・対称性でバレンプラトーを打ち破る — 中国海洋大学（arxiv:2607.12100）
+・大規模言語モデルに量子リザバーの設計を任せてみたら（arxiv:2607.19506）
+・量子ニューラルネットワークにも起きる「グロッキング」現象 — フラウンホーファーIAO（arxiv:2607.08350）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.21160  — 複数の量子誤り訂正符号を貫く、しきい値の双対性
+https://arxiv.org/abs/2607.20143  — バイアスノイズ量子ビットで、フォールトトレラントの前提を見直す
+https://arxiv.org/abs/2607.19563  — 機械学習でシンドロームを選別し、誤り訂正の信頼性を底上げする
+https://arxiv.org/abs/2607.19574  — 古典アニーリングで、優れた量子誤り訂正符号を探し当てる
+https://arxiv.org/abs/2601.08533  — フェモコ計算を軽くする、対称性を使った状態準備
+https://arxiv.org/abs/2607.15076  — 回路を削っても精度を落とさない、SQDの資源効率化
+https://arxiv.org/abs/2607.15906  — VQEの手詰まりを解く、演算子の可換性に着目した高速化
+https://arxiv.org/abs/2607.15425  — 占有数だけで電子状態を求め、測定回数を大幅に減らす
+https://arxiv.org/abs/2607.15815  — 量子機械学習が公開データセットで勝てない理由
+https://arxiv.org/abs/2607.12100  — 対称性でバレンプラトーを打ち破る
+https://arxiv.org/abs/2607.19506  — 大規模言語モデルに量子リザバーの設計を任せてみたら
+https://arxiv.org/abs/2607.08350  — 量子ニューラルネットワークにも起きる「グロッキング」現象
+
+#量子コンピュータ #量子誤り訂正 #量子化学 #FeMoCo #量子機械学習 #VQE #表面符号 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-26-arxiv-qc-sunday/arxiv_qc_sunday_yukkuri.m4a" length="11457869" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc_sunday-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

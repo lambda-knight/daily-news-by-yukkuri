@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ローカルLLM日曜論文解説 by ずんだもん</title>
+    <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
+    <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/arxiv_local.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <copyright>© 2026 daily-news-by-yukkuri</copyright>
+    <description>ローカルLLM、量子化、オンデバイスAIの最新論文を毎週日曜に解説します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
+    <itunes:author>daily-news-by-yukkuri</itunes:author>
+    <itunes:summary>ローカルLLM、量子化、オンデバイスAIの最新論文を毎週日曜に解説します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/arxiv_ai.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>daily-news-by-yukkuri</itunes:name>
+      <itunes:email>tokomakoma123@gmail.com</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://lambda-knight.github.io/daily-news-by-yukkuri/art/arxiv_ai.png</url>
+      <title>ローカルLLM日曜論文解説 by ずんだもん</title>
+      <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
+    </image>
+    <item>
+      <title>ローカルLLM最新研究10選｜4ビット量子化・省メモリ・高速推論 2026/09/06</title>
+      <description>個人パソコンやスマートフォンでLLMを動かすための最新研究10本を、大学院生以上向けに比較解説します。小型モデル対4ビット量子化大型モデル、マルチタスク時のメモリ復元、再帰層の量子化耐性、非英語性能、別の下書きモデルを使わない高速化、ストレージからの重み先読み、エッジSoC計測、CPU帯域との共設計、XTCとDRYによるサンプリング改善を扱います。
+
+▼ 参考論文
+https://arxiv.org/abs/2609.00665 — 小型モデルと量子化大型モデルの持続可能性比較
+https://arxiv.org/abs/2609.01338 — マルチタスク下のオンデバイスLLMメモリ管理
+https://arxiv.org/abs/2609.04098 — ハイブリッドLLM再帰層の4ビット量子化
+https://arxiv.org/abs/2608.24615 — ベンガル語理解に対する量子化の影響
+https://arxiv.org/abs/2609.04010 — 離散拡散による無損失な生成高速化
+https://arxiv.org/abs/2608.22643 — ストレージ対応の疎LLM重み先読み
+https://arxiv.org/abs/2608.25053 — エッジSoC推論の位相別計測
+https://arxiv.org/abs/2608.23841 — CPU帯域に合わせたモデル・ランタイム共設計
+https://arxiv.org/abs/2608.22758 — 上位候補を除くXTCサンプリング
+https://arxiv.org/abs/2608.22761 — 逐語ループを抑えるDRYサンプリング
+
+#ローカルLLM #Ollama #llama_cpp #量子化 #SLM #エッジAI #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-06-arxiv-local/arxiv_local_yukkuri.m4a" length="9627115" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_local-2026-09-06</guid>
+      <pubDate>Sun, 06 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ローカルLLM基礎比較｜量子化だけじゃない｜効率推論・LoRA・7B記憶 2026/08/23</title>
+      <description>この回は2026年8月16日取得論文を基礎・比較用に再構成しており、8月23日の新着紹介ではありません。
+個人PC・スマホ・エッジでLLMを動かすための比較用6論文を解説。プリフィルとデコードの分離、モバイル配置、少数会話LoRA、7Bモデルの記憶統治、複数制約、携帯型エージェント記憶を比較します。
+
+▼ 参考論文
+https://arxiv.org/abs/2608.12385 — プリフィルとデコードを分離するデュアルフロー変換器
+https://arxiv.org/abs/2608.12371 — モバイルエッジでLLM交渉と決定的制約を組み合わせる
+https://arxiv.org/abs/2608.12389 — 少数会話から端末内適応するメタLoRA
+https://arxiv.org/abs/2608.12476 — ローカル7Bを事故らせない統治付き永続メモリ
+https://arxiv.org/abs/2608.12426 — 指示が五、六個を超えると同時遵守が崩れる
+https://arxiv.org/abs/2608.12428 — 持ち運べて自己進化するエージェント記憶層
+
+#ローカルLLM #Ollama #llama_cpp #LoRA #SLM #エッジAI #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-23-arxiv-local/arxiv_local_yukkuri.m4a" length="13379000" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_local-2026-08-23</guid>
+      <pubDate>Sun, 23 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ローカルLLMは量子化だけじゃない｜効率推論・LoRA・7B記憶 2026/08/16</title>
+      <description>個人PC・スマホ・エッジでLLMを動かすための最新6論文を解説。プリフィルとデコードの分離、モバイル配置、少数会話LoRA、7Bモデルの記憶統治、複数制約、携帯型エージェント記憶を比較します。
+
+▼ 参考論文
+https://arxiv.org/abs/2608.12385 — プリフィルとデコードを分離するデュアルフロー変換器
+https://arxiv.org/abs/2608.12371 — モバイルエッジでLLM交渉と決定的制約を組み合わせる
+https://arxiv.org/abs/2608.12389 — 少数会話から端末内適応するメタLoRA
+https://arxiv.org/abs/2608.12476 — ローカル7Bを事故らせない統治付き永続メモリ
+https://arxiv.org/abs/2608.12426 — 指示が五、六個を超えると同時遵守が崩れる
+https://arxiv.org/abs/2608.12428 — 持ち運べて自己進化するエージェント記憶層
+
+#ローカルLLM #Ollama #llama_cpp #LoRA #SLM #エッジAI #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-08-16-arxiv-local/arxiv_local_yukkuri.m4a" length="13357996" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_local-2026-08-16</guid>
+      <pubDate>Sun, 16 Aug 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>自分のPCで動く最強AIを探せ！今週のローカルLLM論文まとめ【ビットネット量子化ほか10本 2026/07/26】</title>
+      <description>個人のパソコンやスマホで動かせる小型・軽量LLMに関する最新論文10本を、ずんだもんと四国めたんが解説します。今週はビットネット流の3値量子化でエッジCPU上のリアルタイム音声認識を実現するモデル、量子化の副作用を暴く分析、投機的デコーディングを最大16倍速くするカーネル、7Bモデルが72Bモデルとのエージェント性能差を縮める蒸留手法など、Ollama・llama.cppユーザーが週末に試したくなる内容を集めました。
+
+▼ 今日の論文ラインナップ
+・VibeVoice-ASR-BitNet Technical Report — マイクロソフトリサーチほか（arxiv:2607.21075）
+・GaugeQuant: Online Learning of Quantization-Optimal Bases from LLM Symmetries — リスボンの独立研究者（arxiv:2607.20757）
+・Silent Failures in Quantized LLM Reasoning — 研究チーム（arxiv:2607.09999）
+・SonicSampler: Unified Tile-Aware Kernels for LLM Sampling and Speculative Verification — Together AI（arxiv:2607.20475）
+・Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context — NVIDIA（arxiv:2607.21535）
+・Error Certificates for KV-Cache Eviction via Randomized Design — ミュンヘン工科大学（arxiv:2607.21475）
+・Adaptive Depth Sparse Framework — 南方科技大学・ファーウェイ（arxiv:2607.21291）
+・Learn2Zinc: Fine-tuning Small Language Models for Text-to-Model Translation in MiniZinc — フィデリティ・インベストメンツ、ブラウン大学（arxiv:2607.20456）
+・Student-Centered Distillation Narrows the Agentic Gap Between Small and Large LLMs — アリババクラウドPAI、中国科学技術大学（arxiv:2509.14257）
+・LinearARD: Linear-Memory Attention Distillation for RoPE Restoration — 中国科学院自動化研究所ほか（arxiv:2604.00004）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2607.21075 — ビットネット流の3値量子化でエッジCPU上のリアルタイム音声認識を実現するVibeVoice-ASR-BitNet
+https://arxiv.org/abs/2607.20757 — トランスフォーマーの対称性を逆手に取り、量子化に強い基底を学習するGaugeQuant
+https://arxiv.org/abs/2607.09999 — 量子化されたLLMの推論に忍び込む「静かな失敗」
+https://arxiv.org/abs/2607.20475 — 投機的デコーディングのサンプリング処理を1つのカーネルに融合し最大16倍速くするSonicSampler
+https://arxiv.org/abs/2607.21535 — 百万トークン文脈で投機的デコーディングのドラフト読み込みコストを消すWindowed-MTP
+https://arxiv.org/abs/2607.21475 — KVキャッシュを削るときにランダム性を持ち込み、失敗を検知できる「誤差証明書」を作る
+https://arxiv.org/abs/2607.21291 — 再学習なしで既存LLMを層方向にスカスカにするAdaptive Depth Sparse Framework
+https://arxiv.org/abs/2607.20456 — 小型モデルにニッチな制約プログラミング言語MiniZincを教えるLearn2Zinc
+https://arxiv.org/abs/2509.14257 — 生徒中心の蒸留SCoReで、7Bモデルが72Bモデルとのエージェント性能差を縮める
+https://arxiv.org/abs/2604.00004 — わずかなトークン量で長文脈対応能力を修復する自己蒸留LinearARD
+
+#ローカルLLM #Ollama #llama.cpp #量子化 #SLM #エッジAI #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-07-26-arxiv-local/arxiv_local_yukkuri.m4a" length="9420370" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_local-2026-07-26</guid>
+      <pubDate>Sun, 26 Jul 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
