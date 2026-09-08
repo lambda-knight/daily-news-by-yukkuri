@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Magentoゼロデイに緊急パッチ、MFA突破258組織【セキュリティ 2026/09/08】</title>
+      <description>Magento StyleSmugglerの緊急パッチ、フィッシング代行BigBear2.0のMFA突破、Metabase経由のMathspace108万人流出、航空旅客2億2000万件露出、FreeIPAの認証なし管理者権限、GoogleのAI攻撃フレームワーク報告など8件を対策まで解説します。
+
+▼ 今日のトピック
+・Magento・Adobe Commerceゼロデイ「StyleSmuggler」に9月8日パッチ（CVE-2026-75650、CVSS10.0）
+・フィッシング代行「BigBear 2.0」が多要素認証を突破、258組織で5137件の認証情報
+・学習アプリMathspace、Metabaseの欠陥で108万人分流出（ShinyHunters疑い）
+・航空旅客2億2000万件超、ベトナム関連の事前旅客情報データベースが露出
+・FreeIPAに認証不要で管理者権限を奪う脆弱性連鎖（CVE-2026-76578、CVSS9.8）
+・Google、生成AIを組み込んだ攻撃自動化フレームワーク「Recon」を報告
+・Bing検索汚染「BengalSEO」がMayaBotとサポート詐欺へ誘導
+・Grindr、HIV状態の広告目的共有をめぐり英国で2600万ポンドの和解
+
+▼ 参考記事・ソース
+・The Hacker News「Adobe Patches Magento Zero-Day」 https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html
+・Bleeping Computer「BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations」 https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/
+・Bleeping Computer「Mathspace discloses data breach affecting over 1 million people」 https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/
+・Bleeping Computer「220 million traveler records exposed in Vietnam-linked APIS leak」 https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/
+・The Hacker News「FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials」 https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html
+・Bleeping Computer「Hackers build AI frameworks for widescale credential theft」 https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/
+・The Hacker News「BengalSEO Poisons Bing Search Results」 https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html
+・The Hacker News「Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing」 https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html
+
+#セキュリティ #脆弱性 #フィッシング #多要素認証 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-08-security/security_yukkuri.m4a" length="6434704" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>セキュリティニュース（2026年9月7日）</title>
       <description>セキュリティニュース（2026年9月7日）
 
