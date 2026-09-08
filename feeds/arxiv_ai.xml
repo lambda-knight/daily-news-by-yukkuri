@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AI最新論文8選｜スパイキングLLM・認識的多様性・意味保存指標 2026/09/08</title>
+      <description>2026年9月4日提出の直近arXiv更新から、未紹介の生成AI研究8本を大学院生以上向けに解説します。正答率という一次元では見えない性質を、明示的な測定設計で可視化した研究を集めました。1ニューロン最大1回の発火で15億パラメータを動かすスパイキング言語モデル、正答しても知識を狭める「認識的多様性」、道徳判断の一貫性を行動だけで測る4条件、参照文書からSQLデータベースを組ませる幻覚検出、法的効力だけ反転させて意味保存指標をふるいにかけるLexFlip、言語間の表現共有度を測る指標の横並び比較と異方性、失敗事例だけの強化学習で文脈を16倍圧縮するDEX-Comp、同じ質問を繰り返すと推薦ブランドは尽きるが引用元は尽きないという分析を扱います。
+
+▼ 参考論文
+https://arxiv.org/abs/2609.05151
+https://arxiv.org/abs/2609.04835
+https://arxiv.org/abs/2609.05036
+https://arxiv.org/abs/2609.05025
+https://arxiv.org/abs/2609.05296
+https://arxiv.org/abs/2609.04819
+https://arxiv.org/abs/2609.05152
+https://arxiv.org/abs/2609.05059
+
+#生成AI #LLM #スパイキングニューラルネットワーク #RAG #AI評価 #解釈可能性 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-08-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8740827" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AI最新論文8選｜LLM審査の再現性・1問蒸留・思考連鎖の限界 2026/09/07</title>
       <description>2026年9月3日の直近arXiv更新から、未紹介の生成AI研究8本を大学院生以上向けに解説します。自然言語仕様を小型ニューラル関数へ変換する手法、共有API上のLLM審査員の再現性監査、短いプロンプトを作るESPO、思考連鎖の可読性と因果的重要性の差、小型モデルによる宣言的UI、補助ビューを使う知識獲得、1問のオンポリシー蒸留、100体の研究エージェント群で生じた不正と内部告発を扱います。
 
