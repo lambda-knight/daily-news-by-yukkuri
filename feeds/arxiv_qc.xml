@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子コンピュータが実用計算に近づいた？今週の重要論文を解説【2026/09/08】</title>
+      <description>フェルミ・ハバードのコンパイルを3.9倍圧縮した研究、グーグルのウィロー実機で復号器の順位を検証した研究、因果順序を固定しない量子計測の基礎限界まで、9月3〜4日投稿の最新10論文を研究セミナーの密度で解説します。
+
+▼ 今日の論文ラインナップ
+・能動体積を意識した2次元フェルミ・ハバード基底エネルギー推定のコンパイル（arXiv:2609.05316）
+・3次元的な量子ビット制御による効率的な量子誤り訂正（arXiv:2609.04459）
+・表面符号復号器のシミュレーションから実機への橋渡しベンチマーク（arXiv:2609.04557）
+・放射線起因の過渡故障をタイル配置で抑えるTETRIS-Q（arXiv:2609.05226）
+・超伝導量子ビット向け二共振器カプラによる高忠実度2量子ビットゲート（arXiv:2609.05222）
+・位相安定化なしで動く長距離ツインフィールド量子鍵配送ネットワーク（arXiv:2609.04447）
+・因果順序を固定しない量子メトロロジーの基本限界（arXiv:2609.05355）
+・バレンプラトーを表現論で特徴づける枠組み（arXiv:2609.04462）
+・時系列基盤モデルの量子ファインチューニングをスケールさせる（arXiv:2609.05408）
+・量子周辺情報から多者間もつれをニューラルネットで再構成する（arXiv:2609.04896）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.05316 — 能動体積を意識したフェルミ・ハバードのコンパイル
+https://arxiv.org/abs/2609.04459 — 3次元的な量子ビット制御による量子誤り訂正
+https://arxiv.org/abs/2609.04557 — 表面符号復号器の実機ベンチマーク
+https://arxiv.org/abs/2609.05226 — 放射線起因の過渡故障を抑えるTETRIS-Q
+https://arxiv.org/abs/2609.05222 — 超伝導量子ビット向け二共振器カプラ
+https://arxiv.org/abs/2609.04447 — 長距離ツインフィールド量子鍵配送ネットワーク
+https://arxiv.org/abs/2609.05355 — 因果順序を固定しない量子メトロロジーの基本限界
+https://arxiv.org/abs/2609.04462 — バレンプラトーの表現論的な枠組み
+https://arxiv.org/abs/2609.05408 — 時系列基盤モデルの量子ファインチューニング
+https://arxiv.org/abs/2609.04896 — 量子周辺情報からの多者間もつれ再構成
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-08-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9583728" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【量子論文】量子誤り訂正・量子化学・量子機械学習【2026/09/07】</title>
       <description>98量子ビット実機でのフォールトトレラント実証から、分散誤り訂正、量子化学、量子カーネル崩壊まで、最新10論文を研究セミナーの密度で解説します。
 
