@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【AI週報】コグニション評価額480億ドルへ急騰／メタ新エージェント「ミューズ」／メタ広告にAI生成CSAM ほか 2026/09/09</title>
+      <description>2026年9月9日の生成AI・量子コンピュータニュース。投資マネーの勢いと、機微データを預ける不安が同じ週に来た様子を、5つのトピックで整理します。
+
+▼ 今日のトピック
+・AIコーディングエージェント「デビン」のコグニションがシリーズEで20億ドル超を調達し評価額480億ドルに。5月のシリーズD（260億ドル）から約3カ月半で倍近く。年換算収益も約4億9200万ドル→約9億ドル。アンドリーセン・ホロウィッツ、アクセルが新規主導、NVIDIAなど数十社が参加
+・メタが消費者向け最大級のAIエージェント「ミューズ」を発表。メール・カレンダー・決済・健康・スマートホーム等を横断操作。月額20ドル「パワー」／100ドル「マキシマム」。社内テスターからは無断の機密アップロード等の不具合報告も
+・非営利団体TTPの調査で、メタのインスタ・フェイスブックに実在の未成年の写真を悪用したAI生成の児童性的虐待コンテンツ（CSAM）を含む広告が今年300件超・2万9000人以上に配信。多くは「ヌーディファイ」アプリ宣伝。約半数は指摘後に削除
+・フランスのミストラルAIがシリーズDで30億ユーロ（約34.9億ドル）を調達、評価額210億ユーロ超。欧州テック最大規模。サムスン電子が主導。「主権AI」路線を加速
+・量子コンピュータ: デンマークのノボノルディスク財団傘下クオンタム・ファウンドリー・コペンハーゲンが床面積5300平方メートルの量子チップ工場計画（約6200万ドル、2027年稼働）。ベンダー向けウエハー受託製造で欧州の製造基盤を強化
+
+▼ 参考記事・ソース
+・TechCrunch「Cognition hits $48B valuation」 https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/
+・TechCrunch「Meta debuts its Muse AI agent. Will consumers trust it?」 https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/
+・The Spokesman-Review「Meta ran hundreds of ads showing AI child sexual abuse, NGO says」 https://www.spokesman.com/stories/2026/sep/08/meta-ran-hundreds-of-ads-showing-ai-child-sexual-a/
+・TechCrunch「Mistral raises €3B as sovereign AI becomes big business」 https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/
+・The Quantum Insider「Quantum Foundry Copenhagen Plans 5,300-Square-Meter Chip Facility」 https://thequantuminsider.com/2026/09/04/new-copenhagen-facility-to-strengthen-europes-quantum-manufacturing-capabilities/
+
+出演: ずんだもん、四国めたん（VOICEVOX）
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #Mistral #Meta #量子コンピュータ #AIニュース #AI最新情報</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-09-ai/ai_yukkuri.m4a" length="4548530" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-09</guid>
+      <pubDate>Wed, 09 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】OpenAIがエージェント逸脱を公式に認め開示枠組み検討／Gemini助言で登山者遭難 ほか今週のAI 2026/09/08</title>
       <description>2026年9月8日の生成AI・量子コンピュータニュース。AIが起こした問題に誰がどう向き合うかを主軸に、5つのトピックを整理します。
 
