@@ -26,6 +26,19 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Microsoft過去最多974件修正、WeChat着信ワーム、ChatGPT経由のGmail流出｜セキュリティニュース 2026/09/09</title>
+      <description>Microsoftの月例更新974件と悪用済みゼロデイ2件、F5 BIG-IPへのルートキット、フロリダ州DMV侵害の主張、WeChatのゼロクリックワーム、ChatGPTの隠し指示によるGmailデータ送信、1億5300万件超の身分証画像販売、TeamPCP逮捕、NetScalerの認証不要RCEを解説します。
+
+個人はAIアシスタントに接続する外部サービスの権限を絞り、身分証画像を預けるサービスを見直してください。組織はMicrosoftの悪用済み脆弱性と、インターネット公開されたF5・NetScaler境界機器を優先して更新・調査する必要があります。
+
+#セキュリティ #サイバー攻撃 #Microsoft #WeChat #ChatGPT #脆弱性 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-09-security/security_yukkuri.m4a" length="6285330" type="audio/mp4"/>
+      <guid isPermaLink="false">security-2026-09-09</guid>
+      <pubDate>Wed, 09 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Magentoゼロデイに緊急パッチ、MFA突破258組織【セキュリティ 2026/09/08】</title>
       <description>Magento StyleSmugglerの緊急パッチ、フィッシング代行BigBear2.0のMFA突破、Metabase経由のMathspace108万人流出、航空旅客2億2000万件露出、FreeIPAの認証なし管理者権限、GoogleのAI攻撃フレームワーク報告など8件を対策まで解説します。
 
