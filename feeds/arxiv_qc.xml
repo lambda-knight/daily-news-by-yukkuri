@@ -26,6 +26,26 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>2万量子ビットで楕円曲線暗号を26日？量子計算の最新論文7本【2026/09/09】</title>
+      <description>256ビット楕円曲線離散対数の端から端の資源見積もり、信号を位相オラクルにする量子センシング、凸最適化の量子問合せ下界、GKP自己訂正、多体スカー符号、LDPC量子メッセージ復号まで、新着7論文を大学院授業レベルで解説します。
+
+▼ 論文
+・2万量子ビットで256ビット楕円曲線離散対数を26日（arXiv:2609.05625）
+・量子計算を組み込んだセンシング実験（arXiv:2609.07613）
+・行列積ビリーフ伝播（arXiv:2609.05598）
+・凸最適化と実行列問合せの量子下界（arXiv:2609.05679）
+・GKP量子ビットのサブシステム自己訂正（arXiv:2609.07702）
+・前熱化多体スカーから作る誤り訂正符号（arXiv:2609.05699）
+・ランダムLDPC符号の量子メッセージ復号（arXiv:2609.05857）
+
+#量子コンピュータ #量子誤り訂正 #量子センシング #暗号 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-09-arxiv-qc/arxiv_qc_yukkuri.m4a" length="5032570" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-09</guid>
+      <pubDate>Wed, 09 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子コンピュータが実用計算に近づいた？今週の重要論文を解説【2026/09/08】</title>
       <description>フェルミ・ハバードのコンパイルを3.9倍圧縮した研究、グーグルのウィロー実機で復号器の順位を検証した研究、因果順序を固定しない量子計測の基礎限界まで、9月3〜4日投稿の最新10論文を研究セミナーの密度で解説します。
 
