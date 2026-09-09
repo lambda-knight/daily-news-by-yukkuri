@@ -26,6 +26,26 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AI最新論文7選｜安全評価・RAGルーティング・並列デコード 2026/09/09</title>
+      <description>2026年9月8日提出のarXiv新着から、生成AI研究7本を大学院授業レベルで解説します。言語モデル内部の磁性ベクトルと除去実験、公開エージェントスキルの人間統治、強いRAG基準に対するクエリ書き換えの相補性、共通文脈質問応答を最大7倍にするプロンプト内並列デコード、安全モニタの標準再現率と実効防御のずれ、自己生成した対話履歴への因果介入、ページ引用を検証・修復するAtomCiteを扱います。各研究の比較条件、アブレーション、数値結果、一般化の限界を中心に整理します。
+
+▼ 参考論文
+https://arxiv.org/abs/2609.05743
+https://arxiv.org/abs/2609.05677
+https://arxiv.org/abs/2609.05637
+https://arxiv.org/abs/2609.05707
+https://arxiv.org/abs/2609.05797
+https://arxiv.org/abs/2609.05882
+https://arxiv.org/abs/2609.05802
+
+#生成AI #LLM #RAG #AI安全 #AIエージェント #解釈可能性 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-09-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8749284" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-09</guid>
+      <pubDate>Wed, 09 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AI最新論文8選｜スパイキングLLM・認識的多様性・意味保存指標 2026/09/08</title>
       <description>2026年9月4日提出の直近arXiv更新から、未紹介の生成AI研究8本を大学院生以上向けに解説します。正答率という一次元では見えない性質を、明示的な測定設計で可視化した研究を集めました。1ニューロン最大1回の発火で15億パラメータを動かすスパイキング言語モデル、正答しても知識を狭める「認識的多様性」、道徳判断の一貫性を行動だけで測る4条件、参照文書からSQLデータベースを組ませる幻覚検出、法的効力だけ反転させて意味保存指標をふるいにかけるLexFlip、言語間の表現共有度を測る指標の横並び比較と異方性、失敗事例だけの強化学習で文脈を16倍圧縮するDEX-Comp、同じ質問を繰り返すと推薦ブランドは尽きるが引用元は尽きないという分析を扱います。
 
