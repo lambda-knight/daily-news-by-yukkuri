@@ -4,14 +4,14 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ずんだもんの生成AIニュース</title>
+    <title>ずんだもんのAI・量子・セキュリティニュース</title>
     <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/ai.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <copyright>© 2026 daily-news-by-yukkuri</copyright>
-    <description>生成AIの最新ニュースを、ずんだもんと四国めたんが毎日わかりやすく解説します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
+    <description>生成AI・量子コンピュータ・サイバーセキュリティの最新ニュースを、ずんだもんと四国めたんが毎日わかりやすく解説します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
     <itunes:author>daily-news-by-yukkuri</itunes:author>
-    <itunes:summary>生成AIの最新ニュースを、ずんだもんと四国めたんが毎日わかりやすく解説します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
+    <itunes:summary>生成AI・量子コンピュータ・サイバーセキュリティの最新ニュースを、ずんだもんと四国めたんが毎日わかりやすく解説します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/ai.png"/>
@@ -22,9 +22,22 @@
     </itunes:owner>
     <image>
       <url>https://lambda-knight.github.io/daily-news-by-yukkuri/art/ai.png</url>
-      <title>ずんだもんの生成AIニュース</title>
+      <title>ずんだもんのAI・量子・セキュリティニュース</title>
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
+    <item>
+      <title>【AI・量子・セキュリティ】数学の難問とモデル蒸留／光量子部品へ1億ドル／Microsoft 974件修正 2026/09/10</title>
+      <description>2026年9月10日の生成AI・量子コンピュータ・セキュリティニュース。OpenAIの数学的成果主張と功績帰属、中国AI企業6社へのモデル蒸留勧告、Apple Watchの常時聞き取り、PsiQuantumの1億ドル助成、Microsoftの974件の修正、Cisco Secure FMCのCVE-2026-20079を解説します。
+
+出演: ずんだもん、四国めたん（VOICEVOX）
+
+#生成AI #量子コンピュータ #セキュリティ #OpenAI #PsiQuantum #Microsoft #Cisco</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-10-ai/ai_yukkuri.m4a" length="4465655" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-10</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【AI週報】コグニション評価額480億ドルへ急騰／メタ新エージェント「ミューズ」／メタ広告にAI生成CSAM ほか 2026/09/09</title>
       <description>2026年9月9日の生成AI・量子コンピュータニュース。投資マネーの勢いと、機微データを預ける不安が同じ週に来た様子を、5つのトピックで整理します。
@@ -1533,7 +1546,7 @@ AI企業の安全誓約、性能向上の一方で後退との評価
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ずんだもんの生成AIニュース 2026-07-08</title>
+      <title>ずんだもんのAI・量子・セキュリティニュース 2026-07-08</title>
       <description>{Claude Coworkクロード コワーク}がモバイル・ウェブへ対応拡大
 
  {Anthropicアンソロピック}のコーディングエージェント「{Claude Coworkクロード コワーク}」が、モバイルアプリとウェブ版に対応拡大
@@ -1713,7 +1726,7 @@ AI企業の安全誓約、性能向上の一方で後退との評価
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ずんだもんの生成AIニュース 2026-07-02</title>
+      <title>ずんだもんのAI・量子・セキュリティニュース 2026-07-02</title>
       <description>Cloudflareが「AIはコンテンツ利用料を払え」新方針
 
  Cloudflareが2026年9月15日を期限に、AI企業へ新方針を通告
@@ -1739,7 +1752,7 @@ LLMは「金太郎飴」思考から抜け出せるか
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ずんだもんの生成AIニュース 2026-07-01</title>
+      <title>ずんだもんのAI・量子・セキュリティニュース 2026-07-01</title>
       <description>Claude Sonnet 5登場 — エージェント向け最安モデル
 
  Anthropicが「Claude Sonnet 5」をリリース。エージェント利用に最適化された新モデルで、Claude Opus・競合のGPT5.5・Gemini Proより大幅に安価
@@ -1759,7 +1772,7 @@ Anthropicが科学者向け「Claude Science」を発表
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ずんだもんの生成AIニュース 2026-06-30</title>
+      <title>ずんだもんのAI・量子・セキュリティニュース 2026-06-30</title>
       <description>AnthropicとカリフォルニアがClaude半額提供で合意
 
  Anthropicと米カリフォルニア州のニューサム知事が合意し、カリフォルニア州政府機関に対してClaudeを通常価格の半額で提供する協定を締結した
@@ -1810,7 +1823,7 @@ Libraの主要仕様
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ずんだもんの生成AIニュース 2026-06-29</title>
+      <title>ずんだもんのAI・量子・セキュリティニュース 2026-06-29</title>
       <description>フォードが「グレイビアード」エンジニアを再雇用 ── AI失敗から学んだ教訓
 
  フォードがAI導入で品質目標を達成できず、ベテランエンジニア（通称「グレイビアード」）を呼び戻した
@@ -1832,7 +1845,7 @@ Libraの主要仕様
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ずんだもんの生成AIニュース 2026-06-28</title>
+      <title>ずんだもんのAI・量子・セキュリティニュース 2026-06-28</title>
       <description>孫正義 vs イーロン・マスク ── 宇宙データセンター構想に懐疑論
 
  ソフトバンクCEO孫正義氏が株主総会でマスク氏の軌道上データセンター構想に異論を表明
@@ -1855,7 +1868,7 @@ OpenAI、自社チップ「Jalapeño」を発表 ── NvidiaへのAI依存か�
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>ずんだもんの生成AIニュース 2026-06-27</title>
+      <title>ずんだもんのAI・量子・セキュリティニュース 2026-06-27</title>
       <description>GPT5.6「Sol／Terra／Luna」限定プレビュー ── 政府要請で公開を段階制限
 
  オープンエーアイが次世代モデル「ジーピーティー5.6」を発表。上位「Sol（ソル）」・バランス型「Terra（テラ）」・軽量高速「Luna（ルナ）」の3段構成に命名を刷新
