@@ -10,7 +10,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 
 # ポスター作成AIが自己改善？生成AIのエージェント設計10論文【2026/08/17】
 
-**2026-08-17 / arxiv AI論文解説**
+**2026-08-17 / arxiv Frontier AI・最先端AI論文解説**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-08-17-arxiv-ai/arxiv_ai_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 

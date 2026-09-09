@@ -10,7 +10,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 
 # 生成AIの効果はどこに宿る？重要論文8本を解説【2026/09/05】
 
-**2026-09-05 / arxiv AI論文解説**
+**2026-09-05 / arxiv Frontier AI・最先端AI論文解説**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-05-arxiv-ai/arxiv_ai_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 

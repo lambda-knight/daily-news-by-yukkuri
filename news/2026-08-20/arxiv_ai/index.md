@@ -10,7 +10,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 
 # 研究者が今週驚いた生成AI論文【メモリ転移・脱同定・ヴォイニッチ手稿ほか10本解説 2026/08/20】
 
-**2026-08-20 / arxiv AI論文解説**
+**2026-08-20 / arxiv Frontier AI・最先端AI論文解説**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-08-20-arxiv-ai/arxiv_ai_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 

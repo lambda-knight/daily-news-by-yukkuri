@@ -10,7 +10,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 
 # 知識蒸留は本当に能力を移す？最新8論文を徹底比較 2026/08/15
 
-**2026-08-15 / arxiv AI論文解説**
+**2026-08-15 / arxiv Frontier AI・最先端AI論文解説**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-08-15-arxiv-ai/arxiv_ai_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 

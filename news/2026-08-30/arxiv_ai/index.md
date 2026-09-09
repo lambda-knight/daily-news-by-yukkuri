@@ -10,7 +10,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 
 # 弱いモデルを強いモデルの先生にする？今週の生成AI論文10本を解説【2026/8/30】
 
-**2026-08-30 / arxiv AI論文解説**
+**2026-08-30 / arxiv Frontier AI・最先端AI論文解説**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-08-30-arxiv-ai/arxiv_ai_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 

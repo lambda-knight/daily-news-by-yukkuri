@@ -10,7 +10,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 
 # 日本語なら核攻撃を勧めにくい？生成AIの安全性・記憶10論文【2026/08/16】
 
-**2026-08-16 / arxiv AI論文解説**
+**2026-08-16 / arxiv Frontier AI・最先端AI論文解説**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-08-16-arxiv-ai/arxiv_ai_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 

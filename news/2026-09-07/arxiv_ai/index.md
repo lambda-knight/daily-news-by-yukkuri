@@ -10,7 +10,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 
 # 生成AI最新論文8選｜LLM審査の再現性・1問蒸留・思考連鎖の限界 2026/09/07
 
-**2026-09-07 / arxiv AI論文解説**
+**2026-09-07 / arxiv Frontier AI・最先端AI論文解説**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-07-arxiv-ai/arxiv_ai_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 

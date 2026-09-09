@@ -10,7 +10,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 
 # 検出できても制御できない？活性化ステアリングと評価の落とし穴｜生成AI論文10本【2026/08/28】
 
-**2026-08-28 / arxiv AI論文解説**
+**2026-08-28 / arxiv Frontier AI・最先端AI論文解説**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-08-28-arxiv-ai/arxiv_ai_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 

@@ -10,7 +10,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 
 # エージェントの自由度と信頼、どこで崩れる？生成AI論文10本【2026/09/06】
 
-**2026-09-06 / arxiv AI論文解説**
+**2026-09-06 / arxiv Frontier AI・最先端AI論文解説**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-06-arxiv-ai/arxiv_ai_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 

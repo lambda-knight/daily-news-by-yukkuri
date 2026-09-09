@@ -1,5 +1,5 @@
 ---
-title: "arxiv AI論文解説 2026-08-23"
+title: "arxiv Frontier AI・最先端AI論文解説 2026-08-23"
 layout: default
 ---
 
@@ -8,9 +8,9 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# arxiv AI論文解説 2026-08-23
+# arxiv Frontier AI・最先端AI論文解説 2026-08-23
 
-**2026-08-23 / arxiv AI論文解説**
+**2026-08-23 / arxiv Frontier AI・最先端AI論文解説**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-08-23-arxiv-ai/arxiv_ai_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 

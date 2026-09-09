@@ -10,7 +10,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 
 # 過程報酬と次元ゲートでAIの判断を細かく測る｜重要論文8本 2026/09/04
 
-**2026-09-04 / arxiv AI論文解説**
+**2026-09-04 / arxiv Frontier AI・最先端AI論文解説**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-04-arxiv-ai/arxiv_ai_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 

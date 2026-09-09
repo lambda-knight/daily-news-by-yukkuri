@@ -9,9 +9,9 @@
     <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/compare.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <copyright>© 2026 daily-news-by-yukkuri</copyright>
-    <description>同じ出来事を各国メディアがどう報じたか。7カ国の視点を毎日比較します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
+    <description>同じ出来事を各国メディアがどう報じたか。7カ国の視点を比較し、海外で大きく報じられた話題が日本の主要6媒体でどう扱われたかも毎日照合します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
     <itunes:author>daily-news-by-yukkuri</itunes:author>
-    <itunes:summary>同じ出来事を各国メディアがどう報じたか。7カ国の視点を毎日比較します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
+    <itunes:summary>同じ出来事を各国メディアがどう報じたか。7カ国の視点を比較し、海外で大きく報じられた話題が日本の主要6媒体でどう扱われたかも毎日照合します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/compare.png"/>
@@ -25,6 +25,29 @@
       <title>7カ国メディア比較ニュース</title>
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
+    <item>
+      <title>新CEO・核査察・選挙・AI危機を7地域と日本6媒体で比較【2026/09/10】</title>
+      <description>同じ出来事でも、見出しが選ぶ主語と数字は大きく違います。海外7地域と日本6媒体の公開見出しから、読者に近づける報道の方法を比較します。
+
+▼ 今日のトピック
+・iPhone Duo：米国は新CEO、インドは29万9900ルピー
+・イラン核問題：英国は査察中断、アラブ圏は決議提案国
+・トランプ氏の「中間選挙後に戦争終結」発言
+・Anthropic研究者のAI破局リスク「10％超」
+
+▼ 参考記事・ソース
+・NPR「アップル新CEOが折りたたみ式iPhoneを発表」 https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus
+・BBC「イランを核の不履行で国連安保理へ付託」 https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&amp;at_campaign=rss
+・Times of India「トランプ氏、イラン戦争は中間選挙後に終わると発言」 https://timesofindia.indiatimes.com/world/us/theyre-desperate-to-affect-election-trump-declares-iran-war-will-end-after-us-midterms/articleshow/133982252.cms
+・BBC「Anthropic研究者、AI破局確率は10％超」 https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&amp;at_campaign=rss
+
+#国際ニュース #メディアリテラシー #世界情勢 #報道比較 #ゆっくり解説 #ずんだもん #BBC #CNN #時事問題 #政治 #外交</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-10-compare/compare_yukkuri.m4a" length="5882756" type="audio/mp4"/>
+      <guid isPermaLink="false">compare-2026-09-10</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>各国メディア視点比較（2026年9月9日）</title>
       <description>各国メディア視点比較（2026年9月9日）
