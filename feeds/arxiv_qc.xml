@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子の「必要な資源」はどこまで減らせる？今週の重要論文5本を解説【2026/09/11】</title>
+      <description>9月10日にarXivへ投稿された量子情報の論文から5本を、QC専攻の大学院生・研究者向けに淡々と解説します。状態推定のサンプル計算量、プライベート容量の超活性化、古典アルゴリズムへの量子的手法の移植、非局所相関の原理的境界という複数方向を整理しました。
+
+▼ 今日の論文ラインナップ
+・結合測定のコピー数を制限した低ランク量子状態トモグラフィーの最適サンプル計算量 — ウォータールー大学（arxiv:2609.10514）
+・プライベート容量がゼロの量子チャネル2つを併用した秘匿通信 — 香港科技大学広州（arxiv:2609.10520）
+・ランダムコンパイルによる量子モンテカルロシミュレーションの高速化 — MIT / オックスフォード大学（arxiv:2609.10486）
+・情報因果律が最小ベルシナリオの量子相関集合を特徴づける — ダルムシュタット工科大学（arxiv:2609.10508）
+・定深度で実装できる大域的シャドウ推定 — フダン大学 / ベルリン自由大学（arxiv:2609.10408）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.10514  — 結合測定のコピー数を制限した低ランク量子状態トモグラフィーの最適サンプル計算量
+https://arxiv.org/abs/2609.10520  — プライベート容量がゼロの量子チャネル2つを併用した秘匿通信
+https://arxiv.org/abs/2609.10486  — ランダムコンパイルによる量子モンテカルロシミュレーションの高速化
+https://arxiv.org/abs/2609.10508  — 情報因果律が最小ベルシナリオの量子相関集合を特徴づける
+https://arxiv.org/abs/2609.10408  — 定深度で実装できる大域的シャドウ推定
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-11-arxiv-qc/arxiv_qc_yukkuri.m4a" length="4729137" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子コンピュータ最新論文5本｜Krylov対角化でDMFT・超高速符号化のFT実証・容量の強逆定理【2026/9/10】</title>
       <description>2026年9月9日にarXivへ投稿された量子情報の論文から5本を、量子コンピュータを専攻する大学院生・研究者向けに淡々と解説します。ニアターム向けアルゴリズム、フォールトトレラント誤り訂正の実証評価、複雑性理論の下界という3方向で整理しました。
 
