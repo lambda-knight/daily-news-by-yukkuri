@@ -26,6 +26,24 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AI最新論文5選｜世界モデルの状態管理・実装欠落ベンチ・言語生成理論・提供経路評価 2026/09/11</title>
+      <description>2026年9月10日提出のarXiv新着から、生成AI研究5本を大学院・研究者向けに解説します。世界状態の時間発展を生成レンダリングから分離しコンバットステートベンチでカウント精度94パーセント・状態精度98パーセントを示すプログラマブル・ワールド・モデル、研究アイデアの手法記述に潜む実装上の欠落を測るベンチマークIdeaAMBIG（欠陥回復率は平均9.6パーセント、欠陥を与えた明確化は平均80.6パーセント）、極限における言語生成の可能・不可能を有限の証拠で特徴づけLeanで検証した理論研究、意味的な行動インターフェースだけで基盤視覚言語モデルからロボット制御を引き出すShow-Harness、そしてモデル識別子ではなく提供経路でシステムの能力を測る評価プロトコルIBIB（同一の重みでも77.38から82.54の差）を扱います。各論文の背景、手法、核心の数値、比較条件、一般化の限界を中心に整理します。
+
+▼ 参考論文
+https://arxiv.org/abs/2609.10540
+https://arxiv.org/abs/2609.10539
+https://arxiv.org/abs/2609.10525
+https://arxiv.org/abs/2609.10522
+https://arxiv.org/abs/2609.10494
+
+#生成AI #LLM #世界モデル #AIエージェント #視覚言語モデル #評価ベンチマーク #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-11-arxiv-ai/arxiv_ai_yukkuri.m4a" length="5139887" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AI最新論文5選｜全身VLA・長さ外挿・トークナイザ評価・エージェント集団 2026/09/10</title>
       <description>2026年9月9日提出のarXiv新着から、生成AI研究5本を大学院・研究者向けに解説します。乱雑な屋内をゼロショットで走破するヒューマノイド全身視覚言語モデルTANGO、状態クレジットへ介入し訓練長の128倍まで外挿する再帰モデルのCST、統合マルチモーダルモデルの画像トークナイザをタスク別損失で測る研究、模倣だけで集団構造を説明する野生のAIエージェント研究、進化ハーネス上では専門家軌跡の模倣が裏目に出るためオンポリシー修正で弱いモデルを追いつかせる研究を扱います。各論文の背景、手法、核心の数値、比較条件、一般化の限界を中心に整理します。
 
