@@ -4,14 +4,14 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>国内8紙くらべ読みニュース</title>
+    <title>国内紙くらべ読み＋世界から見た日本</title>
     <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/domestic.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <copyright>© 2026 daily-news-by-yukkuri</copyright>
-    <description>朝日・産経・赤旗ほか国内8紙の報じ方の違いを毎日比較します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
+    <description>朝日・産経・赤旗ほか国内各紙の報じ方の違いを比較し、海外メディアが日本の政治・経済・社会・文化をどう読み解くかも毎日お届けします。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
     <itunes:author>daily-news-by-yukkuri</itunes:author>
-    <itunes:summary>朝日・産経・赤旗ほか国内8紙の報じ方の違いを毎日比較します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
+    <itunes:summary>朝日・産経・赤旗ほか国内各紙の報じ方の違いを比較し、海外メディアが日本の政治・経済・社会・文化をどう読み解くかも毎日お届けします。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/domestic.png"/>
@@ -22,9 +22,31 @@
     </itunes:owner>
     <image>
       <url>https://lambda-knight.github.io/daily-news-by-yukkuri/art/domestic.png</url>
-      <title>国内8紙くらべ読みニュース</title>
+      <title>国内紙くらべ読み＋世界から見た日本</title>
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
+    <item>
+      <title>国内紙比較と世界から見た日本（2026年9月10日）</title>
+      <description>国内紙比較と世界から見た日本（2026年9月10日）
+
+オープニング：2026年9月10日 — 国内紙比較と世界から見た日本
+
+ 第1部は朝日・毎日・東京・赤旗・産経・読売・NHK・日経の当日取得分を比較する。9月10日早朝の取得時点では9月9日配信が中心で、NHKは8月7〜8日の政治記事が残り、産経は企業発表・PR記事が多い。日付差と取得上の空白を「掲載なし」と同じには扱わない。
+ 前日扱ったPFAS回答の非公表、万博背任起訴、愛知豪雨、PISA初報の同じ説明は繰り返さない。第1部の柱は、沖縄県知事選で問われる基地負担の二つの面、睡眠研究のラスカー賞、相次ぐ値上げと円高の3件。
+ 第2部は海外メディア・国際機関・海外の文化施設の一次資料から、日本の文化・災害・交通が海外でどう読まれているかを追う。坂本龍一の映画音楽を海外が正典化する動き、熊本地震をめぐる英医学誌の論説と台湾からの支援、外国人観光客のレンタカー事故の3件を扱う。
+
+第1部 テーマ1: 沖縄の基地負担、環境被害と選挙の適法性
+
+ 媒体  見出し・掲載状況 
+
+ 朝日  取得分では関連記事を確認できず 
+ 毎日  「沖縄知</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-10-domestic/domestic_yukkuri.m4a" length="6171345" type="audio/mp4"/>
+      <guid isPermaLink="false">domestic-2026-09-10</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>PFAS回答を政府はなぜ非公表？万博背任・PISAを8紙比較【2026/09/09】</title>
       <description>沖縄PFAS汚染をめぐる米軍回答の非公表、大阪・関西万博工事費の水増し、愛知豪雨、PISA2025続報。同じ出来事の掲載有無と見出しの言葉から、国内8紙の距離を比べます。
