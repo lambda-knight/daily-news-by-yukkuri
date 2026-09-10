@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子コンピュータ最新論文5本｜Krylov対角化でDMFT・超高速符号化のFT実証・容量の強逆定理【2026/9/10】</title>
+      <description>2026年9月9日にarXivへ投稿された量子情報の論文から5本を、量子コンピュータを専攻する大学院生・研究者向けに淡々と解説します。ニアターム向けアルゴリズム、フォールトトレラント誤り訂正の実証評価、複雑性理論の下界という3方向で整理しました。
+
+▼ 今日の論文ラインナップ
+・サンプルベースKrylov量子対角化によるグリーン関数計算とDMFT不純物ソルバー — Patel, Rangi, Tam（arXiv:2609.09147）
+・一般化超高速符号化のフォールトトレラント量子メモリ初実証 — Brown, Heitritter（arXiv:2609.08957）
+・分離可能状態集合の半正定値拡張複雑性と近似的ディスエンタングラー — Gharibian, Hecht, Rudolph（arXiv:2609.09033）
+・容量を超えると量子チャネルでの情報伝送は破綻する（指数的強逆定理） — Cheng, Tomamichel（arXiv:2609.08998）
+・一方向1ラウンド量子LOCALでは有向サイクルを4彩色できない — Gur, Li（arXiv:2609.09091）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.09147  — サンプルベースKrylov量子対角化によるグリーン関数計算とDMFT不純物ソルバー
+https://arxiv.org/abs/2609.08957  — 一般化超高速符号化のフォールトトレラント量子メモリ初実証
+https://arxiv.org/abs/2609.09033  — 分離可能状態集合の半正定値拡張複雑性と近似的ディスエンタングラー
+https://arxiv.org/abs/2609.08998  — 容量を超えると量子チャネルでの情報伝送は破綻する
+https://arxiv.org/abs/2609.09091  — 一方向1ラウンド量子LOCALでは有向サイクルを4彩色できない
+
+#量子コンピュータ #量子情報 #IBM #Google #量子超越 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-10-arxiv-qc/arxiv_qc_yukkuri.m4a" length="4907846" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-10</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2万量子ビットで楕円曲線暗号を26日？量子計算の最新論文7本【2026/09/09】</title>
       <description>256ビット楕円曲線離散対数の端から端の資源見積もり、信号を位相オラクルにする量子センシング、凸最適化の量子問合せ下界、GKP自己訂正、多体スカー符号、LDPC量子メッセージ復号まで、新着7論文を大学院授業レベルで解説します。
 
