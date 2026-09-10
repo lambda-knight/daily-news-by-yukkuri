@@ -26,6 +26,24 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AI最新論文5選｜全身VLA・長さ外挿・トークナイザ評価・エージェント集団 2026/09/10</title>
+      <description>2026年9月9日提出のarXiv新着から、生成AI研究5本を大学院・研究者向けに解説します。乱雑な屋内をゼロショットで走破するヒューマノイド全身視覚言語モデルTANGO、状態クレジットへ介入し訓練長の128倍まで外挿する再帰モデルのCST、統合マルチモーダルモデルの画像トークナイザをタスク別損失で測る研究、模倣だけで集団構造を説明する野生のAIエージェント研究、進化ハーネス上では専門家軌跡の模倣が裏目に出るためオンポリシー修正で弱いモデルを追いつかせる研究を扱います。各論文の背景、手法、核心の数値、比較条件、一般化の限界を中心に整理します。
+
+▼ 参考論文
+https://arxiv.org/abs/2609.09158
+https://arxiv.org/abs/2609.09157
+https://arxiv.org/abs/2609.09143
+https://arxiv.org/abs/2609.09150
+https://arxiv.org/abs/2609.09134
+
+#生成AI #LLM #VLA #AIエージェント #マルチモーダル #長文脈 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-10-arxiv-ai/arxiv_ai_yukkuri.m4a" length="5384672" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-10</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AI最新論文7選｜安全評価・RAGルーティング・並列デコード 2026/09/09</title>
       <description>2026年9月8日提出のarXiv新着から、生成AI研究7本を大学院授業レベルで解説します。言語モデル内部の磁性ベクトルと除去実験、公開エージェントスキルの人間統治、強いRAG基準に対するクエリ書き換えの相補性、共通文脈質問応答を最大7倍にするプロンプト内並列デコード、安全モニタの標準再現率と実効防御のずれ、自己生成した対話履歴への因果介入、ページ引用を検証・修復するAtomCiteを扱います。各研究の比較条件、アブレーション、数値結果、一般化の限界を中心に整理します。
 
