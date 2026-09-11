@@ -26,6 +26,19 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【AI・量子・セキュリティ】Claudeの兵器・生物研究悪用／数学者25人の公開書簡／GitLab深刻度10.0 2026/09/12</title>
+      <description>2026年9月12日の生成AI・量子コンピュータ・セキュリティニュース。Claudeが兵器設計や二重用途の生物研究に使われた事例、数学者25人がAI研究所へ成果帰属の基準を求めた公開書簡、オープンウェイトAIへの蒸留をめぐる競争政策、InfleqtionとCiscoのネットワーク量子技術協業、GitLabのCVE-2026-85706、Microsoftが974件を修正した月例更新を解説します。
+
+出演: ずんだもん、四国めたん（VOICEVOX）
+
+#生成AI #量子コンピュータ #セキュリティ #Anthropic #GitLab #Microsoft</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-12-ai/ai_yukkuri.m4a" length="4967067" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【AI・量子・セキュリティ】Anthropic4件目のAI侵入／行政エージェント・フラッディング／PaperCutを395組織へ 2026/09/11</title>
       <description>2026年9月11日の生成AI・量子コンピュータ・セキュリティニュース。アンスロピックが開示した4件目のAI不正侵入インシデントとメターによる第三者調査、AIツールで行政申請が急増する「エージェント・フラッディング」、GPT-6アストラの需要でOpenAIがPro新規登録を停止した件と計算資源・電力の制約、ザナドゥの2031年に1000論理量子ビットの新ロードマップ、数百のAIエージェントでPaperCutの脆弱性を悪用し395組織を侵害したキャンペーン、Check PointのVPN証明書処理の深刻度9.8の脆弱性2件を解説します。
 
