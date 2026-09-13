@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AI監査法と256量子ビット量産、Microsoft974件修正 2026/09/14</title>
+      <description>AI安全が米国の選挙争点と州法へ。量子計算機の量産設計、Microsoft史上最大規模の月例修正まで、性能の先にある監査・製造・配備を解説します。
+
+▼ 今日のトピック
+・オバマ氏が民主党へAI安全と雇用対策の具体化を要求
+・カリフォルニア州が独立AI評価・監査人制度を法制化
+・IonQが256量子ビットのSuperion 256を発表
+・Microsoftが974件を修正、悪用確認済みCVEを優先
+
+▼ 参考記事・ソース
+・AP「Trump downplays the need to check AI development」 https://apnews.com/article/9df0ebb4c1b0619aa0f88057b5a1092d
+・California Governor「Independent AI assessment and auditor laws」 https://www.gov.ca.gov/2026/09/09/governor-newsom-signs-first-in-the-nation-ai-safeguards-to-protect-californians-calls-on-the-federal-government-to-do-its-part/
+・OpenAI「The AI policy window is open」 https://openai.com/index/ai-policy-window/
+・IonQ「IonQ debuts Superion 256」 https://www.ionq.com/news/ionq-launches-superion-product-line-industry-leading-upgradeable-platform-designed-to-scale-manufacturable-fault-tolerant-quantum-computing
+・Microsoft「2026年9月のセキュリティ更新プログラム」 https://www.microsoft.com/en-us/msrc/blog/2026/09/202609-security-update
+・Krebs on Security「Microsoft Plugs Nearly 1,000 Security Holes」 https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/
+
+#生成AI #AI #量子コンピュータ #サイバーセキュリティ #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-14-ai/ai_yukkuri.m4a" length="4548281" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI開発は減速できる？スイス量子拠点と免許証1.53億件【2026/09/13】</title>
       <description>AI企業が提案する開発速度の調整、Moonshot AIの年商20億ドル目標、司法で起きた架空証言問題を解説。スイス初のIBM量子計算機、免許証画像1億5300万件超、ScreenConnectのCVSS 9.9も整理します。
 
