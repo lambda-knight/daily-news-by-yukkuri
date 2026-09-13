@@ -26,6 +26,50 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>異種原子ゲート99.91%と量子符号手術10倍短縮【2026/09/13】</title>
+      <description>量子コンピュータ最新論文5本を研究セミナー水準で解説。混合状態の非対称性変換、雑音支援ランダム化、AME状態、異種中性原子ゲート、量子LDPC符号の高速手術を扱います。
+
+▼ 今日の論文ラインナップ
+・混合状態の対称性の破れを変換率で完全特徴づける（arXiv:2609.11926）
+・分散ランダム回路で雑音が有用になる狭い条件（arXiv:2609.11898）
+・奇素数冪次元における絶対最大エンタングル状態の構成（arXiv:2609.11796）
+・ルビジウムとイッテルビウムを結ぶ交換支援もつれゲート（arXiv:2609.11730）
+・量子LDPC符号の論理測定を一ラウンド化するリフト手術（arXiv:2609.11723）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.11926
+https://arxiv.org/abs/2609.11898
+https://arxiv.org/abs/2609.11796
+https://arxiv.org/abs/2609.11730
+https://arxiv.org/abs/2609.11723
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-13-arxiv-qc/arxiv_qc_yukkuri.m4a" length="5130603" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arXiv量子コンピュータニュース（2026年9月12日）</title>
+      <description>arXiv量子コンピュータニュース（2026年9月12日）
+
+キーワード: レニーコヒーレント情報 / 安定化符号 / ガウシアンボソンサンプリング / クリフォード階層 / 量子容量 / 古典シミュレーション費用
+
+オープニング：2026年9月12日 — arXiv量子コンピュータニュース
+
+9月11日に投稿された量子情報・量子計算の新着から5本を選んだ。中心となる問いは、計算可能な誤り訂正指標にどこまで復号可能性の意味を与えられるか、1万光子級の光量子実験をチップへ統合できるか、そして漸近的な計算可能性や容量定理を有限資源の実装判断へどう接続するかである。とくに、安定化符号におけるレニーコヒーレント情報の階層、最大1万1059光子を検出した4ギガヘルツ動作の光集積プロセッサ、任意の有限次元記憶なしチャネルに対する量子容量の指数的強逆定理を詳しく扱う。
+
+論文1: 安定化符号におけるレニーコヒーレント情報の階層
+
+出典: Hierarchy of R\'enyi Coherent Information in Stabilizer Codes. [arXiv:2609.11930](</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-12-arxiv-qc/arxiv_qc_yukkuri.m4a" length="4913387" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子の「必要な資源」はどこまで減らせる？今週の重要論文5本を解説【2026/09/11】</title>
       <description>9月10日にarXivへ投稿された量子情報の論文から5本を、QC専攻の大学院生・研究者向けに淡々と解説します。状態推定のサンプル計算量、プライベート容量の超活性化、古典アルゴリズムへの量子的手法の移植、非局所相関の原理的境界という複数方向を整理しました。
 
