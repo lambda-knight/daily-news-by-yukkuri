@@ -26,6 +26,56 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>GPU-CFR最大80倍、野外VLM、遡及音声推論｜AI論文5本 2026/09/13</title>
+      <description>モデルを巨大化せず、計算構造・専門データ・実験フィードバック・推論修正・時間配分を変えるFrontier AI論文5本を、比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・ゲーム木を静的データフローへコンパイルしCFRを最大80倍高速化（arXiv:2609.11923）
+・小型VLMの生物種同定は野外画像で9.6から26.6ポイント低下（arXiv:2609.11916）
+・過去1389件のCRISPRスクリーンから次の実験を選ぶ（arXiv:2609.11877）
+・音声LLMが話者の発話中に推論を遡って修正する（arXiv:2609.11864）
+・予測誤差を組み込む生成モデルの時間スケジュール（arXiv:2609.11842）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.11923 — GPU-CFR
+https://arxiv.org/abs/2609.11916 — エッジVLMの生物種同定
+https://arxiv.org/abs/2609.11877 — 適応的CRISPRヒット探索
+https://arxiv.org/abs/2609.11864 — RetroThinker
+https://arxiv.org/abs/2609.11842 — Fiberwise Optimal Transport
+
+#生成AI #LLM #AI #arxiv #論文解説 #機械学習 #ディープラーニング #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-13-arxiv-ai/arxiv_ai_yukkuri.m4a" length="5304619" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>生成AI最新論文5選｜疎モデルの反復過適合・位相推論・因果発見評価 2026/09/12</title>
+      <description>2026年9月10日提出のarXiv新着から、Frontier AI研究5本を大学院生・研究者向けに解説します。視覚理解と生成を単一モデルで扱うSenseNova-U1.5、支持集合の不一致を扱う分布シフト理論、反復データでエキスパート混合が密モデルより早く過適合する実験、位相推論と閉ループ計画の隔たりを測るMindTopo、評価環境で因果発見法の順位が入れ替わるCausalArenaを取り上げます。
+
+▼ 今日の論文ラインナップ
+・視覚理解・推論・生成を単一のトークン空間で統合する（arXiv:2609.11929）
+・共変量シフトと概念シフトを同じ結合上で測る（arXiv:2609.11918）
+・反復データでは疎なエキスパート混合ほど早く過適合する（arXiv:2609.11917）
+・基盤モデルは位相を認識できても位相を保って行動できない（arXiv:2609.11900）
+・因果発見法の順位は構造方程式モデルの族で入れ替わる（arXiv:2609.11897）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.11929
+https://arxiv.org/abs/2609.11918
+https://arxiv.org/abs/2609.11917
+https://arxiv.org/abs/2609.11900
+https://arxiv.org/abs/2609.11897
+
+#生成AI #LLM #機械学習 #マルチモーダル #因果推論 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-12-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6720882" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AI最新論文5選｜世界モデルの状態管理・実装欠落ベンチ・言語生成理論・提供経路評価 2026/09/11</title>
       <description>2026年9月10日提出のarXiv新着から、生成AI研究5本を大学院・研究者向けに解説します。世界状態の時間発展を生成レンダリングから分離しコンバットステートベンチでカウント精度94パーセント・状態精度98パーセントを示すプログラマブル・ワールド・モデル、研究アイデアの手法記述に潜む実装上の欠落を測るベンチマークIdeaAMBIG（欠陥回復率は平均9.6パーセント、欠陥を与えた明確化は平均80.6パーセント）、極限における言語生成の可能・不可能を有限の証拠で特徴づけLeanで検証した理論研究、意味的な行動インターフェースだけで基盤視覚言語モデルからロボット制御を引き出すShow-Harness、そしてモデル識別子ではなく提供経路でシステムの能力を測る評価プロトコルIBIB（同一の重みでも77.38から82.54の差）を扱います。各論文の背景、手法、核心の数値、比較条件、一般化の限界を中心に整理します。
 
