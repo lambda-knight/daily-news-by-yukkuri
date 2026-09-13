@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>解除評価の揺れ、Lean数学証明、AI調査の限界｜arXiv論文5選 2026/09/14</title>
+      <description>Frontier AIの最新研究を大学院生・研究者向けに解説。解除モデル263件の監査、Lean形式証明、長期深掘り調査、単一生成の不確実性推定、エージェント環境圧縮を比較条件と核心数値から読みます。
+
+▼ 今回の論文
+・公開済み解除モデル263件で判定値の揺れを監査
+・自然言語の数学解答をLean証明まで閉ループ化
+・平均12.1個の中間結論を要求する深掘り調査評価
+・全層・全生成トークンの活性を96キロバイトへ圧縮
+・多数エージェント環境のメモリを最大8.7分の1へ圧縮
+
+▼ 参考論文（arXiv）
+・https://arxiv.org/abs/2609.11490
+・https://arxiv.org/abs/2609.11319
+・https://arxiv.org/abs/2609.11318
+・https://arxiv.org/abs/2609.11498
+・https://arxiv.org/abs/2609.11294
+
+#AI #LLM #arxiv #論文解説 #AIエージェント #機械学習 #形式検証 #不確実性推定 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-14-arxiv-ai/arxiv_ai_yukkuri.m4a" length="5714737" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>GPU-CFR最大80倍、野外VLM、遡及音声推論｜AI論文5本 2026/09/13</title>
       <description>モデルを巨大化せず、計算構造・専門データ・実験フィードバック・推論修正・時間配分を変えるFrontier AI論文5本を、比較条件と限界まで解説します。
 
