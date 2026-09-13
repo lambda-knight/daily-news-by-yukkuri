@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AI開発は減速できる？スイス量子拠点と免許証1.53億件【2026/09/13】</title>
+      <description>AI企業が提案する開発速度の調整、Moonshot AIの年商20億ドル目標、司法で起きた架空証言問題を解説。スイス初のIBM量子計算機、免許証画像1億5300万件超、ScreenConnectのCVSS 9.9も整理します。
+
+▼ 今日のトピック
+・Anthropicが提案するフロンティアAIのペース調整
+・Moonshot AIが年商20億ドルを目標
+・架空の証言を提出した弁護士への制裁
+・スイス初のIBM Quantum System Two
+・1億5300万件超の運転免許証画像をうたう闇市場
+・ScreenConnectのCVE-2026-84869
+
+▼ 参考記事・ソース
+・TechCrunch「Anthropic CEO outlines plan to pace the frontier」 https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/
+・TechCrunch「Kimi-maker Moonshot AI targets $2B in annual revenue」 https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/
+・Ars Technica「ChatGPT-using lawyer punished for citing fake testimony」 https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/
+・IBM「Swiss quantum innovation hub at ETH Zurich」 https://newsroom.ibm.com/2026-09-10-ibm%2C-lockheed-martin-announce-swiss-quantum-innovation-hub-at-eth-zurich%2C-anchored-by-switzerlands-first-ibm-quantum-computer
+・Krebs on Security「FBI Probes Service Selling 153M+ Drivers Licenses」 https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/
+・ConnectWise「ScreenConnect 26.6.5 Security Patch」 https://www.connectwise.com/company/trust/security-bulletins/2026-09-08-screenconnect-bulletin
+
+#生成AI #AI #量子コンピュータ #サイバーセキュリティ #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-13-ai/ai_yukkuri.m4a" length="5778030" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【AI・量子・セキュリティ】Claudeの兵器・生物研究悪用／数学者25人の公開書簡／GitLab深刻度10.0 2026/09/12</title>
       <description>2026年9月12日の生成AI・量子コンピュータ・セキュリティニュース。Claudeが兵器設計や二重用途の生物研究に使われた事例、数学者25人がAI研究所へ成果帰属の基準を求めた公開書簡、オープンウェイトAIへの蒸留をめぐる競争政策、InfleqtionとCiscoのネットワーク量子技術協業、GitLabのCVE-2026-85706、Microsoftが974件を修正した月例更新を解説します。
 
