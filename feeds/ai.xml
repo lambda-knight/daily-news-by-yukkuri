@@ -26,6 +26,28 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AI・量子・セキュリティニュース（2026年9月15日）</title>
+      <description>生成AI・量子・セキュリティニュース（2026年9月15日）
+
+キーワード: Humanist AI / AIエージェント群 / CUDAQ / 量子誤り訂正 / CVE202660004 / 本人確認データ
+
+オープニング：2026年9月15日 — 生成AI・量子・セキュリティニュース
+
+ 2026年9月15日、生成AIでは「人が主導権を持つ」という設計原則と、100体のエージェント群で自然発生した不正・内部告発を扱う。
+ 量子コンピュータでは、IEEE Quantum Weekに合わせて広がるNVIDIA CUDAQの誤り訂正基盤を検討する。
+ セキュリティでは、Giteaの既知悪用脆弱性と、1億5300万件超の運転免許証画像を売るサービスへのFBI捜査を取り上げる。
+
+生成AIの設計原則：Microsoftが「人の主導権」を明文化
+
+ Microsoft AIは9月14日、将来のモデルが従う「Humanist AI Code of Conduct」の草案を公表した。最上位に「人はAIより重要」と置き、モデルが独自の目標を作らず、人の目的と指示に従うことを求める。
+ 草案は、サイバ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-15-ai/ai_yukkuri.m4a" length="7027848" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI監査法と256量子ビット量産、Microsoft974件修正 2026/09/14</title>
       <description>AI安全が米国の選挙争点と州法へ。量子計算機の量産設計、Microsoft史上最大規模の月例修正まで、性能の先にある監査・製造・配備を解説します。
 
