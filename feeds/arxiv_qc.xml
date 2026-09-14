@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>線形光学の50%限界を突破？量子計算の重要論文5本【2026/09/14】</title>
+      <description>論理ベル状態測定の成功確率70.8±0.4%を中心に、漏洩低減フロケ符号、極低温CMOS制御、相関雑音下の表面符号、中性原子三量子ビットゲートを比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・線形光学限界を超える論理ベル状態測定（arXiv:2609.10698）
+・追加量子ビットなしで漏洩を排出する歩行フロケ符号（arXiv:2609.10666）
+・超伝導量子ビット制御用の極低温プログラマブルCMOS変換器（arXiv:2609.10834）
+・バイアス雑音とクロストーク下のZX・ZY表面符号閾値（arXiv:2609.10876）
+・有限ブロッケード下の中性原子三量子ビットCCZゲート（arXiv:2609.11159）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.10698
+https://arxiv.org/abs/2609.10666
+https://arxiv.org/abs/2609.10834
+https://arxiv.org/abs/2609.10876
+https://arxiv.org/abs/2609.11159
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-14-arxiv-qc/arxiv_qc_yukkuri.m4a" length="4944533" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>異種原子ゲート99.91%と量子符号手術10倍短縮【2026/09/13】</title>
       <description>量子コンピュータ最新論文5本を研究セミナー水準で解説。混合状態の非対称性変換、雑音支援ランダム化、AME状態、異種中性原子ゲート、量子LDPC符号の高速手術を扱います。
 
