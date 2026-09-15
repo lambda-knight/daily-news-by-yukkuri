@@ -26,6 +26,29 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AIデータセンターの負担は誰が負う？Cisco緊急更新も解説 2026/09/16</title>
+      <description>AIを支える電力と生物学データ、競合三社の安全協議、IonQの量子研究、Cisco Secure Email Gatewayの緊急脆弱性を解説します。
+
+▼ 今日のトピック
+・フィラデルフィアのデータセンター立地論争
+・OpenAIが求める生物学の失敗データ
+・OpenAI、Anthropic、Googleの安全協議
+・IonQのIEEE Quantum Week受賞研究
+・CVE-2026-76461、CVSS 9.8
+
+▼ 参考記事・ソース
+・TechCrunch「The AI data center boom is colliding with cities scarred by big industry」 https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/
+・MIT Technology Review「AI models need more data about biology」 https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/
+・Cisco「Secure Email Gateway SQL Injection Vulnerability」 https://www.cisco.com/c/en/us/support/docs/csa/cisco-sa-esa-inj-2bLVGmhX.html
+
+#生成AI #量子コンピュータ #セキュリティ #AIニュース #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-16-ai/ai_yukkuri.m4a" length="5312795" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-16</guid>
+      <pubDate>Wed, 16 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AI・量子・セキュリティニュース（2026年9月15日）</title>
       <description>生成AI・量子・セキュリティニュース（2026年9月15日）
 
