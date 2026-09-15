@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>疎アテンションと全二重音声を読む AI論文5本【2026/09/15】</title>
+      <description>計算予算の配分と評価単位を組み替えるFrontier AI研究5本を、比較条件・核心数値・限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・言語損失で文脈順位を直接学ぶ疎アテンション — Liら（arXiv:2609.13141）
+・サブ二次アテンション向け異種推論分割 — Tschandら（arXiv:2609.13134）
+・重なり発話を継続しながら内容へ反映する音声評価 — Luら（arXiv:2609.13117）
+・依存グラフで検証と局所修復を行う身体性ベンチマーク生成 — Jiangら（arXiv:2609.13082）
+・多項概念の表現幾何を比較する介入ベンチマーク — Appapoguら（arXiv:2609.13072）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.13141 — 言語損失で文脈順位を直接学ぶ疎アテンション
+https://arxiv.org/abs/2609.13134 — サブ二次アテンション向け異種推論分割
+https://arxiv.org/abs/2609.13117 — 重なり発話を継続しながら内容へ反映する音声評価
+https://arxiv.org/abs/2609.13082 — 依存グラフで検証と局所修復を行う身体性ベンチマーク生成
+https://arxiv.org/abs/2609.13072 — 多項概念の表現幾何を比較する介入ベンチマーク
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #ずんだもん #機械学習 #AIエージェント</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-15-arxiv-ai/arxiv_ai_yukkuri.m4a" length="7509261" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>解除評価の揺れ、Lean数学証明、AI調査の限界｜arXiv論文5選 2026/09/14</title>
       <description>Frontier AIの最新研究を大学院生・研究者向けに解説。解除モデル263件の監査、Lean形式証明、長期深掘り調査、単一生成の不確実性推定、エージェント環境圧縮を比較条件と核心数値から読みます。
 

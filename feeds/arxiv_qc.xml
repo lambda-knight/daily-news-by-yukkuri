@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子誤り軽減を63倍効率化？重要論文5本を解説【2026/09/15】</title>
+      <description>誤り検出と確率的誤り相殺の統合、分散量子誤り訂正、トランズモン強駆動限界、量子検証の完全完全性、常温グローバー探索を研究者向けに比較します。
+
+▼ 今日の論文ラインナップ
+・論理誤りの時空間軽減（arXiv:2609.13108）
+・分散量子計算機における誤り訂正（arXiv:2609.13065）
+・トランズモンのサブ共鳴パラメトリック駆動限界の統一則（arXiv:2609.13055）
+・量子マーリン・アーサーは完全完全性を持つ（arXiv:2609.13032）
+・常温半導体スピン量子ビットによるグローバー探索（arXiv:2609.13022）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.13108 — 論理誤りの時空間軽減
+https://arxiv.org/abs/2609.13065 — 分散量子計算機における誤り訂正
+https://arxiv.org/abs/2609.13055 — トランズモンのサブ共鳴パラメトリック駆動限界の統一則
+https://arxiv.org/abs/2609.13032 — 量子マーリン・アーサーは完全完全性を持つ
+https://arxiv.org/abs/2609.13022 — 常温半導体スピン量子ビットによるグローバー探索
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-15-arxiv-qc/arxiv_qc_yukkuri.m4a" length="5924944" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>線形光学の50%限界を突破？量子計算の重要論文5本【2026/09/14】</title>
       <description>論理ベル状態測定の成功確率70.8±0.4%を中心に、漏洩低減フロケ符号、極低温CMOS制御、相関雑音下の表面符号、中性原子三量子ビットゲートを比較条件と限界まで解説します。
 
