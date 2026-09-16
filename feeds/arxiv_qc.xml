@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子誤り訂正は一次から二次へ？重要論文5本を解説【2026/09/16】</title>
+      <description>確率的近似量子誤り訂正、シリコン・スピン量子ビットの残留雑音、実用量子鍵配送、二次元ハバード模型の初期状態準備、フェルミオン・マジックを研究者向けに解説します。
+
+▼ 今日の論文ラインナップ
+・一般化振幅減衰雑音に対する量子符号 — インド工科大学マドラス校（arXiv:2609.15924）
+・シリコン・スピン量子ビットの残留雑音 — ソウル大学ほか（arXiv:2609.15860）
+・不完全デバイスを含む実用量子鍵配送 — ウォータールー大学（arXiv:2609.15790）
+・二次元強相関系の低深度初期状態準備 — 大阪大学ほか（arXiv:2609.15764）
+・ランダム・フェルミオン・ガウス状態のマジック — ケルン大学ほか（arXiv:2609.15739）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.15924 — 一般化振幅減衰雑音に対する量子符号
+https://arxiv.org/abs/2609.15860 — シリコン・スピン量子ビットの残留雑音
+https://arxiv.org/abs/2609.15790 — 不完全デバイスを含む実用量子鍵配送
+https://arxiv.org/abs/2609.15764 — 二次元強相関系の低深度初期状態準備
+https://arxiv.org/abs/2609.15739 — ランダム・フェルミオン・ガウス状態のマジック
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #量子鍵配送 #スピン量子ビット #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-16-arxiv-qc/arxiv_qc_yukkuri.m4a" length="5290091" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-16</guid>
+      <pubDate>Wed, 16 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子誤り軽減を63倍効率化？重要論文5本を解説【2026/09/15】</title>
       <description>誤り検出と確率的誤り相殺の統合、分散量子誤り訂正、トランズモン強駆動限界、量子検証の完全完全性、常温グローバー探索を研究者向けに比較します。
 
