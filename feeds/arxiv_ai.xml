@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv Frontier AI論文解説（2026年9月16日）</title>
+      <description>arXiv Frontier AI論文解説（2026年9月16日）
+
+キーワード: 思考連鎖監視 / 長期数学研究 / スキルルーティング / ロボット記憶 / 脆弱性局在化
+
+本日は、安全監視が文脈注入で回避される条件、長期数学研究へ推論資源を配分する多数エージェント基盤、凍結済み言語モデル内部からスキル選択信号を読む方式、移動マニピュレータが実行経験を蓄積する永続記憶、リポジトリ規模の脆弱性局在化を扱う。いずれも、最終出力だけでは見えない計画、探索、選択、記憶を分解して測る研究である。
+
+オープニング：2026年9月16日 — arXiv Frontier AI論文解説
+
+五本を、脅威モデルまたは研究課題、提案機構、評価単位、核心数値、一般化の境界に分けて読む。改善率だけでなく、比較対象と分母が何かを保持する。
+
+論文1: 無害に見える計画注入が思考過程監視を回避する
+
+出典: Corrupt Plans, Clean Traces: Evading ChainofThought Monitoring with Plan Injection. [arXiv:2609.15989](</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-16-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8132420" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-16</guid>
+      <pubDate>Wed, 16 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>疎アテンションと全二重音声を読む AI論文5本【2026/09/15】</title>
       <description>計算予算の配分と評価単位を組み替えるFrontier AI研究5本を、比較条件・核心数値・限界まで解説します。
 
