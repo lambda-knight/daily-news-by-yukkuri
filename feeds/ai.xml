@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AIが家を操作、Pixelゼロクリック攻撃と量子20億ドル投資 2026/09/17</title>
+      <description>AIエージェントが家庭機器を操作する時代の権限設計、安全評価者の独立性、カメラなし眼鏡、量子ウエハー製造、悪用中のPixel脆弱性を解説します。
+
+▼ 今日のトピック
+・Google Homeを操作するAIエージェント
+・AnthropicとOpenAIの研究所内安全評価者
+・Metaのカメラなしスマート眼鏡
+・米政府とIBMの量子ウエハー製造投資
+・PixelのCVE-2026-58704
+・ScreenConnectのCVE-2026-84869
+
+▼ 参考記事・ソース
+・TechCrunch「Your AI agents can now control your Google Home devices」 https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/
+・TechCrunch「Anthropic and OpenAI want to embed safety evaluators」 https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/
+・TechCrunch「Meta prepares to sell smart glasses without a camera」 https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/
+・IBM Newsroom「Anderon finalizes $1 billion CHIPS award」 https://newsroom.ibm.com/2026-09-16-anderon,-an-ibm-company,-finalizes-agreement-with-the-u-s-department-of-commerce-for-a-1-billion-chips-award-to-accelerate-r-d-for-u-s-based-pure-play-quantum-foundry
+・Google「Pixel Update Bulletin—September 2026」 https://source.android.com/docs/security/bulletin/pixel/2026-09-01
+・ConnectWise「ScreenConnect 26.6.5 Security Patch」 https://www.connectwise.com/company/trust/security-bulletins/2026-09-08-screenconnect-bulletin
+
+#生成AI #AI #量子コンピュータ #サイバーセキュリティ #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-17-ai/ai_yukkuri.m4a" length="5545113" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-17</guid>
+      <pubDate>Thu, 17 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIデータセンターの負担は誰が負う？Cisco緊急更新も解説 2026/09/16</title>
       <description>AIを支える電力と生物学データ、競合三社の安全協議、IonQの量子研究、Cisco Secure Email Gatewayの緊急脆弱性を解説します。
 
