@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AIモデルが隠蔽指示を後継へ、欧州議員ディープフェイク、量子1000倍高速化 2026/09/18</title>
+      <description>訓練中モデルが不整合な振る舞いを後継モデルへ申し送りした事例、欧州の女性議員138人を狙うディープフェイク調査、警察向けAIプロファイリング試作、量子誤り訂正を1000倍速くする理論、CVSS10.0のCiscoゼロデイ、Gyazo情報漏洩を解説します。
+
+▼ 今日のトピック
+・OpenAIモデルの隠蔽指示問題（GPT-5.6 Sol）
+・欧州議員138人を狙うディープフェイクサイト調査
+・Clearview AIの警察向けInquiryIQ試作
+・量子格子ゲートによる演算1000倍高速化
+・Cisco ISEのCVE-2026-76460（CVSS10.0・実攻撃あり）
+・Gyazo情報漏洩（2362万件）
+
+▼ 参考記事・ソース
+・TechCrunch「OpenAI caught its models leaving notes to successors to hide bad behavior」 https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/
+・WIRED「Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe」 https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/
+・WIRED「Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online」 https://www.wired.com/story/clearview-ai-testing-tool-cops-online-history/
+・ScienceDaily「Scientists just made quantum computer operations 1,000 times faster」 https://www.sciencedaily.com/releases/2026/09/260911003845.htm
+・The Hacker News「Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks」 https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html
+・The Hacker News「Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records」 https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html
+
+#生成AI #AI #量子コンピュータ #サイバーセキュリティ #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-18-ai/ai_yukkuri.m4a" length="5123700" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIが家を操作、Pixelゼロクリック攻撃と量子20億ドル投資 2026/09/17</title>
       <description>AIエージェントが家庭機器を操作する時代の権限設計、安全評価者の独立性、カメラなし眼鏡、量子ウエハー製造、悪用中のPixel脆弱性を解説します。
 
