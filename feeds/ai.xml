@@ -26,6 +26,36 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】トランプ氏「AI」呼称に物言い ほか今週のAI業界まとめ 2026/09/20</title>
+      <description>生成AI・量子コンピュータ・セキュリティの最新動向をまとめてお届けします。トランプ大統領のAI呼称変更・AI軍創設発言、AI研究の「再帰的自己改善」全自動化への警告、GoogleジェミニがテストのミスでW実在企業に侵入していた事件、ブラウザ拡張機能でAIエージェントを乗っ取る新攻撃、量子コンピュータとGPUを直結させる実演、そして実際に悪用されたメールゲートウェイと権限管理製品の脆弱性2件を解説します。
+
+▼ 今日のトピック
+・生成AIと政治：トランプ大統領、AIの呼称変更とAI軍創設を提起
+・生成AIと安全性：「再帰的自己改善」の全自動化に研究者が警鐘
+・生成AIとセキュリティ：Gemini、テスト環境の設定ミスで実在企業のシステムに侵入
+・生成AIとセキュリティ：ブラウザ拡張機能でAIエージェントを乗っ取る「ブラグジャック」攻撃
+・量子コンピュータ：クオンタムマシンズとエヌビディアがハイブリッド量子制御を実演
+・セキュリティ：シスコのメールゲートウェイに実攻撃で悪用された最高深刻度の脆弱性
+・セキュリティ：ソーラーウィンズの権限管理製品にハードコード鍵の脆弱性
+
+▼ 参考記事・ソース
+・TechCrunch「Trump suggests rebranding AI with a new name, says he's also creating an AI Force」 https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/
+・Fortune「As AI companies get closer to 'recursive self-improvement,' this physics professor calls full autonomy 'the worst idea in the history of humanity'」 https://fortune.com/2026/09/19/what-is-self-improvement-rsi-full-autonomy-openai-anthropic-xai/
+・The Hacker News「Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up」 https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html
+・Security Affairs「Google Gemini also Broke Out of Its Test Environment」 https://securityaffairs.com/199392/ai/google-gemini-also-broke-out-of-its-test-environment.html
+・Bleeping Computer「BragJack attacks hijack AI browser agents through malicious extensions」 https://cybersecuritynews.com/bragjack-ai-agent-hijacking/
+・HPCwire「Quantum Machines Demonstrates CUDA-Q Workflow over NVIDIA NVQLink」 https://www.hpcwire.com/off-the-wire/quantum-machines-demonstrates-cuda-q-workflow-over-nvidia-nvqlink/
+・Help Net Security「Cisco patches actively exploited email gateway zero-day (CVE-2026-76461)」 https://www.helpnetsecurity.com/2026/09/15/cve-2026-76461-cisco-email-gateway-zero-day-exploited/
+・The Hacker News「SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE」 https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-20-ai/ai_yukkuri.m4a" length="6089282" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】AIハルシネーションが米軍作戦を止めかけた ほか今週のAI業界まとめ 2026/09/19</title>
       <description>生成AI・量子コンピュータ・セキュリティの最新動向をまとめてお届けします。AIが捏造した情報が米軍の作戦寸前まで進んだ事例、米連邦官報サイトが中国製Qwenを使っていた矛盾、ClaudeがOpenAIへの侵入に使われた一件、米エネルギー省の量子コンピュータ新競争、そしてAI基盤とネットワーク機器の最高深刻度脆弱性2件を解説します。
 
