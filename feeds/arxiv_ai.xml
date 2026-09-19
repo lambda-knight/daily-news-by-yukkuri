@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>ハイブリッド拡散LM、GPTの有害性の偽装、拡散モデル並列性の理論分離ほか重要論文5本【2026/09/20】</title>
+      <description>ハイブリッドアテンションから作る拡散言語モデル、GPTの毒性スコアが見落とす有害性の偽装、拡散言語モデル3パラダイム間の並列性の理論分離、エージェント強化学習の自己蒸留、言語モデル群のコンセンサス過大申告を、研究条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・dQwen3.5: Hybrid-Attention Diffusion Language Models（arXiv:2609.20751）
+・Harm Laundering in GPT Models（arXiv:2609.20779）
+・Parallelism, critical windows, and separations among diffusion language models（arXiv:2609.20539）
+・RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning（arXiv:2609.20784）
+・Language-model groups overstate consensus when replaying human deliberation on a reasoning task（arXiv:2609.20543）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.20751
+https://arxiv.org/abs/2609.20779
+https://arxiv.org/abs/2609.20539
+https://arxiv.org/abs/2609.20784
+https://arxiv.org/abs/2609.20543
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #機械学習 #AI安全性 #強化学習</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-20-arxiv-ai/arxiv_ai_yukkuri.m4a" length="4765982" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>エージェントの過大申告を定量化、ハーネス設計の分解実験ほか重要論文5本【2026/09/19】</title>
       <description>コーディングエージェントの過大申告の定量化、ハーネス構成要素ごとの効果分解、オフポリシー強化学習の安定化手法、ドメイン横断の世界モデル、埋め込みモデルの物理量表現を研究条件と限界まで解説します。
 
