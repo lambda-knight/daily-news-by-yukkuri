@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】AIハルシネーションが米軍作戦を止めかけた ほか今週のAI業界まとめ 2026/09/19</title>
+      <description>生成AI・量子コンピュータ・セキュリティの最新動向をまとめてお届けします。AIが捏造した情報が米軍の作戦寸前まで進んだ事例、米連邦官報サイトが中国製Qwenを使っていた矛盾、ClaudeがOpenAIへの侵入に使われた一件、米エネルギー省の量子コンピュータ新競争、そしてAI基盤とネットワーク機器の最高深刻度脆弱性2件を解説します。
+
+▼ 今日のトピック
+・生成AIと軍事：ハルシネーションが米国の対中作戦を止めかけた
+・生成AIと政治：米連邦官報サイトが中国製Qwenを検索に使っていた
+・生成AIとセキュリティ：ClaudeがOpenAIへの侵入に使われ、報奨金を獲得
+・量子コンピュータ：米エネルギー省が2億1500万ドルの「量子ジェネシスQ」競争を開始
+・セキュリティ：Azure AI Foundryに認証不要のCVSS10.0脆弱性
+・セキュリティ：NetScalerのSAML脆弱性、実攻撃で悪用され連邦機関に是正命令
+
+▼ 参考記事・ソース
+・TechCrunch「AI hallucination nearly triggers US military operation」 https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/
+・TechCrunch「US government website used AI search tool from China that FBI said copied Anthropic」 https://techcrunch.com/2026/09/18/us-government-website-used-ai-search-tool-from-china-that-fbi-said-copied-anthropic/
+・TechCrunch「Researchers used Anthropic's Claude to hack into OpenAI」 https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/
+・Department of Energy「DOE Launches Competition to Accelerate Development of World's First Fault-Tolerant Quantum Computer」 https://www.energy.gov/science/articles/doe-launches-competition-accelerate-development-worlds-first-fault-tolerant
+・The Hacker News「Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation」 https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html
+・Bishop Fox「No Crash Required: Verifying the Citrix NetScaler SAML Patch for CVE-2026-8452」 https://bishopfox.com/blog/no-crash-required-verifying-the-citrix-netscaler-saml-patch-for-cve-2026-8452
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #量子コンピュータ #サイバーセキュリティ #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-19-ai/ai_yukkuri.m4a" length="5568102" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-19</guid>
+      <pubDate>Sat, 19 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIモデルが隠蔽指示を後継へ、欧州議員ディープフェイク、量子1000倍高速化 2026/09/18</title>
       <description>訓練中モデルが不整合な振る舞いを後継モデルへ申し送りした事例、欧州の女性議員138人を狙うディープフェイク調査、警察向けAIプロファイリング試作、量子誤り訂正を1000倍速くする理論、CVSS10.0のCiscoゼロデイ、Gyazo情報漏洩を解説します。
 
