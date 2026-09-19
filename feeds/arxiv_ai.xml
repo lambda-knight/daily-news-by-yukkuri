@@ -26,6 +26,81 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>エージェントの過大申告を定量化、ハーネス設計の分解実験ほか重要論文5本【2026/09/19】</title>
+      <description>コーディングエージェントの過大申告の定量化、ハーネス構成要素ごとの効果分解、オフポリシー強化学習の安定化手法、ドメイン横断の世界モデル、埋め込みモデルの物理量表現を研究条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・フロンティアLLMエージェントの過大申告傾向を定量化する（arXiv:2609.20812）
+・コーディングエージェント向けハーネス設計の実証研究（arXiv:2609.20804）
+・スコアセンタリングによるオフポリシー強化学習の安定化（arXiv:2609.20807）
+・JEPA-Anything — 異なる世界を横断する予測モデルの学習（arXiv:2609.20800）
+・埋め込みモデルは奇妙な仕方で「測定」する（arXiv:2609.20821）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.20812
+https://arxiv.org/abs/2609.20804
+https://arxiv.org/abs/2609.20807
+https://arxiv.org/abs/2609.20800
+https://arxiv.org/abs/2609.20821
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #機械学習 #AI安全性 #強化学習</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-19-arxiv-ai/arxiv_ai_yukkuri.m4a" length="4639168" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-19</guid>
+      <pubDate>Sat, 19 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>内部表現で報酬ハッキングを検知、スケーリング指数を変えるモデル成長ほか重要論文5本【2026/09/18】</title>
+      <description>報酬ハッキングの内部表現による監視、アーキテクチャ改変によるスケーリング指数の変化、比較オラクルに基づく選好整合、トークナイザー設計の分解実験、多エージェントの集団的信念形成を研究条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・内部表現による報酬ハッキングの監視と発見（arXiv:2609.19101）
+・モデル成長・再帰・境界演算子がスケーリング指数に与える影響（arXiv:2609.19107）
+・比較オラクルに基づくLLM選好整合のゼロ次パラダイム（arXiv:2609.19144）
+・目的関数と探索アルゴリズム — 優れたトークナイザーを分解する（arXiv:2609.19145）
+・フラッグゲーム — 群れの機構的解釈可能性のためのおもちゃモデル（arXiv:2609.19124）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.19101
+https://arxiv.org/abs/2609.19107
+https://arxiv.org/abs/2609.19144
+https://arxiv.org/abs/2609.19145
+https://arxiv.org/abs/2609.19124
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #機械学習 #AI安全性 #マルチエージェント</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-18-arxiv-ai/arxiv_ai_yukkuri.m4a" length="5541744" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AIはいつ答えないべきか？世界モデルほか重要論文5本【2026/09/17】</title>
+      <description>世界行動モデル、選択的棄権、枝刈り後のツール実行、逐次ナビゲーションの校正、教師バイアスに耐える蒸留を研究条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・複数の未来表現を順番に生成する世界行動モデル（arXiv:2609.17524）
+・自己質問で回答と棄権を選ぶリスク制御（arXiv:2609.17516）
+・スマートホームで枝刈り後に最初に壊れるもの（arXiv:2609.17515）
+・エピソード単位で校正する視覚言語ナビゲーション（arXiv:2609.17499）
+・目標領域の報酬なしで教師バイアスを抑える蒸留（arXiv:2609.17474）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.17524
+https://arxiv.org/abs/2609.17516
+https://arxiv.org/abs/2609.17515
+https://arxiv.org/abs/2609.17499
+https://arxiv.org/abs/2609.17474
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #機械学習 #世界モデル #AIエージェント</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-17-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6838232" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-17</guid>
+      <pubDate>Thu, 17 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv Frontier AI論文解説（2026年9月16日）</title>
       <description>arXiv Frontier AI論文解説（2026年9月16日）
 

@@ -26,6 +26,67 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv量子コンピュータニュース（2026年9月19日）</title>
+      <description>arXiv量子コンピュータニュース（2026年9月19日）
+
+キーワード: 量子局所検査可能符号 / 因果分離可能性 / マートン予想 / フロッピングモードスピン量子ビット / ブラインド量子計算
+
+今日は5本。漸近的に良いパラメータを持つ量子局所検査可能符号の明示的構成、因果分離可能な量子プロセスの完全特徴づけ、マートンの多項式フライマン・ルザ予想の量子応用への多項式時間アルゴリズム化、ゲルマニウムのフロッピングモードスピン量子ビットによる超低消費電力コヒーレント制御、そしてパウリベース計算を使った小型サーバーによるブラインド量子計算を取り上げる。
+
+論文1: 漸近的に良い量子局所検査可能符号
+
+量子局所検査可能符号（quantum LTC）は、定数重みの局所テスターが定数の健全性でエラーを検出できる符号であり、定数レート・定数相対距離という「良い（good）」パラメータとの両立が長く追求されてきた構成目標である。この論文は、定数レート・定数相対距離・定数重みの局所テスター・定数健全性のすべてを同時に満たす量子LDPC CSS符号の明示的な族を構成しており、これらのパラメータを漸近</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-19-arxiv-qc/arxiv_qc_yukkuri.m4a" length="4041134" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-19</guid>
+      <pubDate>Sat, 19 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>arXiv量子コンピュータニュース（2026年9月18日）</title>
+      <description>arXiv量子コンピュータニュース（2026年9月18日）
+
+キーワード: マジック状態培養 / 分散量子センシング / 量子化学埋め込み / アクセス可能情報 / 量子誤り訂正セキュリティ
+
+今日は5本。行列積状態を使ったマジック状態培養スキームの厳密比較、集積フォトニクス上での分散量子センシング実証、環境を古典的に扱う量子化学埋め込み手法、ショアの予想の構成的証明、そしてAIアドバイザーの誤った助言から量子誤り訂正の復元操作を守るフレームワークを取り上げる。
+
+論文1: 行列積状態によるマジック状態培養法の比較
+
+マジック状態培養は低い時空コストで高忠実度のマジック状態を用意する手法だが、非クリフォード回路のシミュレーションが難しく、一部スキームの正確な性能は未確定のままだった。この論文は行列積状態（MPS）ベースの手法で2種類のフォールド・トランスバーサル培養スキームの厳密な性能を計算しており、未解決の数値的食い違いに直接決着をつける点で注目度が高い。
+
+著者らは、(i) Sahayらによる通常の表面符号Sゲートに基づく手法と、(ii) 部分的にフォールトトレラントなフォールド・</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-18-arxiv-qc/arxiv_qc_yukkuri.m4a" length="5163580" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>量子計算は資源配分で変わる？重要論文5本【2026/09/17】</title>
+      <description>適応VQEのノイズ耐性、状態に応じた資源配分、リンドブラッド発展の最適クエリ、量子工学AI、定深さ回路の状態準備を専門的に解説します。
+
+▼ 今日の論文ラインナップ
+・ノイズ下の適応VQEで演算子選択を回復する（arXiv:2609.17501）
+・状態の難しさに合わせて計算資源を配る適応制御（arXiv:2609.17497）
+・リンドブラッド発展を加法的クエリ量で模擬する（arXiv:2609.17490）
+・量子工学エージェントの行動と結論を検証する（arXiv:2609.17439）
+・定深さ回路で任意の対数量子ビット状態を準備する（arXiv:2609.17408）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.17501
+https://arxiv.org/abs/2609.17497
+https://arxiv.org/abs/2609.17490
+https://arxiv.org/abs/2609.17439
+https://arxiv.org/abs/2609.17408
+
+#量子コンピュータ #量子情報 #VQE #量子アルゴリズム #arxiv #論文解説 #量子誤り訂正</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-17-arxiv-qc/arxiv_qc_yukkuri.m4a" length="5632910" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-17</guid>
+      <pubDate>Thu, 17 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子誤り訂正は一次から二次へ？重要論文5本を解説【2026/09/16】</title>
       <description>確率的近似量子誤り訂正、シリコン・スピン量子ビットの残留雑音、実用量子鍵配送、二次元ハバード模型の初期状態準備、フェルミオン・マジックを研究者向けに解説します。
 
