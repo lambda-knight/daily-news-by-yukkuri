@@ -26,6 +26,25 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv量子コンピュータニュース（2026年9月20日）</title>
+      <description>arXiv量子コンピュータニュース（2026年9月20日）
+
+キーワード: コヒーレントエラー閾値 / リーケージ抑制 / 量子エルミート変換 / 多重ネガティビティ / 解釈可能な相検出
+
+オープニング：2026年9月20日 — arxiv量子コンピュータ論文解説
+
+今日は5本。表面符号など位相的量子符号に対するコヒーレントエラー閾値の存在証明、単一制御場によるトランズモンの高速2量子ビットゲートでのリーケージ抑制、量子調和振動子モードに対する効率的な量子エルミート変換、漸近的エンタングルメント測度の単一レター公式と多重ネガティビティ、そして中性原子実験の生データから解釈可能に相転移を検出するTetrisCNNを取り上げる。
+
+論文1: 位相的量子符号に対するコヒーレントエラー閾値の存在証明
+
+量子誤り訂正符号の閾値解析は、誤りが与えられた確率でランダムに生じる確率的誤りモデルに対しては確立されているが、実デバイスの誤りには不完全な制御による意図しないZ回転のようなコヒーレント誤りも含まれ、これは確率的誤りモデルでは捉えられない。表面符号については数値計算でコヒーレント誤り下でも閾値</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-20-arxiv-qc/arxiv_qc_yukkuri.m4a" length="4753151" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv量子コンピュータニュース（2026年9月19日）</title>
       <description>arXiv量子コンピュータニュース（2026年9月19日）
 
