@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv量子コンピュータニュース（2026年9月21日）</title>
+      <description>arXiv量子コンピュータニュース（2026年9月21日）
+
+キーワード: スケーラブル論理量子ビット / フォールトトレラントコンパイル / 離散変調CVQKD / 量子ヘトニエミ予想 / アクセス可能情報
+
+オープニング：2026年9月21日 — arxiv量子コンピュータ論文解説
+
+今日は5本。論理量子ビットの進捗を測るための共通定義を提案する論文、再構成可能なフォールトトレラント量子アーキテクチャ向けのリアルタイムコンパイルフレームワーク、離散変調連続変数量子鍵配送での有限サイズ一般セキュリティの初の実証、量子彩色数に関するヘトニエミ予想への反例、そして30年近く未解決だったショアの予想の証明を取り上げる。
+
+論文1: スケーラブルな論理量子ビットの定義
+
+論理量子ビットの進捗を測定・比較可能にする、という着眼点に基づく論文であり、著者にMatthias Troyer、Chetan Nayak、John Martinisという量子コンピューティング分野で広く知られた名前が並ぶ点で取り上げる。
+
+著者らは、実用規模の量子計算には物理量子ビットが直接は満たせない水準までエラー率を下</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-21-arxiv-qc/arxiv_qc_yukkuri.m4a" length="4690520" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv量子コンピュータニュース（2026年9月20日）</title>
       <description>arXiv量子コンピュータニュース（2026年9月20日）
 
