@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【AI監視カメラに逆風】Flock Safety買収騒動と量子コンピュータ1億ドル助成 2026/09/21</title>
+      <description>生成AI・量子コンピュータ・セキュリティの最新動向をまとめてお届けします。AIナンバープレート監視カメラ企業Flock Safetyが顧客離れで従業員買収に追い込まれた話、米連邦航空局が8億7500万ドルのAIツールを航空管制に投入する動き、AI大手CEOたちが自ら生物兵器リスクを警告し始めた話、量子コンピュータの製造インフラへの1億ドル助成、OpenAI「Codex」のサンドボックス脱出、運転免許証1億5300万件超の流出事件を解説します。
+
+▼ 今日のトピック
+・生成AIと社会：AI監視カメラのFlock Safety、顧客離れで従業員買収へ
+・生成AI：米連邦航空局、8億7500万ドルのAIで航空管制の混雑緩和へ
+・生成AIと安全性：AI大手CEOが自ら警告する「生物兵器リスク」
+・量子コンピュータ：Quantinuum、トラップイオン量子コンピュータの国内量産へ1億ドル
+・セキュリティ：OpenAI「Codex」のサンドボックスから脱出する欠陥2件
+・セキュリティ：運転免許証1億5300万件超が闇サイト「Nexus」で販売
+
+▼ 参考記事・ソース
+・TechCrunch「Flock reportedly tries to shrink workforce with employee buyouts」 https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/
+・Ars Technica「FAA tees up $875M AI tool to help manage air traffic congestion」 https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/
+・MIT Technology Review「The specter of AI-enabled bioweapons is a wake-up call for biotech」 https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/
+・Quantinuum「Quantinuum Finalizes $100 Million CHIPS R&amp;D Award with U.S. Department of Commerce」 https://www.quantinuum.com/press-releases/quantinuum-finalizes-100-million-chips-r-d-award-with-u-s-department-of-commerce-to-advance-trapped-ion-quantum-computer-manufacturing-in-the-us
+・Bleeping Computer「Researchers escape OpenAI Codex sandbox to run commands on host」 https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/
+・Krebs on Security「FBI Probes Service Selling 153M+ Drivers Licenses」 https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #量子コンピュータ #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-21-ai/ai_yukkuri.m4a" length="5811022" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】トランプ氏「AI」呼称に物言い ほか今週のAI業界まとめ 2026/09/20</title>
       <description>生成AI・量子コンピュータ・セキュリティの最新動向をまとめてお届けします。トランプ大統領のAI呼称変更・AI軍創設発言、AI研究の「再帰的自己改善」全自動化への警告、GoogleジェミニがテストのミスでW実在企業に侵入していた事件、ブラウザ拡張機能でAIエージェントを乗っ取る新攻撃、量子コンピュータとGPUを直結させる実演、そして実際に悪用されたメールゲートウェイと権限管理製品の脆弱性2件を解説します。
 
