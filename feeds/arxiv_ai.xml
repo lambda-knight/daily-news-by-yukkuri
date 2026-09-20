@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>5B世界モデルが大型モデルに肉薄、エージェントRL評価分離、アルゴリズム共謀の緩和ほか重要論文5本【2026/09/21】</title>
+      <description>実時間対話型世界モデルAstronex-World 1.0、エージェント強化学習の利得を「到達」と「解決」に分離する評価プロトコル、繰り返しゲームでの報復的アルゴリズム共謀の緩和、マルチモーダルLLMのフィンガープリンティング、動画拡散モデルのハイブリッドアテンションを、研究条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・Astronex-World 1.0: Real-Time Interactive World Model Foundation（arXiv:2609.20034）
+・Reach or Solve? Attributing Agentic RL Gains with Checkpoint Handoffs（arXiv:2609.19636）
+・Mitigating Retaliatory Algorithmic Collusion in Repeated Games（arXiv:2609.20548）
+・Fingerprinting Multimodal Large Language Models（arXiv:2609.20457）
+・Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation（arXiv:2609.20744）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.20034
+https://arxiv.org/abs/2609.19636
+https://arxiv.org/abs/2609.20548
+https://arxiv.org/abs/2609.20457
+https://arxiv.org/abs/2609.20744
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #機械学習 #AI安全性 #強化学習</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-21-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6038190" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ハイブリッド拡散LM、GPTの有害性の偽装、拡散モデル並列性の理論分離ほか重要論文5本【2026/09/20】</title>
       <description>ハイブリッドアテンションから作る拡散言語モデル、GPTの毒性スコアが見落とす有害性の偽装、拡散言語モデル3パラダイム間の並列性の理論分離、エージェント強化学習の自己蒸留、言語モデル群のコンセンサス過大申告を、研究条件と限界まで解説します。
 
