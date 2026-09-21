@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv量子コンピュータニュース（2026年9月22日）</title>
+      <description>arXiv量子コンピュータニュース（2026年9月22日）
+
+キーワード: 量子KKL不等式 / 量子強調周波数センシング / モジュラー量子計算の光子インターコネクト / 量子誤り訂正閾値のアンサンブル依存性 / 量子フーリエモデルの冗長度
+
+オープニング：2026年9月22日 — arxiv量子コンピュータ論文解説
+
+今日は5本。MontanaroOsborneの量子KKL予想を解決した論文、トラップイオンで量子強調周波数センシングの持続性を実証した論文、モジュール型量子計算のための単一原子ベース光子インターコネクト、量子誤り訂正閾値の臨界指数がアンサンブル依存になるという理論結果、そして量子フーリエモデルの周波数冗長度の漸近挙動を扱う。
+
+論文1: 量子KKL不等式
+
+Montanaro と Osborne が2010年に提起した量子KKL予想を解決している点で取り上げる。古典KKL不等式のブール関数解析における位置づけを踏まえると、その量子版の解決は量子ブール関数解析の基礎的な空白を埋める結果になる。
+
+著者らは、$n$量子ビット超立方体上の量子ブール関数について、任意の自己随</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-22-arxiv-qc/arxiv_qc_yukkuri.m4a" length="5366743" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-22</guid>
+      <pubDate>Tue, 22 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv量子コンピュータニュース（2026年9月21日）</title>
       <description>arXiv量子コンピュータニュース（2026年9月21日）
 
