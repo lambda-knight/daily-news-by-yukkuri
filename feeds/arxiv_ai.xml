@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>言語モデルの隠れた知識を読む嘘発見器、世界モデルの機構解釈ほか重要論文5本【2026/09/22】</title>
+      <description>言語モデルが表に出さない内部知識を検出する参照不要のPIR、トランスフォーマーの世界モデルを機構的に読み解くTaxiGPT解析、自己蒸留の正しさと振る舞いを分離する対照的自己蒸留、ツール呼び出し対応の全二重音声対話モデルNemotronLabs VoiceChat、手続き記憶でフロンティアモデルを継続適応させるDesigner-RSIを、研究条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal（arXiv:2609.21996）
+・World Modeling in Transformers（arXiv:2609.21748）
+・On Repulsive and Attractive Teachers: Separating Correctness from Behavior in Self-Distillation（arXiv:2609.21561）
+・NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities（arXiv:2609.21967）
+・Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design（arXiv:2609.22086）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.21996
+https://arxiv.org/abs/2609.21748
+https://arxiv.org/abs/2609.21561
+https://arxiv.org/abs/2609.21967
+https://arxiv.org/abs/2609.22086
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #機械学習 #AI安全性 #マルチモーダル</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-22-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6366527" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-22</guid>
+      <pubDate>Tue, 22 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>5B世界モデルが大型モデルに肉薄、エージェントRL評価分離、アルゴリズム共謀の緩和ほか重要論文5本【2026/09/21】</title>
       <description>実時間対話型世界モデルAstronex-World 1.0、エージェント強化学習の利得を「到達」と「解決」に分離する評価プロトコル、繰り返しゲームでの報復的アルゴリズム共謀の緩和、マルチモーダルLLMのフィンガープリンティング、動画拡散モデルのハイブリッドアテンションを、研究条件と限界まで解説します。
 
