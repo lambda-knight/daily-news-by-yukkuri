@@ -26,6 +26,25 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv量子コンピュータニュース（2026年9月23日）</title>
+      <description>arXiv量子コンピュータニュース（2026年9月23日）
+
+キーワード: 損失耐性GHZ状態 / デバイス非依存会議鍵合意 / 中性原子キャビティ量子計算 / オルターマグネット超伝導キュービット / 観測量標的変分量子シミュレーション / ペンデルロージング干渉計測
+
+オープニング：2026年9月23日 — arxiv量子コンピュータ論文解説
+
+今日は5本。損失耐性の高いフォトニックGHZ状態で長距離デバイス非依存会議鍵合意を実現する論文、リュードベリ原子とマイクロ波共振器を結合して中性原子量子計算の長距離接続を実現する論文、オルターマグネットを使った新しい超伝導キュービット、変分量子シミュレーションで観測量そのものを標的にする手法、そして中性子・X線干渉計での薄膜結晶ブレード製作を扱う。
+
+論文1: 損失耐性フォトニックGHZ状態の効率的ヘラルディングによる長距離デバイス非依存会議鍵合意
+
+損失の大きい量子ネットワーク上でデバイス非依存会議鍵合意（DICKA）を行うにはヘラルド型の多体もつれ配送が必要になるが、損失がない場合には局所的に等価なGHZ状態でも、単一レール光子数符号化</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-23-arxiv-qc/arxiv_qc_yukkuri.m4a" length="6060127" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-23</guid>
+      <pubDate>Wed, 23 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv量子コンピュータニュース（2026年9月22日）</title>
       <description>arXiv量子コンピュータニュース（2026年9月22日）
 
