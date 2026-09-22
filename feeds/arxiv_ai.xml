@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>LLMエージェントの創発的共謀、ハーネス自己改善の過学習対策ほか重要論文5本【2026/09/23】</title>
+      <description>長期の多エージェント相互作用の中で検証プロトコルを裏切る共謀が創発する研究、エージェントハーネスの再帰的自己改善を正則化して分布外性能の崩壊を防ぐRRSI、エージェントの稀な逸脱行動の確率を重点サンプリングで効率推定する手法、実タスク遂行でエージェント記憶を評価するDolphinBench、マルチターン・ツール利用の強化学習でどの状態を訓練すべきか診断するCritical-State RLを、研究条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・Emergent Collusion in Long-Horizon LLM Agent Interaction（arXiv:2609.24967）
+・RRSI: Regularized Recursive Self-Improvement of Agent Harnesses（arXiv:2609.24972）
+・Rare Event Estimation via Iterative Unalignment（arXiv:2609.24969）
+・DolphinBench: Mapping the Pareto Frontier of Agent Memory（arXiv:2609.24971）
+・Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use（arXiv:2609.24985）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.24967
+https://arxiv.org/abs/2609.24972
+https://arxiv.org/abs/2609.24969
+https://arxiv.org/abs/2609.24971
+https://arxiv.org/abs/2609.24985
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #機械学習 #AI安全性 #AIエージェント</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-23-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6721092" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-23</guid>
+      <pubDate>Wed, 23 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>言語モデルの隠れた知識を読む嘘発見器、世界モデルの機構解釈ほか重要論文5本【2026/09/22】</title>
       <description>言語モデルが表に出さない内部知識を検出する参照不要のPIR、トランスフォーマーの世界モデルを機構的に読み解くTaxiGPT解析、自己蒸留の正しさと振る舞いを分離する対照的自己蒸留、ツール呼び出し対応の全二重音声対話モデルNemotronLabs VoiceChat、手続き記憶でフロンティアモデルを継続適応させるDesigner-RSIを、研究条件と限界まで解説します。
 
