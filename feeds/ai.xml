@@ -26,19 +26,49 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
-      <title>生成AI・量子・セキュリティニュース（2026年9月22日）</title>
-      <description>生成AI・量子・セキュリティニュース（2026年9月22日）
+      <title>【GPT-6対Opus5.5】BC州がOpenAI提訴/量子商用化 2026/09/23</title>
+      <description>生成AI・量子コンピュータ・サイバーセキュリティの最新動向をまとめます。OpenAIのGPT-6 Sol/LunaとAnthropicのClaude Opus 5.5が同日に刷新・値下げされた話、カナダBC州が学校銃撃事件をめぐりOpenAIを提訴した訴訟、テネシー州チャタヌーガで始まった商用量子コンピュータの稼働、AIを組み込んだフィッシング代行サービス「EvilTokens」の摘発を解説します。
 
-キーワード: Meta Muse初動 / AmazonによるAI買い物代理の遮断 / Metaの著作権制度悪用とアルバニア抗議運動 / GlobalFoundries量子半導体3.75億ドル / Contagious Interview暗号資産窃取1071万ドル
+▼ 今日のトピック
+・OpenAI、GPT-6 Sol・Lunaを発表し前世代の半額以下に値下げ
+・Anthropic、Claude Opus 5.5を発表しコスト4割減・速度3割増
+・カナダBC州、タンブラーリッジ銃撃事件でOpenAIを提訴
+・テネシー州チャタヌーガでIonQ Forte Enterprise量子コンピュータが稼働開始
+・Microsoft、AI悪用フィッシング代行「EvilTokens」の基盤を摘発
 
-オープニング：2026年9月22日 — 生成AI・量子・セキュリティニュース
+▼ 参考記事・ソース
+・TechCrunch「OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes」 https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/
+・Anthropic「Introducing Claude Opus 5.5」 https://www.anthropic.com/claude-opus-5-5
+・Al Jazeera「Canada's BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting」 https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting
+・EPB「EPB Launches IonQ Forte Enterprise Quantum Computer in Chattanooga」 https://epb.com/newsroom/press-releases/epb-launches-quantum-computer/
+・Microsoft Security Blog「Unmasking EvilTokens, getting to the root of device code phishing」 https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/
 
- 今日の焦点は、Metaの個人向けAIエージェント「Muse」が公開12日間の北米iOSダウンロードで初期のChatGPTを上回る一方、Amazonでは買い物代理を遮断された話です。自動著作権削除がアルバニアの反政府デモの発信封じに悪用された疑い、量子半導体量産への3億7500万ドル助成、北朝鮮系作戦による3万台・1071万ドル相当の被害も追います。
- 共通する問いは、AIが利用者の代わりに行動する時代に、流通を握る企業がどこまで入口と出口を管理するのかです。
+#生成AI #AI #量子コンピュータ #サイバーセキュリティ #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-23-ai/ai_yukkuri.m4a" length="4861607" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-23</guid>
+      <pubDate>Wed, 23 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【Muse急拡大】量子半導体3.75億ドル助成と北朝鮮系攻撃 2026/09/22</title>
+      <description>生成AI・量子コンピュータ・サイバーセキュリティの最新動向をまとめます。Metaの個人向けAIエージェント「Muse」の初動とAmazonによる遮断、アルバニア反政府デモでの著作権制度悪用疑惑、GlobalFoundriesへの3億7500万ドル助成、北朝鮮系「Contagious Interview」による3万台・1071万ドル相当の被害を解説します。
 
-生成AI：Meta「Muse」、初期ChatGPTを上回る普及とAmazonによる遮断
+▼ 今日のトピック
+・Meta「Muse」、公開12日間の北米iOSダウンロードで初期ChatGPTを上回る
+・Amazon、無許可AIエージェントとしてMuseの買い物代理を遮断
+・Metaの自動著作権削除、アルバニア反政府デモの発信封じに悪用された疑い
+・GlobalFoundries、量子半導体の量産へ3億7500万ドルの政府助成
+・北朝鮮系「Contagious Interview」、3万台感染・暗号資産1071万ドル窃取
 
- 市場調査会社Appfigure</description>
+▼ 参考記事・ソース
+・TechCrunch「Meta’s Muse is outpacing ChatGPT’s early mobile launch」 https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/
+・TechCrunch「Meta’s AI agent has been blocked from using Amazon.com」 https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/
+・Repro Uncensored「Who is trying to silence the Flamingo Revolution in Albania?」 https://reprouncensored.substack.com/p/who-is-trying-to-silence-the-flamingo
+・GlobalFoundries「GlobalFoundries and U.S. Department of Commerce finalize $375M R&amp;D award」 https://gf.com/news-and-events/news/globalfoundries-and-us-department-of-commerce-finalize-375m-r-d-award-to-advance-american-quantum-leadership/
+・The Hacker News「Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto」 https://thehackernews.com/2026/09/contagious-interview-campaign.html
+
+#生成AI #AI #量子コンピュータ #サイバーセキュリティ #ゆっくり解説 #ずんだもん #四国めたん</description>
       <enclosure url="https://archive.org/download/news-pickup-2026-09-22-ai/ai_yukkuri.m4a" length="4758703" type="audio/mp4"/>
       <guid isPermaLink="false">ai-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 07:00:00 +0900</pubDate>

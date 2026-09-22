@@ -1,5 +1,5 @@
 ---
-title: "生成AIニュース 2026-09-22"
+title: "【Muse急拡大】量子半導体3.75億ドル助成と北朝鮮系攻撃 2026/09/22"
 layout: default
 ---
 
@@ -8,13 +8,35 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# 生成AIニュース 2026-09-22
+# 【Muse急拡大】量子半導体3.75億ドル助成と北朝鮮系攻撃 2026/09/22
 
 **2026-09-22 / 生成AIニュース**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-22-ai/ai_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-22-ai)
+
+---
+
+## 概要
+
+生成AI・量子コンピュータ・サイバーセキュリティの最新動向をまとめます。Metaの個人向けAIエージェント「Muse」の初動とAmazonによる遮断、アルバニア反政府デモでの著作権制度悪用疑惑、GlobalFoundriesへの3億7500万ドル助成、北朝鮮系「Contagious Interview」による3万台・1071万ドル相当の被害を解説します。
+
+▼ 今日のトピック
+・Meta「Muse」、公開12日間の北米iOSダウンロードで初期ChatGPTを上回る
+・Amazon、無許可AIエージェントとしてMuseの買い物代理を遮断
+・Metaの自動著作権削除、アルバニア反政府デモの発信封じに悪用された疑い
+・GlobalFoundries、量子半導体の量産へ3億7500万ドルの政府助成
+・北朝鮮系「Contagious Interview」、3万台感染・暗号資産1071万ドル窃取
+
+▼ 参考記事・ソース
+・TechCrunch「Meta’s Muse is outpacing ChatGPT’s early mobile launch」 https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/
+・TechCrunch「Meta’s AI agent has been blocked from using Amazon.com」 https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/
+・Repro Uncensored「Who is trying to silence the Flamingo Revolution in Albania?」 https://reprouncensored.substack.com/p/who-is-trying-to-silence-the-flamingo
+・GlobalFoundries「GlobalFoundries and U.S. Department of Commerce finalize $375M R&D award」 https://gf.com/news-and-events/news/globalfoundries-and-us-department-of-commerce-finalize-375m-r-d-award-to-advance-american-quantum-leadership/
+・The Hacker News「Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto」 https://thehackernews.com/2026/09/contagious-interview-campaign.html
+
+#生成AI #AI #量子コンピュータ #サイバーセキュリティ #ゆっくり解説 #ずんだもん #四国めたん
 
 ---
 
