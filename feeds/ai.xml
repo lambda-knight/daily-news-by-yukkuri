@@ -26,6 +26,26 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AI・量子・セキュリティニュース（2026年9月24日）</title>
+      <description>生成AI・量子・セキュリティニュース（2026年9月24日）
+
+キーワード: ChatGPTモバイルエージェント / AI利用者の規制支持 / 国境監視塔廃止法案 / 量子CAE高速化 / Ciscoメールゲートウェイ / AIエージェント型スキミング
+
+オープニング：2026年9月24日 — 生成AI・量子・セキュリティニュース
+
+ 今日の焦点は、AIが会話の相手から「操作する代理人」へ移る速さです。OpenAIはスマートフォン版ChatGPTに音声で仕事を頼める機能を追加する一方、米国では日常的なAI利用者にも不安と規制支持が残りました。
+ 社会実装では、米南部国境の監視塔計画を終了させる法案、量子計算を工業シミュレーションの前処理へ組み込んだ実験、そしてメール一通で管理者権限を奪われ得るCisco製品の脆弱性と、AIエージェントを使う決済情報窃取を扱います。
+
+生成AI：ChatGPTのモバイル版が音声で仕事を進める代理機能
+
+ OpenAIは9月23日、ChatGPTのモバイルアプリで、音声からエージェント型の作業を依頼できる機能を発表しました。ProとPlusの利用者は、スマ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-24-ai/ai_yukkuri.m4a" length="4474382" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-24</guid>
+      <pubDate>Thu, 24 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【GPT-6対Opus5.5】BC州がOpenAI提訴/量子商用化 2026/09/23</title>
       <description>生成AI・量子コンピュータ・サイバーセキュリティの最新動向をまとめます。OpenAIのGPT-6 Sol/LunaとAnthropicのClaude Opus 5.5が同日に刷新・値下げされた話、カナダBC州が学校銃撃事件をめぐりOpenAIを提訴した訴訟、テネシー州チャタヌーガで始まった商用量子コンピュータの稼働、AIを組み込んだフィッシング代行サービス「EvilTokens」の摘発を解説します。
 
