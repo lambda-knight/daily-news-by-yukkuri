@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子優位性はどの資源に現れる？重要論文5本を解説【2026/09/24】</title>
+      <description>分散計算の定数ラウンド量子優位性、異距離格子手術、自己抑制型イオンクロック、溶接木の量子下界、ボソニックガウス状態の学習境界を、比較条件・核心数値・限界まで研究者向けに解説します。
+
+▼ 今日の論文ラインナップ
+・分散対称性破れにおける量子優位性（arXiv:2609.26788）
+・異なる符号距離の格子手術による分散量子計算の誤り抑制（arXiv:2609.26784）
+・運動誘起周波数シフトへ自己免疫を持つ光イオンクロック（arXiv:2609.26775）
+・溶接木の経路発見に対する量子下界（arXiv:2609.26712）
+・ボソニックガウス状態が古典的サンプル数で学習可能になる条件（arXiv:2609.26705）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.26788 — 分散対称性破れにおける量子優位性
+https://arxiv.org/abs/2609.26784 — 異なる符号距離の格子手術による分散量子計算の誤り抑制
+https://arxiv.org/abs/2609.26775 — 運動誘起周波数シフトへ自己免疫を持つ光イオンクロック
+https://arxiv.org/abs/2609.26712 — 溶接木の経路発見に対する量子下界
+https://arxiv.org/abs/2609.26705 — ボソニックガウス状態が古典的サンプル数で学習可能になる条件
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #量子計測 #量子アルゴリズム #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-24-arxiv-qc/arxiv_qc_yukkuri.m4a" length="5522530" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-24</guid>
+      <pubDate>Thu, 24 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv量子コンピュータニュース（2026年9月23日）</title>
       <description>arXiv量子コンピュータニュース（2026年9月23日）
 
