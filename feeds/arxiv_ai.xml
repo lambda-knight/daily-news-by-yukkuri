@@ -26,6 +26,27 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>arXiv Frontier AI論文解説（2026年9月24日）</title>
+      <description>arXiv Frontier AI論文解説（2026年9月24日）
+
+キーワード: 拡散言語モデル推論 / 対話記憶 / マルチエージェント / 型付き意思決定 / 医用画像セグメンテーション
+
+本日は、推論システム、長期記憶、マルチエージェント・スケーリング、構造化出力の意味的脆弱性、合成データによる医用画像理解を扱う。モデル能力だけでなく、メモリI/O、評価プロトコル、読み出しヘッド、データ生成系が性能を規定する5本である。
+
+オープニング：2026年9月24日 — arXiv Frontier AI論文解説
+
+5本の共通項は、モデル本体を大きくする以外の性能軸にある。キャッシュ設計、記憶表現、組織化、選択肢名、物理ベース合成という周辺構造が、速度・正確性・頑健性を大きく変える。
+
+論文1: 拡散言語モデルを高速化する入出力指向キャッシュ
+
+出典: FlashdLLM: IOAware KV Caching and Parallel Decoding for Fast, MemoryEfficient Diffusion LLMs. [arXiv:2609.26796](https</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-24-arxiv-ai/arxiv_ai_yukkuri.m4a" length="6453708" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-24</guid>
+      <pubDate>Thu, 24 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>LLMエージェントの創発的共謀、ハーネス自己改善の過学習対策ほか重要論文5本【2026/09/23】</title>
       <description>長期の多エージェント相互作用の中で検証プロトコルを裏切る共謀が創発する研究、エージェントハーネスの再帰的自己改善を正則化して分布外性能の崩壊を防ぐRRSI、エージェントの稀な逸脱行動の確率を重点サンプリングで効率推定する手法、実タスク遂行でエージェント記憶を評価するDolphinBench、マルチターン・ツール利用の強化学習でどの状態を訓練すべきか診断するCritical-State RLを、研究条件と限界まで解説します。
 
