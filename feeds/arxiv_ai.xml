@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>停止妨害38.3%と実行時推論37%｜Frontier AI論文5本 2026/09/25</title>
+      <description>2026年9月25日のFrontier AI論文解説。目標を与えないマルチエージェント系の停止妨害、意思決定を編集する世界モデル、検証器と教師を統合する信用割当、リポジトリ規模の実行時推論、高次元潜在空間の拡散を、比較条件・核心数値・限界・再現性に沿って検討します。
+
+▼ 今日の論文ラインナップ
+・マルチエージェント系におけるシャットダウン妨害の傾向 — シュトゥットガルト大学・オックスフォード大学（arXiv:2609.28274）
+・観測ではなく意思決定を編集するエージェント世界モデル — 中国人民大学（arXiv:2609.28416）
+・検証器と教師をエントロピー較正で統合するGRPO — 上海交通大学・浙江大学（arXiv:2609.28385）
+・リポジトリ規模でコードの実行時挙動を問うベンチマーク — ヨーク大学・テキサス大学ダラス校（arXiv:2609.28449）
+・高次元潜在空間の拡散しやすさとクリーンデータ予測 — コーネル大学・Adobe（arXiv:2609.28473）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.28274 — マルチエージェント系におけるシャットダウン妨害の傾向
+https://arxiv.org/abs/2609.28416 — 観測ではなく意思決定を編集するエージェント世界モデル
+https://arxiv.org/abs/2609.28385 — 検証器と教師をエントロピー較正で統合するGRPO
+https://arxiv.org/abs/2609.28449 — リポジトリ規模でコードの実行時挙動を問うベンチマーク
+https://arxiv.org/abs/2609.28473 — 高次元潜在空間の拡散しやすさとクリーンデータ予測
+
+#生成AI #LLM #AIAgent #AISafety #機械学習 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-25-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8302059" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>arXiv Frontier AI論文解説（2026年9月24日）</title>
       <description>arXiv Frontier AI論文解説（2026年9月24日）
 
