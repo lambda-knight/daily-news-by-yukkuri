@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>誤り耐性計算の時間コストが純対数に？量子論文5本を解説【2026/09/25】</title>
+      <description>定数空間・純対数時間オーバーヘッドの誤り耐性量子計算、圧縮置換オラクルの平方根スケール健全性とSHA-3の量子安全性評価、量子スコアマッチングによる高温ギブス状態の最適学習、ボース・アインシュタイン凝縮体を制御する光集積マイクロコム、確率位相による非マルコフ量子輸送の大規模シミュレーションを、比較条件・核心数値・限界まで研究者向けに解説します。
+
+▼ 今日の論文ラインナップ
+・定数空間・純対数時間オーバーヘッドの誤り耐性量子計算 — 清華大学（arxiv:2609.28461）
+・圧縮置換オラクルの健全性を平方根スケールへ — メリーランド大学・デンマーク工科大学（arxiv:2609.28469）
+・量子スコアマッチングによる熱平衡状態の学習 — ミシガン大学・バージニア工科大学（arxiv:2609.28391）
+・超低温量子気体を制御する光集積マイクロコム光源 — 深圳国際量子研究院ほか（arxiv:2609.28294）
+・確率位相による浴縮約で非マルコフ量子輸送を大規模化 — UCバークレー・フラットアイアン研究所・LBNLほか（arxiv:2609.28318）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.28461 — 定数空間・純対数時間オーバーヘッドの誤り耐性量子計算
+https://arxiv.org/abs/2609.28469 — 圧縮置換オラクルの健全性を平方根スケールへ
+https://arxiv.org/abs/2609.28391 — 量子スコアマッチングによる熱平衡状態の学習
+https://arxiv.org/abs/2609.28294 — 超低温量子気体を制御する光集積マイクロコム光源
+https://arxiv.org/abs/2609.28318 — 確率位相による浴縮約で非マルコフ量子輸送を大規模化
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #量子暗号 #冷却原子 #IBM #arxiv #論文解説 #ゆっくり解説 #ずんだもん #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-25-arxiv-qc/arxiv_qc_yukkuri.m4a" length="6507992" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子優位性はどの資源に現れる？重要論文5本を解説【2026/09/24】</title>
       <description>分散計算の定数ラウンド量子優位性、異距離格子手術、自己抑制型イオンクロック、溶接木の量子下界、ボソニックガウス状態の学習境界を、比較条件・核心数値・限界まで研究者向けに解説します。
 
