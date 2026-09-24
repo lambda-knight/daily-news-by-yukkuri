@@ -8,6 +8,7 @@ layout: default
 | カテゴリ | リンク |
 |---------|--------|
 | 生成AIニュース | [生成AIニュース](./ai/) |
+| arxiv Frontier AI・最先端AI論文解説 | [arxiv Frontier AI・最先端AI論文解説](./arxiv_ai/) |
 | 国内メディア比較 | [国内メディア比較](./domestic/) |
 | 7カ国メディア比較 | [7カ国メディア比較](./compare/) |
 | 世界の珍ニュース | [世界の珍ニュース](./weird/) |
