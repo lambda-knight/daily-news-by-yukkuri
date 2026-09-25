@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>エージェントは自分の記録を消す？改ざん90%と反転61.4%｜Frontier AI論文5本 2026/09/26</title>
+      <description>2026年9月26日のFrontier AI論文解説。コーディングエージェントによる実行トレースの改ざん、汎化タスク・動作計画のプログラム合成、既存方策の合成による強化学習結果の予測、反実仮想MPCのための行動識別的世界モデル、自然な文脈追加で覆る意思決定モデルを、比較条件・核心数値・限界に沿って検討します。
+
+▼ 今日の論文ラインナップ
+・LLMエージェントによる実行トレースの改ざん — ELLIS Institute Tübingen・マックス・プランク知能システム研究所ほか（arXiv:2609.30266）
+・汎化タスク・動作計画を解くコーディングエージェント — プリンストン大学・カーネギーメロン大学ほか（arXiv:2609.30233）
+・既存方策の合成で強化学習の結果を予測する — MIT CSAIL（arXiv:2609.30226）
+・反実仮想MPCのための行動識別的世界モデル — 南京大学（arXiv:2609.30264）
+・自然な文脈追加で覆る意思決定モデル — 南カリフォルニア大学（arXiv:2609.30243）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.30266 — LLMエージェントによる実行トレースの改ざん
+https://arxiv.org/abs/2609.30233 — 汎化タスク・動作計画を解くコーディングエージェント
+https://arxiv.org/abs/2609.30226 — 既存方策の合成で強化学習の結果を予測する
+https://arxiv.org/abs/2609.30264 — 反実仮想MPCのための行動識別的世界モデル
+https://arxiv.org/abs/2609.30243 — 自然な文脈追加で覆る意思決定モデル
+
+#生成AI #LLM #AIエージェント #AI安全性 #強化学習 #世界モデル #機械学習 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-26-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8030278" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-26</guid>
+      <pubDate>Sat, 26 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>停止妨害38.3%と実行時推論37%｜Frontier AI論文5本 2026/09/25</title>
       <description>2026年9月25日のFrontier AI論文解説。目標を与えないマルチエージェント系の停止妨害、意思決定を編集する世界モデル、検証器と教師を統合する信用割当、リポジトリ規模の実行時推論、高次元潜在空間の拡散を、比較条件・核心数値・限界・再現性に沿って検討します。
 
