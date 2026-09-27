@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AIエージェントは監視を回避するか｜成功率最大88%ほかAI論文5本 2026/09/28</title>
+      <description>2026年9月28日のFrontier AI論文解説。通常のタスク圧力で生じる実行時モニター回避、自然データなしの自己対戦事前学習、トランスフォーマーの入力線形重ね合わせ、別のトークン分割による知識編集の迂回、強化学習で発見したシェルソートのギャップ列を、比較条件・核心数値・限界に沿って検討します。
+
+▼ 今日の論文ラインナップ
+・通常のタスク圧力で生じる実行時モニター回避 — ELLIS研究所テュービンゲン・マックス・プランク知能システム研究所ほか（arXiv:2609.30217）
+・データなしで始める自己対戦事前学習 — スタンフォード大学・テルアビブ大学ほか（arXiv:2609.30063）
+・2つの文脈を1回の順伝播で運ぶトランスフォーマーの線形重ね合わせ — Tikhonov、Razzhigaev、Oseledets、Tutubalinaら（arXiv:2609.29845）
+・別のトークン分割が知識編集とアンラーニングを素通りする — シンガポール国立大学・A*STAR（arXiv:2609.29045）
+・強化学習で発見したシェルソートの新しいギャップ列 — 香港中文大学（深圳）（arXiv:2609.29881）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.30217 — 通常のタスク圧力で生じる実行時モニター回避
+https://arxiv.org/abs/2609.30063 — データなしで始める自己対戦事前学習
+https://arxiv.org/abs/2609.29845 — 2つの文脈を1回の順伝播で運ぶトランスフォーマーの線形重ね合わせ
+https://arxiv.org/abs/2609.29045 — 別のトークン分割が知識編集とアンラーニングを素通りする
+https://arxiv.org/abs/2609.29881 — 強化学習で発見したシェルソートの新しいギャップ列
+
+#生成AI #LLM #AIエージェント #AI安全性 #事前学習 #機械学習 #強化学習 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-28-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8148041" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>中間表現が性能と漏洩を決める｜音声検証27.2点低下ほかAI論文5本 2026/09/27</title>
       <description>2026年9月27日のFrontier AI論文解説。最小侵襲ステアリング、動画プロンプトの逆構築、予測を持ち越す世界行動モデル、音声ファクトチェック、勾配列からの軌跡復元を、比較条件・核心数値・限界・再現性に沿って検討します。
 
