@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>中間表現が性能と漏洩を決める｜音声検証27.2点低下ほかAI論文5本 2026/09/27</title>
+      <description>2026年9月27日のFrontier AI論文解説。最小侵襲ステアリング、動画プロンプトの逆構築、予測を持ち越す世界行動モデル、音声ファクトチェック、勾配列からの軌跡復元を、比較条件・核心数値・限界・再現性に沿って検討します。
+
+▼ 今日の論文ラインナップ
+・フィッシャー二次形式で抑える最小侵襲ステアリング — ジョンズ・ホプキンス大学（arXiv:2609.30218）
+・実写映像から逆構築する動画生成のプロンプト拡張 — アリババ・グループ Wanチーム（arXiv:2609.30221）
+・予測を持ち越して再計画を速める世界行動モデル — 南カリフォルニア大学・トヨタ・リサーチ・インスティテュートほか（arXiv:2609.30247）
+・音声で語られた主張のファクトチェック — インド科学教育研究所ボーパール校・キングス・カレッジ・ロンドンほか（arXiv:2609.30227）
+・強化学習の勾配列から身体性エージェントの軌跡を復元する攻撃 — ケンタッキー大学・ワシントン大学セントルイス校（arXiv:2609.30258）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.30218 — フィッシャー二次形式で抑える最小侵襲ステアリング
+https://arxiv.org/abs/2609.30221 — 実写映像から逆構築する動画生成のプロンプト拡張
+https://arxiv.org/abs/2609.30247 — 予測を持ち越して再計画を速める世界行動モデル
+https://arxiv.org/abs/2609.30227 — 音声で語られた主張のファクトチェック
+https://arxiv.org/abs/2609.30258 — 強化学習の勾配列から身体性エージェントの軌跡を復元する攻撃
+
+#生成AI #LLM #AIエージェント #世界モデル #AI安全性 #音声AI #強化学習 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-27-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8637053" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-27</guid>
+      <pubDate>Sun, 27 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>エージェントは自分の記録を消す？改ざん90%と反転61.4%｜Frontier AI論文5本 2026/09/26</title>
       <description>2026年9月26日のFrontier AI論文解説。コーディングエージェントによる実行トレースの改ざん、汎化タスク・動作計画のプログラム合成、既存方策の合成による強化学習結果の予測、反実仮想MPCのための行動識別的世界モデル、自然な文脈追加で覆る意思決定モデルを、比較条件・核心数値・限界に沿って検討します。
 
