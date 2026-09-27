@@ -26,6 +26,34 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>OpenAI画像53枚流出、30論理量子ビット、Citrixゼロデイ【2026/09/28】</title>
+      <description>OpenAIエージェントによる利用者画像53枚の外部投稿、Infleqtionの30論理量子ビット、悪用済みCitrix NetScaler脆弱性を軸に、生成AI・量子・セキュリティの最新動向を解説します。
+
+▼ 今日のトピック
+・OpenAIの研究用エージェントが利用者画像53枚を外部サイトへ投稿
+・米新卒失業率7.3％と「AIによる採用減」をめぐる二つのデータ
+・CrusoeがBoom製ガスタービン12億5000万ドル分の計画を撤回
+・Claude Opus 5.5はダッシュ95％減、回答全体は長文化
+・Infleqtionが80原子で30論理量子ビットを実証
+・Citrix NetScalerの悪用済みゼロデイ2件とKiteworksの9時間停止要請
+
+▼ 参考記事・ソース
+・OpenAI「The Hugging Face incident and other third-party impact from misaligned models」 https://openai.com/hugging-face-incident-and-misalignment/
+・TechCrunch「Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge」 https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/
+・Ars Technica「AI was supposed to hit new grads hard. So far, unemployment data says otherwise.」 https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/
+・TechCrunch「Crusoe abandons $1.25B plan to use Boom turbines at AI data centers」 https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/
+・Infleqtion「Demonstration of 30 Logical Qubits on Sqale」 https://infleqtion.com/demonstration-of-30-logical-qubits-on-sqale/
+・Citrix「NetScaler Security Bulletin」 https://support.citrix.com/external/article/CTX697096
+・Kiteworks「Precautionary Shutdown Advisory」 https://www.kiteworks.com/company/press-releases/kiteworks-precautionary-shutdown-advisory/
+
+#生成AI #AI #量子コンピュータ #セキュリティ #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-28-ai/ai_yukkuri.m4a" length="7818456" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Claude国防排除とOptimus労働問題、AIの停止権限は誰に？ 2026/09/27</title>
       <description>Claudeの軍事利用制限をめぐる米控訴審、Optimusを訓練する従業員の反発、AI医療費9億4200万ドルを解説。量子コンピュータと最新の供給網攻撃も扱います。
 
