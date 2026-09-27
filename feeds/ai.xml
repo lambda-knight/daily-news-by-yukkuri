@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Claude国防排除とOptimus労働問題、AIの停止権限は誰に？ 2026/09/27</title>
+      <description>Claudeの軍事利用制限をめぐる米控訴審、Optimusを訓練する従業員の反発、AI医療費9億4200万ドルを解説。量子コンピュータと最新の供給網攻撃も扱います。
+
+▼ 今日のトピック
+・国防総省によるAnthropic排除を控訴裁判所が容認
+・Tesla Optimusの学習データと雇用リスク
+・FIUへIonQ Superion 256を学内設置
+・PeopleSoft CVE-2026-35273とGitHub Actions侵害
+
+▼ 参考記事・ソース
+・Ars Technica「Court rules Pentagon can blacklist Anthropic」 https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/
+・Ars Technica「Tesla workers balk at training Optimus」 https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/
+・TechCrunch「Insurers claim AI is already increasing healthcare costs」 https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/
+・Quantum Computing Report https://quantumcomputingreport.com/news/
+・The Hacker News「Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw」 https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html
+・BleepingComputer「GitHub Actions re-enabled with Mini Shai-Hulud payload still active」 https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/
+
+#生成AI #量子コンピュータ #サイバーセキュリティ #AIニュース #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-27-ai/ai_yukkuri.m4a" length="5443359" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-27</guid>
+      <pubDate>Sun, 27 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AI・量子・セキュリティニュース（2026年9月26日）</title>
       <description>生成AI・量子・セキュリティニュース（2026年9月26日）
 
