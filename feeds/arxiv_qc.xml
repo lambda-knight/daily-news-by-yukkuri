@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>量子優位性はクラウド機で再現できたか？重要論文5本【2026/09/27】</title>
+      <description>クラウド公開機によるランダム回路サンプリング、決定論的な誤り耐性Tゲート、超高レート量子符号など、量子計算の重要論文5本を比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・IBM Nighthawk r2のクラウド実行によるランダム回路サンプリングの量子優位性
+・シンドローム測定による決定論的な誤り耐性Tゲート
+・超高レート量子符号の設計原理
+・復号器モデルとの適合度が論理ギャップを超える情報を与える
+・量子クエリ優位性はワークスペースを必要とする
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.28657 — Quantum computational advantage in random-circuit sampling on IBM superconducting quantum computers
+https://arxiv.org/abs/2609.29890 — Syndrome measurements enable deterministic fault-tolerant T gates
+https://arxiv.org/abs/2609.30069 — Design Principles for Ultra-High-Rate Quantum Codes
+https://arxiv.org/abs/2609.29018 — Decoder Model Compatibility Provides Information beyond the Logical Gap under Drifting and Correlated Quantum Noise
+https://arxiv.org/abs/2609.29497 — Quantum Query Advantage Requires Space
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-27-arxiv-qc/arxiv_qc_yukkuri.m4a" length="7317440" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-27</guid>
+      <pubDate>Sun, 27 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>非可換量子LDPC符号が線形距離に？量子論文5本を解説【2026/09/26】</title>
       <description>定数レート・線形距離を持つ非可換量子LDPC符号、127キュービット実機での動的デカップリング比較、量子状態スペクトル推定の最適コピー数、パウリハミルトニアンの厳密なもつれ消失温度、NPオラクル攻撃で退けられるマイクロクリプト候補を、手法・核心数値・比較条件・限界まで研究者向けに解説します。
 
