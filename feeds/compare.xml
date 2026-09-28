@@ -4,14 +4,14 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>7カ国メディア比較ニュース</title>
+    <title>世界と日本のメディア比較</title>
     <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     <atom:link href="https://lambda-knight.github.io/daily-news-by-yukkuri/feeds/compare.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <copyright>© 2026 daily-news-by-yukkuri</copyright>
-    <description>同じ出来事を各国メディアがどう報じたか。7カ国の視点を比較し、海外で大きく報じられた話題が日本の主要6媒体でどう扱われたかも毎日照合します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
+    <description>7カ国と日本の主要メディアの視点を比べ、海外から見た日本と国内紙の論調差まで毎日一本で読み解きます。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</description>
     <itunes:author>daily-news-by-yukkuri</itunes:author>
-    <itunes:summary>同じ出来事を各国メディアがどう報じたか。7カ国の視点を比較し、海外で大きく報じられた話題が日本の主要6媒体でどう扱われたかも毎日照合します。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
+    <itunes:summary>7カ国と日本の主要メディアの視点を比べ、海外から見た日本と国内紙の論調差まで毎日一本で読み解きます。音声合成: VOICEVOX / キャラクター: ずんだもん・四国めたん</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://lambda-knight.github.io/daily-news-by-yukkuri/art/compare.png"/>
@@ -22,9 +22,36 @@
     </itunes:owner>
     <image>
       <url>https://lambda-knight.github.io/daily-news-by-yukkuri/art/compare.png</url>
-      <title>7カ国メディア比較ニュース</title>
+      <title>世界と日本のメディア比較</title>
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
+    <item>
+      <title>武器購入発言と台湾140億ドル、東大女性総長を比較【2026/09/29】</title>
+      <description>米中の武器購入発言、スターシップ初周回、日本映画への海外評価から、東大初の女性総長、スパイ防止法、平和報道まで。海外7地域・日本6媒体と国内8媒体の見出しを比べます。
+
+▼ 今日のトピック
+・トランプ氏の対中武器購入発言と台湾向け140億ドル凍結
+・ネタニヤフ首相のアラブ首長国連邦訪問
+・スターシップ初の周回軌道と着水後の爆発
+・原田マハ監督『無用の人』へのスペインとアルゼンチンの評価
+・東大初の女性総長と学内投票2位
+・スパイ防止法、倉本聰さん、終戦・被爆国・平和憲法の継続特集
+
+▼ 参考記事・ソース
+・NBC「トランプ氏が習氏に武器購入を打診したとの大使発言」 https://www.nbcnews.com/world/china/us-ambassador-trump-xi-weapons-taiwan-rcna233205
+・NPR「スターシップ初の周回軌道ミッション」 https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa
+・Donostitik「原田マハ監督、映画祭で小さな声を語る」 https://www.donostitik.com/maha-harada-reivindica-en-el-zinemaldia-las-voces-pequenas/
+・東京大学新聞「次期総長は藤垣裕子教授」 https://www.todaishimbun.org/president_20260928/
+・首相官邸「インテリジェンス機能の強化に関する有識者会議」 https://www.kantei.go.jp/jp/105/actions/202609/28intelligence.html
+・PRIO「2026年ノーベル平和賞予想リスト」 https://www.prio.org/nobellist/2026
+
+#国際ニュース #メディアリテラシー #世界情勢 #報道比較 #ゆっくり解説 #ずんだもん #時事問題 #政治 #外交</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-29-compare/compare_yukkuri.m4a" length="10756442" type="audio/mp4"/>
+      <guid isPermaLink="false">compare-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>27人か38人か？同じ事件の見え方が変わる【7カ国比較 2026/09/28】</title>
       <description>南アフリカ銃乱射の死者数、セルビア大統領辞任、米国の対イラン提案、独露外相会談を、海外7地域と日本6媒体の公開見出しで比較します。
