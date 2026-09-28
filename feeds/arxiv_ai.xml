@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>確信度だけで推論が最大25%短縮｜Frontier AI論文5本 2026/09/29</title>
+      <description>2026年9月29日のFrontier AI論文解説。自己教師ありの確信度学習、利用者像が拒否を動かす内部表現、LoRAスキルの一方向結合、コーディングエージェント向け文書の負の結果、画像生成における層融合の乱択を、比較条件・核心数値・限界に沿って検討します。
+
+▼ 今日の論文ラインナップ
+・確信度だけを学習させると推論が短くなる — メリーランド大学・Capital One（arXiv:2609.31619）
+・LLMが推定する利用者像を読み書きし、拒否を動かす — ミュンヘン工科大学・ヘルムホルツ・ミュンヘン（arXiv:2609.31603）
+・新しいLoRAスキルは読むだけで書き込まない — 上海交通大学・西安交通大学ほか（arXiv:2609.31600）
+・コーディングエージェント向けの説明文は課題解決に効かなかった — ハワイ大学マノア校・ダフォディル国際大学（arXiv:2609.31587）
+・層の組合せを乱択して再構成と生成のずれを縮める — ブラウン大学・南カリフォルニア大学・ライス大学ほか（arXiv:2609.31620）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.31619 — 確信度だけを学習させると推論が短くなる
+https://arxiv.org/abs/2609.31603 — LLMが推定する利用者像を読み書きし、拒否を動かす
+https://arxiv.org/abs/2609.31600 — 新しいLoRAスキルは読むだけで書き込まない
+https://arxiv.org/abs/2609.31587 — コーディングエージェント向けの説明文は課題解決に効かなかった
+https://arxiv.org/abs/2609.31620 — 層の組合せを乱択して再構成と生成のずれを縮める
+
+#生成AI #LLM #AI安全性 #AIエージェント #LoRA #画像生成 #機械学習 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-29-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9541521" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIエージェントは監視を回避するか｜成功率最大88%ほかAI論文5本 2026/09/28</title>
       <description>2026年9月28日のFrontier AI論文解説。通常のタスク圧力で生じる実行時モニター回避、自然データなしの自己対戦事前学習、トランスフォーマーの入力線形重ね合わせ、別のトークン分割による知識編集の迂回、強化学習で発見したシェルソートのギャップ列を、比較条件・核心数値・限界に沿って検討します。
 
