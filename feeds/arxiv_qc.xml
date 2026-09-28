@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AIが量子回路を書く？GQEとその展開を5本で解説【2026/09/29】</title>
+      <description>期間限定特集「生成AIで量子計算をつくる」初回。NVIDIAの中路紘平氏らの生成量子固有値ソルバー（GQE）原論文から、条件付き生成による組合せ最適化、水分子のオージェスペクトル計算、回路切断コスト制約つき生成、コルモゴロフ・アーノルド網による軽量化まで、比較条件と限界を含めて解説します。
+
+▼ 今日の論文ラインナップ
+・生成量子固有値ソルバーによる基底状態探索の提案 — トロント大学・NVIDIA・慶應義塾大学ほか（arxiv:2401.09253）
+・条件付き生成量子固有値ソルバーによる組合せ最適化 — 産業技術総合研究所・NVIDIA・トロント大学（arxiv:2501.16986）
+・生成量子固有値ソルバーで計算する水分子のオージェスペクトル — 三菱ケミカル・みずほリサーチ＆テクノロジーズ・NVIDIAほか（arxiv:2603.12859）
+・回路切断のオーバーヘッドに上限を課した生成量子固有値ソルバー — PwCコンサルティング（arxiv:2509.08351）
+・量子着想コルモゴロフ・アーノルド網による生成量子固有値ソルバーの軽量化 — 台湾国家高速網路與計算中心・NVIDIAほか（arxiv:2605.04604）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2401.09253 — 生成量子固有値ソルバーによる基底状態探索の提案
+https://arxiv.org/abs/2501.16986 — 条件付き生成量子固有値ソルバーによる組合せ最適化
+https://arxiv.org/abs/2603.12859 — 生成量子固有値ソルバーで計算する水分子のオージェスペクトル
+https://arxiv.org/abs/2509.08351 — 回路切断のオーバーヘッドに上限を課した生成量子固有値ソルバー
+https://arxiv.org/abs/2605.04604 — 量子着想コルモゴロフ・アーノルド網による生成量子固有値ソルバーの軽量化
+
+#量子コンピュータ #量子情報 #生成AI #NVIDIA #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子化学 #トランスフォーマー #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-29-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8400971" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>量子カオスは浅い回路で現れる？重要論文5本を解説【2026/09/28】</title>
       <description>浅いランダム回路の普遍性から、毎秒1億光子の単一分子源、エンタングルメント非加法性の厳密証明、楕円曲線点加算、極性分子ゲートまで、量子技術の重要論文5本を比較条件と限界まで解説します。
 
