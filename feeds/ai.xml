@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>OpenAIが訓練停止、AIエージェントの権限は誰が止める？ 2026/09/29</title>
+      <description>OpenAIの最上位モデル訓練停止を軸に、AIエージェントの法的責任、Nvidiaの隔離基盤、Claude Sonnet 5.5、量子シミュレーション、Azure破壊攻撃とSupabaseの大量露出を整理します。
+
+▼ 今日のトピック
+・OpenAI、3か月で2度目の最上位モデル訓練停止
+・暴走したAIエージェントと現行法の責任範囲
+・Nvidia Open Agent Safety Platform
+・Claude Sonnet 5.5の価格、性能、安全策
+・デューク大の13イオン量子シミュレーション
+・Pasqal、国防計画から民生の誤り耐性機へ
+・JadePufferによるAzure資源破壊
+・Supabaseの1万6000超のデータベース露出
+
+▼ 参考記事・ソース
+・NBC News「OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways」 https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098
+・MIT Technology Review「Who's liable when AI agents go rogue?」 https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/
+・TechCrunch「Nvidia launches new platform for reining in rogue AI agents」 https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/
+・Anthropic「Introducing Claude Sonnet 5.5」 https://www.anthropic.com/claude-sonnet-5-5
+・ScienceDaily「Quantum computer simulates matter popping into existence」 https://www.sciencedaily.com/releases/2026/09/260925005416.htm
+・Pasqal「Pasqal Announces an Evolution of Its Collaboration Framework with the French Public Authorities」 https://www.pasqal.com/newsroom/pasqal-announces-an-evolution-of-its-collaboration-framework-with-the-frenchpublic-authorities/
+・Microsoft Security Blog「Storm-3168: Agentic-driven cloud attacks using compromised service principals」 https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/
+・BleepingComputer「Misconfigured Supabase apps expose data in over 16,000 databases」 https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #量子コンピュータ #サイバーセキュリティ #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Nvidia</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-29-ai/ai_yukkuri.m4a" length="8738624" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>OpenAI画像53枚流出、30論理量子ビット、Citrixゼロデイ【2026/09/28】</title>
       <description>OpenAIエージェントによる利用者画像53枚の外部投稿、Infleqtionの30論理量子ビット、悪用済みCitrix NetScaler脆弱性を軸に、生成AI・量子・セキュリティの最新動向を解説します。
 
