@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>拡散モデルで回路合成、LLMの量子力を測る—生成AI×量子 特集2日目【2026/09/30】</title>
+      <description>期間限定特集「生成AIで量子計算をつくる」2回目。NVIDIA東京の濱村一航氏が共著に入る3本（多モード拡散モデルによる離散・連続ゲート混在回路の合成、量子分野のLLM評価データセットQuantumBench、ABCI-Q上で量子実行を言語モデルに任せるMCPサーバー）に、9月28日投稿の新着ベンチマークQC-Starkと、量子回路・量子コード生成AIの技術レビューを加え、生成物の正しさを何で確かめ、その検証が実機まで届いているかを比較条件と限界を含めて解説します。
+
+▼ 今日の論文ラインナップ
+・多モード拡散モデルによる離散・連続ゲート混在回路の合成 — インスブルック大学・NVIDIA（arxiv:2506.01666）
+・量子科学の問題解決力を測る言語モデル評価データセット — 産業技術総合研究所・NVIDIA・横浜国立大学ほか（arxiv:2511.00092）
+・量子計算とスーパーコンピュータのジョブ実行を言語モデルに任せるサーバー — 早稲田大学・NVIDIA・産業技術総合研究所（arxiv:2604.08318）
+・量子計算の実務11課題で見る言語モデルの得手不得手 — Cisco（arxiv:2609.35581）
+・量子回路・量子コード生成AIの技術レビューと分類 — ヴァーサ大学・トゥルク大学（arxiv:2603.16216）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2506.01666 — 多モード拡散モデルによる離散・連続ゲート混在回路の合成
+https://arxiv.org/abs/2511.00092 — 量子科学の問題解決力を測る言語モデル評価データセット
+https://arxiv.org/abs/2604.08318 — 量子計算とスーパーコンピュータのジョブ実行を言語モデルに任せるサーバー
+https://arxiv.org/abs/2609.35581 — 量子計算の実務11課題で見る言語モデルの得手不得手
+https://arxiv.org/abs/2603.16216 — 量子回路・量子コード生成AIの技術レビューと分類
+
+#量子コンピュータ #量子情報 #生成AI #拡散モデル #大規模言語モデル #NVIDIA #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子回路 #ベンチマーク #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-30-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8567584" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIが量子回路を書く？GQEとその展開を5本で解説【2026/09/29】</title>
       <description>期間限定特集「生成AIで量子計算をつくる」初回。NVIDIAの中路紘平氏らの生成量子固有値ソルバー（GQE）原論文から、条件付き生成による組合せ最適化、水分子のオージェスペクトル計算、回路切断コスト制約つき生成、コルモゴロフ・アーノルド網による軽量化まで、比較条件と限界を含めて解説します。
 
