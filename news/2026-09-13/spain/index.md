@@ -34,6 +34,10 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 ・El Mundo「セゴビアのヘイ・フェスティバル20周年」 https://www.elmundo.es/cultura/2026/09/11/6aa42f81fc6c830d4f8b4594.html
 ・ExpoFlamenco「カンテ・デ・ラス・ミナス2026」 https://news.google.com/rss/articles/CBMiogFBVV95cUxQVi1lbVdtZWx1b3o1TVNtSW13OTUxWHFid1p1bDVUUm1HcEc5ZXVtX09fcy1QejhpY1I0NmJsbnJxNmQyME9aOXpmUEczaFdxeEQzX0cwYjkyeHFIZFFsa19aVXFKaDYzMHNNc0d2OXR5a0NxekpFN0ZGV1NJQnlpbjBpTTVpVzhZUDFaY0lLTVRJSEF5MnV0WkI5NjM5dzQwUEE?oc=5
 
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：ニーニョ・リカルド「Variaciones por Soleá, 1965」 https://www.youtube.com/watch?v=JFEdRfelRSA
+・パロ解説：シギリージャ「Antonio Núñez El Chocolate: Seguiriyas｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=UadYtYQqBTM
+
 #スペイン #フラメンコ #ギター #シギリージャ #ニーニョリカルド #ずんだもん
 
 ---
@@ -103,10 +107,12 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li><a href="https://www.elmundo.es/cultura/2026/09/11/6aa42f81fc6c830d4f8b4594.html">El Mundo：セゴビアのヘイ・フェスティバル20周年</a></li>
 <li><a href="https://elpais.com/cultura/2026-09-12/el-ultimo-presidente-de-la-segunda-republica.html">El País：第二共和政最後の大統領</a></li>
 <li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPanEzLXhacEEyem1VQ0xRLXIyVGpKVEtKR0hwcG9Fdmo4eG11VFFRbnY3LVpDZVhnelpVclhTSjltaTZNLTlyTUwxX281emVfQUoxMkgzU1JmakNPYnc2STV4dDNvT0xJUy1LODRqbloxc2tyVV9FTlBlRmM5RXVzbG5VVi0tUTE5TWVoVWhDTjFia0pueUwzRDhLTHNoWXBzSTV4VXpmUQ?oc=5">Astorga Digital：サンタ・マルタ祭を締めるフラメンコ</a></li>
-<li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnVWSzJ1UVVGSXk3SWVLOHI3cW5jUUUwOVhTTXIxN241WGVuWjBkT3ZFUG55dnJFcUpVbHE2Y2JUSEc0WE8tZmQ5OUVyeWotbW00Yk8yT0hYZnJhaENuSjBzVXExVDZzMnFBQU94Y3NQZkw4cjZiRmpwd3NKZlU1V0ZleE1iLU05Rm45cEJjUElXdjFoRXlpMmFOeFhDWi11NFHQ?oc=5">La Crónica de Badajoz：ヘスス・オルテガ公演</a></li>
+<li>La Crónica de Badajoz：ヘスス・オルテガ公演</li>
 <li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQVi1lbVdtZWx1b3o1TVNtSW13OTUxWHFid1p1bDVUUm1HcEc5ZXVtX09fcy1QejhpY1I0NmJsbnJxNmQyME9aOXpmUEczaFdxeEQzX0cwYjkyeHFIZFFsa19aVXFKaDYzMHNNc0d2OXR5a0NxekpFN0ZGV1NJQnlpbjBpTTVpVzhZUDFaY0lLTVRJSEF5MnV0WkI5NjM5dzQwUEE?oc=5">ExpoFlamenco：カンテ・デ・ラス・ミナス2026</a></li>
 <li>Centro Andaluz de Documentación del Flamenco：ニーニョ・リカルド資料、シギリージャ解説</li>
 <li>Antonio Bernal Guitars：工房公開情報</li>
+<li>ギタリスト列伝：ニーニョ・リカルド「Variaciones por Soleá, 1965」 https://www.youtube.com/watch?v=JFEdRfelRSA</li>
+<li>パロ解説：シギリージャ「Antonio Núñez El Chocolate: Seguiriyas｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=UadYtYQqBTM</li>
 </ul>
 
 </details>

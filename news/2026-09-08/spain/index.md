@@ -41,6 +41,10 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 ・El País / El Mundo「Joan Yago gana el Premio Nacional de Literatura Dramática」 https://elpais.com/
 ・Google News「フラメンコ」（Ayuntamiento de Jerez / La Crónica de Badajoz / Ayuntamiento de Ejea / Festival del Cante de las Minas）
 
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：ラモン・モントーヤ「Ramon Montoya 1936 Rondeña」 https://www.youtube.com/watch?v=1lzl7UvZVA0
+・工房だより：マヌエル・レイエス工房「Taller Manuel Reyes」 https://www.youtube.com/watch?v=YWBPWcWYXUo
+
 #スペイン #フラメンコ #フラメンコギター #ラモンモントーヤ #ピサ #セウタ #ずんだもん #四国めたん
 
 ---
@@ -119,6 +123,11 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>Google News「フラメンコ」（各自治体・主催者のフラメンコ催事案内、2026年9月取得）</li>
 <li>Ramón Montoya 公式ディスコグラフィー・伝記資料（1936年パリ録音）</li>
 <li>Manuel Reyes 公式工房沿革</li>
+</ul>
+<h2>参考ソース</h2>
+<ul>
+<li>ギタリスト列伝：ラモン・モントーヤ「Ramon Montoya 1936 Rondeña」 https://www.youtube.com/watch?v=1lzl7UvZVA0</li>
+<li>工房だより：マヌエル・レイエス工房「Taller Manuel Reyes」 https://www.youtube.com/watch?v=YWBPWcWYXUo</li>
 </ul>
 
 </details>

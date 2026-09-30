@@ -1,5 +1,5 @@
 ---
-title: "スペイン便り 2026-09-18"
+title: "スペイン文化・フラメンコ便り（2026年9月18日）"
 layout: default
 ---
 
@@ -8,13 +8,26 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# スペイン便り 2026-09-18
+# スペイン文化・フラメンコ便り（2026年9月18日）
 
 **2026-09-18 / スペイン便り**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-18-spain/spain_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-18-spain)
+
+---
+
+## 概要
+
+2026年9月18日のスペイン文化・フラメンコ便り。セウタ問題は軽く触れつつ、グラナダの名伴奏者フアン・アビチュエラ、前衛の舞踊家イスラエル・ガルバン、学者肌の歌い手アントニオ・マイレナ、コルドバの名工ミゲル・ロドリゲス工房、パロ「ティエントス」を、具体的な鑑賞リンクとともに掘り下げます。
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：フアン・アビチュエラ「seguiriyas con Antonio Núñez “Chocolate”｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=4cpei0yTOPc
+・バイレ列伝：イスラエル・ガルバン「La Edad de Oro」公式ページ https://www.israelgalvancompany.com/espectaculos/laedaddeoro-3beel-x9hfd-6p649-tsm97-3k852
+・カンテ列伝：アントニオ・マイレナ「Soleares de Triana｜Rito y Geografía del Cante Flamenco」 https://www.youtube.com/watch?v=RyntvH696TQ
+・工房だより：ミゲル・ロドリゲス工房「Miguel Rodriguez Spanish Classical Guitar from Cordoba」 https://www.youtube.com/watch?v=ph2tImWlBE0
+・パロ解説：ティエントス「Carmen Linares por tientos｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=QAQKzW5UI3g
 
 ---
 
@@ -98,6 +111,11 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <ul>
 <li><code>/tmp/spain_articles.json</code>（2026年9月18日取得）、El País、El Mundo、Google News フラメンコ各記事</li>
 <li>Canal Sur「Flamenco en Canal Sur」アーカイブ映像、Israel Galván Company公式サイト、TVE「Rito y Geografía del Cante」アーカイブ、Guitar Salon International（GSI）ミゲル・ロドリゲス工房資料</li>
+<li>ギタリスト列伝：フアン・アビチュエラ「seguiriyas con Antonio Núñez “Chocolate”｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=4cpei0yTOPc</li>
+<li>バイレ列伝：イスラエル・ガルバン「La Edad de Oro」公式ページ https://www.israelgalvancompany.com/espectaculos/laedaddeoro-3beel-x9hfd-6p649-tsm97-3k852</li>
+<li>カンテ列伝：アントニオ・マイレナ「Soleares de Triana｜Rito y Geografía del Cante Flamenco」 https://www.youtube.com/watch?v=RyntvH696TQ</li>
+<li>工房だより：ミゲル・ロドリゲス工房「Miguel Rodriguez Spanish Classical Guitar from Cordoba」 https://www.youtube.com/watch?v=ph2tImWlBE0</li>
+<li>パロ解説：ティエントス「Carmen Linares por tientos｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=QAQKzW5UI3g</li>
 </ul>
 
 </details>

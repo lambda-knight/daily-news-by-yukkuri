@@ -1,5 +1,5 @@
 ---
-title: "スペイン便り 2026-09-25"
+title: "スペイン文化・フラメンコ便り（2026年9月25日）"
 layout: default
 ---
 
@@ -8,13 +8,26 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# スペイン便り 2026-09-25
+# スペイン文化・フラメンコ便り（2026年9月25日）
 
 **2026-09-25 / スペイン便り**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-25-spain/spain_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-25-spain)
+
+---
+
+## 概要
+
+2026年9月25日のスペイン文化・フラメンコ便り。リセウ女性クラブ100年、ロス・ハビス、アントニオ・ルビオ、フラメンコ・オン・ファイアを紹介。列伝はギターのディエゴ・デル・モラオ、バイレのメルセデス・ルイス、カンテのエル・ペレ。工房欄はヘルベスの製作教育、パロ解説はシビジャーナスです。
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：ディエゴ・デル・モラオ「Guitarra. Diego del Morao. 2016」 https://www.youtube.com/watch?v=fbx6f3DL3eg
+・バイレ列伝：メルセデス・ルイス「Déjame que te baile（舞踊団プロモ）」 https://www.youtube.com/watch?v=8-ATOt6BjO0
+・カンテ列伝：エル・ペレ「Malagueña. El Pele. 1997」 https://www.youtube.com/watch?v=LVgXHfvQc9s
+・パロ解説：シビジャーナス「Sevillanas — Ritmo & Compás」 https://www.youtube.com/watch?v=KGxuvqcVnEU
+・工房だより：ヘルベス職人養成学校（Escuela de Formación de Artesanos de Gelves） 公式ページ https://www.juntadeandalucia.es/organismos/sae/areas/mejora-empleabilidad/fpe/paginas/escuela-artesania-gelves.html
 
 ---
 
@@ -88,6 +101,10 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <h2>まとめ</h2>
 <ul>
 <li>今日見えたのは、文化を残すのはスター一人ではなく、議論の部屋、劇場、祭典、教育、工房という受け渡しの場所だということ。ヘレスの個性も、マドリードで流通する時に土地の名を失わないことで豊かさを保てる。</li>
+</ul>
+<h2>参考ソース</h2>
+<ul>
+<li>工房だより：ヘルベス職人養成学校（Escuela de Formación de Artesanos de Gelves） 公式ページ https://www.juntadeandalucia.es/organismos/sae/areas/mejora-empleabilidad/fpe/paginas/escuela-artesania-gelves.html</li>
 </ul>
 
 </details>

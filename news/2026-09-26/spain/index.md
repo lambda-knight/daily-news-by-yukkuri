@@ -1,5 +1,5 @@
 ---
-title: "スペイン便り 2026-09-26"
+title: "スペイン文化・フラメンコ便り（2026年9月26日）"
 layout: default
 ---
 
@@ -8,13 +8,27 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# スペイン便り 2026-09-26
+# スペイン文化・フラメンコ便り（2026年9月26日）
 
 **2026-09-26 / スペイン便り**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-26-spain/spain_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-26-spain)
+
+---
+
+## 概要
+
+2026年9月26日のスペイン文化・フラメンコ便り。映画祭、三位一体の公演、コルドバのギター文化を紹介。列伝はラファエル・リケーニ、ベレン・マジャ、ドゥケンデ。工房欄はフェスティバルと製作文化、パロ解説はポロです。
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：ラファエル・リケーニ「Farruca Bachiana」 https://www.youtube.com/watch?v=mCfOoxoiRDg
+・バイレ列伝：ベレン・マジャ「デューク大学 招聘アーティスト紹介（舞踊映像）」 https://danceprogram.duke.edu/visiting-artist/belen-maya
+・カンテ列伝：ドゥケンデ「Los conciertos de Radio 3（RTVE）」 https://www.rtve.es/play/videos/los-conciertos-de-radio-3-en-la-2/conciertos-radio-3-duquende/16090329/
+・パロ解説：ポロ「Polo. Manuel Mairena. 2001」 https://www.youtube.com/watch?v=MamWEIycMV8
+・パロ解説：ポロ「Los compases de flamenco」 https://www.youtube.com/watch?v=WWp5adOsvTQ
+・工房だより：コルドバ・ギターフェスティバル 公式サイト https://www.guitarracordoba.es/
 
 ---
 
@@ -84,6 +98,11 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <h2>まとめ</h2>
 <ul>
 <li>今日の三人に共通したのは、独奏、舞踊、歌のどれでも、相手の声が入る余白を技術として設計したこと。スペイン文化の強さは、個性の大きさだけでなく、異なる身体と土地を舞台で結び直す力にある。</li>
+</ul>
+<h2>参考ソース</h2>
+<ul>
+<li>パロ解説：ポロ「Polo. Manuel Mairena. 2001」 https://www.youtube.com/watch?v=MamWEIycMV8</li>
+<li>工房だより：コルドバ・ギターフェスティバル 公式サイト https://www.guitarracordoba.es/</li>
 </ul>
 
 </details>

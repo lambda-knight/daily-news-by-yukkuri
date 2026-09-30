@@ -1,5 +1,5 @@
 ---
-title: "スペイン便り 2026-09-17"
+title: "スペイン文化・フラメンコ便り（2026年9月17日）"
 layout: default
 ---
 
@@ -8,13 +8,26 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# スペイン便り 2026-09-17
+# スペイン文化・フラメンコ便り（2026年9月17日）
 
 **2026-09-17 / スペイン便り**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-17-spain/spain_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-17-spain)
+
+---
+
+## 概要
+
+2026年9月17日のスペイン文化・フラメンコ便り。地域公演、ヘラルド・ヌニェス、エバ・ジェルバブエナ、カマロン、未紹介のギター製作教育、鉱山歌タラントを、具体的な鑑賞リンクとともに解説します。
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：ヘラルド・ヌニェス「Guitarra desnuda｜La Bienal de Flamenco」 https://www.youtube.com/watch?v=NgOBfBw_huQ
+・バイレ列伝：エバ・ジェルバブエナ「¡Ay!」公式サイト https://www.evayerbabuena.com/espectaculos/ay/
+・カンテ列伝：カマロン・デ・ラ・イスラ「La Leyenda Del Tiempo」 https://www.youtube.com/watch?v=0usfxEYijXY
+・工房だより：European Institute of Guitar Making 公式サイト https://europeaninstituteofguitarmaking.com/
+・パロ解説：タラント「Carmen Ledesma baila por Tarantos｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=QH-oOcH5U84
 
 ---
 
@@ -54,7 +67,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>右手の特徴は、速いピカードを均一な粒にするだけでなく、親指の低音、アルペジオの内声、ゴルペを別の層として聞かせること。左手では開放弦を残したまま高いポジションへ移り、和音に濁りを作ってから着地する。技巧がコンパスの外へ飛び出さず、12拍の重心を聴き手に残す。</li>
 <li>カンテ伴奏では歌の終止を先回りせず、短い和音で選択肢を示す。バイレでは足が密になる区間に低音を詰めすぎず、レマーテ直前に音域を空ける。日本の合奏でいう「合わせる」より、相手が次の一手を出せる余白を設計する感覚に近い。</li>
 <li>1990年代以降はジャズ奏者とも共演したが、拍を曖昧にしてフュージョン風にするのではなく、フラメンコの周期を保ったまま和声と即興の語彙を増やした。そのため後進は、速弾きの模倣だけでなく、伴奏経験を作曲へ変換する方法を学んだ。</li>
-<li>代表曲<a href="https://www.youtube.com/watch?v=3KZyy8Oc1QA">『Jucal』</a>では、冒頭の低音と高音が別々の呼吸で進み、速いフレーズの後もコンパスの着地点が崩れないところを聴きたい。中盤ではラスゲアードの音量を一度絞り、次の旋律が立ち上がる余白を作る点が、単なる技巧展示との差である。</li>
+<li>代表曲<a href="https://www.youtube.com/watch?v=8R8T-m2pPms">『Jucal』の公式音源</a>では、冒頭の低音と高音が別々の呼吸で進み、速いフレーズの後もコンパスの着地点が崩れないところを聴きたい。中盤ではラスゲアードの音量を一度絞り、次の旋律が立ち上がる余白を作る点が、単なる技巧展示との差である。</li>
 <li>ヘレスの古いカンテに身体で接した世代と、楽譜、録音、国際ワークショップで学ぶ世代をつないだことが歴史的位置になる。伝統を固定した型ではなく、誰の呼吸をどう支えたかという実践として渡した奏者だ。</li>
 </ul>
 <h2>フラメンコバイレ列伝</h2>
@@ -89,7 +102,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>自由リズムで歌われるタランタと違い、タラントは基本的に2拍子系。足は二つの大きな脈を保ち、その内部を細かなサパテアードで割る。パルマは12拍系のソレアのような長い循環を示すのでなく、歌の伸縮を邪魔しない短い支えになる。</li>
 <li>振付では歌の導入を聴いた後、ジャマーダでギターへ速度を明示し、エスコビージャで足技を展開し、レマーテで区切る。重い主題だから常に遅く踊るのではなく、密な足音と静止の落差が坑道の圧迫感を舞台の時間へ移す。</li>
 <li>和声はF♯フリジアを中心に扱う例が多く、典型的な終止を英語コード名で示すと<strong>Bm → A → G → F♯</strong>。ギターは低音の半音進行と開放弦の響きを使い、歌の入り口では和音を詰めず、踊りの区切りでラスゲアードを短く強く置く。</li>
-<li>実演例<a href="https://www.youtube.com/watch?v=yv6jiqVmmSI">『Taranto』</a>では、冒頭の自由に伸びる歌と、その後に足が二拍の床を作る対比へ注目したい。中盤のエスコビージャでは細分化が増えても大きな二拍が消えず、終わりのレマーテでギターと足が同時に閉じる。</li>
+<li>実演例として、アンダルシアの公共放送が1999年に収録した<a href="https://www.youtube.com/watch?v=QH-oOcH5U84">カルメン・レデスマの「Tarantos」</a>では、冒頭の自由に伸びる歌と、その後に足が二拍の床を作る対比へ注目したい。中盤のエスコビージャでは細分化が増えても大きな二拍が消えず、終わりのレマーテでギターと足が同時に閉じる。</li>
 <li>日本の炭坑節と単純に同一視はできないが、労働の土地名と身体の記憶が舞台芸術へ残る点には接点がある。タラントを「暗い曲」とだけ覚えるより、自由な鉱山歌を踊れる周期へ変えた仕組みとして聴くと、カンテ、ギター、バイレの役割が見える。</li>
 </ul>
 <h2>まとめ</h2>
@@ -100,6 +113,11 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <ul>
 <li><code>/tmp/spain_articles.json</code>（2026年9月17日取得）、El País、El Mundo、各自治体・大学・公演情報</li>
 <li>Eva Yerbabuena公式、Universal Music Spain提供音源、European Institute of Guitar Making公式資料</li>
+<li>ギタリスト列伝：ヘラルド・ヌニェス「Guitarra desnuda｜La Bienal de Flamenco」 https://www.youtube.com/watch?v=NgOBfBw_huQ</li>
+<li>バイレ列伝：エバ・ジェルバブエナ「¡Ay!」公式サイト https://www.evayerbabuena.com/espectaculos/ay/</li>
+<li>カンテ列伝：カマロン・デ・ラ・イスラ「La Leyenda Del Tiempo」 https://www.youtube.com/watch?v=0usfxEYijXY</li>
+<li>工房だより：European Institute of Guitar Making 公式サイト https://europeaninstituteofguitarmaking.com/</li>
+<li>パロ解説：タラント「Carmen Ledesma baila por Tarantos｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=QH-oOcH5U84</li>
 </ul>
 
 </details>

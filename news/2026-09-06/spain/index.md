@@ -37,6 +37,10 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 ・El Mundo「Lionel, cine contra los estereotipos」 https://www.elmundo.es/cultura/cine/2026/09/04/6a971414fdddff661c8b4588.html
 ・Antonio Marín Montero「Guitarreros de Granada」 https://sites.google.com/a/granadaesflamenco.com/granadaesflamenco/guitarreros
 
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：パコ・デ・ルシア「Entre Dos Aguas (Remastered 2014)」 https://www.youtube.com/watch?v=0vq3qZwaXrw
+・工房だより：アントニオ・マリン・モンテーロ工房 BienalGranada紹介ページ https://bienalgranada.com/guitarreria/guitarreria-antonio-marin-montero/
+
 #スペイン #フラメンコ #フラメンコギター #パコデルシア #ずんだもん #四国めたん
 
 ---
@@ -104,13 +108,15 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li><a href="https://www.elmundo.es/espana/2026/09/05/6a9be276e85ece21778b45ba.html">El Mundo: Feijóo afirma que el Gobierno es monárquico, pero en el país equivocado</a></li>
 <li><a href="https://www.elmundo.es/espana/2026/09/04/6a9b0948fdddffd6668b4578.html">El Mundo: El Gobierno impone al 90% de las comunidades el modelo de financiación de Junqueras</a></li>
 <li><a href="https://www.elmundo.es/cultura/cine/2026/09/04/6a971414fdddff661c8b4588.html">El Mundo: Lionel, cine contra los estereotipos del cine marginal</a></li>
-<li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajhDenR6VkxvNWFGVjNHV0xLa19TYXRJUWhEcjl4TUJrdzF">Ayuntamiento de Pamplona: Flamenco On Fire, El Pele desde el balcón</a></li>
-<li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTU9vbkRVcjZEcndsN2RzVVR0aktOdjlTdjVBbE1wbTRrMDJ">Diario Avanza: El 21º Festival Flamenco de Osuna</a></li>
-<li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnVWSzJ1UVVGSXk3SWVLOHI3cW5jUUUwOVhTTXIxN241WGV">La Crónica de Badajoz: Jesús Ortega en la Plaza Alta</a></li>
-<li><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNXzlUZGdja2hkbkpNTXFia1pfcmoybi03QWZWTDMwYWhBY1h">Festival Internacional del Cante de las Minas: 65ª edición, segunda semifinal</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajhDenR6VkxvNWFGVjNHV0xLa19TYXRJUWhEcjl4TUJrdzFuVmV4bE8xZy12QndXWWxzZmV1VnBOc054aHFHLUIyOUJxbGhFdGhhT253VjBKeGMtc1VDSDNjX1EzelBpY25RcGxOQWlCNDA2d2VWV0gtZmdHNWVfVklKcnNNTXRiNG5QWG14aXJQOXJfTHdhRURuUHluMzNmTDYwdUZ3U1RLaG5RUHVrT0c0NF9JSEFrQXpXSndTc1M?oc=5">Ayuntamiento de Pamplona: Flamenco On Fire, El Pele desde el balcón</a></li>
+<li><a href="https://www.diarioavanza.es/provincia/osuna/21o-festival-flamenco-osuna-reune-grandes-figuras-cante-toque-baile/20260831111318026024.html">Diario Avanza: El 21º Festival Flamenco de Osuna</a></li>
+<li>La Crónica de Badajoz: Jesús Ortega en la Plaza Alta</li>
+<li><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNXzlUZGdja2hkbkpNTXFia1pfcmoybi03QWZWTDMwYWhBY1h5c3p1M1BHdHdHT3hlb3pLblF4bFgwc1VKRTZ4T3lzVVBqU0tXZ05URlNFY0d1SnRta2ZReEVTWXhvcnFpM2RUa3o2NWd6NnlIdzAwcjM2a3FrUmNtZlU1M2xhaE9LWHNiZ1JtcU9yX19kdExZNzRISWY0NWtLNTNtcnp4ajNvSUFCSWk1bF9uOG5pdmhFUEZMMGw5UTRzOV9jUENzMkJwNkFWLVhvUnRUUzl6X3lSV1ll?oc=5">Festival Internacional del Cante de las Minas: 65ª edición, segunda semifinal</a></li>
 <li><a href="https://www.deflamenco.com/revista/guitarra/paco-de-lucia-3.html">Instituto Cervantes / Fundación Paco de Lucía: biografía</a></li>
 <li><a href="https://sites.google.com/a/granadaesflamenco.com/granadaesflamenco/guitarreros">Antonio Marín Montero: Guitarreros de Granada</a></li>
 <li><a href="https://www.flamencoguitarsforsale.net/en/antonio-marin-montero/">Solera Flamenca: Antonio Marín Montero</a></li>
+<li>ギタリスト列伝：パコ・デ・ルシア「Entre Dos Aguas (Remastered 2014)」 https://www.youtube.com/watch?v=0vq3qZwaXrw</li>
+<li>工房だより：アントニオ・マリン・モンテーロ工房 BienalGranada紹介ページ https://bienalgranada.com/guitarreria/guitarreria-antonio-marin-montero/</li>
 </ul>
 
 </details>

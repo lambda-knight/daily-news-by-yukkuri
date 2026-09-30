@@ -1,5 +1,5 @@
 ---
-title: "スペイン便り 2026-09-12"
+title: "明るさは何でできている？アレグリアスとリケーニ【2026/09/12】"
 layout: default
 ---
 
@@ -8,13 +8,36 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# スペイン便り 2026-09-12
+# 明るさは何でできている？アレグリアスとリケーニ【2026/09/12】
 
 **2026-09-12 / スペイン便り**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-12-spain/spain_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-12-spain)
+
+---
+
+## 概要
+
+アルバ・フローレスの舞台『リブレス！！！』、パンプローナ・アルチドナ・エヘアの三公演を紹介します。ギタリスト列伝はトリアナ生まれのラファエル・リケーニ、工房だよりはグラナダのホセ・ロペス・ベジード工房。新コーナー「フラメンコのパロ解説」では、カディスのアレグリアスを、成立史、12拍のコンパス、長調の和声、踊りの構成まで掘り下げます。スペイン語のひとことは「dar el cante（悪目立ちする）」です。
+
+▼ 今日のトピック
+・今日のスペイン語ひとこと：Dar el cante
+・セウタの仮設小屋火災
+・アルバ・フローレスの舞台『リブレス！！！』、ハビエル・セルカス、ハビエル・マリアス
+・パンプローナ、アルチドナ、エヘアのフラメンコ
+・ギタリスト列伝：ラファエル・リケーニ
+・工房だより：ホセ・ロペス・ベジード工房
+・パロ解説：アレグリアス
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：ラファエル・リケーニ「Rafael Riqueni presenta "Parque de María Luisa" en Canal Sur TV」（公式チャンネル） https://www.youtube.com/watch?v=OjtyKVM6eXs
+・パロ解説：アレグリアス「Alegrías. Caracolillo de Cádiz. 2019」（Canal Andalucía Flamenco） https://www.youtube.com/watch?v=KtkkivS-zdQ
+・パロ解説：アレグリアス「Alegrías. Paco de Lucía. 1993」（Canal Andalucía Flamenco） https://www.youtube.com/watch?v=BEhpFgPRgyE
+・工房だより：ホセ・ロペス・ベジード工房「Famous Guitar builder J. Lopez Bellido in Granada」 https://www.youtube.com/watch?v=jP9vx-eaDyI
+
+#スペイン #フラメンコ #ギター #アレグリアス #ラファエルリケーニ #ずんだもん #四国めたん
 
 ---
 
@@ -92,6 +115,10 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>Rafael Riqueni 公式略歴・ディスコグラフィー、Instituto Andaluz del Flamenco 公開資料</li>
 <li>José López Bellido 工房公開情報、Granada Ciudad de la Guitarra の製作家資料</li>
 <li>Centro Andaluz de Documentación del Flamenco、Flamencópolis のアレグリアス解説</li>
+<li>ギタリスト列伝：ラファエル・リケーニ「Rafael Riqueni presenta "Parque de María Luisa" en Canal Sur TV」（公式チャンネル） https://www.youtube.com/watch?v=OjtyKVM6eXs</li>
+<li>パロ解説：アレグリアス「Alegrías. Caracolillo de Cádiz. 2019」（Canal Andalucía Flamenco） https://www.youtube.com/watch?v=KtkkivS-zdQ</li>
+<li>パロ解説：アレグリアス「Alegrías. Paco de Lucía. 1993」（Canal Andalucía Flamenco） https://www.youtube.com/watch?v=BEhpFgPRgyE</li>
+<li>工房だより：ホセ・ロペス・ベジード工房「Famous Guitar builder J. Lopez Bellido in Granada」 https://www.youtube.com/watch?v=jP9vx-eaDyI</li>
 </ul>
 
 </details>

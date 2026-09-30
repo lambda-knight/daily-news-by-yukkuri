@@ -1,5 +1,5 @@
 ---
-title: "スペイン便り 2026-09-27"
+title: "スペイン文化・フラメンコ便り（2026年9月27日）"
 layout: default
 ---
 
@@ -8,13 +8,26 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# スペイン便り 2026-09-27
+# スペイン文化・フラメンコ便り（2026年9月27日）
 
 **2026-09-27 / スペイン便り**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-27-spain/spain_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-27-spain)
+
+---
+
+## 概要
+
+2026年9月27日のスペイン文化・フラメンコ便り。住宅抗議とサン・セバスティアン映画祭、若手フラメンコ公演を紹介。列伝はマノロ・サンルーカル、エバ・ジェルバブエナ、カルメン・リナーレス。工房欄は歴史的ギターの保存修復、パロ解説はカーニャです。
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：マノロ・サンルーカル「Cuando se asoma el aire（Flamenco en Canal Sur）」 https://www.youtube.com/watch?v=rI0rYaIC7aw
+・バイレ列伝：エバ・ジェルバブエナ「ソレア（Concurso Nacional de Arte Flamenco・Canal Sur）」 https://www.youtube.com/watch?v=bcC1CiSv1J0
+・カンテ列伝：カルメン・リナーレス「Caminos del flamenco（RTVE）」 https://www.rtve.es/play/videos/caminos-del-flamenco/gran-carmen-linares-directo/6307936/
+・パロ解説：カーニャ「Caña. A mí me pueden mandar. Enrique Morente. 1994」 https://www.youtube.com/watch?v=BbhK0oZC9Yw
+・工房だより：マドリード王立音楽院 博物館（Museo del RCSMM） 公式ページ https://rcsmm.eu/informacion-museo
 
 ---
 
@@ -57,14 +70,14 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>今日の主役はマノロ・サンルーカル、本名マヌエル・ムニョス・アルカンタラ（1943年サンルーカル・デ・バラメダ生、2022年没）。父イシドロ・ムニョスから学び、少年期からペペ・マルチェーナの一座で伴奏経験を積んだ。</li>
 <li>右手は親指の低音を旋律として前へ出し、アルペジオとラスゲアードの音量差で大きな弧を作る。左手ではフリジア系の終止へ開放弦や転調を差し込み、カンテの重さを失わず管弦楽的な色彩を広げた。</li>
 <li>独奏家でありながら、歌のレトラが伸びる余白とバイレのジャマーダへ応答する感覚を保った。『Medea』や『Tauromagia』では、短い技巧の連結ではなく、人物や儀式をアルバム全体で描いた。</li>
-<li>公式公開の<a href="https://www.youtube.com/watch?v=K7YgZxHqKuA">『Oración』</a>では、冒頭の低音が静かに拍の地面を作り、その上へ高音のアルペジオが重なる箇所を聴きたい。速い音より、和音が消えるまで次を待つ時間に作曲家としての耳が表れる。</li>
+<li>アンダルシアの公共放送が1992年に収録した<a href="https://www.youtube.com/watch?v=rI0rYaIC7aw">『Cuando se asoma el aire』</a>では、ギターの旋律に声や他の楽器が重なっていく箇所を聴きたい。速い音より、和音が消えるまで次を待つ時間に作曲家としての耳が表れる。</li>
 <li>後進への影響は、伝統的なパロをクラシックの語法へ溶かすのでなく、コンパスを骨格にしたまま大きな形式へ育てた点にある。</li>
 </ul>
 <h2>フラメンコバイレ列伝</h2>
 <ul>
 <li>今日の主役はエバ・ジェルバブエナ（1970年フランクフルト生、グラナダ育ち）。11歳から踊りを学び、マリオ・マジャらに師事し、1998年に自らの舞踊団を設立した。</li>
 <li>サパテアードは高速の連打を均一に並べず、踵の低い音、つま先の鋭い音、沈黙を組み合わせる。ブラソは大きな曲線を描きながらも肩と視線を固定せず、上半身の揺れが足のフレーズへ先行する。</li>
-<li>代表作<a href="https://www.youtube.com/watch?v=VLqjS5gkFJQ">『¡Ay!』公式映像</a>では、暗い舞台で腕をゆっくり開いた後、足の細かな打音へ移る場面に注目したい。静止が途切れではなく、カンテとギターへ次の入口を渡す合図になっている。</li>
+<li>1992年、コルドバの全国フラメンコ芸術コンクール決勝で踊った<a href="https://www.youtube.com/watch?v=bcC1CiSv1J0">ソレア</a>では、腕をゆっくり開いた後、足の細かな打音へ移る場面に注目したい。静止が途切れではなく、カンテとギターへ次の入口を渡す合図になっている。</li>
 <li>日本舞踊の「間」と似て見えるが、フラメンコでは足音が合奏の打楽器でもある。ジェルバブエナは沈黙から一打目へ移る重さによって、悲嘆を表情だけでなく時間として作る。</li>
 </ul>
 <h2>フラメンコカンテ列伝</h2>
@@ -86,12 +99,19 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>重厚で儀式的な性格を持ち、レトラの間に「アイ」という長い嘆声を挟む型が特徴である。現代ではバイレを伴うこともあり、ブラソの長い線とサパテアードが、歌の伸びた母音と十二拍の締めを結ぶ。</li>
 <li>コンパスはソレア系の十二拍で、三、六、八、十、十二付近の重みを感じる。ギターはファルセータで歌の入口を示し、ラスゲアードを埋め尽くさず、嘆声が拍をまたぐ余白を残す。</li>
 <li>和声はEを主音とするフリジア系なら、Aマイナー、G、F、Eへ下るアンダルシア終止が基本になる。カポタストで高さは変わっても、終止へ向かう引力とコンパスの配置は保たれる。</li>
-<li>カルメン・アマジャの<a href="https://www.youtube.com/watch?v=Vj6KzJpZL6Y">『La Caña』</a>では、長い腕の線から足の締めへ移る箇所と、歌の嘆声をギターが急いで塞がない場面に注目したい。ポロとの近さは説明だけでなく、ソレア族の十二拍として聴き比べると分かりやすい。</li>
+<li>エンリケ・モレンテが1994年に歌った<a href="https://www.youtube.com/watch?v=BbhK0oZC9Yw">カーニャ「A mí me pueden mandar」</a>では、歌の嘆声をギターが急いで塞がない場面に注目したい。ポロとの近さは説明だけでなく、ソレア族の十二拍として聴き比べると分かりやすい。</li>
 </ul>
 <h2>まとめ</h2>
 <ul>
 <li>2026年9月27日は、広場では住まいを誰のために使うかが問われ、映画とフラメンコでは古い型を誰の現在へ渡すかが問われた。</li>
 <li>サンルーカル、ジェルバブエナ、リナーレス、カーニャを結ぶのは、型を壊さず、沈黙、言葉、身体の置き方で新しい声を作る技術である。</li>
+</ul>
+<h2>参考ソース</h2>
+<ul>
+<li>ギタリスト列伝：マノロ・サンルーカル「Cuando se asoma el aire（Flamenco en Canal Sur）」 https://www.youtube.com/watch?v=rI0rYaIC7aw</li>
+<li>バイレ列伝：エバ・ジェルバブエナ「ソレア（Concurso Nacional de Arte Flamenco・Canal Sur）」 https://www.youtube.com/watch?v=bcC1CiSv1J0</li>
+<li>パロ解説：カーニャ「Caña. A mí me pueden mandar. Enrique Morente. 1994」 https://www.youtube.com/watch?v=BbhK0oZC9Yw</li>
+<li>工房だより：マドリード王立音楽院 博物館（Museo del RCSMM） 公式ページ https://rcsmm.eu/informacion-museo</li>
 </ul>
 
 </details>

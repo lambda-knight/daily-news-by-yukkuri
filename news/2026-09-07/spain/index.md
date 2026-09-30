@@ -1,5 +1,5 @@
 ---
-title: "スペイン便り 2026-09-07"
+title: "ドゥエンデとは何か？トマティートとコンデ兄弟工房【2026/09/07】"
 layout: default
 ---
 
@@ -8,13 +8,34 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# スペイン便り 2026-09-07
+# ドゥエンデとは何か？トマティートとコンデ兄弟工房【2026/09/07】
 
 **2026-09-07 / スペイン便り**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-07-spain/spain_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-07-spain)
+
+---
+
+## 概要
+
+スペイン語ひとことは「テネール・ドゥエンデ」。セウタの財政危機と学力調査ピサへの不安を短く押さえ、ナタリア・ウアルテやエラス・カサドの話題、マラガとマドリードのフラメンコ催し、ギタリスト列伝トマティート、マドリードのコンデ・エルマノス工房を、ずんだもんと四国めたんが紹介します。
+
+▼ 今日のトピック
+・今日のスペイン語ひとこと：Tener duende
+・セウタの財政危機とモロッコをめぐる論考
+・セウタをめぐる司法と政府の対立、ピサへの不安
+・ナタリア・ウアルテ主演『レオノーラ』、エラス・カサドとバイロイト音楽祭管弦楽団
+・アルチドナ、アロサイナ、マドリード、アストルガのフラメンコ
+・ギタリスト列伝：トマティート
+・工房だより：コンデ・エルマノス工房
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：トマティート「Tomatito & Michel Camilo - Spain」 https://www.youtube.com/watch?v=LOBsQbg3t2U
+・工房だより：コンデ・エルマノス 公式サイト https://condehermanos.com/
+
+#スペイン #フラメンコ #ギター #トマティート #ドゥエンデ #ずんだもん #四国めたん
 
 ---
 
@@ -151,6 +172,11 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>各自治体・主催者によるフラメンコ催事案内</li>
 <li>Tomatito公式略歴・ディスコグラフィー</li>
 <li>Conde Hermanos公式工房史</li>
+</ul>
+<h2>参考ソース</h2>
+<ul>
+<li>ギタリスト列伝：トマティート「Tomatito &amp; Michel Camilo - Spain」 https://www.youtube.com/watch?v=LOBsQbg3t2U</li>
+<li>工房だより：コンデ・エルマノス 公式サイト https://condehermanos.com/</li>
 </ul>
 
 </details>

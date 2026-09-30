@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>GPT-6.1 Astra公開中止、AIを止める責任は誰が負う？ 2026/09/30</title>
+      <description>OpenAIがGPT-6.1 Astraの公開を安全上の理由で中止した判断を軸に、常時稼働エージェントDots、Hugging Face侵入訴訟、Anthropicの上場リスク開示、量子計算の外部評価と宇宙実験、MCPとSpectreの脆弱性を整理します。
+
+▼ 今日のトピック
+・GPT-6.1 Astra公開中止と廉価版Sol
+・常時稼働エージェントDotsと職場向けSpace
+・Hugging Face侵入をめぐるOpenAI提訴
+・Anthropicの存亡リスク開示とOpenAIの大型調達
+・Microsoft Majorana 2をDARPAが実機評価
+・軌道上の光量子プロセッサー実験
+・MCP公式Python SDKのOAuth認証情報窃取欠陥
+・Spectre v2新変種BTR
+
+▼ 参考記事・ソース
+・Ars Technica「OpenAI says planned GPT-6.1 is too insecure to release」 https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/
+・TechCrunch「OpenAI launches Dots, its bubbly agentic avatar」 https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/
+・Wired「OpenAI Gets Sued Over the Hugging Face Hack」 https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/
+・Ars Technica「Anthropic's IPO pitch includes a warning about human extinction」 https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/
+・Microsoft Quantum「Microsoft's quantum research center is open for discovery in Maryland」 https://quantum.microsoft.com/en-us/insights/blogs/microsoft-quantum-research-center-maryland
+・The Quantum Insider「One Giant Leap: Researchers Demonstrate Programmable Quantum Photonic Processor in Orbit」 https://thequantuminsider.com/2026/09/29/one-giant-leap-researchers-demonstrate-programmable-quantum-photonic-processor-in-orbit/
+・The Hacker News「Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials」 https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html
+・BleepingComputer「New Spectre v2 attack variant leaks Linux root password hash in minutes」 https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/
+
+#生成AI #OpenAI #AIエージェント #量子コンピュータ #サイバーセキュリティ #MCP #Spectre #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-30-ai/ai_yukkuri.m4a" length="10342090" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>OpenAIが訓練停止、AIエージェントの権限は誰が止める？ 2026/09/29</title>
       <description>OpenAIの最上位モデル訓練停止を軸に、AIエージェントの法的責任、Nvidiaの隔離基盤、Claude Sonnet 5.5、量子シミュレーション、Azure破壊攻撃とSupabaseの大量露出を整理します。
 

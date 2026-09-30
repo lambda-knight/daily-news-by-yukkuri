@@ -34,6 +34,11 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 ・Cadena SER「La Bienal de Flamenco」 https://cadenaser.com/andalucia/2026/09/04/la-bienal-de-flamenco-traslada-al-muelle-de-la-sal-los-espectaculos-previstos-en-el-hotel-triana-ante-su-gran-demanda-radio-sevilla/
 ・Gerundino Fernández 公式工房 https://gerundinofernandez.com/en/gerundino-fernandez-workshop/
 
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：ビセンテ・アミーゴ「Tangos Del Arco Bajo (Videoclip)」 https://www.youtube.com/watch?v=4X64Wf7z2AQ
+・工房だより：ゲルンディーノ・フェルナンデス工房 公式サイト https://gerundinofernandez.com/en/
+・工房だより：ゲルンディーノ・フェルナンデス工房「HDL Gerundino Fernández, un lutier de tradición familiar」 https://www.youtube.com/watch?v=dDjib5zKP6k
+
 #スペイン #フラメンコ #フラメンコギター #ビセンテアミーゴ #ずんだもん #四国めたん
 
 ---
@@ -96,6 +101,9 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li><a href="https://elpais.com/cultura/2013/08/04/actualidad/1375632095_961637.html">El País: Inagotable Vicente Amigo</a></li>
 <li><a href="https://as.com/tikitakas/musica/jose-merce-el-futuro-del-flamenco-lo-mejor-seria-salir-otra-vez-al-escenario-con-una-guitarra-y-el-cantaor-f202604-n/">AS: José Mercé interview</a></li>
 <li><a href="https://gerundinofernandez.com/en/gerundino-fernandez-workshop/">Gerundino Fernández: 公式工房</a></li>
+<li>ギタリスト列伝：ビセンテ・アミーゴ「Tangos Del Arco Bajo (Videoclip)」 https://www.youtube.com/watch?v=4X64Wf7z2AQ</li>
+<li>工房だより：ゲルンディーノ・フェルナンデス工房 公式サイト https://gerundinofernandez.com/en/</li>
+<li>工房だより：ゲルンディーノ・フェルナンデス工房「HDL Gerundino Fernández, un lutier de tradición familiar」 https://www.youtube.com/watch?v=dDjib5zKP6k</li>
 </ul>
 
 </details>

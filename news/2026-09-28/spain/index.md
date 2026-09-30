@@ -30,6 +30,13 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 
 鑑賞リンクと聞きどころは記事本文に掲載しています。
 
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：ペペ・アビチュエラ「Soleá（Festival Desvarío Flamenco 22）」 https://www.youtube.com/watch?v=ZnE5dSPlT78
+・バイレ列伝：ロシオ・モリーナ「Caída del Cielo（公式プロモ）」 https://www.youtube.com/watch?v=h5csksCyhUM
+・カンテ列伝：マノロ・カラコル「Una historia del cante flamenco」（Spotify） https://open.spotify.com/intl-es/album/13q5p4aBWcfsYVfT9gn6vL
+・パロ解説：ファンダンゴ「Fandangos de Huelva. Paco Toronjo. 1996」 https://www.youtube.com/watch?v=oXcErBQItjw
+・工房だより：アントニオ・デ・トーレス・スペインギター博物館 紹介ページ（アンダルシア州文化アジェンダ） https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/museo-de-la-guitarra-espanola-antonio-de-torres
+
 #スペイン #フラメンコ #フラメンコギター #バイレ #カンテ #ずんだもん #四国めたん
 
 ---
@@ -100,6 +107,10 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <h2>まとめ</h2>
 <ul>
 <li>今日はロルカ（Lorca）が少年審査員として関わった1922年のカンテコンクールと、ロス・ハビスによるロルカ翻案という100年越しの符合が見えた一日だった。ヘレスでは、モライート・チコの息子が同郷の製作家ダビ・ペーニャ・バルガスの楽器を選ぶという地縁の継承も確認できた。ペペ・アビチュエラという一つの家系が、ケタマという次世代の跳躍まで用意していたように、フラメンコは常に一族から一族、街から街へと受け継がれ続けている。</li>
+</ul>
+<h2>参考ソース</h2>
+<ul>
+<li>工房だより：アントニオ・デ・トーレス・スペインギター博物館 紹介ページ（アンダルシア州文化アジェンダ） https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/museo-de-la-guitarra-espanola-antonio-de-torres</li>
 </ul>
 
 </details>

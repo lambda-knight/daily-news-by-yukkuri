@@ -1,5 +1,5 @@
 ---
-title: "スペイン便り 2026-09-19"
+title: "スペイン文化・フラメンコ便り（2026年9月19日）"
 layout: default
 ---
 
@@ -8,13 +8,26 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# スペイン便り 2026-09-19
+# スペイン文化・フラメンコ便り（2026年9月19日）
 
 **2026-09-19 / スペイン便り**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-19-spain/spain_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-19-spain)
+
+---
+
+## 概要
+
+2026年9月19日のスペイン文化・フラメンコ便り。セウタ問題は軽く触れつつ、ヘレスで同じ舞台から出発した伴奏ギタリスト、モライート・チコと歌い手ホセ・メルセの師弟関係、バルセロナの海辺から世界的巨匠になったバイラオーラ、カルメン・アマヤ、グラナダで多くの製作家を育てたベジード工房、拍を持たないパロ「マラゲーニャ」を、具体的な鑑賞リンクとともに掘り下げます。
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：モライート・チコ「Morao Morao」（Nuevos Medios） https://www.youtube.com/watch?v=73XfrIjMSBc
+・バイレ列伝：カルメン・アマヤ「Carmen! la Capitana」（3Cat） https://www.3cat.cat/3cat/carmen-la-capitana/video/5484798/
+・カンテ列伝：ホセ・メルセ「Aire（Bulería）」公式ビデオ https://www.youtube.com/watch?v=xC9vDCMW6Rs
+・工房だより：ベジード工房（Guitarrería Bellido）公式サイト https://www.guitarreriabellido.com/en/guitar-makers/manuel-bellido
+・パロ解説：マラゲーニャ「エンリケ・モレンテ：Malagueña grande de Chacón」 https://www.youtube.com/watch?v=cQ0z7S40YEw
 
 ---
 
@@ -104,6 +117,11 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>https://www.publico.es/actualidad/manuel-bellido-granadino-mantiene-vivo.html</li>
 <li>https://es.wikipedia.org/wiki/Malague%C3%B1a</li>
 <li>https://en.wikipedia.org/wiki/Enrique_el_Mellizo</li>
+<li>ギタリスト列伝：モライート・チコ「Morao Morao」（Nuevos Medios） https://www.youtube.com/watch?v=73XfrIjMSBc</li>
+<li>バイレ列伝：カルメン・アマヤ「Carmen! la Capitana」（3Cat） https://www.3cat.cat/3cat/carmen-la-capitana/video/5484798/</li>
+<li>カンテ列伝：ホセ・メルセ「Aire（Bulería）」公式ビデオ https://www.youtube.com/watch?v=xC9vDCMW6Rs</li>
+<li>工房だより：ベジード工房（Guitarrería Bellido）公式サイト https://www.guitarreriabellido.com/en/guitar-makers/manuel-bellido</li>
+<li>パロ解説：マラゲーニャ「エンリケ・モレンテ：Malagueña grande de Chacón」 https://www.youtube.com/watch?v=cQ0z7S40YEw</li>
 </ul>
 
 </details>

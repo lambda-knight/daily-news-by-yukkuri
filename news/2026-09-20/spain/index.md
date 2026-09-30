@@ -1,5 +1,5 @@
 ---
-title: "スペイン便り 2026-09-20"
+title: "スペインニュース（2026年9月20日）"
 layout: default
 ---
 
@@ -8,13 +8,39 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# スペイン便り 2026-09-20
+# スペインニュース（2026年9月20日）
 
 **2026-09-20 / スペイン便り**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-20-spain/spain_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-20-spain)
+
+---
+
+## 概要
+
+セウタの移民未成年者をめぐる自治州の建前と実務を短く押さえ、カルメン・マチのスペイン映画国家賞受賞やコルドバのギターフェスティバルを紹介。エンリケ・デ・メルチョール、マリア・パヘス、フォスフォリートを深掘りし、マドリードの工房系譜とパロ「ロンデーニャ」も解説します。
+
+▼ 今日のトピック
+・セウタの移民未成年者、PP・Vox統治自治州が受け入れ継続
+・カルメン・マチがスペイン映画国家賞を受賞
+・ハビエル・マリアスの未発表エッセイ公開
+・CNAF創設70周年のコルドバ・ギターフェスティバル、ヘレスとパンプローナの市民向けフラメンコ企画
+・ギタリスト列伝：エンリケ・デ・メルチョール
+・バイレ列伝：マリア・パヘス
+・カンテ列伝：フォスフォリート
+・工房だより：サントス・エルナンデスからアルカンヘル・フェルナンデスへ続くマドリードの系譜
+・パロ解説：ロンデーニャ
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：エンリケ・デ・メルチョール「con Tomatito, Manzanita y Antonio Carmona por Bulerías」 https://www.youtube.com/watch?v=6xQ14m2RjDM
+・バイレ列伝：マリア・パヘス「Yo, Carmen」 https://www.youtube.com/watch?v=SbJz6JuqAOY
+・カンテ列伝：フォスフォリート「Razón de Ser（Fandangos）」with パコ・デ・ルシア https://www.youtube.com/watch?v=wehoCbPk6eg
+・工房だより：アルカンヘル・フェルナンデス工房「Arcangel Fernandez workshop」 https://www.youtube.com/watch?v=xFUaLCIdmBo
+・パロ解説：ロンデーニャ「Ramón Montoya, Rondeña 1928」 https://www.youtube.com/watch?v=3-H4Nn52z0I
+
+#スペイン #フラメンコ #ギター #バイレ #カンテ #ずんだもん #四国めたん #文化 #音楽
 
 ---
 
@@ -84,6 +110,14 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <h2>まとめ</h2>
 <ul>
 <li>政治は自治州レベルの綱引きに留めて短く伝え、番組の重心はサンセバスティアンでの俳優カルメン・マチの受賞から、コルドバの巨大ギターフェスティバル、そしてエンリケ・デ・メルチョール、マリア・パヘス、フォスフォリート、マドリードの製作系譜、パロ「ロンデーニャ」まで、フラメンコと文化芸能に置いた一日だった。</li>
+</ul>
+<h2>参考ソース</h2>
+<ul>
+<li>ギタリスト列伝：エンリケ・デ・メルチョール「con Tomatito, Manzanita y Antonio Carmona por Bulerías」 https://www.youtube.com/watch?v=6xQ14m2RjDM</li>
+<li>バイレ列伝：マリア・パヘス「Yo, Carmen」 https://www.youtube.com/watch?v=SbJz6JuqAOY</li>
+<li>カンテ列伝：フォスフォリート「Razón de Ser（Fandangos）」with パコ・デ・ルシア https://www.youtube.com/watch?v=wehoCbPk6eg</li>
+<li>工房だより：アルカンヘル・フェルナンデス工房「Arcangel Fernandez workshop」 https://www.youtube.com/watch?v=xFUaLCIdmBo</li>
+<li>パロ解説：ロンデーニャ「Ramón Montoya, Rondeña 1928」 https://www.youtube.com/watch?v=3-H4Nn52z0I</li>
 </ul>
 
 </details>

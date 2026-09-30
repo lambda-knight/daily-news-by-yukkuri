@@ -34,6 +34,13 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 ・パンプローナ市、エヘア市、ヘレス市の公演資料
 ・Paco Peña / Sara Baras / Enrique Morente / Guitarras Marín 公式資料
 
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：パコ・ペーニャ「Fandangos for 5 guitars（live @TivoliVredenburg）」 https://www.youtube.com/watch?v=VZmRAb3rue4
+・バイレ列伝：サラ・バラス「Sara Baras baila por Soleá｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=mAR2OZ7GIJc
+・カンテ列伝：エンリケ・モレンテ「Enrique Morente con Lagartija Nick: Omega (1996)」 https://www.youtube.com/watch?v=b-FQ5A52u_E
+・工房だより：アントニオ・マリン・モンテロ工房 公式サイト https://www.guitarrasmarin.com/
+・パロ解説：ブレリア「Fiesta por Bulerías de Jerez｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=inND4l9lLrw
+
 #スペイン #フラメンコ #ギター #バイレ #カンテ #ずんだもん #四国めたん
 
 ---
@@ -74,21 +81,21 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <ul>
 <li>今日の一人は<strong>パコ・ペーニャ（Paco Peña、1942年生）</strong>。コルドバ生まれで、1960年代に英国へ渡り、独奏、伴奏、教育を横断してフラメンコを国際的な舞台へ伝えた。</li>
 <li>右手はラスゲアードの層を濁らせず、親指の低音と高音のアルペジオを分離する。左手は派手な移動より、短い装飾で歌の輪郭を立てる。カンテの呼吸を待ち、バイレの足が強く入る場所では和音を短く切る伴奏感覚が核にある。</li>
-<li>代表舞台<a href="https://www.pacopena.com/misa-flamenca/">『Misa Flamenca』</a>では、合唱の持続音にギターの乾いたアタックが重なる箇所を聴きたい。フラメンコの語法を教会音楽へ溶かすのでなく、異なる呼吸を並置している。</li>
+<li>代表作『Misa Flamenca』の公式音源<a href="https://www.youtube.com/watch?v=7JzNDw4CU8g">「Gloria. Fandangos」</a>では、合唱の持続音にギターの乾いたアタックが重なる箇所を聴きたい。フラメンコの語法を教会音楽へ溶かすのでなく、異なる呼吸を並置している。</li>
 <li>ロッテルダム音楽院での教育や自身の舞踊団を通じ、土地の口伝を楽譜中心の教育へ単純化せず、コンパスを身体で共有する方法を後進へ渡した。</li>
 </ul>
 <h2>フラメンコバイレ列伝</h2>
 <ul>
 <li>今日の一人は<strong>サラ・バラス（Sara Baras、1971年生）</strong>。カディス県サン・フェルナンド生まれ。母コンチャ・バラスの舞踊学校で学び、1998年に自身のカンパニーを設立した。</li>
 <li>サパテアードは速度だけでなく、踵とつま先の音色を分けて長いフレーズを作る。上体を大きく崩さず、ブラソが円を描いてから足へ力を落とすため、静止と爆発の対比が明瞭だ。</li>
-<li>公式作品<a href="https://www.sarabaras.com/espectaculos/alma/">『Alma』</a>では、群舞の直線から独舞へ空間が開く場面と、足音がギターのアクセントを受けて細分化される場面が見どころ。カディス系の明るさを保ちながら、大劇場の構成へ翻訳している。</li>
+<li>作品『Alma』から、2022年ヘレスのティオ・ペペ・フェスティバルで踊られた<a href="https://www.youtube.com/watch?v=JbMzwHTJ5Jk">セギリージャ「Nostalgia」の抜粋映像</a>では、足音がギターのアクセントを受けて細分化される場面が見どころ。重いパロでも打点の明晰さを保ち、大劇場の構成へ翻訳している。</li>
 <li>女性が舞踊団を率い、振付・演出・主演を統合するモデルを定着させた。カルメン・アマヤの爆発力、アントニオ・ガデスの劇場性を受けつつ、自分のカンパニー運営へ結びつけた点が後進への影響である。</li>
 </ul>
 <h2>フラメンコカンテ列伝</h2>
 <ul>
 <li>今日の一人は<strong>エンリケ・モレンテ（Enrique Morente、1942–2010）</strong>。グラナダのアルバイシン地区に生まれ、若くしてマドリードへ出て伝統的なカンテを学んだ。</li>
 <li>声は金属的な鋭さと息の陰影を併せ持つ。ソレアやシギリージャの節回しを深く踏まえながら、詩の子音を立て、レトラの意味を前へ押し出す。ギタリストのペペ・アビチュエラらと、伴奏が歌を追従するだけでない対話を作った。</li>
-<li>公式ディスコグラフィーの<a href="https://www.enriquemorente.com/discografia/omega/">『Omega』</a>では、フェデリコ・ガルシア・ロルカの詩とロックの電気的な厚みの間で、モレンテの声が節回しを崩さず伸びる箇所を聴きたい。異ジャンルとの共演を装飾で終わらせなかった録音である。</li>
+<li>1996年にグラナダで行われたラガルティハ・ニックとの<a href="https://www.youtube.com/watch?v=b-FQ5A52u_E">『Omega』のリハーサルと公演の映像</a>では、フェデリコ・ガルシア・ロルカの詩とロックの電気的な厚みの間で、モレンテの声が節回しを崩さず伸びる箇所を聴きたい。異ジャンルとの共演を装飾で終わらせなかった録音である。</li>
 <li>娘エストレージャ・モレンテを含む次世代に、伝統を保存標本にせず、古いパロの構造を理解したうえで新しい音響へ置く姿勢を残した。</li>
 </ul>
 <h2>フラメンコギター工房だより</h2>
@@ -103,7 +110,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>今日のパロは<strong>ブレリア（Bulería）</strong>。19世紀後半から20世紀初頭のヘレス・デ・ラ・フロンテーラで、ソレアの終結部を速めた歌と踊りから形を整えたという説明が有力だが、名称と成立過程には諸説ある。祝宴のフィン・デ・フィエスタを代表するパロである。</li>
 <li>レトラは短く、歌い手は定型句を反復・変形しながら場の反応へ応える。バイレは決められた長い振付だけでなく、呼び込みのジャマーダ、足技、締めのレマーテをギターとパルマへ合図する。</li>
 <li>コンパスは12拍周期で、数え方は複数ある。ソレア系の数え方なら12、3、6、8、10付近に重心を置き、速い場面では6拍単位にも感じる。アクセントを全部同じ強さで叩かず、弱い拍の余白が跳ねを生む。</li>
-<li>ヘレス系の代表例、ヘレス市の公式文化資料<a href="https://www.jerez.es/webs-municipales/cultura/fiesta-de-la-buleria">Fiesta de la Bulería</a>では、歌の合図の直後にパルマと足が同時に締まるレマーテへ注目したい。専門用語が舞台上の会話だと分かる。</li>
+<li>ヘレス系の代表例、アンダルシアの公共放送が1990年に収録した<a href="https://www.youtube.com/watch?v=inND4l9lLrw">「Fiesta por Bulerías de Jerez」</a>では、歌の合図の直後にパルマと足が同時に締まるレマーテへ注目したい。専門用語が舞台上の会話だと分かる。</li>
 <li>和声はフリジア系が多く、典型例を英語コード名で示すと<strong>Am → G → F → E</strong>。カポタストで歌い手の音域へ合わせ、ギターはファルセータを長く披露するより、歌と踊りの入口・出口を短いラスゲアードで示す。</li>
 </ul>
 <h2>まとめ</h2>
@@ -115,6 +122,11 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>El País Cultura「Festival de las Ideas」関連記事（2026年9月15日）</li>
 <li>El Mundo Cultura「Allianz retira su patrocinio de 124.000 euros」ほか（2026年9月15日）</li>
 <li>パンプローナ市、エヘア市、ヘレス市の公演情報／Paco Peña、Sara Baras、Enrique Morente、Guitarras Marín公式資料</li>
+<li>ギタリスト列伝：パコ・ペーニャ「Fandangos for 5 guitars（live @TivoliVredenburg）」 https://www.youtube.com/watch?v=VZmRAb3rue4</li>
+<li>バイレ列伝：サラ・バラス「Sara Baras baila por Soleá｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=mAR2OZ7GIJc</li>
+<li>カンテ列伝：エンリケ・モレンテ「Enrique Morente con Lagartija Nick: Omega (1996)」 https://www.youtube.com/watch?v=b-FQ5A52u_E</li>
+<li>工房だより：アントニオ・マリン・モンテロ工房 公式サイト https://www.guitarrasmarin.com/</li>
+<li>パロ解説：ブレリア「Fiesta por Bulerías de Jerez｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=inND4l9lLrw</li>
 </ul>
 
 </details>

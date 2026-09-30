@@ -34,6 +34,13 @@ El País Internacional / España / Cultura
 El Mundo / El Mundo Cultura
 Google News フラメンコ
 
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：トマティート「José Fernández Tomatito interpreta una rondeña｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=f1C39M3T-QA
+・バイレ列伝：アントニオ・ガデス「Bodas de Sangre y Suite Flamenca｜Fundación Antonio Gades」 https://www.youtube.com/watch?v=Mf1vsPYyZD0
+・カンテ列伝：ラ・ニーニャ・デ・ロス・ペイネス「la voz Bien de Interés Cultural｜Canal Sur」 https://www.youtube.com/watch?v=GXnHYYcNLlE
+・工房だより：フェリペ・コンデ工房 公式サイト https://condehermanos.com/en/
+・パロ解説：ソレア「Gaspar de Utrera por soleares｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=QQAqBt5vDDs
+
 #スペイン #フラメンコ #トマティート #ソレア #ずんだもん
 
 ---
@@ -116,6 +123,11 @@ Google News フラメンコ
 <li>El País Internacional / España / Cultura</li>
 <li>El Mundo / El Mundo Cultura</li>
 <li>Google News フラメンコ</li>
+<li>ギタリスト列伝：トマティート「José Fernández Tomatito interpreta una rondeña｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=f1C39M3T-QA</li>
+<li>バイレ列伝：アントニオ・ガデス「Bodas de Sangre y Suite Flamenca｜Fundación Antonio Gades」 https://www.youtube.com/watch?v=Mf1vsPYyZD0</li>
+<li>カンテ列伝：ラ・ニーニャ・デ・ロス・ペイネス「la voz Bien de Interés Cultural｜Canal Sur」 https://www.youtube.com/watch?v=GXnHYYcNLlE</li>
+<li>工房だより：フェリペ・コンデ工房 公式サイト https://condehermanos.com/en/</li>
+<li>パロ解説：ソレア「Gaspar de Utrera por soleares｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=QQAqBt5vDDs</li>
 </ul>
 
 </details>

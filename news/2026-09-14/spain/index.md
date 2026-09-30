@@ -1,5 +1,5 @@
 ---
-title: "スペイン便り 2026-09-14"
+title: "スペイン文化・フラメンコ便り — 2026年9月14日"
 layout: default
 ---
 
@@ -8,13 +8,26 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# スペイン便り 2026-09-14
+# スペイン文化・フラメンコ便り — 2026年9月14日
 
 **2026-09-14 / スペイン便り**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-14-spain/spain_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-14-spain)
+
+---
+
+## 概要
+
+2026年9月14日の「スペイン文化・フラメンコ便り」。在外スペイン人の投票権とセウタ情勢は簡潔に、サンパウロ国際ブックビエンナーレ、若手映画監督ルシア・アレニャール・イグレシアス、各地のフラメンコ公演を文化の越境という軸で紹介します。
+
+フラメンコギタリスト列伝はビセンテ・アミーゴ。『シウダ・デ・ラス・イデアス』の旋律、開放弦を残す和音、カンテ伴奏で培った余白を聴きます。工房だよりはマドリードのコンデ・エルマノス。家系工房の系譜、スプルースとシープレス、ゴルペアドール、弦高調整を解説。パロ解説はタンゴスで、四拍子の2拍目・4拍目、アンダルシア終止、歌と踊りの応答を掘り下げます。
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：ビセンテ・アミーゴ「Ciudad de las Ideas」 https://www.youtube.com/watch?v=sYlkS6SsjPU
+・工房だより：コンデ・エルマノス（Felipe Conde）公式サイト https://condehermanos.com/en/
+・パロ解説：タンゴス「Paquera de Jerez: Tangos｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=azlwc-T3WsI
 
 ---
 
@@ -90,6 +103,9 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li><a href="https://www.elmundo.es/cultura/danza/2026/09/13/6aa543b7fc6c83d35c8b4573.html">El Mundo Cultura：『Last and First Men』</a>、<a href="https://www.elmundo.es/cultura/cine/2026/09/10/6aa2ca21fc6c83dd5e8b45bc.html">『Forastera』</a></li>
 <li>Ayuntamiento de Pamplona、Ayuntamiento de Ejea de los Caballeros、101TV：各地のフラメンコ公演（取得JSONのGoogle News配信URL）</li>
 <li>Vicente Amigo公式プロフィール・公式ディスコグラフィー、Conde Hermanos公開資料、フラメンコ音楽学資料</li>
+<li>ギタリスト列伝：ビセンテ・アミーゴ「Ciudad de las Ideas」 https://www.youtube.com/watch?v=sYlkS6SsjPU</li>
+<li>工房だより：コンデ・エルマノス（Felipe Conde）公式サイト https://condehermanos.com/en/</li>
+<li>パロ解説：タンゴス「Paquera de Jerez: Tangos｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=azlwc-T3WsI</li>
 </ul>
 
 </details>

@@ -1,5 +1,5 @@
 ---
-title: "スペイン便り 2026-09-10"
+title: "記憶を写す人とサビーカス、セビリアのバルバ工房【2026/09/10】"
 layout: default
 ---
 
@@ -8,13 +8,34 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# スペイン便り 2026-09-10
+# 記憶を写す人とサビーカス、セビリアのバルバ工房【2026/09/10】
 
 **2026-09-10 / スペイン便り**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-10-spain/spain_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-10-spain)
+
+---
+
+## 概要
+
+パスクアル・マラガイの写真展、ハビエル・マリアスの未刊行文、ピラール・カストロとハビエル・バルデムの言葉、アルチドナ・アストルガ・エヘアのフラメンコ公演を紹介。ギタリスト列伝は国際化の先駆者サビーカス、工房だよりはセビリアのフランシスコ・バルバ工房です。
+
+▼ 今日のトピック
+・セウタで相次ぐ住民への暴言
+・パスクアル・マラガイの写真展「時間の捕獲」
+・ハビエル・マリアスの未刊行エッセー、ピラール・カストロ、ハビエル・バルデム
+・アルチドナ、アストルガ、エヘア・デ・ロス・カバジェロスのフラメンコ
+・ギタリスト列伝：サビーカス
+・工房だより：フランシスコ・バルバ工房
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：サビーカス「Zapateado En Re」 https://www.youtube.com/watch?v=aK0OjtJSkTw
+・工房だより：フランシスコ・バルバ工房 公式サイト http://franciscobarba.net/
+・工房だより：フランシスコ・バルバ工房「FRANCISCO BARBA: 65 años de artesanía」 https://www.youtube.com/watch?v=cxAjFWMmo-s
+
+#スペイン #フラメンコ #ギター #サビーカス #ずんだもん #四国めたん
 
 ---
 
@@ -77,6 +98,9 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>El Mundo Cultura、ピラール・カストロ、ハビエル・バルデム各インタビュー</li>
 <li>101TV「La Porra Flamenca vuelve a Archidona」／Astorga Digital／エヘア・デ・ロス・カバジェロス市</li>
 <li>サビーカス公式・録音資料、フランシスコ・バルバ工房公開資料</li>
+<li>ギタリスト列伝：サビーカス「Zapateado En Re」 https://www.youtube.com/watch?v=aK0OjtJSkTw</li>
+<li>工房だより：フランシスコ・バルバ工房 公式サイト http://franciscobarba.net/</li>
+<li>工房だより：フランシスコ・バルバ工房「FRANCISCO BARBA: 65 años de artesanía」 https://www.youtube.com/watch?v=cxAjFWMmo-s</li>
 </ul>
 
 </details>

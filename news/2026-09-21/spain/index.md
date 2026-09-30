@@ -1,5 +1,5 @@
 ---
-title: "スペイン便り 2026-09-21"
+title: "スペイン文化・フラメンコ便り 2026年9月21日"
 layout: default
 ---
 
@@ -8,13 +8,25 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# スペイン便り 2026-09-21
+# スペイン文化・フラメンコ便り 2026年9月21日
 
 **2026-09-21 / スペイン便り**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-21-spain/spain_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-21-spain)
+
+---
+
+## 概要
+
+2026年9月21日のスペイン文化・フラメンコ便り。セウタ問題と与党内の力学は軽く触れつつ、8年ぶりのシャキーラ帰還公演とロルカの大胆な翻案、パコ・デ・ルシアの弟子でクラシックとの橋渡し役となったギタリスト、フアン・マヌエル・カニサレス、アンダルシアの女神と称されたバイラオーラ、マヌエラ・カラスコ、20世紀を代表するヘレスの歌い手、マヌエル・トーレ、グラナダ楽派の製作家マヌエル・デ・ラ・チカ、自由リズムのパロ「グラナイーナ」を、具体的な鑑賞リンクとともに掘り下げます。
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：フアン・マヌエル・カニサレス「Noches de Imán y Luna（Audio Oficial）」 https://www.youtube.com/watch?v=CkXJj833iGc
+・バイレ列伝：マヌエラ・カラスコ「Manuela（Bienal de Flamenco de Sevilla）」 https://www.youtube.com/watch?v=Go4xdE3f7-s
+・カンテ列伝：マヌエル・トーレ「Siguiriyas」 https://www.youtube.com/watch?v=pvDkskq3l4k
+・パロ解説：グラナイーナ「Granaína. El Polaco. 1996」 https://www.youtube.com/watch?v=pT72EZyZUnU
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "スペイン便り 2026-09-22"
+title: "スペイン文化・フラメンコ便り 2026年9月22日"
 layout: default
 ---
 
@@ -8,13 +8,26 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# スペイン便り 2026-09-22
+# スペイン文化・フラメンコ便り 2026年9月22日
 
 **2026-09-22 / スペイン便り**
 
 <audio controls src="https://archive.org/download/news-pickup-2026-09-22-spain/spain_yukkuri.m4a" style="width:100%;margin-top:4px"></audio>
 
 - [Internet Archive](https://archive.org/details/news-pickup-2026-09-22-spain)
+
+---
+
+## 概要
+
+2026年9月22日のスペイン文化・フラメンコ便り。セウタを巡るEUの対モロッコ発言と首相の妻ベゴーニャ・ゴメスの陪審裁判は軽く触れつつ、劇評家マルコス・オルドニェスの訃報、下院でのパウ・カザルス追悼、フェルナンド・トゥルエバ監督のトランシシオン回顧、没後50日を迎えたギタリスト、ペペ・アビチュエラの一族史、前衛バイラオーラ、ロシオ・モリーナ、伝説の歌い手マノロ・カラコル、ヘレスの製作家ダビ・ペーニャ・バルガス、フラメンコの「根」にあたるパロ「ファンダンゴ」を、具体的な鑑賞リンクとともに掘り下げます。
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：ペペ・アビチュエラ「Soleá（Festival Desvarío Flamenco 22）」 https://www.youtube.com/watch?v=ZnE5dSPlT78
+・バイレ列伝：ロシオ・モリーナ「Caída del Cielo（公式プロモ）」 https://www.youtube.com/watch?v=h5csksCyhUM
+・カンテ列伝：マノロ・カラコル「Una historia del cante flamenco」（Spotify） https://open.spotify.com/intl-es/album/13q5p4aBWcfsYVfT9gn6vL
+・パロ解説：ファンダンゴ「Fandangos de Huelva. Paco Toronjo. 1996」 https://www.youtube.com/watch?v=oXcErBQItjw
+・工房だより：ダビ・ペーニャ・バルガス工房（Guitarras Artesanales Peña Vargas） 公式サイト https://www.guitarrasartesanales.es/
 
 ---
 
@@ -85,6 +98,10 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <h2>まとめ</h2>
 <ul>
 <li>今日は{Lorca|ロルカ}が少年審査員として関わった1922年のカンテコンクールと、ロス・ハビスによるロルカ翻案という100年越しの符合が見えた一日だった。ヘレスでは、モライート・チコの息子が同郷の製作家ダビ・ペーニャ・バルガスの楽器を選ぶという地縁の継承も確認できた。ペペ・アビチュエラという一つの家系が、ケタマという次世代の跳躍まで用意していたように、フラメンコは常に一族から一族、街から街へと受け継がれ続けている。</li>
+</ul>
+<h2>参考ソース</h2>
+<ul>
+<li>工房だより：ダビ・ペーニャ・バルガス工房（Guitarras Artesanales Peña Vargas） 公式サイト https://www.guitarrasartesanales.es/</li>
 </ul>
 
 </details>

@@ -35,6 +35,10 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 ・El País「Amaia, Guitarricadelafuente y Nathy Peluso…」 https://elpais.com/cultura/2026-09-08/amaia-guitarricadelafuente-o-nathy-peluso-entre-los-que-actuaran-en-la-residencia-de-shakira-en-madrid.html
 ・El País「Elena del Rivero… dice adiós a Nueva York」 https://elpais.com/us/2026-09-09/elena-del-rivero-la-gran-artista-del-11-s-dice-adios-a-nueva-york-desde-los-atentados-perdimos-la-inocencia.html
 
+▼ 関連リンク（アーティスト・パロ・工房）
+・ギタリスト列伝：マノロ・サンルーカル「Rondeña. Oración. Manolo Sanlúcar. 1990」（Canal Andalucía Flamenco） https://www.youtube.com/watch?v=34Ymvdh6Sy4
+・工房だより：ホセ・ラミレス工房 公式サイト https://guitarrasramirez.com/es/
+
 #スペイン #フラメンコ #フラメンコギター #セビリア #ゆっくり解説 #ずんだもん #四国めたん
 
 ---
@@ -101,7 +105,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <ul>
 <li>El Mundo「Sánchez reconoce que el Estado debe prepararse mejor ante ataques híbridos」 https://www.elmundo.es/espana/2026/09/09/6aa11fd1fc6c837b378b45bc.html</li>
 <li>El País「Feijóo y Abascal acusan al presidente de no ser libre con Rabat」 https://elpais.com/espana/2026-09-09/feijoo-y-abascal-acusan-al-presidente-de-no-ser-libre-con-rabat-y-sanchez-replica-que-no-tiene-amo.html</li>
-<li>El Mundo「El Supremo decidirá de urgencia si 2,3 millones de nietos pueden votar」 https://www.elmundo.es/espana/2026/09/08/6aa04d76fdddfff9658b45ba2.html</li>
+<li>El Mundo「El Supremo decidirá de urgencia si 2,3 millones de nietos pueden votar」 https://www.elmundo.es/espana/2026/09/08/6aa04d76fdddfff9658b45ba.html</li>
 <li>El País「Amaia, Guitarricadelafuente y Nathy Peluso…」 https://elpais.com/cultura/2026-09-08/amaia-guitarricadelafuente-o-nathy-peluso-entre-los-que-actuaran-en-la-residencia-de-shakira-en-madrid.html</li>
 <li>El Mundo「Rodrigo Cortés: Llevamos muchos años viendo productos…」 https://www.elmundo.es/cultura/literatura/2026/09/08/6aa00e77fdddff58268b45ab.html</li>
 <li>El País「Elena del Rivero… dice adiós a Nueva York」 https://elpais.com/us/2026-09-09/elena-del-rivero-la-gran-artista-del-11-s-dice-adios-a-nueva-york-desde-los-atentados-perdimos-la-inocencia.html</li>
@@ -109,6 +113,8 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>パンプローナ市「XIII Flamenco On Fire」 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQajhDenR6VkxvNWFGVjNHV0xLa19TYXRJUWhEcjl4TUJrdzFuVmV4bE8xZy12QndXWWxzZmV1VnBOc054aHFHLUIyOUJxbGhFdGhhT253VjBKeGMtc1VDSDNjX1EzelBpY25RcGxOQWlCNDA2d2VWV0gtZmdHNWVfVklKcnNNTXRiNG5QWG14aXJQOXJfTHdhRURuUHluMzNmTDYwdUZ3U1RLaG5RUHVrT0c0NF9JSEFrQXpXSndTc1M?oc=5</li>
 <li>ヘレス市「Viernes Flamenco」 https://news.google.com/rss/articles/CBMimAJBVV95cUxQQ1NlWHBSazFpTEQwRXZ1WUZYZjlnM0JEaDdvMURCODVOTDVIeE5MYk1FYVFPbHBILW5SOC1UZUlDajhJU01tRjhySGl0cDNEc25EMUdpQkd5UHlZMldxNkl3T0N6TFhzaGNWdW5YNWZOd1Y3b0pvX1VrcmNXWEdyMk13RUJGNE5ZSTVfLU5CWEFPN3NPLVVqcnlGSk1ZS3NDNXZhUFZ0MWp1WnlEd3poeHVibkRKeE0yVkdPVmhiUFVSWkVybmw5a1BqR0xWS0pJSGVqRGp5azBPRG9rUmdoSHZjWUpuZk5uSjNhdlVqVU5HejBEMjRneHpBemU5U0Z1UERFNTJJN2VtUWFhaTJIdjBnSXBtNlZL?oc=5</li>
 <li>Manolo Sanlúcar公式伝記・ディスコグラフィー、José Ramírez公式工房沿革・製品資料</li>
+<li>ギタリスト列伝：マノロ・サンルーカル「Rondeña. Oración. Manolo Sanlúcar. 1990」（Canal Andalucía Flamenco） https://www.youtube.com/watch?v=34Ymvdh6Sy4</li>
+<li>工房だより：ホセ・ラミレス工房 公式サイト https://guitarrasramirez.com/es/</li>
 </ul>
 
 </details>
