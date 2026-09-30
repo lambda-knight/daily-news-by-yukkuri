@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>目的関数だけで全ての深さが使えるLLMに｜Frontier AI論文5本 2026/09/30</title>
+      <description>2026年9月30日のFrontier AI論文解説。入れ子型言語モデルの確率的接頭辞学習、ループ型MoEの平坦化と注意の非共有化、KVキャッシュを流す文脈圧縮によるエージェント強化学習の高速化、統合マルチモーダルモデルの自己修正を学ぶ軌跡単位の強化学習、動画拡散モデル蒸留での批評器誤差の射影除去を、比較条件・核心数値・限界に沿って検討します。
+
+▼ 今日の論文ラインナップ
+・1回の学習で全ての深さが使える言語モデル — ケンブリッジ大学・Google（arXiv:2609.35769）
+・ループ型MoEは専門家を平らにし注意を分ける — ケース・ウェスタン・リザーブ大学・京都大学・国立情報学研究所（arXiv:2609.35751）
+・KVキャッシュを流し続けてエージェント強化学習の圧縮を速くする — Mila・モントリオール大学・Microsoftほか（arXiv:2609.35750）
+・統合マルチモーダルモデルに自己修正を強化学習で身につけさせる — 南洋理工大学・上海交通大学・東京大学（arXiv:2609.35767）
+・批評器の誤差を射影で除く動画拡散モデルの蒸留 — ByteDance（arXiv:2609.35768）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.35769 — 1回の学習で全ての深さが使える言語モデル
+https://arxiv.org/abs/2609.35751 — ループ型MoEは専門家を平らにし注意を分ける
+https://arxiv.org/abs/2609.35750 — KVキャッシュを流し続けてエージェント強化学習の圧縮を速くする
+https://arxiv.org/abs/2609.35767 — 統合マルチモーダルモデルに自己修正を強化学習で身につけさせる
+https://arxiv.org/abs/2609.35768 — 批評器の誤差を射影で除く動画拡散モデルの蒸留
+
+#生成AI #LLM #MoE #AIエージェント #強化学習 #動画生成 #機械学習 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-09-30-arxiv-ai/arxiv_ai_yukkuri.m4a" length="11834291" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>確信度だけで推論が最大25%短縮｜Frontier AI論文5本 2026/09/29</title>
       <description>2026年9月29日のFrontier AI論文解説。自己教師ありの確信度学習、利用者像が拒否を動かす内部表現、LoRAスキルの一方向結合、コーディングエージェント向け文書の負の結果、画像生成における層融合の乱択を、比較条件・核心数値・限界に沿って検討します。
 
