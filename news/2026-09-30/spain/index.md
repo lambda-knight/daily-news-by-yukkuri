@@ -1,5 +1,5 @@
 ---
-title: "十二拍をどう渡す？ロメーラスとフラメンコ三列伝【2026/09/29】"
+title: "北から来た踊りファルーカと、独奏を勝ち取ったセラニート【2026/09/30】"
 layout: default
 ---
 
@@ -8,7 +8,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
 
-# 十二拍をどう渡す？ロメーラスとフラメンコ三列伝【2026/09/29】
+# 北から来た踊りファルーカと、独奏を勝ち取ったセラニート【2026/09/30】
 
 **2026-09-30 / スペイン便り**
 
@@ -20,28 +20,40 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 
 ## 概要
 
-住宅抗議とレンフェの復刻標章を短く押さえ、ホセ・アントニオ・ロドリゲス、オルガ・ペリセ、ラ・タナを深掘り。工房の合奏内調整と、カディス系パロ「ロメーラス」の十二拍・和声・舞踊も解説します。
+モロッコ初の女性首相とセウタ、住宅政令の承認を短く押さえ、ゴンサロ・スアレスの訃報、ピラール・アルバラシンの国民造形芸術賞、今夜のビエナル公演へ。列伝はセラニート、マリオ・マジャ、カプージョ・デ・ヘレス。マドリードの工房ペドロ・デ・ミゲルと、パロ「ファルーカ」の起源・構成・8拍のコンパス・Aマイナーの和声も解説します。今日のスペイン語は「ケ・アルテ（¡Qué arte!）」と「ケ・テ・バヤ・ビエン（¡Que te vaya bien!）」。
 
 ▼ 今日のトピック
-・ソル広場の住宅抗議と文化人の連帯
-・レンフェが54年前の「ガジェータ」標章を復活
-・若手公演と三本柱を守る各地のフラメンコ企画
-・ギタリスト列伝：ホセ・アントニオ・ロドリゲス
-・バイレ列伝：オルガ・ペリセ
-・カンテ列伝：ラ・タナ
-・工房だより：材と調整を合奏の言葉へ翻訳する製作者
-・パロ解説：ロメーラス
+・モロッコ初の女性首相エル・マンスーリ氏とセウタの未成年者問題
+・住宅緊急政令2本の承認と10月2日の下院採決
+・ゴンサロ・スアレス死去、マドリード・ブックフェア新ディレクター
+・ホセ・デ・ロス・カマロネスとカプージョ・デ・ヘレスのビエナル公演
+・ピラール・アルバラシンが国民造形芸術賞、アルゼンチン・サンタロサのタブラオ
+・ギタリスト列伝：ビクトル・モンヘ「セラニート」
+・バイレ列伝：マリオ・マジャ
+・カンテ列伝：カプージョ・デ・ヘレス
+・工房だより：ギターラス・ペドロ・デ・ミゲル（マドリード、アモール・デ・ディオス通り）
+・パロ解説：ファルーカ
+
+▼ 関連リンク（アーティスト・パロ・工房）
+・セラニート『Llora la farruca』（Flamenco Live） https://flamencolive.com/en/farruca-llora-la-farruca-victor-monge-serranito/
+・セラニート（第6回コスタリカ国際ギターフェスティバル） https://www.youtube.com/watch?v=9m0YnO1ZUVg
+・マリオ・マジャ『Camelamos Naquerar』（RomArchive） https://www.romarchive.eu/en/collection/camelamos-naquerar/
+・カプージョ・デ・ヘレス、ブレリア（ロ・フェロ・フラメンコ・フェスティバル2023公式） https://www.youtube.com/watch?v=__ZA4TrliXc
+・パコ・デ・ルシア『Farruca de Lucía』 https://music.apple.com/us/song/farruca-de-luc%C3%ADa/1840176299
+・ラ・ニーニャ・デ・ロス・ペイネス＆ラモン・モントーヤ『Un Farruca en Galicia』 https://music.apple.com/us/song/un-farruca-en-galicia-feat-ramon-montoya/637982508
+・ギターラス・ペドロ・デ・ミゲル（公式Facebook） https://www.facebook.com/GuitarreriaPedroDeMiguel/
 
 ▼ 参考記事・ソース
-・El País「ソル広場の住宅抗議」 https://elpais.com/espana/madrid/2026-09-28/sol-en-vilo-por-el-consejo-de-ministros-se-frena-la-especulacion-o-aqui-nos-quedamos.html
-・El País Cultura「文化界が住宅抗議へ連帯」 https://elpais.com/cultura/2026-09-28/la-cultura-se-suma-a-la-acampada-de-sol-contra-la-crisis-de-la-vivienda.html
-・El País Cultura「レンフェが歴史的標章を復活」 https://elpais.com/cultura/2026-09-28/renfe-viaja-a-los-setenta-recupera-su-historica-galleta-el-simbolo-creado-hace-54-anos.html
-・Bienal de Flamenco de Sevilla「José Antonio Rodríguez」 https://www.labienal.com/xxii-bienal-de-flamenco-sevilla-2022/programacion/jose-antonio-rodriguez
-・Canal Andalucía Flamenco「Encuentros con Olga Pericet」 https://www.youtube.com/watch?v=AKWquKJvLpA
-・La Tana公式「Tú, ven a mí」 https://www.youtube.com/watch?v=J69RDKE_cMw
-・Instituto Andaluz del Flamenco「Cantes de compás mixto」 https://www.juntadeandalucia.es/aaiicc/flamenco/content/cantes-de-comp%C3%A1s-mixto
+・El Mundo「モロッコ国王が初の女性首相を任命」 https://www.elmundo.es/internacional/2026/09/29/6abbe0fbe9cf4a34418b459f.html
+・El País「政府が立ち退き保護と賃貸延長を承認」 https://elpais.com/espana/2026-09-29/el-gobierno-aprueba-la-proteccion-frente-a-los-desahucios-hasta-2030-y-la-prorroga-de-los-contratos-de-alquiler-hasta-2028.html
+・El País Cultura「ゴンサロ・スアレス死去」 https://elpais.com/cultura/2026-09-29/muere-gonzalo-suarez-referente-del-cine-y-la-literatura-espanola-a-los-92-anos.html
+・El Mundo Cultura「ホセ・デ・ロス・カマロネスとカプージョ・デ・ヘレス」 https://www.elmundo.es/cultura/2026/09/28/6ab93d0a21efa0f30c8b45b4.html
+・El País Cultura「ピラール・アルバラシンが国民造形芸術賞」 https://elpais.com/cultura/2026-09-29/pilar-albarracin-premio-nacional-de-artes-plasticas-2026.html
+・Suma Flamenca「Víctor Monge "Serranito"」 https://www.madrid.org/sumaflamenca/2021/serranito.html
+・La Madraza（グラナダ大学）「Mario Maya y Camelamos Naquerar」 https://lamadraza.ugr.es/revista/mario-maya-y-camelamos-naquerar-estetica-artes-visuales-y-memoria-activa/
+・Wikipedia「Farruca」 https://en.wikipedia.org/wiki/Farruca
 
-#スペイン #フラメンコ #ギター #バイレ #カンテ #ずんだもん #四国めたん #文化 #音楽
+#スペイン #フラメンコ #ギター #バイレ #カンテ #ファルーカ #ずんだもん #四国めたん #文化 #音楽
 
 ---
 
@@ -86,7 +98,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>転機は独奏への執着である。本人はエクスポフラメンコのインタビューで、カフェ・デ・チニータスで「独奏させてくれないなら誰の伴奏もしない」と言い切ったと振り返る。当時の店は「独奏のギタリストをどう使えばいいのか」と戸惑ったが、彼はカルメン・アマヤに捧げた曲『ヒターナ』を弾いて喝采を得た。フェスティバルでも独奏の枠を求め、出演料を削ってでもギターの日を作らせたという。1969年に独立したコンサート・ギタリストとなり、インドへフラメンコの独奏を初めて持ち込んだ奏者ともされる。</li>
 <li>1971年、コルドバのフラメンコ芸術全国コンクールでラモン・モントーヤ賞（ギター部門）を受けた。このコンクールは2026年に創設70年を迎え、今年7月の第45回コルドバ・ギターフェスティバルが記念事業を組んだ。1978年にはヘレスのフラメンコ学講座の賞、2004年にセビリアのビエナル25周年記念賞、2019年に芸術功労金章、2024年にラ・ウニオンの「カンテ・デ・ラス・ミナス」金盾を受けている。</li>
 <li>作曲家としては管弦楽と組んだ『アンダルス・シンフォニコ（Andaluz sinfónico）』（1982年）、『グアダルキビールのこだま』（1997年）などを残し、60年以上で約20作を録音した。マドリード州のスマ・フラメンカは、その音楽を「内容（霊感）と形式（技術）の均衡」「拍の中で置かれる沈黙」「バロック的な深さ」と評する。速い走句だけで押すのではなく、コンパスの中に意図した休止を置き、和声の緊張を長く保つ書法である。パコ・デ・ルシア、マノロ・サンルーカルと並び、スペインのギター独奏を世界へ出した3人の一人と数えられる。</li>
-<li>鑑賞には、本人の演奏映像と譜面を出版するフラメンコ・ライブ社の『<a href="https://flamencolive.com/en/farruca-llora-la-farruca-victor-monge-serranito/">Llora la farruca（ファルーカは泣く）</a>』を挙げたい。約40年前に作られたファルーカで、本人はガリシアの様式に想を得て、移民して音楽の伝統を捨てた恋人を嘆く女性を描いたと説明する。サビーカスの解釈から学んだと明かし、第2ギター、ベース、打楽器（息子ビクトル・モンヘ・バリオス）と演奏する。独奏ギターが旋律を歌い、第2ギターとベースが低音と和音を分担する層の分け方と、嘆きの主題が曲の終盤で速度を上げる流れを聴きたい。</li>
+<li>鑑賞には、本人の演奏映像と譜面を出版するフラメンコ・ライブ社の『<a href="https://flamencolive.com/en/farruca-llora-la-farruca-victor-monge-serranito/">Llora la farruca（ファルーカは泣く）</a>』を挙げたい。約40年前に作られたファルーカで、本人はガリシアの様式に想を得て、移民して音楽の伝統を捨てた恋人を嘆く女性を描いたと説明する。サビーカスの解釈から学んだと明かし、第2ギター、ベース、打楽器（息子ビクトル・モンヘ・バリオス）と演奏する。独奏ギターが旋律を歌い、第2ギターとベースが低音と和音を分担する層の分け方を聴きたい。伴奏の現場で育った奏者が、独奏者として自分の周りに伴奏を配置し直している点が面白い。</li>
 <li>もう一本、コスタリカ国際ギターフェスティバルが公開する『<a href="https://www.youtube.com/watch?v=9m0YnO1ZUVg">第6回コスタリカ国際ギターフェスティバルでのセラニート</a>』では、一人で舞台に座り、伴奏者なしで曲を組み立てる姿そのものが見どころになる。カフェ・デ・チニータスで勝ち取った「独奏」という形式が、半世紀後に国際音楽祭の標準になっていることが確認できる。</li>
 <li>2021年の引退ツアー『夢のように（Como un sueño）』は10月19日にマドリードで締めくくられ、2022年のヘレス・フェスティバルではパコ・ビダル、ハビエル・コンデとのギター3重奏で出演した。後進にとっての遺産は曲目以上に、アンダルシアの外に生まれた奏者でも、独奏という形式を自ら交渉して勝ち取れるという前例である。</li>
 </ul>
@@ -123,7 +135,7 @@ MathJax = { tex: { inlineMath: [['$','$'],['\\(','\\)']], displayMath: [['$$','$
 <li>構成は、登場（サリーダ）、ギターのファルセータ、拍を示すマルカーヘ、合図のジャマーダ、歌が入ればレトラ、足技を連ねるエスコビージャ、速度を上げるスビーダ、終止（シエレ）と進むのが典型である。レトラは8音節4行の詩節で、2行目と4行目が韻を踏む。ただし現代では歌われることが少なく、踊りとギター独奏の曲として生きている。</li>
 <li>コンパスは2拍子系（4拍子）で、タンゴやティエントに近い。4拍子を2小節つないだ8拍で数え、1・3・5・7拍に重心を置く。12拍のソレアやブレリアと違い、拍の数え方は単純だが、その分だけ静止と加速の対比がはっきり出る。</li>
 <li>調は短調で、Aマイナーで弾くのが一般的である。ギターはE7（イー・セブン）とAマイナーの往復を土台に、Dマイナー→Aマイナー→E7→Aマイナーの終止型でまとまりを作る。フリジア旋法のアンダルシア終止ではなく、短調の属七和音から主和音へ戻る進行が、北から来た曲らしい硬い響きを生む。モントーヤははじめEマイナーで弾き、のちにAマイナーに定着したとする解説もある。</li>
-<li>パコ・デ・ルシアの『<a href="https://music.apple.com/us/song/farruca-de-luc%C3%ADa/1840176299">Farruca de Lucía（ファルーカ・デ・ルシア）</a>』（1972年のアルバム『エル・ドゥエンデ・フラメンコ・デ・パコ・デ・ルシア』収録、4分38秒）では、ギター1本で8拍の周期を保ちながら、E7からAマイナーへ戻る終止のたびに区切りが生まれる様子と、終盤へ向けて速度を上げる流れを聴きたい。踊りがなくても、スビーダとシエレの構成がギターの中に残っていることが分かる。</li>
+<li>パコ・デ・ルシアの『<a href="https://music.apple.com/us/song/farruca-de-luc%C3%ADa/1840176299">Farruca de Lucía（ファルーカ・デ・ルシア）</a>』（1972年のアルバム『エル・ドゥエンデ・フラメンコ・デ・パコ・デ・ルシア』収録、4分38秒）では、ギター1本で8拍の周期を保ちながら、E7からAマイナーへ戻る終止のたびに生まれる区切りと、踊りのスビーダ（加速）とシエレ（終止）の考え方がギター1本でどう表されるかを聴きたい。</li>
 <li>歌われるファルーカの例として、ラ・ニーニャ・デ・ロス・ペイネスがラモン・モントーヤの伴奏で録音した『<a href="https://music.apple.com/us/song/un-farruca-en-galicia-feat-ramon-montoya/637982508">Un Farruca en Galicia（ガリシアのファルーカ）</a>』（2分44秒の歴史的録音）もある。題名そのものが「北の人」をめぐる歌であることを示しており、4行詩のレトラが短い間奏をはさんで区切られる形を確かめられる。</li>
 </ul>
 <h2>まとめ</h2>
