@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>長時間AIエージェントは自分の文脈を編集できるか？重要論文5本 2026/10/01</title>
+      <description>Frontier AIの最新研究5本を、大学院生・研究者向けに研究課題、手法、評価条件、数値結果、限界まで解説します。文脈を自分で編集する言語モデル、エージェントのメタ推論、訓練データ帰属、線形アテンション状態の量子化、反実仮想動画によるヒューマノイド学習を扱います。
+
+▼ 今日の論文ラインナップ
+・文脈をファイルとして自分で編集する言語モデル — ワシントン大学、Meta Superintelligence Labsほか（arXiv:2609.37725）
+・次に何を計算するかを別の推論として扱うエージェント — Meta Superintelligence Labs（arXiv:2609.38147）
+・創発的ミスアラインメントを生む訓練例は均等ではない — EleutherAI（arXiv:2609.37914）
+・線形アテンションの再帰状態を窓ごとに量子化する — UCバークレー、ワシントン大学、MIT、Perplexity、NVIDIA（arXiv:2609.38166）
+・生成した反実仮想の動画でヒューマノイドに運搬を教える — Amazon FAR、UCバークレー、カーネギーメロン大学、スタンフォード大学（arXiv:2609.38172）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.37725 — 文脈をファイルとして自分で編集する言語モデル
+https://arxiv.org/abs/2609.38147 — 次に何を計算するかを別の推論として扱うエージェント
+https://arxiv.org/abs/2609.37914 — 創発的ミスアラインメントを生む訓練例は均等ではない
+https://arxiv.org/abs/2609.38166 — 線形アテンションの再帰状態を窓ごとに量子化する
+https://arxiv.org/abs/2609.38172 — 生成した反実仮想の動画でヒューマノイドに運搬を教える
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #AIエージェント #機械学習 #ディープラーニング #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-01-arxiv-ai/arxiv_ai_yukkuri.m4a" length="13734383" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>目的関数だけで全ての深さが使えるLLMに｜Frontier AI論文5本 2026/09/30</title>
       <description>2026年9月30日のFrontier AI論文解説。入れ子型言語モデルの確率的接頭辞学習、ループ型MoEの平坦化と注意の非共有化、KVキャッシュを流す文脈圧縮によるエージェント強化学習の高速化、統合マルチモーダルモデルの自己修正を学ぶ軌跡単位の強化学習、動画拡散モデル蒸留での批評器誤差の射影除去を、比較条件・核心数値・限界に沿って検討します。
 
