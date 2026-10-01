@@ -26,6 +26,30 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AI監視に計算資源10％、量子耐性証明書とゼロデイ【2026/10/01】</title>
+      <description>生成AI・量子コンピュータ・セキュリティを統合解説。OpenAIの訓練中監視、Redditの公開API終了、タンパク質透かし、誤り耐性量子計算、AIエージェント侵入、Ciscoの重大脆弱性を扱います。
+
+▼ 今日のトピック
+・OpenAIが計算資源の5〜10％を安全対策へ
+・RedditのRSS終了とAI回答への支払い
+・Classiqの誤り耐性エンジンと耐量子TLS証明書
+・DIVD侵入、社内画像1万3000枚流出、CVE-2026-76504
+
+▼ 参考記事・ソース
+・MIT Technology Review「OpenAI chief research officer」 https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/
+・TechCrunch「Decisions API」 https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/
+・Ars Technica「quantum-safe TLS certificates」 https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/
+・BleepingComputer「DIVD / Zammad」 https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/
+・BleepingComputer「Cisco SD-WAN」 https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/
+
+#生成AI #量子コンピュータ #サイバーセキュリティ #AIニュース #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-01-ai/ai_yukkuri.m4a" length="12229643" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>GPT-6.1 Astra公開中止、AIを止める責任は誰が負う？ 2026/09/30</title>
       <description>OpenAIがGPT-6.1 Astraの公開を安全上の理由で中止した判断を軸に、常時稼働エージェントDots、Hugging Face侵入訴訟、Anthropicの上場リスク開示、量子計算の外部評価と宇宙実験、MCPとSpectreの脆弱性を整理します。
 
