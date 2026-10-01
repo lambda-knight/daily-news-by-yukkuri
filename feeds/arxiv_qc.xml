@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AIは量子回路をどこまで短くできる？重要論文5本【2026/10/01】</title>
+      <description>期間限定特集「生成AIで量子計算をつくる」。強化学習ルーティング、T数削減、LLM誘導探索、シュレディンガー橋による回路最適化を、計算予算と等価性検証まで含めて比較します。
+
+▼ 今日の論文ラインナップ
+・強化学習による量子回路合成とトランスパイルの実用化 — IBM Quantum（arXiv:2405.13196）
+・動的二次割当問題として解く強化学習ルーティング — デラウェア大学ほか（arXiv:2605.12365）
+・テンソル分解強化学習によるT数最適化の再現と汎用化 — マックス・プランク光科学研究所ほか（arXiv:2511.09951）
+・言語モデルが探索方針を書き換えるT数最適化 — スベルバンク量子技術センターほか（arXiv:2603.29894）
+・シュレディンガー橋による生成的な量子回路最適化 — チューリッヒ工科大学ほか（arXiv:2609.25947）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2405.13196 — 強化学習による量子回路合成とトランスパイルの実用化
+https://arxiv.org/abs/2605.12365 — 動的二次割当問題として解く強化学習ルーティング
+https://arxiv.org/abs/2511.09951 — テンソル分解強化学習によるT数最適化の再現と汎用化
+https://arxiv.org/abs/2603.29894 — 言語モデルが探索方針を書き換えるT数最適化
+https://arxiv.org/abs/2609.25947 — シュレディンガー橋による生成的な量子回路最適化
+
+#量子コンピュータ #生成AI #量子情報 #arxiv #論文解説 #量子回路 #トランスパイラ #強化学習 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-01-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8603882" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>拡散モデルで回路合成、LLMの量子力を測る—生成AI×量子 特集2日目【2026/09/30】</title>
       <description>期間限定特集「生成AIで量子計算をつくる」2回目。NVIDIA東京の濱村一航氏が共著に入る3本（多モード拡散モデルによる離散・連続ゲート混在回路の合成、量子分野のLLM評価データセットQuantumBench、ABCI-Q上で量子実行を言語モデルに任せるMCPサーバー）に、9月28日投稿の新着ベンチマークQC-Starkと、量子回路・量子コード生成AIの技術レビューを加え、生成物の正しさを何で確かめ、その検証が実機まで届いているかを比較条件と限界を含めて解説します。
 
