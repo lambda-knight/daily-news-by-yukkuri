@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AIは量子誤り訂正を実時間化できるか？重要論文5本【2026/10/03】</title>
+      <description>期間限定特集「生成AIで量子計算をつくる」第5回。ニューラル復号、離散拡散、グラフニューラル事後選択、LLMによる量子センシング実験を、精度・遅延・汎化・実機検証の軸で比較します。
+
+▼ 今日の論文ラインナップ
+・表面符号とカラー符号を実時間で復号するAlphaQubit 2（arXiv:2512.07737）
+・離散拡散モデルによる量子誤り訂正DiffQEC（arXiv:2604.24640）
+・検出誤りモデルから学ぶ符号非依存GNNデコーダ（arXiv:2610.01683）
+・復号失敗を予測するグラフニューラル事後選択（arXiv:2610.00504）
+・LLMエージェントによる自律量子センシング実験（arXiv:2607.25145）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2512.07737 — 実時間ニューラルデコーダ
+https://arxiv.org/abs/2604.24640 — DiffQEC
+https://arxiv.org/abs/2610.01683 — 符号非依存GNNデコーダ
+https://arxiv.org/abs/2610.00504 — グラフニューラル事後選択
+https://arxiv.org/abs/2607.25145 — 自律量子センシング実験
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #生成AI #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-03-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9326476" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIは量子コードを書いて直せるか？重要論文5本【2026/10/02】</title>
       <description>生成AIで量子計算をつくる特集第4回。量子コード生成、デバッグ、回路探索、自律設計、論文からの実装を、評価条件と残る意味上の誤りまで比較します。
 
