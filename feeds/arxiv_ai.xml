@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>研究者が今週驚いたAI論文【視覚記憶と省メモリ学習ほか5本 2026/10/03】</title>
+      <description>視覚記憶で対話型パズルを完走するハーネス、重みを変えず改善するロボット、着想源検索、セキュリティCLI生成、状態メモリを174分の1にする最適化を、評価条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・視覚の記憶を損なわずに残すハーネスで対話型パズルを完走する（arXiv:2610.02200）
+・重みを変えずにシミュレーション練習でロボットのスキルを育てる（arXiv:2610.02204）
+・研究の着想源になった論文を探す検索ベンチマーク（arXiv:2610.02202）
+・自然言語からセキュリティツールのコマンドを正確に組み立てる（arXiv:2610.02206）
+・列ごとに1成分だけ更新する省メモリ最適化手法（arXiv:2610.02201）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2610.02200 — 視覚記憶を残す対話型推論ハーネス
+https://arxiv.org/abs/2610.02204 — 重み更新なしのロボット自己改善
+https://arxiv.org/abs/2610.02202 — 研究の着想源を探す検索ベンチマーク
+https://arxiv.org/abs/2610.02206 — Kali Linuxコマンド生成の評価と学習
+https://arxiv.org/abs/2610.02201 — 列ごとに1成分を更新する省メモリ最適化
+
+#生成AI #LLM #AIエージェント #ロボティクス #arxiv #論文解説 #機械学習 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-03-arxiv-ai/arxiv_ai_yukkuri.m4a" length="13689264" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>研究者が今週驚いた生成AI論文【証明エージェントほか5本 2026/10/02】</title>
       <description>未解決問題を解く証明エージェント、トークン単位の信用割当、統合マルチモーダル生成、動画世界モデル、脳信号復号の評価を研究設計と限界まで解説します。
 
