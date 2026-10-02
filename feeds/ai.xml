@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AIの推論は誰のものか、猫型量子ビットと重大ゼロデイ【2026/10/02】</title>
+      <description>生成AI・量子コンピュータ・セキュリティを統合解説。OpenAIの安全研究者との契約解消と推論抽出、Gemini 4 Argon、Grokの軍事利用、脳画像再構成、猫型量子ビット、FortiMailの重大脆弱性、国防総省の情報流出を扱います。
+
+▼ 今日のトピック
+・OpenAIの内部情報共有とMoonshot AI関係者による推論抽出
+・Gemini 4 Argonの防御者先行提供とGrokの軍事利用
+・脳スキャンから画像を再現するAI
+・Alice &amp; Bobの電圧駆動型猫量子ビットとD-Wave
+・CVE-2026-104286と米国防総省約300万人分の情報流出
+
+▼ 参考記事・ソース
+・TechCrunch「OpenAI cuts ties with 3 safety researchers」 https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/
+・The Hacker News「Reasoning Extraction Campaign」 https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html
+・MIT Technology Review「AI mind-reading tool」 https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/
+・The Quantum Insider「Alice &amp; Bob」 https://thequantuminsider.com/2026/10/01/alice-bob-demonstrates-new-approach-to-stabilising-cat-with-dc-voltage-bias/
+・BleepingComputer「FortiMail zero-day」 https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/
+
+#生成AI #量子コンピュータ #サイバーセキュリティ #AIニュース #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-02-ai/ai_yukkuri.m4a" length="14455335" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI監視に計算資源10％、量子耐性証明書とゼロデイ【2026/10/01】</title>
       <description>生成AI・量子コンピュータ・セキュリティを統合解説。OpenAIの訓練中監視、Redditの公開API終了、タンパク質透かし、誤り耐性量子計算、AIエージェント侵入、Ciscoの重大脆弱性を扱います。
 
