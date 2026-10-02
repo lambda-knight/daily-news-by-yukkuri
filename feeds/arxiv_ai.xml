@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>研究者が今週驚いた生成AI論文【証明エージェントほか5本 2026/10/02】</title>
+      <description>未解決問題を解く証明エージェント、トークン単位の信用割当、統合マルチモーダル生成、動画世界モデル、脳信号復号の評価を研究設計と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・証明と検証を分担するエージェント群で未解決問題を解く（arXiv:2609.40324）
+・言い換えで揺れるトークンの信用を削る強化学習（arXiv:2609.40360）
+・言語も画像も連続埋め込みのフローで生成する統合モデル（arXiv:2609.40362）
+・物理を語る言語を自己進化させて動画世界モデルを鍛える（arXiv:2609.40358）
+・脳データなしで再現できた脳から文字列への復号の改善（arXiv:2609.40359）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2609.40324 — 証明と検証を分担するエージェント群で未解決問題を解く
+https://arxiv.org/abs/2609.40360 — 言い換えで揺れるトークンの信用を削る強化学習
+https://arxiv.org/abs/2609.40362 — 言語も画像も連続埋め込みのフローで生成する統合モデル
+https://arxiv.org/abs/2609.40358 — 物理を語る言語を自己進化させて動画世界モデルを鍛える
+https://arxiv.org/abs/2609.40359 — 脳データなしで再現できた脳から文字列への復号の改善
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #機械学習 #ディープラーニング</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-02-arxiv-ai/arxiv_ai_yukkuri.m4a" length="13826142" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>長時間AIエージェントは自分の文脈を編集できるか？重要論文5本 2026/10/01</title>
       <description>Frontier AIの最新研究5本を、大学院生・研究者向けに研究課題、手法、評価条件、数値結果、限界まで解説します。文脈を自分で編集する言語モデル、エージェントのメタ推論、訓練データ帰属、線形アテンション状態の量子化、反実仮想動画によるヒューマノイド学習を扱います。
 
