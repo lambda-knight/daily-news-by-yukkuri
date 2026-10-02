@@ -26,6 +26,32 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>罰則なき「超知能協定」とCVSS 10の欠陥【2026/10/03】</title>
+      <description>生成AI・量子コンピュータ・セキュリティを統合解説。ホワイトハウスの「超知能協定」、AppleのAIエージェント権限対策、家庭電力予測を20％改善した量子技術、ChatGPT Mac版とDell CSMの重大欠陥を扱います。
+
+▼ 今日のトピック
+・罰則のないホワイトハウス「超知能協定」とAIの改名
+・Appleのフルディスクアクセス対策と教皇レオ14世のAI芸術論
+・SQCの量子電力予測、BCGの排出削減試算、90％一致の光子
+・CVE-2026-100754、GitLab AI Gateway、Dell CSMの重大欠陥
+・KillSec運営者容疑の16歳逮捕とMicrosoft公式Xの乗っ取り
+
+▼ 参考記事・ソース
+・Fox Business「White House Super Intelligence accord」 https://www.foxbusiness.com/politics/trump-signs-executive-order-rebranding-ai-super-intelligence-tech-titans-ink-separate-accord
+・TechCrunch「Apple tightens Full Disk Access」 https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/
+・MIT Technology Review「Don't be fooled—LLMs don't reason」 https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/
+・The Quantum Insider「Quantum-Enhanced Energy Forecasting」 https://thequantuminsider.com/2026/10/02/sqc-schneider-electric-quantum-energy-forecasting/
+・Wired「ChatGPT Mac App flaw」 https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/
+・The Hacker News「Dell CSM flaws」 https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html
+
+#生成AI #量子コンピュータ #サイバーセキュリティ #AIニュース #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-03-ai/ai_yukkuri.m4a" length="12339715" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIの推論は誰のものか、猫型量子ビットと重大ゼロデイ【2026/10/02】</title>
       <description>生成AI・量子コンピュータ・セキュリティを統合解説。OpenAIの安全研究者との契約解消と推論抽出、Gemini 4 Argon、Grokの軍事利用、脳画像再構成、猫型量子ビット、FortiMailの重大脆弱性、国防総省の情報流出を扱います。
 
