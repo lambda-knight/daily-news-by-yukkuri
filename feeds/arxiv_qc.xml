@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AIは量子コードを書いて直せるか？重要論文5本【2026/10/02】</title>
+      <description>生成AIで量子計算をつくる特集第4回。量子コード生成、デバッグ、回路探索、自律設計、論文からの実装を、評価条件と残る意味上の誤りまで比較します。
+
+▼ 今日の論文ラインナップ
+・3つのフレームワークで量子コード生成を測るベンチマーク（arXiv:2604.08570）
+・バグ注入から修復検証まで自動化する量子デバッグ評価（arXiv:2606.07314）
+・記憶と得点差フィードバックで言語モデルに回路を探索させるテスト時学習（arXiv:2602.03466）
+・文献検索と専門家役の議論を組み込んだ変分量子回路の自律設計（arXiv:2606.13380）
+・技術仕様を介して論文から量子多体計算プログラムを作る（arXiv:2604.04089）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2604.08570 — 3つのフレームワークで量子コード生成を測るベンチマーク
+https://arxiv.org/abs/2606.07314 — バグ注入から修復検証まで自動化する量子デバッグ評価
+https://arxiv.org/abs/2602.03466 — 記憶と得点差フィードバックで言語モデルに回路を探索させるテスト時学習
+https://arxiv.org/abs/2606.13380 — 文献検索と専門家役の議論を組み込んだ変分量子回路の自律設計
+https://arxiv.org/abs/2604.04089 — 技術仕様を介して論文から量子多体計算プログラムを作る
+
+#量子コンピュータ #量子情報 #生成AI #LLM #量子プログラミング #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-02-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8507118" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIは量子回路をどこまで短くできる？重要論文5本【2026/10/01】</title>
       <description>期間限定特集「生成AIで量子計算をつくる」。強化学習ルーティング、T数削減、LLM誘導探索、シュレディンガー橋による回路最適化を、計算予算と等価性検証まで含めて比較します。
 
