@@ -26,6 +26,30 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>超知能部隊と「止められない」スパイウェア【2026/10/05】</title>
+      <description>命令を出すのは誰で、その指令系統は外から見えるのか。生成AI・量子・セキュリティの最新事例を数字と制度から読み解きます。
+
+▼ 今日のトピック
+・トランプ大統領の「超知能部隊」と国家情報長官
+・Meta「Muse」の家電展開とメッセージ内AIエージェント
+・IQMの52量子ビット分子計算とカリフォルニア州の3000万ドル投資
+・NetScalerゼロデイ、Outlookを指令所にするAntino
+・Paragonの停止スイッチ不在、ATM被害、学校職員データ流出
+
+▼ 参考記事・ソース
+・TechCrunch https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/
+・Google Cloud / Mandiant https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances
+・JPCERT/CC https://www.jpcert.or.jp/at/2026/at260029.html
+・Wired https://www.wired.com/story/the-secrets-of-the-us-spyware-king/
+
+#生成AI #ChatGPT #量子コンピュータ #セキュリティ #AIニュース #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-05-ai/ai_yukkuri.m4a" length="12996575" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>友人の「人物ページ」を作るAIと安全担当の辞任【2026/10/04】</title>
       <description>生成AI・量子コンピュータ・セキュリティを統合解説。OpenAIの安全報告書を率いた担当者の辞任、Meta「Muse」が身の回りの人ごとに作る人物ページ、Amazonのデータセンター10億ドル、量子は最適化より材料計算という投資家の見立て、AI政策の専門家を狙う中国系TA419の手口を扱います。
 
