@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AIは112量子ビットを自律校正できるか？重要論文5本【2026/10/05】</title>
+      <description>期間限定特集「生成AIで量子計算をつくる」。超伝導量子プロセッサの自律校正、校正プロットの視覚判断、解析的パルス生成、拡散型誤り緩和を比較します。
+
+▼ 今日の論文ラインナップ
+・言語モデルエージェントによる超伝導量子プロセッサの自律校正（arXiv:2412.07978）
+・112量子ビットを立ち上げるVibe Calibration（arXiv:2606.22376）
+・校正プロット理解ベンチマークQCalEval（arXiv:2604.25884）
+・物理情報を組み込んだ言語モデルによる汎用量子制御（arXiv:2605.26021）
+・逐次弱測定を使う拡散型量子誤り緩和（arXiv:2608.05382）
+
+▼ 参考論文
+https://arxiv.org/abs/2412.07978
+https://arxiv.org/abs/2606.22376
+https://arxiv.org/abs/2604.25884
+https://arxiv.org/abs/2605.26021
+https://arxiv.org/abs/2608.05382
+
+#量子コンピュータ #生成AI #量子制御 #量子校正 #LLM #arxiv #論文解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-05-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8460128" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIは量子誤り訂正符号を設計できるか？強化学習とLLMの重要論文5本【2026/10/04】</title>
       <description>期間限定特集「生成AIで量子計算をつくる」第6回。強化学習による低重み符号の発見、LLMによる二変量バイシクル符号のプログラム進化、復号器に合わせた符号設計、回路レベル誤り率で選ぶAI科学者OmniQEC、ボソン系の自律誤り訂正符号を、目的関数と検証方法の軸で比較します。
 
