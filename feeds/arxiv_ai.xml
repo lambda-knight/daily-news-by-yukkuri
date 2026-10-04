@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>研究者が今週驚いたAI論文【RLVRの言語ドリフトほか5本 2026/10/04】</title>
+      <description>強化学習で思考連鎖の言語が崩れる条件の証明、専門家データをMCMCでモデルに寄せるSFT、ループ型Transformerの対照デコーディング、文脈圧縮を学習するコーディングエージェント、回路発見の忠実度指標の順位逆転を、比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・検証可能報酬の強化学習が思考連鎖の言語を崩す条件 — ザールラント大学（arXiv:2610.02015）
+・専門家の解答をモデル自身の分布へ寄せてから教師あり学習する — ハーバード大学（arXiv:2610.02140）
+・ループ型Transformerの初回ループを弱い予測として使う対照デコーディング — Apple（arXiv:2610.02185）
+・コーディングエージェントに文脈圧縮のタイミングを学習させる — シンガポール経営大学・南洋理工大学・ハーバード大学（arXiv:2610.02163）
+・回路発見の忠実度指標が劣った回路を選ぶ問題 — トロント大学・マギル大学（arXiv:2610.02098）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2610.02015 — RLVRで生じる思考連鎖の言語ドリフト
+https://arxiv.org/abs/2610.02140 — MCMCによる専門家データのオンポリシー化とSFT
+https://arxiv.org/abs/2610.02185 — ループ型Transformerの対照デコーディング
+https://arxiv.org/abs/2610.02163 — コーディングエージェントの能動的な文脈圧縮
+https://arxiv.org/abs/2610.02098 — 回路発見における忠実度指標の順位逆転
+
+#生成AI #LLM #強化学習 #AIエージェント #機械学習 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-04-arxiv-ai/arxiv_ai_yukkuri.m4a" length="13867695" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-04</guid>
+      <pubDate>Sun, 04 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>研究者が今週驚いたAI論文【視覚記憶と省メモリ学習ほか5本 2026/10/03】</title>
       <description>視覚記憶で対話型パズルを完走するハーネス、重みを変えず改善するロボット、着想源検索、セキュリティCLI生成、状態メモリを174分の1にする最適化を、評価条件と限界まで解説します。
 
