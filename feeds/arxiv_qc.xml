@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AIは量子誤り訂正符号を設計できるか？強化学習とLLMの重要論文5本【2026/10/04】</title>
+      <description>期間限定特集「生成AIで量子計算をつくる」第6回。強化学習による低重み符号の発見、LLMによる二変量バイシクル符号のプログラム進化、復号器に合わせた符号設計、回路レベル誤り率で選ぶAI科学者OmniQEC、ボソン系の自律誤り訂正符号を、目的関数と検証方法の軸で比較します。
+
+▼ 今日の論文ラインナップ
+・強化学習による低重み量子誤り訂正符号の発見 — テキサス大学オースティン校・UCバークレー・清華大学（arxiv:2502.14372）
+・LLMが生成プログラムを進化させる二変量バイシクル符号の探索 — IBM Research（arxiv:2606.02418）
+・復号器に合わせて二変量バイシクル符号を設計する強化学習 — インペリアル・カレッジ・ロンドン、Microsoft Research（arxiv:2608.15754）
+・回路レベルの論理誤り率で符号を選ぶAI科学者OmniQEC — 南洋理工大学ほか（arxiv:2607.25865）
+・深層強化学習によるボソン系の自律誤り訂正符号の発見 — 上海交通大学ほか（arxiv:2511.12482）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2502.14372  — 強化学習による低重み量子誤り訂正符号の発見
+https://arxiv.org/abs/2606.02418  — LLM誘導の進化的探索による二変量バイシクル符号
+https://arxiv.org/abs/2608.15754  — 復号器に合わせた符号設計の強化学習
+https://arxiv.org/abs/2607.25865  — OmniQEC
+https://arxiv.org/abs/2511.12482  — ボソン系の自律誤り訂正符号の発見
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #IBM #生成AI #強化学習 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-04-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9852728" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-04</guid>
+      <pubDate>Sun, 04 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIは量子誤り訂正を実時間化できるか？重要論文5本【2026/10/03】</title>
       <description>期間限定特集「生成AIで量子計算をつくる」第5回。ニューラル復号、離散拡散、グラフニューラル事後選択、LLMによる量子センシング実験を、精度・遅延・汎化・実機検証の軸で比較します。
 
