@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>事後学習は能力を狭める？Frontier AI重要論文5本【2026/10/05】</title>
+      <description>事後学習が反復試行で届く課題範囲を狭める「シャープニング税」、画像を必要とする報酬設計、階層型拡散言語モデル、スキル連鎖によるエージェント乗っ取り、凍結アテンションの普遍補間を、評価条件と限界まで掘り下げます。
+
+▼ 今日の論文ラインナップ
+・事後学習はエージェント課題の到達範囲に税をかける — Meta Superintelligence Labsほか（arXiv:2610.01509）
+・報酬が画像を必要としなければ強化学習は見ることを学ばない — 中国科学院計算技術研究所（arXiv:2610.01908）
+・連続潜在状態だけを持続させる階層型拡散言語モデル — UIUC・Amazon（arXiv:2610.02193）
+・スキルの連鎖で偽の承認記録を運ばせエージェントを乗っ取る — 香港大学ほか（arXiv:2610.01564）
+・凍結した2つのランダムなアテンションブロックで任意の系列集合を写す — ニューヨーク大学（arXiv:2610.01981）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2610.01509 — 事後学習はエージェント課題の到達範囲に税をかける
+https://arxiv.org/abs/2610.01908 — 報酬が画像を必要としなければ強化学習は見ることを学ばない
+https://arxiv.org/abs/2610.02193 — 連続潜在状態だけを持続させる階層型拡散言語モデル
+https://arxiv.org/abs/2610.01564 — スキルの連鎖で偽の承認記録を運ばせエージェントを乗っ取る
+https://arxiv.org/abs/2610.01981 — 凍結した2つのランダムなアテンションブロックで任意の系列集合を写す
+
+#生成AI #LLM #AI #arxiv #論文解説 #機械学習 #AIエージェント #強化学習 #マルチモーダルAI #AI安全性 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-05-arxiv-ai/arxiv_ai_yukkuri.m4a" length="15377838" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>研究者が今週驚いたAI論文【RLVRの言語ドリフトほか5本 2026/10/04】</title>
       <description>強化学習で思考連鎖の言語が崩れる条件の証明、専門家データをMCMCでモデルに寄せるSFT、ループ型Transformerの対照デコーディング、文脈圧縮を学習するコーディングエージェント、回路発見の忠実度指標の順位逆転を、比較条件と限界まで解説します。
 
