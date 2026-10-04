@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>友人の「人物ページ」を作るAIと安全担当の辞任【2026/10/04】</title>
+      <description>生成AI・量子コンピュータ・セキュリティを統合解説。OpenAIの安全報告書を率いた担当者の辞任、Meta「Muse」が身の回りの人ごとに作る人物ページ、Amazonのデータセンター10億ドル、量子は最適化より材料計算という投資家の見立て、AI政策の専門家を狙う中国系TA419の手口を扱います。
+
+▼ 今日のトピック
+・OpenAI安全担当ロビンソン氏「文化が壊れている」と辞任
+・Amazonのデータセンター10億ドルとNDA廃止、環境団体の批判
+・Meta Museの人物ページ、Gemini DesktopのMac全面アクセス、Claudeの音声学習許可
+・ショーン・パーカー氏が作り替えるStability AIの音楽事業
+・カッツグレーバー氏の材料シミュレーション論とSynopsys×IonQの14.6％短縮
+・TA419の「Claude軍事統合」偽依頼、ShinyHunters「Rey」拘束、Warlock、DTU流出、ICEとPalantir
+
+▼ 参考記事・ソース
+・TechCrunch「OpenAI safety employee resigns」 https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/
+・Ars Technica「Amazon's $1B plan draws more backlash」 https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/
+・Wired「Muse Creates Detailed Profiles of All Your Friends and Family」 https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/
+・The Quantum Insider「Helmut Katzgraber: materials simulation beats optimization」 https://thequantuminsider.com/2026/10/03/helmut-katzgraber-55north-why-materials-simulation-beats-optimization-for-near-term-quantum/
+・The Hacker News「TA419 targets U.S. AI policy experts」 https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html
+・Wired「ICE protester photos in a Palantir database」 https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/
+
+#生成AI #量子コンピュータ #サイバーセキュリティ #AIニュース #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-04-ai/ai_yukkuri.m4a" length="15179454" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-04</guid>
+      <pubDate>Sun, 04 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>罰則なき「超知能協定」とCVSS 10の欠陥【2026/10/03】</title>
       <description>生成AI・量子コンピュータ・セキュリティを統合解説。ホワイトハウスの「超知能協定」、AppleのAIエージェント権限対策、家庭電力予測を20％改善した量子技術、ChatGPT Mac版とDell CSMの重大欠陥を扱います。
 
