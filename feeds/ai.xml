@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>知らないうちに数えられる社会【2026/10/06】</title>
+      <description>地図の入口、通行人の姿、国民の住民登録。生成AI・量子・セキュリティの最新事例を、「数える側が見えない」という共通軸から読み解きます。
+
+▼ 今日のトピック
+・Reflection「Beam」と中国勢に対抗する米国産オープンモデル
+・中国のクラウドで動く「エージェント艦隊」とAIメガネ規制
+・嫌われながら月10億人に使われるAIとデータセンター反対
+・ドイツの誤り訂正型量子計算機競争、最大6億4000万ユーロ
+・デンマーク880万人流出、韓国大手銀行3行への攻撃
+・Exchange ServerとDell System Updateの緊急修正
+
+▼ 参考記事・ソース
+・TechCrunch https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/
+・Ars Technica https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/
+・The Quantum Insider https://thequantuminsider.com/2026/10/05/planqc-logiqc-germany-quantum-computing-competition/
+・BleepingComputer https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/
+
+#生成AI #ChatGPT #量子コンピュータ #セキュリティ #AIニュース #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-06-ai/ai_yukkuri.m4a" length="11191746" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>超知能部隊と「止められない」スパイウェア【2026/10/05】</title>
       <description>命令を出すのは誰で、その指令系統は外から見えるのか。生成AI・量子・セキュリティの最新事例を数字と制度から読み解きます。
 
