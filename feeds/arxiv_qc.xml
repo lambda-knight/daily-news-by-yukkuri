@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AIは量子回路を正しく作れるか？重要論文5本【2026/10/06】</title>
+      <description>期間限定特集「生成AIで量子計算をつくる」。GQEによる量子化学の状態準備、イオントラップの輸送コンパイラ、制約付き回路合成、自己回帰生成の破綻条件を比較します。
+
+▼ 今日の論文ラインナップ
+・生成量子固有値ソルバーで設計する量子選択配置相互作用法の状態準備回路（arXiv:2604.09756）
+・ファインチューニングした言語モデルによるイオントラップのシャトリングコンパイラ（arXiv:2512.18021）
+・フロンティア言語モデルが仕様書から書くイオントラップのシャトリングコンパイラ（arXiv:2607.24714）
+・ルーブリック報酬の強化学習で言語モデルに制約付き回路を合成させる（arXiv:2607.07554）
+・量子回路合成で自己回帰生成の誤りが連鎖するドリフト現象（arXiv:2607.12780）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2604.09756 — 生成量子固有値ソルバーによる状態準備回路
+https://arxiv.org/abs/2512.18021 — 言語モデルによるシャトリング計画
+https://arxiv.org/abs/2607.24714 — 言語モデルが生成するシャトリングコンパイラ
+https://arxiv.org/abs/2607.07554 — ルーブリック報酬による制約付き回路合成
+https://arxiv.org/abs/2607.12780 — 量子回路合成における自己回帰ドリフト
+
+#量子コンピュータ #生成AI #量子回路 #量子化学 #LLM #arxiv #論文解説 #ゆっくり解説 #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-06-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8906701" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIは112量子ビットを自律校正できるか？重要論文5本【2026/10/05】</title>
       <description>期間限定特集「生成AIで量子計算をつくる」。超伝導量子プロセッサの自律校正、校正プロットの視覚判断、解析的パルス生成、拡散型誤り緩和を比較します。
 
