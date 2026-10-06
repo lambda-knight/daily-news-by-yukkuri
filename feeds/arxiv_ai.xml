@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>蒸留とDeepSeek-V2を読む【Frontier AI論文5本 2026/10/06】</title>
+      <description>蒸留とオープンLLMの代表的アーキテクチャを、大学院生・研究者向けに比較します。GQAとDeepSeek-V2のKVキャッシュ削減、オンポリシー蒸留のエントロピー・崩壊・強化学習への接続を扱います。
+
+▼ 今日の論文ラインナップ
+・多頭注意のチェックポイントからGQAを作るアップトレーニング — Google Research（arXiv:2305.13245）
+・MLAとDeepSeekMoEによるDeepSeek-V2 — DeepSeek-AI（arXiv:2405.04434）
+・蒸留のダイバージェンスが生徒のエントロピーを決める — Stanford University（arXiv:2610.03529）
+・オンポリシー蒸留の利得と崩壊を強化学習として捉える — Westlake Universityほか（arXiv:2610.03185）
+・ルーブリック特権蒸留で強化学習を始める — Meta・New York University（arXiv:2610.02781）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2305.13245 — GQAのアップトレーニング
+https://arxiv.org/abs/2405.04434 — DeepSeek-V2
+https://arxiv.org/abs/2610.03529 — 蒸留のダイバージェンスとエントロピー
+https://arxiv.org/abs/2610.03185 — オンポリシー蒸留の利得と崩壊
+https://arxiv.org/abs/2610.02781 — ルーブリック特権蒸留と強化学習
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #ずんだもん #機械学習 #DeepSeek #知識蒸留</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-06-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8373226" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>事後学習は能力を狭める？Frontier AI重要論文5本【2026/10/05】</title>
       <description>事後学習が反復試行で届く課題範囲を狭める「シャープニング税」、画像を必要とする報酬設計、階層型拡散言語モデル、スキル連鎖によるエージェント乗っ取り、凍結アテンションの普遍補間を、評価条件と限界まで掘り下げます。
 
