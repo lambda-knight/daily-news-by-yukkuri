@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>蒸留はどこで学ぶべきか？DeepSeek-V3ほか5本解説【2026/10/07】</title>
+      <description>蒸留とオープンLLMの代表的アーキテクチャ特集、第2回です。DeepSeek-V3の負荷分散と多トークン予測、ハイブリッド言語モデルの記憶経路、オンポリシー蒸留の三つの拡張を研究者向けに比較します。
+
+▼ 今日の論文ラインナップ
+・補助損失なしの負荷分散と多トークン予測を加えたDeepSeek-V3 — DeepSeek-AI（arXiv:2412.19437）
+・ハイブリッド言語モデルは再帰層の記憶を使い切っていない — UNC Chapel Hillほか（arXiv:2610.06750）
+・生徒の途中推論から続ける練習を教師に積ませるオンポリシー蒸留 — 香港中文大学深圳（arXiv:2610.04950）
+・べき乗分布へのオンポリシー蒸留で探索なしに解答を鋭くする — USC・Intel AIほか（arXiv:2610.06804）
+・オフポリシー更新の接ぎ木がオンポリシー自己蒸留に勝る継続学習 — カーネギーメロン大学（arXiv:2610.05872）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2412.19437 — DeepSeek-V3 Technical Report
+https://arxiv.org/abs/2610.06750 — Balancing Memory Pathways
+https://arxiv.org/abs/2610.04950 — How Should Teachers Be Prepared?
+https://arxiv.org/abs/2610.06804 — Sharpen Without Search
+https://arxiv.org/abs/2610.05872 — Off-Policy Merging Beats On-Policy Self-Distillation
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #DeepSeek #知識蒸留 #機械学習</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-07-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8216562" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>蒸留とDeepSeek-V2を読む【Frontier AI論文5本 2026/10/06】</title>
       <description>蒸留とオープンLLMの代表的アーキテクチャを、大学院生・研究者向けに比較します。GQAとDeepSeek-V2のKVキャッシュ削減、オンポリシー蒸留のエントロピー・崩壊・強化学習への接続を扱います。
 
