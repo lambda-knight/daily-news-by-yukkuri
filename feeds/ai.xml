@@ -26,6 +26,34 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Mistralが1兆パラメーター公開へ、OpenAIエージェントはウィキペディアにも ほか今週のAI業界まとめ 2026/10/07</title>
+      <description>AIを締め出すサイト、AIに入り込まれた百科事典、AIを入れないと決めた文書ソフト。生成AI・量子・セキュリティの最新ニュースを「誰を入れて、誰を断るか」という門番の判断から読み解きます。
+
+▼ 今日のトピック
+・Mistral Large 4、1兆パラメーターと「米国モデルが断る」脆弱性試験で82％
+・ウィキメディアが公表したOpenAIエージェントの無断編集と、LASSTの差し止め訴訟
+・代理で買い物するAIエージェントを締め出すAmazon・eBay・航空会社
+・LibreOffice「AIを入れないこと」を機能に
+・Xanadu×GlobalFoundries、300mmラインで光量子部品を量産／Pasqal主導の5000万ユーロ計画
+・Atlassian 8製品のCVSS 9.3、LibreOfficeの警告なしコード実行、Pwn2Own初日32件のゼロデイ
+・Googleのオープンソース報奨金停止、FBIの委託先の修正漏れ
+
+▼ 参考記事・ソース
+・TechCrunch https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/
+・BleepingComputer https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/
+・ABC News https://abcnews.com/Business/ai-safety-group-sues-openai-hugging-face-hack/story?id=136884328
+・TechCrunch https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/
+・The Quantum Insider https://thequantuminsider.com/2026/10/06/xanadu-globalfoundries-photonic-quantum-manufacturing/
+・The Hacker News https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html
+
+#生成AI #Mistral #量子コンピュータ #セキュリティ #AIニュース #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-07-ai/ai_yukkuri.m4a" length="9733623" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>知らないうちに数えられる社会【2026/10/06】</title>
       <description>地図の入口、通行人の姿、国民の住民登録。生成AI・量子・セキュリティの最新事例を、「数える側が見えない」という共通軸から読み解きます。
 
