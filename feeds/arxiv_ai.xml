@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>推論蒸留は何を受け継ぐ？DeepSeek-R1とJambaほか5本【2026/10/08】</title>
+      <description>蒸留の性能・費用・安全性と、DeepSeek-R1、Jambaの設計を大学院生・研究者向けに比較します。
+
+▼ 今日の論文ラインナップ
+・DeepSeek-R1 — DeepSeek-AI（arXiv:2501.12948）
+・Jamba — AI21 Labs（arXiv:2403.19887）
+・多教師能力統合の自己蒸留再考 — Apple・Duke University（arXiv:2610.04272）
+・異種トークナイザー間オンポリシー蒸留 — Alibaba Cloud（arXiv:2610.08448）
+・安全性蒸留のバックドアリスク — Stony Brook University・Amazon（arXiv:2610.07654）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2501.12948 — DeepSeek-R1
+https://arxiv.org/abs/2403.19887 — Jamba
+https://arxiv.org/abs/2610.04272 — 多教師能力統合の自己蒸留再考
+https://arxiv.org/abs/2610.08448 — 異種トークナイザー間オンポリシー蒸留
+https://arxiv.org/abs/2610.07654 — 安全性蒸留のバックドアリスク
+
+#生成AI #LLM #AI #人工知能 #arxiv #論文解説 #ずんだもん #DeepSeek #機械学習</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-08-arxiv-ai/arxiv_ai_yukkuri.m4a" length="7338535" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>蒸留はどこで学ぶべきか？DeepSeek-V3ほか5本解説【2026/10/07】</title>
       <description>蒸留とオープンLLMの代表的アーキテクチャ特集、第2回です。DeepSeek-V3の負荷分散と多トークン予測、ハイブリッド言語モデルの記憶経路、オンポリシー蒸留の三つの拡張を研究者向けに比較します。
 
