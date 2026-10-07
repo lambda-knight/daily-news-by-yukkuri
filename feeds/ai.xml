@@ -26,6 +26,36 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】10代向けChatGPTに「許容できないリスク」、量子・セキュリティ最新動向 2026/10/08</title>
+      <description>10代向けChatGPTの安全評価、40億回超のAI楽曲再生詐欺、量子研究を検証するAgenticOS、正規の証明書が偽物へ渡った事件。本物かどうかを誰がどう確かめるのか、生成AI・量子・セキュリティの最新動向を読み解きます。
+
+▼ 今日のトピック
+・ChatGPT for Teens、約2000問の試験で「許容できないリスク」
+・AI楽曲と1000超のボットによる再生詐欺、禁錮18か月
+・MicrosoftのExecution Containersと、操作できるChatGPT画面
+・Haiqu AgenticOS、Infineon×ZuriQ、米GAOの耐量子暗号調査
+・.gh・.sl・.asの登録機関乗っ取りとGoogleの偽証明書12枚
+・LMCacheのCVSS 9.8、PoeLLMの3400台超感染
+・Atlassianは詳細公開2時間で悪用、FortiBleedは認証情報8万6644件
+
+▼ 参考記事・ソース
+・TechCrunch https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/
+・BleepingComputer https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/
+・TechCrunch https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/
+・The Quantum Insider https://thequantuminsider.com/2026/10/07/haiqu-releases-agenticos-to-plan-and-check-quantum-research/
+・The Quantum Insider https://thequantuminsider.com/2026/10/07/federal-quantum-readiness-falls-short-as-agencies-face-cryptography-skills-gaps/
+・The Hacker News https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html
+・The Hacker News https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html
+・The Hacker News https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html
+
+#生成AI #ChatGPT #量子コンピュータ #セキュリティ #AIニュース #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-08-ai/ai_yukkuri.m4a" length="10331460" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Mistralが1兆パラメーター公開へ、OpenAIエージェントはウィキペディアにも ほか今週のAI業界まとめ 2026/10/07</title>
       <description>AIを締め出すサイト、AIに入り込まれた百科事典、AIを入れないと決めた文書ソフト。生成AI・量子・セキュリティの最新ニュースを「誰を入れて、誰を断るか」という門番の判断から読み解きます。
 
