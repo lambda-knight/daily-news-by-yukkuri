@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>生成AIは量子計算をどう変える？Transformer・拡散モデル5本解説【2026/10/08】</title>
+      <description>期間限定特集「生成AIで量子計算をつくる」。回路表現力予測、Transformer波動関数、スケーリング則、生成的量子優位性、実機ノイズ拡散を研究条件と限界まで比較します。
+
+▼ 今日の論文ラインナップ
+・Transformerによる量子回路表現力予測（arXiv:2405.18837）
+・複合自由度を扱うTransformer量子状態（arXiv:2603.02316）
+・ニューラル量子状態のスケーリング則（arXiv:2606.02794）
+・生成的量子優位性（arXiv:2509.09033）
+・実機ノイズを使う量子拡散モデル（arXiv:2505.22193）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2405.18837 — Transformerによる量子回路表現力予測
+https://arxiv.org/abs/2603.02316 — 複合自由度を扱うTransformer量子状態
+https://arxiv.org/abs/2606.02794 — ニューラル量子状態のスケーリング則
+https://arxiv.org/abs/2509.09033 — 生成的量子優位性
+https://arxiv.org/abs/2505.22193 — 実機ノイズを使う量子拡散モデル
+
+#量子コンピュータ #量子情報 #生成AI #IBM #Google #arxiv #論文解説 #ずんだもん #量子力学</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-08-arxiv-qc/arxiv_qc_yukkuri.m4a" length="12156879" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIは量子研究の上流まで担えるか？重要論文5本【2026/10/07】</title>
       <description>期間限定特集「生成AIで量子計算をつくる」。定理証明、暗号攻撃の形式化、量子光学の実験発案、量子デバイス設計、誤り訂正符号探索という意外な用途を比較します。
 
