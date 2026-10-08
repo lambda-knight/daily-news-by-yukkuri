@@ -10,5 +10,6 @@ layout: default
 | 生成AIニュース | [生成AIニュース](./ai/) |
 | arxiv Frontier AI・最先端AI論文解説 | [arxiv Frontier AI・最先端AI論文解説](./arxiv_ai/) |
 | 世界の珍ニュース | [世界の珍ニュース](./weird/) |
+| スペイン便り | [スペイン便り](./spain/) |
 
 [← トップに戻る](../../)
