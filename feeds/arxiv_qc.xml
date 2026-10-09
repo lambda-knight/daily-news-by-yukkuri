@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>LLMは量子装置をどこまで動かせる？符号発見・較正・実験自動化【2026/10/09】</title>
+      <description>「生成AIで量子計算をつくる」期間限定特集の最終日。量子LDPC符号の発見、VLMによるトランスモン較正、QMClaw、超伝導量子ビット実験、分野レビューを比較します。
+
+▼ 今日の論文
+・LLMによる量子LDPC符号の構造化探索
+・自己特化するトランスモン較正
+・ルールエンジン中心のQMClaw
+・LLM支援の超伝導量子ビット実験
+・AI for Quantum Computingレビュー
+
+▼ 参考ソース
+https://arxiv.org/abs/2606.24808
+https://arxiv.org/abs/2607.03193
+https://arxiv.org/abs/2609.04674
+https://arxiv.org/abs/2603.08801
+https://arxiv.org/abs/2411.09131
+
+#量子コンピュータ #生成AI #LLM #量子誤り訂正 #量子制御 #arxiv #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-09-arxiv-qc/arxiv_qc_yukkuri.m4a" length="5005751" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>生成AIは量子計算をどう変える？Transformer・拡散モデル5本解説【2026/10/08】</title>
       <description>期間限定特集「生成AIで量子計算をつくる」。回路表現力予測、Transformer波動関数、スケーリング則、生成的量子優位性、実機ノイズ拡散を研究条件と限界まで比較します。
 
