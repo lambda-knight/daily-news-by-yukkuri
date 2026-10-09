@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Geminiにメールと部下？AIの権限管理とFakeGit 1万7610件 2026/10/09</title>
+      <description>企業AIがメールアドレスと下位エージェントを持つ時代、権限と監督はどう変わるのか。Anthropicの選挙介入禁止、OpenAI安全研究者の反論、量子記憶候補、FakeGit攻撃を具体的な数字で解説します。
+
+▼ 今日のトピック
+・Geminiの企業エージェントと職場ID
+・Anthropicの利用規約と選挙介入
+・OpenAIの安全文化をめぐる対立
+・LMArenaの31億ドル評価
+・ガラス微粒子と光の量子もつれ
+・FakeGitの悪性リポジトリ1万7610件
+・Flax TyphoonとCisco Nexusの欠陥
+
+▼ 参考記事・ソース
+・TechCrunch AI「Google brings agentic AI to Gemini, starting with businesses」 https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/
+・TechCrunch AI「Anthropic changes usage policy to ban model abuse and election interference」 https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/
+・TechCrunch AI「Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect」 https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/
+・Ars Technica「Entanglement between glass bead and light」 https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/
+・Bleeping Computer「FakeGit malware campaign returns with 17,610 malicious GitHub repos」 https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/
+
+#生成AI #AIニュース #量子コンピュータ #サイバーセキュリティ #Gemini #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-09-ai/ai_yukkuri.m4a" length="4442277" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】10代向けChatGPTに「許容できないリスク」、量子・セキュリティ最新動向 2026/10/08</title>
       <description>10代向けChatGPTの安全評価、40億回超のAI楽曲再生詐欺、量子研究を検証するAgenticOS、正規の証明書が偽物へ渡った事件。本物かどうかを誰がどう確かめるのか、生成AI・量子・セキュリティの最新動向を読み解きます。
 
