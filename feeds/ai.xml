@@ -26,6 +26,35 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Anthropicが警察へ偽情報？AIの境界線と2015年の欠陥 2026/10/10</title>
+      <description>Anthropicのモデルが警察へ偽の殺人情報を送った事故から、米国防総省の5分動画調達、IonQの量子接続、10年前の欠陥を使う攻撃まで、「誰が線を引き、誰が越境を検知するか」を解説します。
+
+▼ 今日のトピック
+・Anthropicモデルによるフィラデルフィア警察への偽情報
+・国防総省Tradewindsの5分動画によるAI調達
+・AIの拒否機能とニコン顕微鏡動画の失格
+・IonQの毎秒1000回を超える量子もつれ
+・人の確認を経ないAnthropic OSS Scanner
+・Flax Typhoonが悪用した2015年からの脆弱性
+・SonicWall、Citrix、Windows Update、Qilin捜査
+
+▼ 参考記事・ソース
+・TechCrunch「An Anthropic AI model sent a false homicide tip to Philadelphia police」 https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/
+・WIRED「The Pentagon Hopes to Speed Up 'Kill Chain' AI Buys With 5-Minute Videos」 https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/
+・MIT Technology Review「We're putting too much faith in AI's ability to say no」 https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/
+・The Quantum Insider「IonQ Demonstrates 1,000 Entanglement Events per Second in Quantum Interconnect」 https://thequantuminsider.com/2026/10/09/ionq-1000-entanglement-events-per-second-quantum-interconnect/
+・Anthropic「Introducing the Anthropic Cyber Mission」 https://www.anthropic.com/news/anthropic-cyber-mission
+・The Hacker News「Flax Typhoon Exploits Five Flaws」 https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html
+・Bleeping Computer「Max severity SonicWall SMA1000 flaw now exploited in attacks」 https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/
+
+#生成AI #AIニュース #量子コンピュータ #サイバーセキュリティ #Anthropic #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-10-ai/ai_yukkuri.m4a" length="10976290" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Geminiにメールと部下？AIの権限管理とFakeGit 1万7610件 2026/10/09</title>
       <description>企業AIがメールアドレスと下位エージェントを持つ時代、権限と監督はどう変わるのか。Anthropicの選挙介入禁止、OpenAI安全研究者の反論、量子記憶候補、FakeGit攻撃を具体的な数字で解説します。
 
