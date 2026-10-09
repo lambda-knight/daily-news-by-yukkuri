@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>近い教師と遠い教師で蒸留はどう変わるか｜Gemma 2・Qwen3と新着3研究 2026/10/10</title>
+      <description>特集「蒸留とオープンLLMの代表的アーキテクチャ」第5回。Gemma 2、Qwen3、RouterInterp、Semi-OPD、オンポリシー蒸留の学習信号消失を大学院生・研究者向けに比較します。
+
+▼ 今日の論文ラインナップ
+・事前学習から蒸留を使うジェンマ2（arXiv:2408.00118）
+・思考モード統合と強から弱への蒸留を備えたクウェン3（arXiv:2505.09388）
+・専門家は単一分野でなく重ね合わせで特化する（arXiv:2610.11775）
+・オンポリシー蒸留より初期生徒の固定ロールアウトが勝つ条件（arXiv:2610.11291）
+・大きな教師でオンポリシー蒸留が停滞する学習信号の消失（arXiv:2610.11247）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2408.00118
+https://arxiv.org/abs/2505.09388
+https://arxiv.org/abs/2610.11775
+https://arxiv.org/abs/2610.11291
+https://arxiv.org/abs/2610.11247
+
+#生成AI #LLM #AI #arxiv #論文解説 #機械学習 #蒸留 #Gemma #Qwen3 #MixtureOfExperts #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-10-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8581857" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>必要な場所だけ教師と専門家を使うAI設計｜Mixtralと蒸留3研究 2026/10/09</title>
       <description>特集「蒸留とオープンLLMの代表的アーキテクチャ」。Mixtral、LatentIndex、Entropy-Aware Mixing、Flash-OPD、ResOPDを大学院生・研究者向けに比較します。
 
