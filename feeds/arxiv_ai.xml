@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>必要な場所だけ教師と専門家を使うAI設計｜Mixtralと蒸留3研究 2026/10/09</title>
+      <description>特集「蒸留とオープンLLMの代表的アーキテクチャ」。Mixtral、LatentIndex、Entropy-Aware Mixing、Flash-OPD、ResOPDを大学院生・研究者向けに比較します。
+
+▼ 今日の論文ラインナップ
+・8専門家から2つを選ぶMixtral（arXiv:2401.04088）
+・層間共有と層別選択を両立するLatentIndex（arXiv:2610.04635）
+・生徒の不確実性で教師分布を混ぜる蒸留（arXiv:2610.06671）
+・信頼境界で軌跡を止めるFlash-OPD（arXiv:2610.06105）
+・疎な教師通信で不偏勾配を作るResOPD（arXiv:2610.04882）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2401.04088
+https://arxiv.org/abs/2610.04635
+https://arxiv.org/abs/2610.06671
+https://arxiv.org/abs/2610.06105
+https://arxiv.org/abs/2610.04882
+
+#生成AI #LLM #AI #arxiv #論文解説 #機械学習 #蒸留 #MixtureOfExperts #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-09-arxiv-ai/arxiv_ai_yukkuri.m4a" length="7286777" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>推論蒸留は何を受け継ぐ？DeepSeek-R1とJambaほか5本【2026/10/08】</title>
       <description>蒸留の性能・費用・安全性と、DeepSeek-R1、Jambaの設計を大学院生・研究者向けに比較します。
 
