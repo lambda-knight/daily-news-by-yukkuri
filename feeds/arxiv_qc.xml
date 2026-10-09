@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>論理誤りを1000分の1へ？量子計算の重要論文5本【2026/10/10】</title>
+      <description>期間限定特集を終え、通常の新着総合回へ戻ります。論理回路の仮想誤りキャンセル、PPTエンタングルメント蒸留、ZX図による資源評価、光ピンセットの局所偏光制御、ニュートリノ多体系の量子シミュレーションを研究者向けに比較します。
+
+▼ 今日の論文ラインナップ
+・シンドローム記録だけで論理誤りを消す仮想誤りキャンセル — Google Quantum AI（arXiv:2610.12400）
+・PPT蒸留可能エンタングルメントはレインズ限界より小さい — ピサ高等師範学校（arXiv:2610.12454）
+・ZX図から縮約せずにエンタングルメントとマジックを見積もる — オックスフォード大学（arXiv:2610.12447）
+・光ピンセット配列の偏光をサイトごとに制御する — カリフォルニア工科大学（arXiv:2610.12406）
+・非一様なニュートリノ多体系を量子回路とT数で見積もる — オークリッジ国立研究所ほか（arXiv:2610.12334）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2610.12400 — シンドローム記録だけで論理誤りを消す仮想誤りキャンセル
+https://arxiv.org/abs/2610.12454 — PPT蒸留可能エンタングルメントはレインズ限界より小さい
+https://arxiv.org/abs/2610.12447 — ZX図から縮約せずにエンタングルメントとマジックを見積もる
+https://arxiv.org/abs/2610.12406 — 光ピンセット配列の偏光をサイトごとに制御する
+https://arxiv.org/abs/2610.12334 — 非一様なニュートリノ多体系を量子回路とT数で見積もる
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #中性原子 #量子シミュレーション #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-10-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8586630" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>LLMは量子装置をどこまで動かせる？符号発見・較正・実験自動化【2026/10/09】</title>
       <description>「生成AIで量子計算をつくる」期間限定特集の最終日。量子LDPC符号の発見、VLMによるトランスモン較正、QMClaw、超伝導量子ビット実験、分野レビューを比較します。
 
