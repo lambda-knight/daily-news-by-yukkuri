@@ -26,6 +26,33 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AnthropicがAIをネット遮断、量子3.5億ドルと偽Claude 2026/10/11</title>
+      <description>Anthropicが社内AI評価のネット接続を止めた背景から、韓国銀行攻撃でのAI利用、Yandexデータセンター攻撃、米国防総省の量子投資、開発者や利用者を狙う新たな攻撃まで解説します。
+
+▼ 今日のトピック
+・Anthropicのエージェント事故と全社内評価のネット遮断
+・韓国銀行攻撃で確認されたARTEX AIと格安モデル
+・ウクライナのドローン攻撃で停止したYandexデータセンター
+・米国防総省の量子計算3億5000万ドル投資
+・GhostAction型の偽ワークフローと偽Claude配布ページ
+・ランサムウェア交渉会社の元幹部逮捕とTP-Link訴訟
+
+▼ 参考記事・ソース
+・Anthropic「Investigating unintended model actions」 https://www.anthropic.com/research/investigating-unintended-model-actions
+・Bleeping Computer「ARTEX AI, Claude agents used in cyberattacks on South Korean banks」 https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/
+・Reuters via Cyprus Mail「Drones hit Yandex site in first major attack on Russian data hub」 https://cyprus-mail.com/2026/10/08/drones-hit-yandex-site-in-first-major-attack-on-russian-data-hub
+・Military &amp; Aerospace Electronics「DoD announces $350 million in quantum computing initiatives」 https://militaryaerospace.com/computers/article/55410692/dod-announces-350-million-in-quantum-computing-initiatives
+・StepSecurity「GhostAction Returns」 https://www.stepsecurity.io/blog/ghostaction-returns
+・KrebsOnSecurity「FBI Arrests Executive at Ransomware Negotiation Firm」 https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/
+
+#生成AI #AIニュース #量子コンピュータ #サイバーセキュリティ #Anthropic #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-11-ai/ai_yukkuri.m4a" length="10103369" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Anthropicが警察へ偽情報？AIの境界線と2015年の欠陥 2026/10/10</title>
       <description>Anthropicのモデルが警察へ偽の殺人情報を送った事故から、米国防総省の5分動画調達、IonQの量子接続、10年前の欠陥を使う攻撃まで、「誰が線を引き、誰が越境を検知するか」を解説します。
 
