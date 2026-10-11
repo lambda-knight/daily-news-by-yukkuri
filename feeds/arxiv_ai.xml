@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Llama 3とOLMo 2、オンポリシー蒸留の監督を絞る5論文 2026/10/11</title>
+      <description>オープンLLMの密モデル設計と学習安定化をLlama 3・OLMo 2から読み、オンポリシー蒸留の監督を問題・トークン・多ターン軌跡の3段階で絞る最新研究を比較します。
+
+▼ 今日の論文ラインナップ
+・密モデルと段階的な文脈拡張を選んだLlama 3（arXiv:2407.21783）
+・学習の安定化と中間学習を公開したOLMo 2（arXiv:2501.00656）
+・8問や自己生成問題でも成り立つオンポリシー蒸留（arXiv:2609.14193）
+・監督するトークンを4割に絞るDIAL-OPD（arXiv:2610.11659）
+・多ターンで教師が確率的に介入するSTI-OPD（arXiv:2610.10878）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2407.21783 — Llama 3モデル群
+https://arxiv.org/abs/2501.00656 — OLMo 2
+https://arxiv.org/abs/2609.14193 — データ不要オンポリシー蒸留
+https://arxiv.org/abs/2610.11659 — DIAL-OPD
+https://arxiv.org/abs/2610.10878 — STI-OPD
+
+#生成AI #LLM #arxiv #論文解説 #蒸留 #Llama3 #OLMo #機械学習 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-11-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9273601" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>近い教師と遠い教師で蒸留はどう変わるか｜Gemma 2・Qwen3と新着3研究 2026/10/10</title>
       <description>特集「蒸留とオープンLLMの代表的アーキテクチャ」第5回。Gemma 2、Qwen3、RouterInterp、Semi-OPD、オンポリシー蒸留の学習信号消失を大学院生・研究者向けに比較します。
 
