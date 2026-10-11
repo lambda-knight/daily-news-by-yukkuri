@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>欠陥を避ける量子誤り訂正と高速量子ネットワーク、重要論文5本【2026/10/11】</title>
+      <description>156量子ビット実機での欠陥対応型誤り訂正、量子LDPC符号の魔法状態工場、異種量子ビット間のキロヘルツ・エンタングルメントなど、新着5論文を研究条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・ヘビーヘックス超伝導プロセッサ上の誤り訂正メモリと論理演算（arXiv:2610.11658）
+・量子LDPC符号のためのシングルショット魔法状態工場（arXiv:2610.10731）
+・キロヘルツ速度のイオン-ダイヤモンド間エンタングルメント（arXiv:2610.10705）
+・準粒子から守られた超伝導量子ビット（arXiv:2610.12227）
+・線形システムゲームによるチレルソン問題の明示的反例（arXiv:2610.10248）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2610.11658 — ヘビーヘックス超伝導プロセッサ上の誤り訂正メモリと論理演算
+https://arxiv.org/abs/2610.10731 — 量子LDPC符号のためのシングルショット魔法状態工場
+https://arxiv.org/abs/2610.10705 — キロヘルツ速度のイオン-ダイヤモンド間エンタングルメント
+https://arxiv.org/abs/2610.12227 — 準粒子から守られた超伝導量子ビット
+https://arxiv.org/abs/2610.10248 — 線形システムゲームによるチレルソン問題の明示的反例
+
+#量子コンピュータ #量子情報 #IBM #量子誤り訂正 #量子ネットワーク #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-11-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9536355" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>論理誤りを1000分の1へ？量子計算の重要論文5本【2026/10/10】</title>
       <description>期間限定特集を終え、通常の新着総合回へ戻ります。論理回路の仮想誤りキャンセル、PPTエンタングルメント蒸留、ZX図による資源評価、光ピンセットの局所偏光制御、ニュートリノ多体系の量子シミュレーションを研究者向けに比較します。
 
