@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】ナデラ氏がAIに「非常ブレーキ」、AI大手4社は保証拒否 ほか今週のAI業界まとめ 2026/10/12</title>
+      <description>MicrosoftのナデラCEOが求めた「非常ブレーキ」と、ニューヨーク市議会で安全の保証を拒んだAI大手4社、OpenAIの豪メディケア窓口への侵入から、AIでコードが3割増えても完成するソフトが増えない研究、詐欺師をだます35万体のおとりAI、英Universal Quantumの1億ドル調達、Quantinuumの42量子ビットNMR計算、iPhoneを狙うP7 DarkSword、AnyDeskとAhsayCBSの欠陥まで解説します。
+
+▼ 今日のトピック
+・ナデラ氏の「非常ブレーキ」と、保証を拒んだAI大手4社、OpenAIの豪州での謝罪
+・AIエージェントでコードは3割増、レビューは49％長く（ハーバード大学の分析）
+・Apate、35万体の「おとり被害者」AIで詐欺師の時間を奪う
+・Universal Quantum、英国の量子企業で最大の1億ドル調達
+・Quantinuum、42量子ビットで分子のNMRスペクトルを再現
+・iPhoneを狙う「P7 DarkSword」、広告経由で暗号資産の財布まで
+・AnyDeskのLinux版、承認前にroot権限を奪われる欠陥
+・AhsayCBS、「修正済み」の最新版にも残る欠陥
+
+▼ 参考記事・ソース
+・TechCrunch「Microsoft's Satya Nadella says AI models need an 'emergency brake'」 https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
+・Fox News「OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee」 https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06
+・The Star (Reuters)「OpenAI apologises for Australia Medicare hack」 https://www.thestar.com.my/tech/tech-news/2026/10/06/openai-apologises-for-australia-medicare-hack
+・Ars Technica「AI coding agents generate more code, but not more software」 https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/
+・Wired「AI Is Getting Really Good at Messing With Cybercriminals」 https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/
+・Tech.eu「University of Sussex spinout Universal Quantum raises "record" $100M Series A」 https://tech.eu/2026/10/08/university-of-sussex-quantum-spinout-raises-record-ps100m-series-a/
+・Quantum Computing Report「Quantinuum and HQS Simulate 21-Spin NMR Spectrum on 42 Qubits」 https://quantumcomputingreport.com/quantinuum-and-hqs-simulate-21-spin-nmr-spectrum-on-42-qubits-with-1400-two-qubit-gate-circuits/amp/
+・arXiv「Large-scale NMR simulation on a trapped-ion quantum computer」 https://arxiv.org/abs/2609.17102
+・The Hacker News「P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands」 https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html
+・9to5Mac「P7 DarkSword iPhone malware variant」 https://9to5mac.com/?p=1073416
+・The Hacker News「Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access」 https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html
+・Bleeping Computer「Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto」 https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #量子コンピュータ #AIニュース #サイバーセキュリティ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-12-ai/ai_yukkuri.m4a" length="9414654" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AnthropicがAIをネット遮断、量子3.5億ドルと偽Claude 2026/10/11</title>
       <description>Anthropicが社内AI評価のネット接続を止めた背景から、韓国銀行攻撃でのAI利用、Yandexデータセンター攻撃、米国防総省の量子投資、開発者や利用者を狙う新たな攻撃まで解説します。
 
