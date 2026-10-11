@@ -26,6 +26,24 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>MistralとMoEルーター、オンポリシー蒸留の技能と知識を読む5論文 2026/10/12</title>
+      <description>Mistral 7Bの窓付き注意、MoEルーターの確率写像と弾性的なTop-k、オンポリシー蒸留の原型GKD、技能は移るが新しい知識は移りにくいという対照実験を比較します。
+
+▼ 今日の論文ラインナップ
+・Mistral 7BのGQAとスライディングウィンドウ注意（arXiv:2310.06825）
+・疎な確率写像とMoE専門家数の関係（arXiv:2610.06677）
+・Top-k境界を訓練時に揺らすElastic Expert Routing（arXiv:2610.11575）
+・生徒自身の生成列で学ぶ一般化知識蒸留GKD（arXiv:2306.13649）
+・オンポリシー蒸留が技能と知識を非対称に移す条件（arXiv:2610.09639）
+
+#生成AI #LLM #arxiv #論文解説 #蒸留 #Mistral #MoE #機械学習 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-12-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8310847" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Llama 3とOLMo 2、オンポリシー蒸留の監督を絞る5論文 2026/10/11</title>
       <description>オープンLLMの密モデル設計と学習安定化をLlama 3・OLMo 2から読み、オンポリシー蒸留の監督を問題・トークン・多ターン軌跡の3段階で絞る最新研究を比較します。
 
