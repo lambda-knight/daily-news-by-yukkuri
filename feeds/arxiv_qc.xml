@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>クーディットで閾値が倍に？誤り訂正と量子ジャンプの重要論文5本【2026/10/12】</title>
+      <description>クーディット版の高レート連接符号で閾値が5.1%から10.0%へ、故障配置から論理感度を一度に推定する手法、電荷駆動で守るデュアルレール消失量子ビット、機械振動子のフォノン数の量子ジャンプ、量子ドットからの多光子GHZ状態。10月7〜8日投稿の5論文を、比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・素数次元クーディットへ拡張した高レート連接符号 — 理化学研究所・東芝（arXiv:2610.11225）
+・故障配置の数え上げで論理感度を一度に推定する — プリンストン大学（arXiv:2610.10531）
+・サブギガヘルツの電荷駆動で守るデュアルレール消失量子ビット — カリフォルニア大学バークレー校・チャップマン大学ほか（arXiv:2610.10432）
+・機械振動子のフォノン数に見る量子ジャンプ — スタンフォード大学・SLAC（arXiv:2610.10714）
+・スピンエコーを使う量子ドットからの多光子GHZ状態 — テクニオン・中山大学ほか（arXiv:2610.11445）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2610.11225 — 素数次元クーディットへ拡張した高レート連接符号
+https://arxiv.org/abs/2610.10531 — 故障配置の数え上げで論理感度を一度に推定する
+https://arxiv.org/abs/2610.10432 — サブギガヘルツの電荷駆動で守るデュアルレール消失量子ビット
+https://arxiv.org/abs/2610.10714 — 機械振動子のフォノン数に見る量子ジャンプ
+https://arxiv.org/abs/2610.11445 — スピンエコーを使う量子ドットからの多光子GHZ状態
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #クーディット #超伝導量子ビット #量子光学 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #量子力学 #テクノロジー</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-12-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9471032" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>欠陥を避ける量子誤り訂正と高速量子ネットワーク、重要論文5本【2026/10/11】</title>
       <description>156量子ビット実機での欠陥対応型誤り訂正、量子LDPC符号の魔法状態工場、異種量子ビット間のキロヘルツ・エンタングルメントなど、新着5論文を研究条件と限界まで解説します。
 
