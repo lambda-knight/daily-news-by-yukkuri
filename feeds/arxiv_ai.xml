@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Gemma 3とKV圧縮、教師の強さを問い直すAI論文5本【2026/10/13】</title>
+      <description>Gemma 3の局所・大域注意、クロネッカー積によるKV圧縮、ReplaySSM、学習差分を渡すオンポリシー蒸留、批評条件付き自己蒸留を研究条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・Gemma 3 Technical Report（arXiv:2503.19786）
+・Kronecker Product Attention（arXiv:2610.12657）
+・ReplaySSM（arXiv:2610.13778）
+・相対方策差を転移するオンポリシー蒸留（arXiv:2610.13205）
+・批評条件付き自己蒸留（arXiv:2610.13744）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2503.19786
+https://arxiv.org/abs/2610.12657
+https://arxiv.org/abs/2610.13778
+https://arxiv.org/abs/2610.13205
+https://arxiv.org/abs/2610.13744
+
+#生成AI #LLM #Gemma #蒸留 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-13-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8915200" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>MistralとMoEルーター、オンポリシー蒸留の技能と知識を読む5論文 2026/10/12</title>
       <description>Mistral 7Bの窓付き注意、MoEルーターの確率写像と弾性的なTop-k、オンポリシー蒸留の原型GKD、技能は移るが新しい知識は移りにくいという対照実験を比較します。
 
