@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>42量子ビットの準粒子衝突と高速qLDPC復号、重要論文5本【2026/10/13】</title>
+      <description>IBM実機でのハバード準粒子衝突、XX相互作用を作るトラス・ガジェット、イオンのクーディット命令セット、2ブロック符号の網羅探索、GPU並列BP復号を比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・ハバード準粒子衝突実験（arXiv:2610.13946）
+・論理符号化XXガジェット（arXiv:2610.13845）
+・クーディット・振動子命令セット（arXiv:2610.13843）
+・小規模2ブロック符号の探索（arXiv:2610.13880）
+・GPU並列BP復号（arXiv:2610.13879）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2610.13946
+https://arxiv.org/abs/2610.13845
+https://arxiv.org/abs/2610.13843
+https://arxiv.org/abs/2610.13880
+https://arxiv.org/abs/2610.13879
+
+#量子コンピュータ #量子情報 #qLDPC #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-13-arxiv-qc/arxiv_qc_yukkuri.m4a" length="10353256" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>クーディットで閾値が倍に？誤り訂正と量子ジャンプの重要論文5本【2026/10/12】</title>
       <description>クーディット版の高レート連接符号で閾値が5.1%から10.0%へ、故障配置から論理感度を一度に推定する手法、電荷駆動で守るデュアルレール消失量子ビット、機械振動子のフォノン数の量子ジャンプ、量子ドットからの多光子GHZ状態。10月7〜8日投稿の5論文を、比較条件と限界まで解説します。
 
