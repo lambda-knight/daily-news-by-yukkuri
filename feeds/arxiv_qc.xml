@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>実測誤り率で資源見積もりは40倍の幅に？量子論文5本を解説【2026/10/14】</title>
+      <description>qLDPC符号の高速サージェリーの省スペース化、実測の誤り率を入れた誤り耐性資源見積もり、66・337量子ビット機での並列較正とドリフト管理、サンプルベース量子対角化のGPUソルバー、適応的パウリ予測のコピー数下限を、比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・qLDPC符号の高速サージェリーを省スペース化 — Iceberg Quantum（arxiv:2610.11079）
+・実測の誤り率で資源見積もりを幅として出し直す — FAST-NUCES ほか（arxiv:2610.10490）
+・超伝導プロセッサの並列較正とドリフト管理の規則 — 中国国防科技大学（arxiv:2610.11477）
+・サンプルベース量子対角化の大規模並列ソルバー — 東京大学 素粒子物理国際研究センター（arxiv:2610.13907）
+・適応的パウリ予測に必要なコピー数 — 北京理工大学・中国人民大学（arxiv:2610.13652）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2610.11079  — qLDPC符号の高速サージェリーを省スペース化
+https://arxiv.org/abs/2610.10490  — 実測の誤り率で資源見積もりを幅として出し直す
+https://arxiv.org/abs/2610.11477  — 超伝導プロセッサの並列較正とドリフト管理の規則
+https://arxiv.org/abs/2610.13907  — サンプルベース量子対角化の大規模並列ソルバー
+https://arxiv.org/abs/2610.13652  — 適応的パウリ予測に必要なコピー数
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #qLDPC #リソース推定 #arxiv #論文解説 #ゆっくり解説 #ずんだもん #IBM #Google</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-14-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8876706" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>42量子ビットの準粒子衝突と高速qLDPC復号、重要論文5本【2026/10/13】</title>
       <description>IBM実機でのハバード準粒子衝突、XX相互作用を作るトラス・ガジェット、イオンのクーディット命令セット、2ブロック符号の網羅探索、GPU並列BP復号を比較条件と限界まで解説します。
 
