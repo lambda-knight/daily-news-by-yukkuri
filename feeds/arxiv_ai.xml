@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Phi-3とTransMLA、蒸留の予算配分を問うAI論文5本【2026/10/14】</title>
+      <description>Phi-3のデータ最適な小型モデル設計、GQAモデルをMLAへ変換するTransMLA、能力境界で1000例を選び直す推論蒸留、分岐ロールアウトのオンポリシー蒸留、サブリミナル学習の教師なし検出を、比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・38億パラメータでスマートフォンに載るファイ3 — Microsoft（arxiv:2404.14219）
+・学習済みモデルの注意をディープシーク型の潜在注意へ変換する — 北京大学ほか（arxiv:2502.07864）
+・生徒の能力境界に合わせて1000問を選び直す推論蒸留 — 上海人工知能実験室ほか（arxiv:2610.13285）
+・迷う位置で枝分かれさせるオンポリシー蒸留 — 清華大学・北京大学・SenseTime（arxiv:2610.13481）
+・蒸留で無意識に移る性質を重みの更新から見つける — UCL・Spotify（arxiv:2610.13536）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2404.14219  — 38億パラメータでスマートフォンに載るファイ3
+https://arxiv.org/abs/2502.07864  — 学習済みモデルの注意をディープシーク型の潜在注意へ変換する
+https://arxiv.org/abs/2610.13285  — 生徒の能力境界に合わせて1000問を選び直す推論蒸留
+https://arxiv.org/abs/2610.13481  — 迷う位置で枝分かれさせるオンポリシー蒸留
+https://arxiv.org/abs/2610.13536  — 蒸留で無意識に移る性質を重みの更新から見つける
+
+#生成AI #LLM #Phi3 #蒸留 #MLA #AI安全性 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-14-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8159258" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gemma 3とKV圧縮、教師の強さを問い直すAI論文5本【2026/10/13】</title>
       <description>Gemma 3の局所・大域注意、クロネッカー積によるKV圧縮、ReplaySSM、学習差分を渡すオンポリシー蒸留、批評条件付き自己蒸留を研究条件と限界まで解説します。
 
