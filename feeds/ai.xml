@@ -26,6 +26,34 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>OpenAI会議室の録音装置とAIの証拠、Chrome攻撃連鎖【2026/10/15】</title>
+      <description>AIへの質問履歴が盗聴事件の証拠になり、AIエージェントは6日間でChromeの攻撃連鎖を構築。同じ技術が研究と攻撃を速める現在を、量子・セキュリティまで横断して解説します。
+
+▼ 今日のトピック
+・OpenAI役員会議室の録音装置とAIへの質問履歴
+・画像生成AIの安全策とAI生成音楽の表示
+・GPT-5.6 Solを使ったChromeの3段階攻撃
+・Gemini 4 Argonによる量子回路の最適化
+・Ciscoの悪用中ゼロデイとフィッシング基盤摘発
+・北朝鮮IT労働者のラップトップファーム
+・直近1週間のセキュリティインシデント5件
+
+▼ 参考記事・ソース
+・Ars Technica「Recording device hidden in toilet paper found in top-secret OpenAI meeting room」 https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/
+・TechCrunch「YouTube Music launches new labels as AI-generated music floods streaming platforms」 https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/
+・The Hacker News「Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days」 https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html
+・BleepingComputer「Cisco patches new Secure Email Gateway zero-day exploited in attacks」 https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/
+・BleepingComputer「Global takedown hits network behind 1 billion phishing messages」 https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/
+・BleepingComputer「FBI raids DPRK IT worker laptop farms in Texas」 https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/
+
+#生成AI #ChatGPT #量子コンピュータ #セキュリティ #AIニュース #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-15-ai/ai_yukkuri.m4a" length="10976256" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gemini 4 Argonは有料限定、廃業企業のメールがAI教材に、Ivanti 3連鎖ゼロデイ【2026/10/14】</title>
       <description>Gemini 4 Argonの有料限定公開とAPI価格、Epic Gamesの「手書きコードをやめる」方針、廃業スタートアップのメールやコードがAIの学習用に売られる実態、Anthropicが試算した小型AIの自己複製ワーム、Coinbaseのビットコイン耐量子移行案、Googleの仮想誤りキャンセル、Ivantiの3連鎖ゼロデイとMicrosoftの過去最多1411件の修正を解説します。
 
