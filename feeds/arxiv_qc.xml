@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>32量子ビット相関計算から量子暗号の最小仮定まで 論文5本【2026/10/15】</title>
+      <description>2026年10月14日掲載の量子コンピュータ・量子情報論文5本を、比較条件、数式、実機規模、限界まで大学院セミナー水準で解説します。
+
+▼ 今日の論文ラインナップ
+・運動量空間MPSと実空間の相関因子を32量子ビット実機で接続
+・任意ユニタリ合成のTゲート数を指数8/7へ改善
+・7フォノンまでのフォック状態による位相非依存センシング
+・多モード損失・フェージング通信路の有限エネルギー容量
+・EFIペアと伸長型1PRSの一様な同値性
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2610.18681 — Explicitly correlated ground states with a feedback-free variational hybrid algorithm
+https://arxiv.org/abs/2610.18589 — T-efficient unitary synthesis via block-sparse Hamiltonian simulation
+https://arxiv.org/abs/2610.18776 — Quantum-enhanced mechanical sensing with machine-learning estimation
+https://arxiv.org/abs/2610.18731 — Finite-energy two-way assisted capacities
+https://arxiv.org/abs/2610.18799 — EFI⇔1PRS
+
+#量子コンピュータ #量子情報 #量子暗号 #量子センシング #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-15-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9271808" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>実測誤り率で資源見積もりは40倍の幅に？量子論文5本を解説【2026/10/14】</title>
       <description>qLDPC符号の高速サージェリーの省スペース化、実測の誤り率を入れた誤り耐性資源見積もり、66・337量子ビット機での並列較正とドリフト管理、サンプルベース量子対角化のGPUソルバー、適応的パウリ予測のコピー数下限を、比較条件と限界まで解説します。
 
