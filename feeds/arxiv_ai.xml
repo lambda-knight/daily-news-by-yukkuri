@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>DeepSeek-V3.2の疎な注意と、効かない蒸留・効く蒸留 AI論文5本【2026/10/15】</title>
+      <description>DeepSeek-V3.2のスパース注意（DSA）と専門家蒸留、その索引器を厳密なまま高速化するDoSA、QKNorm・MoEモデルをMLAへ移すMLAfication、生徒が解けない問題でのオンポリシー蒸留の負の結果、報酬に合わせてトークンごとに教師信号を重み付けするRADを、比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・注意を上位2048トークンに絞ったディープシークV3.2 — DeepSeek-AI（arxiv:2512.02556）
+・索引器の上位k選択を厳密なまま省略する証明書方式 — Xiaohongshu Dots Studio（arxiv:2610.13990）
+・キー正規化を持つ最新モデルを潜在注意へ移す変換 — 復旦大学（arxiv:2610.17202）
+・生徒が解けない問題だけでは、オンポリシー蒸留は効かない — ミュンヘン工科大学・国立情報学研究所ほか（arxiv:2610.18011）
+・報酬への効き目でトークンごとに重みを付ける蒸留 — AWS AI Labs・UCSD・Purdue（arxiv:2610.14572）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2512.02556  — 注意を上位2048トークンに絞ったディープシークV3.2
+https://arxiv.org/abs/2610.13990  — 索引器の上位k選択を厳密なまま省略する証明書方式
+https://arxiv.org/abs/2610.17202  — キー正規化を持つ最新モデルを潜在注意へ移す変換
+https://arxiv.org/abs/2610.18011  — 生徒が解けない問題だけでは、オンポリシー蒸留は効かない
+https://arxiv.org/abs/2610.14572  — 報酬への効き目でトークンごとに重みを付ける蒸留
+
+#生成AI #LLM #DeepSeek #スパース注意 #MLA #蒸留 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-15-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8007210" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Phi-3とTransMLA、蒸留の予算配分を問うAI論文5本【2026/10/14】</title>
       <description>Phi-3のデータ最適な小型モデル設計、GQAモデルをMLAへ変換するTransMLA、能力境界で1000例を選び直す推論蒸留、分岐ロールアウトのオンポリシー蒸留、サブリミナル学習の教師なし検出を、比較条件と限界まで解説します。
 
