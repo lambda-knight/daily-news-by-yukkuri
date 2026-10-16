@@ -26,6 +26,46 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Anthropicに常駐する外部評価者とFTCの質問状、広告スパイウェア【2026/10/16】</title>
+      <description>AI企業の内側を、評価団体METRの常駐と米FTCの50ページ超の質問状が外からのぞく一方、会話を聞き取る端末や広告経由のゼロクリック・スパイウェアは利用者の側をのぞいています。「誰が中をのぞけるのか」を軸に、生成AI・量子・セキュリティを横断して解説します。
+
+▼ 今日のトピック
+・Anthropic、METRの研究者6人に社員並みの内部アクセス
+・FTC、AnthropicとOpenAIに50ページ超の民事調査要求
+・Bank of America、Mythosが見つけた欠陥の修正に外部要員1000人
+・Amazon傘下のBee、会話を聞き取る74.99ドルからの新端末
+・RiverlaneとNVIDIA、誤り訂正デコーダーの較正を3分から2.8秒へ
+・D-Wave、イタリア初のアニーリング量子計算機をコモへ
+・Candiruのスパイウェア、広告経由でアルジャジーラの端末45台を標的
+・英国の法律扶助庁、盗まれた記録は1978年までさかのぼる
+・直近1週間のセキュリティインシデント5件
+
+▼ 参考記事・ソース
+・TechCrunch「Anthropic is letting METR researchers look under the hood with employee-level access」 https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/
+・Ars Technica「Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as "hoax"」 https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/
+・The Register「Bank of America had to bring in 1,000 contractors to patch all the bugs Mythos identified」 https://www.theregister.com/security/2026/10/15/bank-of-america-had-to-bring-in-1000-contractors-to-patch-all-the-bugs-mythos-identified/5303275
+・TechCrunch「Amazon's Bee launches two new personal AI devices, starting at $75」 https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/
+・TechCrunch「Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps」 https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/
+・The Quantum Insider「Riverlane and NVIDIA Use AI to Speed Up Quantum Decoder Calibration」 https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/
+・The Quantum Insider「D-Wave Delivers Advantage2 Annealing Quantum Computer to Italy」 https://thequantuminsider.com/2026/10/15/dwave-delivers-italy-first-annealing-quantum-computer/
+・WIRED「'Nightmare Scenario': Zero-Click Spyware Is Infecting Phones via Targeted Ads」 https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/
+・The Record「Zero-click spyware infecting devices through online ads, researchers say」 https://therecord.media/spyware-citizen-lab-advertising
+・BleepingComputer「UK Legal Aid Agency: Hackers stole records dating back to 1978」 https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/
+・The Record「UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978」 https://therecord.media/uk-legal-aid-cyberattack-data
+・The Register「'123456' password linked to Denmark data breach affecting 8.8M people」 https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726
+・BleepingComputer「Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks」 https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/
+・BleepingComputer「Fake Arch Linux packages push malware with root privileges」 https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/
+・BleepingComputer「Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth」 https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/
+・Ars Technica「Fridge hack costing millions and sparking fires stemmed from poor security」 https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/
+
+#生成AI #Anthropic #量子コンピュータ #セキュリティ #AIニュース #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-16-ai/ai_yukkuri.m4a" length="9059876" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>OpenAI会議室の録音装置とAIの証拠、Chrome攻撃連鎖【2026/10/15】</title>
       <description>AIへの質問履歴が盗聴事件の証拠になり、AIエージェントは6日間でChromeの攻撃連鎖を構築。同じ技術が研究と攻撃を速める現在を、量子・セキュリティまで横断して解説します。
 
