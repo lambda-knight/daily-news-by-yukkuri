@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>CCZ状態の直接培養から車で運ぶイオン・トラップまで 論文5本【2026/10/16】</title>
+      <description>2026年10月15日掲載の量子コンピュータ・量子情報論文5本を、比較条件、数式、数値、限界まで大学院セミナー水準で解説します。
+
+▼ 今日の論文ラインナップ
+・qLDPC符号の上でCCZ状態を直接培養する — イリノイ大学アーバナ・シャンペーン校（arxiv:2610.20591）
+・ペッツ回復写像を一回の極変換で実装する — テキサスA&amp;M大学（arxiv:2610.20515）
+・多数の初期状態を使うスペクトル推定で、総時間を初期状態数に依存させない — ミシガン大学（arxiv:2610.20482）
+・深さ予算のある量子攻撃者に対するサイドチャネル評価の鍵ランク — Yevgen Kotukh氏（arxiv:2610.20537）
+・パウル・トラップのイオンを車で運ぶ — インスブルック大学、ジーゲン大学ほか（arxiv:2610.20487）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2610.20591 — Logical CCZ state cultivation
+https://arxiv.org/abs/2610.20515 — Petz Recovery through a Single Polar Transformation for Approximate Quantum Error Correction
+https://arxiv.org/abs/2610.20482 — Quantum Spectral Estimation with Multiple Initial States: Improved Error and Cost Scaling
+https://arxiv.org/abs/2610.20537 — Quantum-Aware Key Rank for Side-Channel Attacks evaluation
+https://arxiv.org/abs/2610.20487 — Demonstration of a mobile ion-trap quantum device
+
+#量子コンピュータ #量子情報 #量子誤り訂正 #量子アルゴリズム #イオントラップ #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-16-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8384003" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>32量子ビット相関計算から量子暗号の最小仮定まで 論文5本【2026/10/15】</title>
       <description>2026年10月14日掲載の量子コンピュータ・量子情報論文5本を、比較条件、数式、実機規模、限界まで大学院セミナー水準で解説します。
 
