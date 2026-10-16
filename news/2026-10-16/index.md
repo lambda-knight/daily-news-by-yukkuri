@@ -8,5 +8,6 @@ layout: default
 | カテゴリ | リンク |
 |---------|--------|
 | 生成AIニュース | [生成AIニュース](./ai/) |
+| arxiv Frontier AI・最先端AI論文解説 | [arxiv Frontier AI・最先端AI論文解説](./arxiv_ai/) |
 
 [← トップに戻る](../../)

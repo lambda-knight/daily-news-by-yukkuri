@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Mamba原典とGQLA、教師の優位はどこにある？蒸留3本 AI論文5本【2026/10/16】</title>
+      <description>状態空間モデルMambaの原典（Δ・B・Cを入力の関数にする選択機構）、同じ重みでMLAの潜在読みとGQA経路を切り替えるGQLA、オンポリシー蒸留で教師の優位が生徒の軌跡のどこにあるかを差し替え実験で測る分析、教師の批評で生徒が書き直すCriticOPD、1トークン先の分岐で事前学習の蒸留を広げるPA1-OPDを、比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・入力に応じて状態を選ぶ線形時間の系列モデル、マンバ — カーネギーメロン大学・プリンストン大学（arxiv:2312.00752）
+・同じ重みで2通りの実行経路を持つグループ化潜在注意 — Xiaohongshu Dots Studio・北京理工大学（arxiv:2605.15250）
+・オンポリシー蒸留で教師の優位はどこにあるか — カリフォルニア大学マーセド校（arxiv:2610.19145）
+・教師の批評で生徒が書き直し、回復可能性を取り戻す蒸留 — ブリガムヤング大学・ノースカロライナ大学チャペルヒル校（arxiv:2610.20572）
+・1トークン先の分岐で事前学習の蒸留を広げる — ファーウェイ・北京航空航天大学（arxiv:2610.19601）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2312.00752  — 入力に応じて状態を選ぶ線形時間の系列モデル、マンバ
+https://arxiv.org/abs/2605.15250  — 同じ重みで2通りの実行経路を持つグループ化潜在注意
+https://arxiv.org/abs/2610.19145  — オンポリシー蒸留で教師の優位はどこにあるか
+https://arxiv.org/abs/2610.20572  — 教師の批評で生徒が書き直し、回復可能性を取り戻す蒸留
+https://arxiv.org/abs/2610.19601  — 1トークン先の分岐で事前学習の蒸留を広げる
+
+#生成AI #LLM #Mamba #状態空間モデル #MLA #GQA #蒸留 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-16-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9306248" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>DeepSeek-V3.2の疎な注意と、効かない蒸留・効く蒸留 AI論文5本【2026/10/15】</title>
       <description>DeepSeek-V3.2のスパース注意（DSA）と専門家蒸留、その索引器を厳密なまま高速化するDoSA、QKNorm・MoEモデルをMLAへ移すMLAfication、生徒が解けない問題でのオンポリシー蒸留の負の結果、報酬に合わせてトークンごとに教師信号を重み付けするRADを、比較条件と限界まで解説します。
 
