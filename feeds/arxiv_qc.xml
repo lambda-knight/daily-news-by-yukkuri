@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>GHZ回廊で縫う表面符号から寿命1秒の2準位系、QAOA優位の再検証まで 論文5本【2026/10/18】</title>
+      <description>2026年10月12〜15日投稿の量子コンピュータ・量子情報論文5本を、比較条件、数式、数値、限界まで大学院セミナー水準で解説します。
+
+▼ 今日の論文ラインナップ
+・4枚の表面符号をGHZ回廊で縫い合わせ、2論理量子ビットを距離2tで守る — Google Quantum AI（arxiv:2610.21357）
+・論理ゲートセット・トモグラフィーで、スティーン符号の論理誤りの形を測る — サンディア国立研究所、Quantinuum（arxiv:2610.19034）
+・超伝導量子ビットの環境に、寿命1秒を超える2準位系が潜む — カールスルーエ工科大学（arxiv:2610.21853）
+・1,200個超のイオンが自己組織化した3次元結晶を光で一斉にコヒーレント制御する — 中国科学技術大学、浙江大学（arxiv:2610.17583）
+・古典局所アルゴリズムVIRALが、大内周3正則グラフのMax-CutでQAOAの保証を上回る — ニューヨーク大学、ボストン大学、フラットアイアン研究所（arxiv:2610.17236）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2610.21357 — Stitched surface codes: planar concatenation through GHZ corridors
+https://arxiv.org/abs/2610.19034 — Logical gate set tomography
+https://arxiv.org/abs/2610.21853 — Superconducting circuits host two-level systems with lifetimes exceeding one second
+https://arxiv.org/abs/2610.17583 — Coherent optical control of a thousand qubits in a three-dimensional trapped-ion crystal
+https://arxiv.org/abs/2610.17236 — Whither quantum advantage? New classical lower bounds for Max-Cut on large-girth 3-regular graphs
+
+#量子コンピュータ #量子誤り訂正 #表面符号 #ゲートセットトモグラフィー #超伝導量子ビット #イオントラップ #QAOA #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-18-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9150085" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>CCZ状態の直接培養から車で運ぶイオン・トラップまで 論文5本【2026/10/16】</title>
       <description>2026年10月15日掲載の量子コンピュータ・量子情報論文5本を、比較条件、数式、数値、限界まで大学院セミナー水準で解説します。
 
