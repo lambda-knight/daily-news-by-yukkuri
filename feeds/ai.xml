@@ -26,6 +26,47 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Replitの既定モデル交代、Meta規約とAI学習、173のM365侵入【2026/10/18】</title>
+      <description>ReplitがAIエージェントの既定モデルを替え、Metaは企業アカウントのリンク先をAI学習に使える規約を10月30日から適用し、バックアップアプリに与えた権限は173のMicrosoft 365環境への入口になりました。「一度渡した許可と既定値が、あとから別の意味を持つ」を軸に、生成AI・量子・セキュリティを横断して解説します。
+
+▼ 今日のトピック
+・Replit、AIエージェントの既定モデルをAnthropicからOpenAIへ
+・Meta、企業アカウントのリンク先をAI学習に使える規約を10月30日から適用
+・Ray-Ban Metaのメガネ、呼びかけなしで会話を録音する不具合
+・PostgreSQL 19、AIレビューが見つけた欠陥で11月19日ごろへ延期
+・AnthropicのClaudeとハーバード大学、量子回路の部品を設計し直す
+・Google、Willowで「魔法状態」の誤りを約40分の1に
+・ConnectWiseのバックアップアプリ悪用、173のMicrosoft 365環境に侵入
+・Magentoの最高深刻度の欠陥BlockStrapとDrupalの重大な欠陥
+・直近1週間のセキュリティインシデント5件
+
+▼ 参考記事・ソース
+・TechCrunch「Replit is no longer working with Anthropic, CEO says」 https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
+・Ars Technica「Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees」 https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/
+・The Register「Meta grants itself right to scrape content from business customers for model training」 https://www.theregister.com/ai-and-ml/2026/10/16/meta-grants-itself-right-to-scrape-content-from-business-customers-for-model-training/5303658
+・Ars Technica「Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality」 https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/
+・The Register「Postgres 19 delayed after AI reviewers find more bugs than humans can fix」 https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471
+・The Quantum Insider「Anthropic's Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations」 https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/
+・The Quantum Insider「Google Demonstrates Method to Cut Errors in Quantum Computing's 'Magic States'」 https://thequantuminsider.com/2026/10/16/google-demonstrates-method-to-cut-errors-in-quantum-computings-magic-states/
+・BleepingComputer「Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack」 https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/
+・The Hacker News「Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants」 https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html
+・BleepingComputer「Critical BlockStrap flaw lets hackers run code on Magento servers」 https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/
+・BleepingComputer「Drupal patches critical RCE flaws, warns exploits may emerge soon」 https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/
+・The Register「X purges 13,000 accounts linked to suspected meddling ahead of US midterms」 https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234
+・Krebs on Security「U.K. Sanctions Cryptomus for RU Money Laundering」 https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/
+・The Hacker News「MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon」 https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html
+・The Hacker News「UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing」 https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html
+・Unit 42「FortiManager CVE-2024-47575 and PEERSTITCH malware」 https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/
+・The Hacker News「PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions」 https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html
+
+#生成AI #Replit #Meta #量子コンピュータ #セキュリティ #AIニュース #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-18-ai/ai_yukkuri.m4a" length="11303857" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Anthropicに常駐する外部評価者とFTCの質問状、広告スパイウェア【2026/10/16】</title>
       <description>AI企業の内側を、評価団体METRの常駐と米FTCの50ページ超の質問状が外からのぞく一方、会話を聞き取る端末や広告経由のゼロクリック・スパイウェアは利用者の側をのぞいています。「誰が中をのぞけるのか」を軸に、生成AI・量子・セキュリティを横断して解説します。
 
