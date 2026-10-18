@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>MiniMax-01の7対1ハイブリッド注意と位置の混成、MiniLLMから続く逆方向KL蒸留3本 AI論文5本【2026/10/19】</title>
+      <description>ライトニング注意7層ごとにソフトマックス注意を1層挟む4560億パラメータの公開モデルMiniMax-01、ハイブリッドモデルの長文脈性能をNoPEと位置の偏りを持つ注意の分担から説明する新着、逆方向KLでオンポリシー蒸留を始めたMiniLLM、その逆方向KLが届かない位置をJS発散で選んで順方向KLを足すDrOPD、視覚言語モデルのオンポリシー蒸留が教師の「解答を書き終えない」癖まで引き継ぐことを示した研究を、比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・線形注意7層ごとに通常の注意を1層挟んだ4560億パラメータの公開モデル — MiniMax（arxiv:2501.08313）
+・ハイブリッドモデルの長文脈性能を位置の混成から説明する — 復旦大学・上海創智学院（arxiv:2610.10114）
+・教師分布の主要な山を追わせるオンポリシー蒸留の原型 — 清華大学・Microsoft Research（arxiv:2306.08543）
+・教師と生徒の食い違いが大きい位置だけに順方向の監督を足す蒸留 — 北京大学・快手科技・清華大学（arxiv:2610.19572）
+・視覚言語モデルのオンポリシー蒸留は、教師が解答を書き終えない癖まで引き継ぐ — ジョージア工科大学（arxiv:2610.20989）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2501.08313 — MiniMax-01: Scaling Foundation Models with Lightning Attention
+https://arxiv.org/abs/2610.10114 — Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybrid Position
+https://arxiv.org/abs/2306.08543 — MiniLLM: On-Policy Distillation of Large Language Models
+https://arxiv.org/abs/2610.19572 — Divergence-Routed On-Policy Distillation for Language Models
+https://arxiv.org/abs/2610.20989 — Do As I Do, Not As I Say: On-Policy Distillation Inherits the Teacher in Vision-Language Models
+
+#生成AI #LLM #MiniMax #線形注意 #ハイブリッドモデル #蒸留 #オンポリシー蒸留 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-19-arxiv-ai/arxiv_ai_yukkuri.m4a" length="9953033" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Kimi K2の疎性とQK-Clip、ハイブリッドLLMの接頭辞キャッシュ、蒸留3本 AI論文5本【2026/10/18】</title>
       <description>専門家を384個に増やし注意ヘッドを64本に半減させた1兆パラメータの公開モデルKimi K2、線形注意の再帰状態を直近の入力の再生で作り直すTail-Replay、逆向きの推論過程を前向きへ翻訳して棄却サンプリングを置き換えるCoTranslator、直すべき区間だけを教師に書き直させる局所的文脈蒸留LoCD、正誤未検証の仲間解答の一致から学ぶ自己蒸留SRDを、比較条件と限界まで解説します。
 

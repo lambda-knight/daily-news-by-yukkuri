@@ -7,6 +7,7 @@ layout: default
 
 | カテゴリ | リンク |
 |---------|--------|
+| arxiv Frontier AI・最先端AI論文解説 | [arxiv Frontier AI・最先端AI論文解説](./arxiv_ai/) |
 | arxiv 量子コンピュータ論文解説 | [arxiv 量子コンピュータ論文解説](./arxiv_qc/) |
 | 世界の珍ニュース | [世界の珍ニュース](./weird/) |
 
