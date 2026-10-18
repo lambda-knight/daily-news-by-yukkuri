@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Kimi K2の疎性とQK-Clip、ハイブリッドLLMの接頭辞キャッシュ、蒸留3本 AI論文5本【2026/10/18】</title>
+      <description>専門家を384個に増やし注意ヘッドを64本に半減させた1兆パラメータの公開モデルKimi K2、線形注意の再帰状態を直近の入力の再生で作り直すTail-Replay、逆向きの推論過程を前向きへ翻訳して棄却サンプリングを置き換えるCoTranslator、直すべき区間だけを教師に書き直させる局所的文脈蒸留LoCD、正誤未検証の仲間解答の一致から学ぶ自己蒸留SRDを、比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・専門家を384個に増やし注意ヘッドを半分にした1兆パラメータの公開モデル — Moonshot AI（arxiv:2507.20534）
+・線形注意の再帰状態を直近の入力から再構成する接頭辞キャッシュ — 中国電信人工知能研究院（TeleAI）・上海交通大学（arxiv:2608.30310）
+・答えを見て書いた推論過程を、答えを見ない推論過程へ翻訳する蒸留データ生成（arxiv:2610.20828）
+・直すべき区間だけを教師に書き直させる文脈蒸留 — Tencent・香港中文大学・浙江大学・香港科技大学（arxiv:2610.21427）
+・正誤を確かめていない仲間の解答から、一致した変化だけを学ぶ自己蒸留 — 上海交通大学（arxiv:2610.22080）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2507.20534 — Kimi K2: Open Agentic Intelligence
+https://arxiv.org/abs/2608.30310 — Tail-Replay: Escaping the Curse of Linear Attention in Prefix Caching for Hybrid LLMs
+https://arxiv.org/abs/2610.20828 — CoTranslator: Reverse to Forward Chain-of-Thought Translator for Reasoning Distillation
+https://arxiv.org/abs/2610.21427 — Learning from Interaction Experience via Localized Context Distillation
+https://arxiv.org/abs/2610.22080 — Learning from Unverified Peers via Shared Residual Distillation
+
+#生成AI #LLM #KimiK2 #MoE #線形注意 #蒸留 #arxiv #論文解説 #ゆっくり解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-18-arxiv-ai/arxiv_ai_yukkuri.m4a" length="8942877" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mamba原典とGQLA、教師の優位はどこにある？蒸留3本 AI論文5本【2026/10/16】</title>
       <description>状態空間モデルMambaの原典（Δ・B・Cを入力の関数にする選択機構）、同じ重みでMLAの潜在読みとGQA経路を切り替えるGQLA、オンポリシー蒸留で教師の優位が生徒の軌跡のどこにあるかを差し替え実験で測る分析、教師の批評で生徒が書き直すCriticOPD、1トークン先の分岐で事前学習の蒸留を広げるPA1-OPDを、比較条件と限界まで解説します。
 
