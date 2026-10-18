@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>1ブロック1,426論理量子ビットを汎用プロセッサに、光子の決定論的融合まで 論文5本【2026/10/19】</title>
+      <description>2026年10月13〜15日投稿の量子コンピュータ・量子情報論文5本を、比較条件、数式、数値、限界まで大学院セミナー水準で解説します。
+
+▼ 今日の論文ラインナップ
+・Cornucopia符号のブロックを汎用の論理プロセッサにするモジュール型アーキテクチャ — 清華大学（arxiv:2610.19073）
+・繰り返し読み出しの記録をシンドロームとして復号し、読み出し誤りを経路ごとに分ける — スイス連邦工科大学ローザンヌ校（arxiv:2610.20810）
+・周波数を大きく離した固定周波数トランズモンで、ZZを打ち消したbSWAPゲートを作る — 大阪大学、理化学研究所（arxiv:2610.21936）
+・超伝導回路のパリティ測定で、飛行するマイクロ波光子どうしを決定論的にフュージョンする — 清華大学（arxiv:2610.19927）
+・離れたイオンの運動モードに符号化したGKP量子ビットどうしを、内部状態経由でもつれさせる — 慶應義塾大学、情報通信研究機構（arxiv:2610.21754）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2610.19073 — A modular quantum computer based on Cornucopia codes
+https://arxiv.org/abs/2610.20810 — Syndrome-Resolved Decoding of Qubit Readout Errors
+https://arxiv.org/abs/2610.21936 — ZZ-Free bSWAP Gates under Strong Driving in Far-Detuned Fixed-Frequency Transmons
+https://arxiv.org/abs/2610.19927 — Deterministic and Programmable Fusion for Scalable Generation of Photonic Graph States
+https://arxiv.org/abs/2610.21754 — Remote Gottesman-Kitaev-Preskill Entanglement Generation between Trapped Ions
+
+#量子コンピュータ #量子誤り訂正 #qLDPC #超伝導量子ビット #光量子 #イオントラップ #量子ネットワーク #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-19-arxiv-qc/arxiv_qc_yukkuri.m4a" length="8281160" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>GHZ回廊で縫う表面符号から寿命1秒の2準位系、QAOA優位の再検証まで 論文5本【2026/10/18】</title>
       <description>2026年10月12〜15日投稿の量子コンピュータ・量子情報論文5本を、比較条件、数式、数値、限界まで大学院セミナー水準で解説します。
 
