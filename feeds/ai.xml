@@ -26,6 +26,47 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Character.AI破産でDisneyが社員の大半を採用、AIの鍵を盗むAoki【2026/10/19】</title>
+      <description>破産したCharacter.AIの社員の大半をDisneyが採用し、Anthropicは若手の技術職が21％から14％に減ったと公表しました。OpenAIとAppleは互いに設計の持ち出しを訴え合っています。「人と鍵の行き先」を軸に、生成AI・量子・セキュリティを横断して解説します。
+
+▼ 今日のトピック
+・Character.AIが破産申請、Disneyが2000万ドルで入札し社員少なくとも60人に採用を申し出
+・Anthropicの雇用報告、若手の技術職採用は27％から9％、会議時間は20％増
+・OpenAI、元社員が未発表端末の100超のファイルをAppleへ渡したと主張
+・Meta、企業サイトの内容をAI学習に使えるとした条文を削除
+・オックスフォード大、ストロンチウムとカルシウムのイオンで通信と記憶を分担、もつれを10秒超保存
+・IBM、AIエージェントで誤り訂正の復号回路を設計、オープンモデルで費用11.5分の1
+・OpenBSD、37年前からの16ビットの数え間違いを起点にroot奪取
+・情報窃取マルウェアAoki、ClaudeやCodexなどAIコーディング支援の認証情報を標的に
+・直近1週間のセキュリティインシデント5件
+
+▼ 参考記事・ソース
+・TechCrunch「Disney agrees to hire the majority of Character.AI's workforce」 https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/
+・The Next Web「Character.AI files for bankruptcy as Disney bids $20M for some assets」 https://thenextweb.com/news/character-ai-files-for-bankruptcy-as-disney-bids-20m-for-some-assets
+・PYMNTS「Character AI Files for Bankruptcy and Signs $20 Million Disney Deal」 https://pymnts.com/business/2026/character-ai-files-for-bankruptcy-and-signs-20-million-disney-deal
+・TechCrunch「Anthropic says its workforce has become less junior and is spending more time in meetings」 https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/
+・DataBreachToday「OpenAI Accuses Apple of Receiving Stolen Trade Secrets」 https://www.databreachtoday.com/openai-accuses-apple-receiving-stolen-trade-secrets-a-33120
+・TechCrunch「Meta removes language that raised scraping and AI training concerns」 https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
+・Quantum Computing Report「University of Oxford Entangles Multi-Species Atom Network and Extends Memory Storage Beyond 10 Seconds」 https://quantumcomputingreport.com/university-of-oxford-entangles-multi-species-atom-network-and-extends-memory-storage-beyond-10-seconds/
+・Quantum Computing Report「IBM Research Automates QEC Decoder Chip Design Using Open AI Agent Factories at 11.5x Lower Inference Cost」 https://quantumcomputingreport.com/ibm-research-automates-qec-decoder-chip-design-using-open-ai-agent-factories-at-11-5x-lower-inference-cost/
+・The Hacker News「Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug」 https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html
+・Ecosistema Startup「OpenBSD: un bug de kernel de 37 años da root」 https://ecosistemastartup.com/openbsd-un-bug-de-kernel-de-37-anos-da-root/
+・Infosecurity Magazine「New Aoki Infostealer Targets AI Coding Assistant Credentials」 https://www.infosecurity-magazine.com/news/aoki-infostealer-ai-coding/
+・SC Media「New infostealer targets AI coding assistant credentials」 https://www.scworld.com/brief/new-infostealer-targets-ai-coding-assistant-credentials
+・DataBreachToday「Cardiac Monitoring Firm iRhythm's Hack Affects 8.2 Million」 https://www.databreachtoday.com/cardiac-monitoring-firm-irhythms-hack-affects-82-million-a-33131
+・Ostdeutsche Allgemeine「Uni Halle Cyberangriff Studienbewerber Daten」 https://ostdeutscheallgemeine.com/article/uni-halle-cyberangriff-studienbewerber-daten-10503084
+・Cyber Daily「Exclusive: Poole Group investigating LockBit ransomware attack」 https://www.cyberdaily.au/security/14307-exclusive-poole-group-investigating-lockbit-ransomware-attack
+・Global News「More Rewards customer data accessed in cybersecurity breach」 https://globalnews.ca/news/12106695/more-rewards-customer-data-accessed-cybersecurity-breach-pattison/
+・The Record「OLVX cybercrime marketplace arrest in North Macedonia」 https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia
+
+#生成AI #Anthropic #OpenAI #量子コンピュータ #量子誤り訂正 #セキュリティ #AIニュース #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-19-ai/ai_yukkuri.m4a" length="10523379" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Replitの既定モデル交代、Meta規約とAI学習、173のM365侵入【2026/10/18】</title>
       <description>ReplitがAIエージェントの既定モデルを替え、Metaは企業アカウントのリンク先をAI学習に使える規約を10月30日から適用し、バックアップアプリに与えた権限は173のMicrosoft 365環境への入口になりました。「一度渡した許可と既定値が、あとから別の意味を持つ」を軸に、生成AI・量子・セキュリティを横断して解説します。
 
