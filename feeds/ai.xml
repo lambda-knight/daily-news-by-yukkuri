@@ -26,6 +26,47 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AIの安全装置が守る側を止めた、1人のハッカーはAIで100社超に侵入【2026/10/20】</title>
+      <description>OpenCodeの鍵流出では、防御の解析に使ったAIが協力を拒みました。一方、Reutersは1人のハッカーがAIエージェントで100社超に侵入し、成功1件あたり約50ドルだったと報じています。「ガードレールは誰を止めたか」を軸に、生成AI・量子・セキュリティを横断して解説します。
+
+▼ 今日のトピック
+・Goodfireのカマラータ氏、モデルの中身は思われているより読み解けると2万6000語で主張、反論も相次ぐ
+・MITの実験、仮想の無人島に30時間置かれたClaudeが自分で規則を作って「遊び」始める
+・Anthropic、株式の5％を公益基金へ、統治の詳細は今後数か月で
+・Nvidia、自社のデータで追加学習できるエージェント向け公開モデルNemotron 3.5を3種類発表
+・Nvidia、スパコンJUPITERで104量子ビットの誤り耐性プロセッサーを雑音込みで模擬、魔法状態の培養を検証
+・OpenCodeの鍵流出、利用者の1.4％に影響、防御に使ったAIが解析を拒む
+・1人のハッカー、AIエージェントで100社超に侵入、成功1件あたり約50ドル
+・NGINXに重大な欠陥3件、F5が定例外の修正
+・直近1週間のセキュリティインシデント5件
+
+▼ 参考記事・ソース
+・MIT Technology Review「"We were looking at it wrong": The explosive claim that's upended the AI world」 https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/
+・MIT Technology Review「AI researchers stranded Claude on a virtual desert island. It started to "play."」 https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/
+・TechCrunch「Anthropic says it's committing 5% of its shares to a 'public benefit fund'」 https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/
+・TechCrunch「Nvidia launches new open models to run agents in the enterprise and on PCs」 https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/
+・Quantum Zeitgeist「NVIDIA's Record Simulation Of A 104-qubit Fault-tolerant Quantum Computer」 https://quantumzeitgeist.com/nvidia-simulation-quantum-104-qubit-fault/
+・Investing.com「NVIDIA sets 104-qubit quantum simulation record on JUPITER supercomputer」 https://www.investing.com/news/stock-market-news/nvidia-sets-104qubit-quantum-simulation-record-on-jupiter-supercomputer-4958132
+・TechCrunch「Hackers hit AI coding tool OpenCode, running up charges on users' AI accounts」 https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/
+・BleepingComputer「OpenCode hack exposes API keys amid AI distillation attacks」 https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/
+・CP24 (Reuters)「How one hacker used AI agents and a few thousand dollars to break into scores of sites」 https://www.cp24.com/news/world/2026/10/19/how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites-reuters-exclusive/
+・Startup Fortune「A Lone Hacker Used AI Agents to Breach More Than 100 Companies」 https://startupfortune.com/a-lone-hacker-used-ai-agents-to-breach-more-than-100-companies/
+・BleepingComputer「F5 releases out-of-band patches for critical NGINX vulnerabilities」 https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/
+・BleepingComputer「Bullhorn takes staffing platform offline to contain cyberattack」 https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/
+・SecurityWeek「CenterPoint Energy Data Breach Impacts 1 Million Texans」 https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/
+・SecurityWeek「Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure」 https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/
+・The Hacker News「Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor」 https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html
+・KrebsOnSecurity「Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site」 https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
+・Elastic Security Labs「Apex accelerator malicious npm packages」 https://www.elastic.co/security-labs/threat-command/apex-accelerator-malicious-npm-packages
+
+#生成AI #Anthropic #Nvidia #量子コンピュータ #量子誤り訂正 #セキュリティ #AIエージェント #AIニュース #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-20-ai/ai_yukkuri.m4a" length="11313651" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Character.AI破産でDisneyが社員の大半を採用、AIの鍵を盗むAoki【2026/10/19】</title>
       <description>破産したCharacter.AIの社員の大半をDisneyが採用し、Anthropicは若手の技術職が21％から14％に減ったと公表しました。OpenAIとAppleは互いに設計の持ち出しを訴え合っています。「人と鍵の行き先」を軸に、生成AI・量子・セキュリティを横断して解説します。
 
