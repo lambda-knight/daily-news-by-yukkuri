@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>クラウドIBM機で表面符号の距離抑制、GoogleはAI回路最適化コンペ 論文5本【2026/10/20】</title>
+      <description>2026年10月16日投稿の量子コンピュータ・量子情報論文5本を、比較条件、数式、数値、限界まで大学院セミナー水準で解説します。
+
+▼ 今日の論文ラインナップ
+・クラウドのIBM Nighthawk機で、表面符号メモリの論理誤りを符号距離で抑える — パシフィック・ノースウェスト国立研究所ほか（arxiv:2610.23840）
+・古典的に検証できる回路構造を足場に、AIエージェントで誤り耐性回路のコンパイルを競う — Google Quantum AI（arxiv:2610.23832）
+・デルタシグマ変調で、3ビットの低分解能DACでも連続変数QKDの鍵を取り戻す — 中山大学（arxiv:2610.23654）
+・ニューラルネットワーク波動関数AnyNetで、20個までのアーベル・エニオン気体を解く — インペリアル・カレッジ・ロンドン、プリンストン大学ほか（arxiv:2610.23815）
+・IQP特徴マップ量子カーネルの表現力を、再生核ヒルベルト空間のフーリエ表示で3領域に分ける — Repetto氏ら（arxiv:2610.23692）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2610.23840 — Demonstration of Logical Error Suppression in a Surface Code Memory on a Cloud-Accessible IBM Superconducting Processor
+https://arxiv.org/abs/2610.23832 — Leveraging verifiable structure in quantum circuits to find more efficient compilations with agentic AI
+https://arxiv.org/abs/2610.23654 — Delta-sigma noise shaping for low-resolution quantization in Gaussian-modulated continuous-variable quantum key distribution
+https://arxiv.org/abs/2610.23815 — Anyonic Neural Network Wavefunctions
+https://arxiv.org/abs/2610.23692 — Expressivity of IQP Feature-Map Quantum Kernels via Reproducing Kernel Hilbert Spaces
+
+#量子コンピュータ #量子誤り訂正 #表面符号 #IBM #Google #量子鍵配送 #エニオン #量子機械学習 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-20-arxiv-qc/arxiv_qc_yukkuri.m4a" length="9921471" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_qc-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>1ブロック1,426論理量子ビットを汎用プロセッサに、光子の決定論的融合まで 論文5本【2026/10/19】</title>
       <description>2026年10月13〜15日投稿の量子コンピュータ・量子情報論文5本を、比較条件、数式、数値、限界まで大学院セミナー水準で解説します。
 
