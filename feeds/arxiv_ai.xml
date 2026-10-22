@@ -26,6 +26,31 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>OLMoEの細粒度MoE、MLAキャッシュの2ビット化、MoE自己教師と蒸留2本 AI論文5本【2026/10/20】</title>
+      <description>64個の小さな専門家から8個を選ぶ構成を対照実験で決め、データ・コード・学習ログまで公開したOLMoE、MLAの潜在KVキャッシュを回転と量子化範囲の同時較正で2ビットにするRoLaQ、MoEの活性専門家数を増やした自分自身を教師にして元の活性数へ蒸留し戻すMoEvolve、オンポリシー蒸留の教師フィードバックを系列全体の信用に集約するGR-OPD、生徒自身の下書きから学べる推論過程を選んで蒸留するReDiSTを、比較条件と限界まで解説します。
+
+▼ 今日の論文ラインナップ
+・64個の小さな専門家から8個を選ぶMoEを、データと学習ログまで公開 — Allen Institute for AI ほか（arxiv:2409.02060）
+・MLAの潜在KVキャッシュを回転と量子化範囲の同時較正で2ビットにする — ハルビン工業大学・清華大学・百度（arxiv:2610.20686）
+・MoEの活性専門家数を増やした自分自身を教師にして、元の活性数へ蒸留し戻す — 北京航空航天大学・BIGAI・美団（arxiv:2610.23185）
+・オンポリシー蒸留の教師フィードバックを系列全体の信用に集約して割り当てる — 上海交通大学・アリババグループ（arxiv:2610.23042）
+・生徒自身の下書きを根拠に沿って直し、生徒が学べる推論過程を選んで蒸留する — ストーニーブルック大学・Meta AI（arxiv:2610.23831）
+
+▼ 参考論文（arXiv）
+https://arxiv.org/abs/2409.02060 — OLMoE: Open Mixture-of-Experts Language Models
+https://arxiv.org/abs/2610.20686 — RoLaQ: Joint Rotation and Range Calibration for 2-Bit KV Caches in Multi-Head Latent Attention
+https://arxiv.org/abs/2610.23185 — A Stronger Teacher Within: Strengthening MoE Models via On-Policy Bidirectional Distillation
+https://arxiv.org/abs/2610.23042 — GR-OPD: Group-Relative Sequence Credit for On-Policy Distillation
+https://arxiv.org/abs/2610.23831 — Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation
+
+#生成AI #LLM #MoE #OLMoE #KVキャッシュ #量子化 #蒸留 #オンポリシー蒸留 #arxiv #論文解説 #ずんだもん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-20-arxiv-ai/arxiv_ai_yukkuri.m4a" length="10256734" type="audio/mp4"/>
+      <guid isPermaLink="false">arxiv_ai-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>MiniMax-01の7対1ハイブリッド注意と位置の混成、MiniLLMから続く逆方向KL蒸留3本 AI論文5本【2026/10/19】</title>
       <description>ライトニング注意7層ごとにソフトマックス注意を1層挟む4560億パラメータの公開モデルMiniMax-01、ハイブリッドモデルの長文脈性能をNoPEと位置の偏りを持つ注意の分担から説明する新着、逆方向KLでオンポリシー蒸留を始めたMiniLLM、その逆方向KLが届かない位置をJS発散で選んで順方向KLを足すDrOPD、視覚言語モデルのオンポリシー蒸留が教師の「解答を書き終えない」癖まで引き継ぐことを示した研究を、比較条件と限界まで解説します。
 
