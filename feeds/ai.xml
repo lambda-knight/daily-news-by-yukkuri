@@ -26,6 +26,54 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>AIが見つけたPHPの古い欠陥、修正4日前から攻撃 ほか今週のAI・量子・セキュリティ 2026/10/23</title>
+      <description>パスワードやAPIキーといった「鍵」をAIに預ける場面が急に増え、その鍵を狙う攻撃が同じ週に重なりました。「AIに何を預けるか」を軸に、生成AI・量子・セキュリティを横断して解説します。
+
+▼ 今日のトピック
+・Microsoftの診断AI「MAI-DxO」、難しい症例で83％、ただし伸びの多くは土台のモデルから（Science）
+・OpenAI、評価額1兆2500億ドルで最大300億ドルの調達を交渉、Uberは全社員3万人にChatGPT Work
+・OpenAIの会議室に盗聴器、サウジとのつながりを指摘された元技術者は保釈認められず
+・1Password for Agents、パスワードを見せずにAIエージェントへログインを任せる仕組み
+・Quantinuum、カラーコードで論理誤り1ラウンド100万分の5、1ラウンド約0.2秒の遅さも
+・PHP2Shell、AIが見つけた古い欠陥、修正の4日前から攻撃の試み
+・ConnectWise侵害、Microsoftが中国系集団とAIエージェントによる毎分3000回近いログイン試行を指摘
+・LiteLLMの配布経路が乗っ取られ、クラウドとAIの鍵を盗む版が公開
+・直近1週間のセキュリティインシデント6件（カプコン、Railway、Arista、eMudhra、Meta Muse、INTERPOL）
+
+▼ 参考記事・ソース
+・TechCrunch: Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence' https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/
+・TechCrunch: OpenAI working on new $30B raise at $1.25T valuation ahead of IPO https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/
+・TechCrunch: Uber puts all 30,000 employees on ChatGPT Work https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/
+・Al Jazeera: Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor
+・SF Standard: Accused OpenAI spy had ties to Saudi royal, prosecutors say https://sfstandard.com/2026/10/19/accused-openai-spy-had-ties-saudi-royal-prosecutors-say/
+・Wired: OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/
+・TechCrunch: 1Password launches a way for AI agents to log in on your behalf without seeing your password https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/
+・The Quantum Insider: Quantinuum Reports a 10x Reduction in Logical Error Rate on Helios https://thequantuminsider.com/2026/10/19/quantinuum-reports-a-10x-reduction-in-logical-error-rate-on-helios/
+・PostQuantum: Quantinuum color code on Helios https://postquantum.com/industry-news/quantinuum-color-code-helios/
+・Quantum Computing Report: News (Quantinuum and Oracle OCI Quantum AI Compute Beta, 10月22日) https://quantumcomputingreport.com/news/
+・KrebsOnSecurity: Widespread PHP Flaw May Cause Many Site Outages Today https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/
+・BleepingComputer: Amazon says PHP2Shell exploitation began 4 days before patches https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/
+・Wired: 'This Is Not a Drill': Critical PHP Vulnerabilities Are Setting the Internet on Fire https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/
+・JPCERT/CC: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起 https://www.jpcert.or.jp/at/2026/at260033.html
+・IPA: PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell) https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html
+・TechCrunch: Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/
+・BleepingComputer: LiteLLM release pipeline hacked to distribute info-stealer malware https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/
+・BleepingComputer: Capcom confirms data breach affecting 11.7 million accounts https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/
+・BleepingComputer: Railway warns devs to rotate secrets after potential breach https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/
+・BleepingComputer: Arista patches new VeloCloud Orchestrator zero-day exploited in attacks https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/
+・The Hacker News: eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html
+・Ars Technica: Disgraced eMudhra drops out of TLS business after using cert private key of 4 https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/
+・Futurism: Meta Muse share links exposed private chats https://futurism.com/future-society/meta-muse-ai-agent-sharing-private-data
+・The Hacker News: INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース #量子コンピュータ</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-23-ai/ai_yukkuri.m4a" length="10974713" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIの安全装置が守る側を止めた、1人のハッカーはAIで100社超に侵入【2026/10/20】</title>
       <description>OpenCodeの鍵流出では、防御の解析に使ったAIが協力を拒みました。一方、Reutersは1人のハッカーがAIエージェントで100社超に侵入し、成功1件あたり約50ドルだったと報じています。「ガードレールは誰を止めたか」を軸に、生成AI・量子・セキュリティを横断して解説します。
 
