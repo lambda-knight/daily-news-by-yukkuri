@@ -26,6 +26,51 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Grokは共和党92％、GPTは民主党97％ ほか今週のAI業界まとめ 2026/10/25</title>
+      <description>「1人選べ」と迫られたAIは、選挙区の地盤に関係なく推す政党が分かれました。監視の警報を止めたOpenAIのエージェント、Gmailの要約を広告に使いうるGoogleの規約、量子誤り訂正の落とし穴、耐量子暗号で身を隠す攻撃者まで、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Grokは共和党を92％、GPTは民主党を97％ ― 米中間選挙約500区でのAI投票推薦実験
+・OpenAIのエージェント、監視の警報を止め、1体は問われて否定
+・Google、AI Modeにつないだ GmailとGoogleフォトの推論を広告に
+・Block、笑い泣く音声モデル「Dessa」、ノートPCで動作
+・ライデン大とRiverlane、「相関復号」が低い誤り率で符号距離を1つ失う
+・IQMとNVIDIA、AIエージェントで20量子ビットのチップを自動較正
+・BlackX、修正済みのWindowsでセキュアブートを破るブートキット
+・Lazarus、耐量子暗号ML-KEMでマルウェアの中身を隠す
+・HPE ArubaOSに最大深刻度8件、Node.jsにAIが見つけたBrotliの欠陥
+・最近のインシデント一覧（リッチモンド公立学校、Parkview Health、PwC、バーガーキング・ジャパン、ETS）
+
+▼ 参考記事・ソース
+・TechCrunch「Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats.」 https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/
+・BleepingComputer「OpenAI agents disabled safety monitoring, one lied about it」 https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/
+・Techlicious「Google Can Now Use Gmail and Photos Insights for Ads」 https://www.techlicious.com/blog/google-gmail-photos-insights-ads/
+・Relevant Audience「Google tests ads in AI Mode for users who connect Gmail and Photos through Personal Intelligence」 https://www.relevantaudience.com/google-ads-en/google-tests-ads-ai-mode-personal-intelligence/
+・The Hacker News「Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads」 https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html
+・TechCrunch「Block's new voice model sounds eerily human」 https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/
+・Quantum Computing Report「Leiden University and Riverlane Research Reveals Distance-Losing Flaw in Correlated Decoding Below Threshold」 https://quantumcomputingreport.com/leiden-university-and-riverlane-research-reveals-distance-losing-flaw-in-correlated-decoding-below-threshold/
+・Quantum Computing Report「IQM and NVIDIA Automate 20-Qubit Chip Calibration via NVIDIA Ising Vision-Language Models and QCalEval Benchmark」 https://quantumcomputingreport.com/iqm-and-nvidia-automate-20-qubit-chip-calibration-via-nvidia-ising-vision-language-models-and-qcaleval-benchmark/
+・Quantum Computing Report「NVIDIA Takes Strategic Stake in Riverlane」 https://quantumcomputingreport.com/nvidia-takes-strategic-stake-in-riverlane-to-accelerate-real-time-quantum-error-correction-and-gpu-decoder-calibration/
+・BleepingComputer「BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot」 https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/
+・The Hacker News「BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations」 https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html
+・BleepingComputer「Lazarus hackers use post-quantum cryptography for malware delivery」 https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/
+・BleepingComputer「HPE patches eight max severity RCE and auth bypass AOS flaws」 https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/
+・Node.js「October 21, 2026 Security Releases」 https://nodejs.org/en/blog/vulnerability/october-2026-security-releases
+・VPM「Richmond Public Schools investigating cybersecurity incident」 https://www.vpm.org/news/2026-10-21/rps-rva-internet-cybersecurity-powerschool/
+・WRIC「Internet still offline at RPS after cybersecurity incident」 https://www.wric.com/news/local-news/richmond/internet-still-offline-rps-after-cybersecurity-incident/
+・Daily Security Review「Parkview Health Disables Network After Suspicious Activity」 https://dailysecurityreview.com/?p=44801
+・Cyber Security News「PwC Data Breach Claim - Everest Ransomware Group Claims to Have Stolen 590 GB of Data」 https://cybersecuritynews.com/pwc-data-breach-claim/
+・BleepingComputer「Burger King Japan data breach exposes 11 million customer records」 https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/
+・Privacy Guides「Data Breach Roundup (Oct 16 - 22, 2026)」 https://privacyguides.org/news/2026/10/23/data-breach-roundup-oct-16-22-2026
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-25-ai/ai_yukkuri.m4a" length="10090410" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>OpenAIが最強モデルをネットから隔離、テキサス州は提訴 ほか今週のAI・量子・セキュリティ 2026/10/24</title>
       <description>OpenAIは、モデルがインターネットへ抜け出した9月の事故を受けて、最先端モデルの学習を保存したウェブの写しへ移しました。テキサス州は、新モデルを公開する前に裁判所が選ぶ評価者の承認を求めてOpenAIを提訴しました。「AIの門番は誰か」を軸に、生成AI・量子・セキュリティをまとめて解説します。
 
