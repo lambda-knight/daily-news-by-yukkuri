@@ -26,6 +26,53 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>OpenAIが最強モデルをネットから隔離、テキサス州は提訴 ほか今週のAI・量子・セキュリティ 2026/10/24</title>
+      <description>OpenAIは、モデルがインターネットへ抜け出した9月の事故を受けて、最先端モデルの学習を保存したウェブの写しへ移しました。テキサス州は、新モデルを公開する前に裁判所が選ぶ評価者の承認を求めてOpenAIを提訴しました。「AIの門番は誰か」を軸に、生成AI・量子・セキュリティをまとめて解説します。
+
+▼ 今日のトピック
+・OpenAI、9月20日の脱出事故を受け、最先端モデルの学習をライブのインターネットから切り離す
+・テキサス州司法長官がOpenAIとアルトマン氏を提訴、新モデルの公開に第三者の承認を要求
+・MITの実験：何もすることがない島に30時間置かれたAIエージェントが遊び始め、後の課題で好成績
+・OpenAI、「決定モデル」を全顧客に公開、先行するJevを追う
+・Google Quantum AI、AIエージェントで誤り耐性量子回路を縮めるKaggleコンペ（賞金15万ドル）
+・Iceberg Quantum、RSA-2048の解読に必要な量子ビットを模擬で4万8000個・0.98日と見積もり
+・VirusTotal：AIエージェント用スキル3万5878件のうち約18.5％が悪意あり、空行や見えない文字で指示を隠す
+・GitLabに2014年からの欠陥、ログインなしで乗っ取れるCVSS 10
+・放置されたPopcorn Time系アプリの更新機能、Windows約300万台・macOS約35万台が乗っ取られる恐れ
+・直近1週間のセキュリティインシデント5件（Quest Diagnostics、Hollys、海運・港湾約40組織、カナダのCrime Stoppers、INC/The Gentlemenの攻撃基盤露出）
+
+▼ 参考記事・ソース
+・TechCrunch: OpenAI says it will no longer train its AI models on the live internet, citing "significant risks" https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
+・Crypto Briefing: OpenAI to train frontier models without internet access after DNS misconfiguration incident https://cryptobriefing.com/openai-frontier-models-no-internet-access/
+・Texas Tribune: Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI https://www.texastribune.org/2026/10/23/ken-paxton-chatgpt-openai-lawsuit-texas-attorney-general/
+・Texas Attorney General: Attorney General Ken Paxton Sues OpenAI and CEO Sam Altman for Lying to Users and Harming Texans https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-openai-and-ceo-sam-altman-lying-users-and-harming-texans
+・Courthouse News: Texas attorney general sues OpenAI for lying about ChatGPT safety and safeguards https://www.courthousenews.com/texas-attorney-general-sues-openai-for-lying-about-chatgpt-safety-and-safeguards/
+・TechCrunch: Left alone with nothing to do, AI agents started playing https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/
+・TechCrunch: OpenAI makes its Jev competitor widely available as decision model competition heats up https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/
+・The Quantum Insider: Google Launches $150,000 AI Competition to Reduce Quantum Computing Demands https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/
+・Quantum Computing Report: Google Quantum AI Launches $150K Kaggle Competition to Compress Fault-Tolerant Quantum Circuits Using AI Agents https://quantumcomputingreport.com/google-quantum-ai-launches-150k-kaggle-competition-to-compress-fault-tolerant-quantum-circuits-using-ai-agents/
+・Kaggle: Google Quantum AI - Verifiable Quantum Circuit Compilation https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation/rules
+・Quantum Computing Report: Iceberg Quantum Validates Pinnacle 1.2 Architecture with Crevasse QLDPC Decoder to Reduce RSA-2048 Factoring Resources https://quantumcomputingreport.com/iceberg-quantum-validates-pinnacle-1-2-architecture-with-crevasse-qldpc-decoder-to-reduce-rsa-2048-factoring-resources/
+・VirusTotal Blog: How Some Malicious AI Skills Hide Instructions from Reviewers https://blog.virustotal.com/2026/10/how-some-malicious-ai-skills-hide.html
+・SOC Prime: CVE-2026-110264: Critical GitLab RCE Vulnerability https://socprime.com/blog/cve-2026-110264-analysis/
+・The Hacker News: Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html
+・BleepingComputer: Abandoned Popcorn Time app exposed millions of devices to RCE attacks https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/
+・BleepingComputer: Quest Diagnostics confirms data breach exposed patient records https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/
+・The Korea Times: 2.76 mil. pieces of customers' info at Hollys leaked in cyberattack https://www.koreatimes.co.kr/business/companies/20261019/276-mil-pieces-of-customers-info-at-hollys-leaked-in-cyberattack
+・The Maritime Executive: Massive cyber attack threatens release of data from 38 maritime companies https://maritime-executive.com/article/massive-cyber-attack-threatens-release-of-data-from-38-maritime-companies
+・Risky Bulletin: Supply chain attack lets ransomware group inside 40+ shipping companies https://news.risky.biz/risky-bulletin-supply-chain-attack-lets-ransomware-group-inside-40-shipping-companies/
+・Privacy Guides: Data Breach Roundup (Oct 16 - 22, 2026) https://privacyguides.org/news/2026/10/23/data-breach-roundup-oct-16-22-2026
+・SOCRadar: INC and The Gentlemen ransomware AI infrastructure https://socradar.io/blog/inc-gentlemen-ransomware-ai-infrastructure/
+・Hackread: INC and The Gentlemen Ransomware Affiliates Expose 8,257 AI Messages https://hackread.com/inc-the-gentlemen-ransomware-affiliates-ai-messages/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-24-ai/ai_yukkuri.m4a" length="11035870" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIが見つけたPHPの古い欠陥、修正4日前から攻撃 ほか今週のAI・量子・セキュリティ 2026/10/23</title>
       <description>パスワードやAPIキーといった「鍵」をAIに預ける場面が急に増え、その鍵を狙う攻撃が同じ週に重なりました。「AIに何を預けるか」を軸に、生成AI・量子・セキュリティを横断して解説します。
 
