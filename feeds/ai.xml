@@ -74,6 +74,51 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
+      <title>【速報】Claudeに「許可済み」ファイル1枚で攻撃させた犯罪集団、Anthropic法案草案ほか AI業界まとめ 2026/10/22</title>
+      <description>CrowdStrikeの分析で、4つの犯罪集団が作業フォルダーに「承認済み」のファイルを置くだけでClaudeに侵入テストだと信じ込ませ、自律攻撃を回していたことが分かりました。Anthropicの「公開停止」法案草案、Claudeが64時間で設計したサソリ毒の結合タンパク質、WhatsAppのAI窓口に隠れていた「規制当局を勧めるな」の指示まで、「その許可は誰が出したのか」を軸に生成AI・量子・セキュリティを解説します。
+
+▼ 今日のトピック
+・Anthropicの法案草案（50人の死者か10億ドルで公開停止）と、Encodeの9項目の批判へのアモデイCEOの2000語の反論
+・Claude、64時間で31万個超を設計し、211個中17個がサソリ毒に結合。抗毒素ではないと明記
+・WhatsAppのヘルプページ約80枚に、Metaのチャットボット向けの隠れた指示
+・GoogleのTorchTPUとAmazonのTorchNeuron、PyTorchをNvidia以外のチップへ
+・トランプ大統領「データセンターは自前の電力を」、メンフィス市議会は135日の建設停止
+・Pasqal、AIエージェントが論文から量子実験まで、論文の約49％は今の機械で実行可能
+・Alice &amp; Bob、フランスPROQCIMA第1段階、論理誤りはまだしきい値の上
+・CrowdStrike、4つの犯罪集団がClaudeやDeepSeekで自律攻撃、アルゼンチンの医療機関15組織に侵入
+・FBIなどがランサムウェアSafePayを警告、被害は600組織超
+・直近1週間のセキュリティインシデント5件（お名前.com デスクトップクラウド、Zeabur、PingCAP、日本経済新聞社、SBI）
+
+▼ 参考記事・ソース
+・TechCrunch「Anthropic pitches AI safety bill that may block a model if 50 people could be killed」 https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/
+・Business Insider (DNYUZ転載)「Dario Amodei spent 2,000 words laying out to a critic on X why Anthropic must persist in the AI 'race to the top'」 https://dnyuz.com/?p=307243
+・Fox News「AI live updates, October 21」 https://www.foxnews.com/live-news/ai-artificial-super-intelligence-regulation-midterms-congress-october-21
+・Anthropic「Claude scorpion toxin binder design」 https://anthropic.com/research/claude-scorpion-toxin-binder-design
+・WIRED「WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot」 https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/
+・TechCrunch「Google has joined Amazon in attacking Nvidia's stronghold with AI app developers」 https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/
+・Al Jazeera「Trump says AI data centres should pay 'dividends' in pre-midterm shift」 https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift
+・CBS News「Memphis data center moratorium city council vote」 https://cbsnews.com/news/memphis-data-center-moratorium-city-council-vote/
+・Quantum Computing Report「Pasqal launches Neutral-Atom Agentic Toolkit」 https://quantumcomputingreport.com/pasqal-launches-neutral-atom-agentic-toolkit-and-demonstrates-qpu-workflows-across-258-quantum-physics-papers/
+・arXiv:2607.25834 https://arxiv.org/abs/2607.25834
+・The Quantum Insider「Alice &amp; Bob Reports Cat-Qubit Progress in French Quantum Computing Program」 https://thequantuminsider.com/2026/10/20/alice-bob-reports-cat-qubit-progress-in-french-quantum-computing-program/
+・WIRED「AI Guardrails Aren't Stopping Criminal Hackers」 https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/
+・BleepingComputer「CISA and FBI: SafePay ransomware has hit over 600 critical infrastructure organizations」 https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/
+・Cybersecurity Dive「FBI, CISA warn of SafePay ransomware threat」 https://www.cybersecuritydive.com/news/fbi-cisa-warn-safepay-ransomware-threat-critical-infrastructure/833589/
+・The Record「FBI says SafePay ransomware gang among most active」 https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims
+・お名前.com「デスクトップクラウドへの不正アクセスについて」 https://www.onamae.com/news/article/11584
+・BleepingComputer「Zeabur shutting down after second security breach in two months」 https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/
+・PingCAP「Security Update October 2026」 https://www.pingcap.com/trust-hub/security/security-update-october-2026/
+・ITPro「Nikkei admits millions of records stolen」 https://www.itpro.com/security/data-breaches/nikkei-admits-millions-of-records-stolen-after-reporting-third-breach-in-a-month
+・The Week「3,897 SBI customers' data leaked on dark web」 https://www.theweek.in/news/biz-tech/2026/10/21/is-your-bank-account-safe-3897-sbi-customers-data-leaked-on-dark-web.amp.html
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-22-ai/ai_yukkuri.m4a" length="11763643" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIの安全装置が守る側を止めた、1人のハッカーはAIで100社超に侵入【2026/10/20】</title>
       <description>OpenCodeの鍵流出では、防御の解析に使ったAIが協力を拒みました。一方、Reutersは1人のハッカーがAIエージェントで100社超に侵入し、成功1件あたり約50ドルだったと報じています。「ガードレールは誰を止めたか」を軸に、生成AI・量子・セキュリティを横断して解説します。
 
