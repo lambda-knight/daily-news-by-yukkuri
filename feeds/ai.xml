@@ -211,6 +211,44 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
+      <title>米政府がDeepSeekを排除、Microsoftは「どのモデルも信用するな」【2026/10/21】</title>
+      <description>米国土安全保障省は、DeepSeekの製品とそれを使った第三者の製品まで連邦の文民機関から取り除くよう命じました。Microsoftは、どの会社の最先端モデルも信用できないとして、AIエージェントを「内部の脅威」として見張る仕組みを発表しています。「AIを誰が信用し、失敗の責任を誰が負うか」を軸に、生成AI・量子・セキュリティを横断して解説します。
+
+▼ 今日のトピック
+・米国土安全保障省、連邦の文民機関からDeepSeekを排除、第三者の製品も対象
+・Microsoft、AIエージェントを監視するGuardian Agents、「最先端モデルは信用できない」
+・Meta、海賊版の本をトレントで集めた判断の責任者を名指しするよう裁判所が命令
+・英FCA、AIの失敗と「ヒヤリハット」も事故報告の対象にすべきと講演
+・理化学研究所、シリコン量子ビット5個を1本の配線で同時に操作、5個同時で約99.9％
+・NowSecure調査、モバイルアプリの96.9％に耐量子暗号のコードなし
+・curl、AIが書いた脆弱性報告の「雪崩」で深刻度が中程度以下の報告を公開の場へ
+・Palo AltoのVPNの欠陥CVE-2026-0257、6月からQilinとINCが悪用
+・直近1週間のセキュリティインシデント5件（Ahold Delhaize、フロリダ州運転免許当局、ベオグラード大学学長のPegasus感染、APT28の造船会社侵入、ウェールズのData CymruとOgi）
+
+▼ 参考記事・ソース
+・TechCrunch「US orders federal agencies to remove China's DeepSeek AI from their systems」 https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/
+・The Register「DeepSeek deep-sixed at all US federal civilian agencies」 https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010
+・TechCrunch「Microsoft says AI agents are like insider threats as 'frontier models can't be trusted'」 https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/
+・Ars Technica「Meta tries to scapegoat staff who downloaded torrents to spare execs」 https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/
+・The Register「UK finance watchdog wants firms to report AI failures and close calls」 https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078
+・The Quantum Insider「RIKEN Team Improves Parallel Control of Silicon Spin Qubits」 https://thequantuminsider.com/2026/10/19/riken-team-improves-parallel-control-of-silicon-spin-qubits/
+・The Quantum Insider「NowSecure Finds No Detectable PQC Code in 97% of Mobile Apps」 https://thequantuminsider.com/2026/10/20/nowsecure-97-percent-mobile-apps-no-pqc-code/
+・The Register「Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'」 https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198
+・The Register「Palo Alto's firewall OS has been under attack from multiple ransomware groups since June」 https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226
+・The Register「Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline」 https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970
+・Ars Technica「Florida DMV hacked after police dept insecurely stored login info」 https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/
+・AP (KSAT)「Serbian rector's phone was infected with spyware during student protests, group says」 https://www.ksat.com/tech/2026/10/19/serbian-rectors-phone-was-infected-with-spyware-during-student-protests-group-says/
+・The Hacker News「Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader」 https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html
+・The Register「'Password1' and a forgotten test account land Welsh outfits in hot water」 https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139
+
+#生成AI #DeepSeek #Microsoft #Meta #量子コンピュータ #耐量子暗号 #理化学研究所 #セキュリティ #AIエージェント #AIニュース #ずんだもん #四国めたん</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-21-ai/ai_yukkuri.m4a" length="8278215" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIの安全装置が守る側を止めた、1人のハッカーはAIで100社超に侵入【2026/10/20】</title>
       <description>OpenCodeの鍵流出では、防御の解析に使ったAIが協力を拒みました。一方、Reutersは1人のハッカーがAIエージェントで100社超に侵入し、成功1件あたり約50ドルだったと報じています。「ガードレールは誰を止めたか」を軸に、生成AI・量子・セキュリティを横断して解説します。
 
