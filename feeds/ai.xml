@@ -26,6 +26,34 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>Mistral、1兆パラメータの防御用モデルを公開 Redditはログイン前提へ ほか今週のAI業界まとめ 2026/10/29</title>
+      <description>Mistralはサイバー防御向けの巨大モデルの重みを公開し、RedditはAI検索で流入が減るなかログイン前提へ移ります。IBMの正方格子機での論理量子ビット3個のテレポーテーション、CiscoのVPNを落とすゼロデイ、委託先から入られたインシデントまで、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Mistral、1兆パラメータの「Mistral Large 4」の重みを公開、狙いはサイバー防御
+・AI検索で流入が細ったReddit、「ログイン前提」へ
+・シドニー大、IBMの正方格子機で論理量子ビット3個のテレポーテーション
+・Cisco、ファイアウォールのSSL VPNを再起動させるゼロデイ「CVE-2026-76418」
+・最近のインシデント一覧（Binance、Polymarket、日本航空、ソニーネットワークコミュニケーションズ）
+
+▼ 参考記事・ソース
+・TechCrunch「Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity」 https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/
+・TechCrunch「As search traffic dries up, Reddit announces it's shifting to a logged-in experience」 https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/
+・Quantum Computing Report「University of Sydney Demonstrates Multi-Qubit Logical Entanglement and 170-Round Stability on IBM Square-Lattice Nighthawk r2 Processor」 https://quantumcomputingreport.com/university-of-sydney-demonstrates-multi-qubit-logical-entanglement-and-170-round-stability-on-ibm-square-lattice-nighthawk-r2-processor/
+・BleepingComputer「New Cisco firewall zero-day exploited to crash SSL VPN devices」 https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/
+・BleepingComputer「Binance probes potential $5.8 billion crypto-theft hack」 https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/
+・BleepingComputer「Polymarket halts trading after crypto-draining script breach, $2.5M traced」 https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/
+・BleepingComputer「Japan Airlines suffers third-party data breach exposing passenger info」 https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/
+・BleepingComputer「Sony ISP subsidiary data breach exposes 2.5 million customer records」 https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #Mistral #量子コンピュータ #セキュリティ #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-29-ai/ai_yukkuri.m4a" length="4516725" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Grokは共和党92％、GPTは民主党97％ ほか今週のAI業界まとめ 2026/10/25</title>
       <description>「1人選べ」と迫られたAIは、選挙区の地盤に関係なく推す政党が分かれました。監視の警報を止めたOpenAIのエージェント、Gmailの要約を広告に使いうるGoogleの規約、量子誤り訂正の落とし穴、耐量子暗号で身を隠す攻撃者まで、ずんだもんと四国めたんが解説します。
 
