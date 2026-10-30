@@ -26,6 +26,48 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Googleの宇宙データセンター衛星が稼働、AI「幽霊学生」83万口座とBinance63億ドル流出 2026/10/31</title>
+      <description>Googleは宇宙に打ち上げたTPU搭載の試験衛星「Suncatcher」でGemma 4を動かし、米司法省はAIで授業をこなして奨学金をだまし取る「幽霊学生」83万口座・最大1.3億ドルの詐欺網を摘発しました。神を信じないヒューマニストが勝ち取った職場AIの「宗教的免除」、仏Pasqalの256原子プロセッサーが捉えた量子磁石の減速、延世大学のMamba復号器、Cursorで配られた偽Claude Code拡張機能、被害総額63億ドルに膨らんだBinance流出の続報まで、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Googleの宇宙データセンター試験衛星「Suncatcher」が稼働、TPUでGemma 4が俳句を詠む
+・AIで授業をこなす「幽霊学生」83万口座、米司法省が奨学金詐欺で5人を起訴
+・神を信じなくても「宗教上の配慮」で職場のAIを拒否、ケンタッキー大学が職員に免除を承認／OpenAIはChatGPT Proの利用枠半減を撤回して2倍へ
+・仏Pasqalの256原子プロセッサー、古典計算が追えない2次元量子磁石の「減速」を観測
+・韓国・延世大学、状態空間モデル「Mamba」で表面符号の復号計算量を4乗から2乗へ削減
+・Cursorの公式マーケットプレイスに偽の「Claude Code」拡張機能、11時間で最大5000人にSSH裏口
+・Binanceの流出額は史上最大の63億ドルへ、エンジニアのPC侵害から20分で抜かれる
+・最近のインシデント一覧（米国土安全保障省DHSの4.1万人名簿流出、Trezorの不正基板、Drupal Commerce Core、GitLab、WordPress、TianoCore UEFI、オンラインポーカー高額卓の画面盗み見）
+
+▼ 参考記事・ソース
+・TechCrunch「Google's first data center satellite is online and writing poetry」 https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
+・Ars Technica「Thousands of "ghost students" use AI to steal millions in student loans, DOJ says」 https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/
+・TechCrunch「You don't need to believe in a god to get a religious exemption from using AI at work」 https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/
+・BleepingComputer「OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut」 https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/
+・Quantum Computing Report「Pasqal 256-Qubit Neutral-Atom Processor Observes Unpredicted Slowdown in 2D Quantum Magnet Dynamics」 https://quantumcomputingreport.com/pasqal-256-qubit-neutral-atom-processor-observes-unpredicted-slowdown-in-2d-quantum-magnet-dynamics/
+・Quantum Computing Report「Yonsei University Researchers Develop Mamba State-Space Neural Decoder to Enable Real-Time Quantum Error Correction」 https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/
+・WIRED「A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices」 https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/
+・BleepingComputer「Malicious Claude Code extension on Cursor planted SSH backdoors」 https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/
+・The Hacker News「Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor」 https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html
+・Ars Technica「Hackers steal $6.3 billion from Binance in record crypto heist」 https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/
+・WIRED「The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes」 https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/
+・BleepingComputer「Binance links $6.3 billion crypto theft to compromised DevOps laptop」 https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/
+・WIRED「Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents」 https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/
+・BleepingComputer「Trezor warns of suspected crypto-theft implant in hardware wallet」 https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/
+・BleepingComputer「Drupal warns of critical Commerce Core flaw exploited in attacks」 https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/
+・BleepingComputer「CISA says max severity GitLab flaw now exploited in the wild」 https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/
+・The Hacker News「WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours」 https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html
+・WIRED「Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw」 https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/
+・WIRED「A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards」 https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #量子コンピュータ #セキュリティ #ゆっくり解説 #ずんだもん #四国めたん #Google #OpenAI #Anthropic #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-31-ai/ai_yukkuri.m4a" length="10648366" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Anthropic上場申請、1年で1097億ドルの赤字と「三重の鍵」 ほか今週のAI業界まとめ 2026/10/30</title>
       <description>Anthropicは上場申請の書類で、公益法人・信託・創業者の3層で経営を握り続ける仕組みを示しました。AIの回答に広告を広げるGoogleと、ログイン必須へ向かうReddit、1兆パラメーターの重みを配ったMistral、GPT-4oの減薬指南をめぐる訴訟、IBMの新チップでの量子優位と誤り訂正、Binanceから最大58億ドル相当の流出疑いまで、ずんだもんと四国めたんが解説します。
 
