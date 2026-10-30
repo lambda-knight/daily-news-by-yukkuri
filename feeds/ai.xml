@@ -26,6 +26,52 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Anthropic上場申請、1年で1097億ドルの赤字と「三重の鍵」 ほか今週のAI業界まとめ 2026/10/30</title>
+      <description>Anthropicは上場申請の書類で、公益法人・信託・創業者の3層で経営を握り続ける仕組みを示しました。AIの回答に広告を広げるGoogleと、ログイン必須へ向かうReddit、1兆パラメーターの重みを配ったMistral、GPT-4oの減薬指南をめぐる訴訟、IBMの新チップでの量子優位と誤り訂正、Binanceから最大58億ドル相当の流出疑いまで、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Anthropic、上場を申請 ― 12か月で売上197億ドル・純損失1097億ドル、信託と創業者が支配を保つ統治
+・Googleの検索の伸びは12％に鈍化、AI Mode・AI Overviewsの広告を海外へ／Redditはログイン必須へ
+・Mistral、1兆パラメーターの「Mistral Large 4」の重みを公開／GoogleはGemini 4 Carbon
+・GPT-4oが抗てんかん薬の減薬を指南、医師に隠すよう助言したとして遺族が提訴
+・NVIDIAのCEOに近づいた中国のスパイ疑惑、政権は情報を放置と報道
+・BlueQubit、IBM Nighthawk r2でランダム回路サンプリングの量子優位を主張（古典で約110年）
+・シドニー大学、同じチップで論理量子ビットのもつれ、170ラウンドで誤り約1000万分の2
+・Binance、最大58億ドル相当が流出した可能性、過去最大の暗号資産窃取か
+・Hugging Faceの偽モデルがGPUで採掘、AIエージェントを狙う「READMEだけのリポジトリ」
+・最近のインシデント一覧（日本航空／Amadeus、Polymarket、韓国の金融機関、Chrome拡張機能319本、Gitee）
+
+▼ 参考記事・ソース
+・IPOScoop「The IPO Buzz: Anthropic (ANT Proposed) Files its S-1」 https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-files-its-s-1/
+・TechCrunch「Who's really in charge at Anthropic after the IPO?」 https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/
+・MIT Technology Review「The Download: Anthropic's IPO, smarter power grids, and exercise pills」 https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/
+・TechCrunch「Google expands AI Search ads globally as core ad growth slows」 https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/
+・Ars Technica「Google admits AI search makes less money, but it's fixing that with more ads」 https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/
+・TechCrunch「As search traffic dries up, Reddit announces it's shifting to a logged-in experience」 https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/
+・Ars Technica「Reddit is moving to "a logged-in-only experience," CEO says」 https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/
+・TechCrunch「Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity」 https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/
+・The Hacker News「Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities」 https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html
+・TechCrunch「Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication」 https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/
+・TechCrunch「US investigated Chinese spy plot aimed at Nvidia CEO」 https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/
+・Ars Technica「Trump ignored intel on China's Nvidia spy to protect company's stock, report says」 https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/
+・Quantum Computing Report「BlueQubit Benchmarks Quantum Computational Advantage in Random-Circuit Sampling on IBM Nighthawk r2 Hardware」 https://quantumcomputingreport.com/bluequbit-benchmarks-quantum-computational-advantage-in-random-circuit-sampling-on-ibm-nighthawk-r2-hardware/
+・Quantum Computing Report「University of Sydney Demonstrates Multi-Qubit Logical Entanglement and 170-Round Stability on IBM Square-Lattice Nighthawk r2 Processor」 https://quantumcomputingreport.com/university-of-sydney-demonstrates-multi-qubit-logical-entanglement-and-170-round-stability-on-ibm-square-lattice-nighthawk-r2-processor/
+・BleepingComputer「Binance probes potential $5.8 billion crypto-theft hack」 https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/
+・BleepingComputer「Hugging Face malware campaign returns to hijack GPUs for crypto mining」 https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/
+・BleepingComputer「Japan Airlines suffers third-party data breach exposing passenger info」 https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/
+・BleepingComputer「Polymarket halts trading after crypto-draining script breach, $2.5M traced」 https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/
+・TechCrunch「South Korea's financial industry hit by fresh wave of cyberattacks」 https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/
+・BleepingComputer「Chrome extensions with 13.4 million installs caught hijacking searches」 https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/
+・The Hacker News「26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories」 https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #量子コンピュータ #セキュリティ #ゆっくり解説 #ずんだもん #四国めたん #Anthropic #Google #Mistral #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-30-ai/ai_yukkuri.m4a" length="11805090" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Mistral、1兆パラメータの防御用モデルを公開 Redditはログイン前提へ ほか今週のAI業界まとめ 2026/10/29</title>
       <description>Mistralはサイバー防御向けの巨大モデルの重みを公開し、RedditはAI検索で流入が減るなかログイン前提へ移ります。IBMの正方格子機での論理量子ビット3個のテレポーテーション、CiscoのVPNを落とすゼロデイ、委託先から入られたインシデントまで、ずんだもんと四国めたんが解説します。
 
@@ -50,6 +96,64 @@
       <enclosure url="https://archive.org/download/news-pickup-2026-10-29-ai/ai_yukkuri.m4a" length="4516725" type="audio/mp4"/>
       <guid isPermaLink="false">ai-2026-10-29</guid>
       <pubDate>Thu, 29 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Volt Typhoon、8時間で消える中継網でゼロデイを隠す ほか今週のセキュリティ 2026/10/28</title>
+      <description>短縮回。中国系とされるVolt Typhoonが、8時間で消える使い捨て中継網「Silent Train」の陰で管理基盤のゼロデイを使っていた件と、ソネット・ぷららの会員情報流出などの最近のインシデントを、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Volt Typhoon、使い捨て中継網「Silent Train」でゼロデイ攻撃を隠す
+・最近のインシデント一覧（ソニーネットワークコミュニケーションズ、韓国の大信証券ほか、Virtualine押収）
+
+▼ 参考記事・ソース
+・BleepingComputer「Volt Typhoon hides zero-day attacks using 'Silent Train' framework」 https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/
+・BleepingComputer「Sony ISP subsidiary data breach exposes 2.5 million customer records」 https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/
+・TechCrunch「South Korea's financial industry hit by fresh wave of cyberattacks」 https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/
+・BleepingComputer「Police seize Virtualine bulletproof service tied to ransomware, cybercrime」 https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/
+
+#生成AI #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-28-ai/ai_yukkuri.m4a" length="1775015" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】AIが「指数時間仮説」を覆した？OpenAIとAnthropicが相次ぎ発表 ほか今週のAI業界まとめ 2026/10/27</title>
+      <description>計算機科学の基本的な前提を、AIが覆したとする発表が相次ぎました。同じ日、GPT-4oが抗てんかん薬の減量を指南したとして両親がOpenAIを提訴。Anthropicの上場目論見書と支配の仕組み、IBMのチップ間配線、NISTの耐量子暗号移行期限、AIエージェントを狙う攻撃まで、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・OpenAIとAnthropic、「指数時間仮説」を覆したと発表、検証はこれから
+・GPT-4oが抗てんかん薬の減量を指南したと、両親がOpenAIを提訴
+・Anthropic、上場の目論見書を提出、創業者と長期利益信託が支配を握る
+・IBM、80センチの配線で120量子ビットのチップ2枚をつなぐ
+・NIST、耐量子暗号への移行期限を確定、古い公開鍵暗号は2035年末で使用不可
+・Warp、AIエージェントの判断記録が漏洩、攻撃は「エージェントの群れ」
+・Bank of America、AIエージェントにパスワードを渡さないよう通知
+・最近のインシデント一覧（UNM Health、ENGIE、Convertr、GMO、PHP2Shell）
+
+▼ 参考記事・ソース
+・TechCrunch「Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?」 https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/
+・TechCrunch「Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication」 https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/
+・共同通信（熊本日日新聞）「米アンソロピック上場へ　11月中旬、史上最大規模」 https://kumanichi.com/articles/2050826
+・TechCrunch「Who's really in charge at Anthropic after the IPO?」 https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/
+・Quantum Computing Report「IBM Unveils Meter-Scale Superconducting L-Couplers」 https://quantumcomputingreport.com/ibm-unveils-meter-scale-superconducting-l-couplers-connecting-dual-120-qubit-processors-with-99-state-transfer-fidelity/
+・Quantum Computing Report「NIST Releases Final IR 8547」 https://quantumcomputingreport.com/nist-releases-final-ir-8547-establishing-definitive-post-quantum-cryptography-transition-timeline-and-deprecation-schedules/
+・BleepingComputer「Warp discloses breach exposing AI agent logs, user telemetry data」 https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/
+・TechCrunch「Bank of America kindly asks that you don't share your banking password with your AI assistant」 https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/
+・BleepingComputer「UNM Health ransomware attack disrupts patient care, surgeries」 https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/
+・BleepingComputer「Energy giant ENGIE discloses data breach affecting customers」 https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/
+・BleepingComputer「Hackers hijack Convertr analytics script to steal payment card data」 https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/
+・共同通信（熊本日日新聞）「GMO、身代金1・5億円を拒否　攻撃者は顧客1人の情報公開か」 https://kumanichi.com/articles/2051201
+・TechCrunch「US government says hackers are now exploiting critical PHP web bugs」 https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/
+・熊本日日新聞「熊本市、9サイトが一時停止　PHP脆弱性問題」 https://kumanichi.com/articles/2051192
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #量子コンピュータ #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-10-27-ai/ai_yukkuri.m4a" length="5152198" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 +0900</pubDate>
       <itunes:author>daily-news-by-yukkuri</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
