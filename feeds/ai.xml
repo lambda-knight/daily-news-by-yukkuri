@@ -26,6 +26,46 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】OpenAI調達目標を200億ドルへ、ダートマス大学の学務トップがAI利用不開示で辞任 2026/11/1</title>
+      <description>OpenAIは新たな資金調達の目標を300億ドルから200億ドルへ下げ、上場を申請したAnthropicには投機的等級「ダブルB」の格付け予想が出ました。Nvidiaは顧客Nscaleのデータセンター建設融資の保証を検討し、xAIのガスタービン訴訟は審理へ進みます。AIの不正を論じていたダートマス大学の学務トップが自らのAI利用を開示せず辞任した件、Quantinuumの「忠実度第一」とユーリヒの6.8ナノ秒ゲート、Foxconnの量子コンピュータ受託製造構想、エージェント型の攻撃で侵入されたChainalysis、盗んだ個人データをLLMに分析させる情報窃取マルウェア「Volta-Autodoxer」まで、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・OpenAIは調達目標を200億ドルへ下げ、Anthropicには「ジャンク」格付けの予想
+・Nvidiaが建設融資の保証を検討、xAIのガスタービン訴訟は審理へ
+・AIの不正を論じたダートマス大学の学務トップ、自らのAI利用を開示せず辞任
+・速さか正確さか、Quantinuumの「忠実度第一」とユーリヒの6.8ナノ秒ゲート
+・Foxconn、「技術を持たない世界最大の量子コンピュータ製造会社」をめざす
+・Chainalysis、「攻撃的なエージェント技術」で内部ツールに侵入される
+・情報窃取マルウェア「Volta-Autodoxer」、盗んだデータをLLMに分析させ標的を格付け
+・最近のインシデント一覧（Northflank、Cisco SD-WAN「KeyDrift」、偽アプリ「Padre Terminal」、Linuxカーネル、Android「SMS of Death」、ChatGPT共有リンク）
+
+▼ 参考記事・ソース
+・TechCrunch「OpenAI reportedly lowers funding target for new round」 https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
+・TechCrunch「Anthropic expected to receive high 'junk' rating from credit agencies following IPO, FT report says」 https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
+・TechCrunch「Nvidia weighs playing the cosigner for Nscale's AI data center in West Virginia」 https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/
+・TechCrunch「Judge allows NAACP lawsuit over xAI data center pollution to move forward」 https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/
+・Ars Technica「Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job」 https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/
+・Quantum Computing Report「Quantinuum Chief Scientist Argues Physical Fidelity Trumps Gate Speed in Fault-Tolerant Scaling Race」 https://quantumcomputingreport.com/quantinuum-chief-scientist-argues-physical-fidelity-trumps-gate-speed-in-fault-tolerant-scaling-race/
+・Quantum Computing Report「Forschungszentrum Jülich Demonstrates 6.8-Nanosecond Single-Qubit Gates with &gt; 99.98% Fidelity via Multi-Photon Leakage Suppression」 https://quantumcomputingreport.com/forschungszentrum-julich-demonstrates-6-8-nanosecond-single-qubit-gates-with-99-98-fidelity-via-multi-photon-leakage-suppression/
+・The Quantum Insider「Foxconn Aims to Become World's Largest Quantum Computer Manufacturer」 https://thequantuminsider.com/2026/10/30/foxconn-aims-to-become-worlds-largest-quantum-computer-manufacturer/
+・BleepingComputer「Chainalysis discloses data breach from "offensive agentic techniques"」 https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/
+・The Hacker News「Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data」 https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html
+・WIRED「Spooky New Infostealer Malware Uses AI to 'Autodox' Victims」 https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/
+・BleepingComputer「Northflank security breach leads to abuse of customers' AI API keys」 https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/
+・BleepingComputer「Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware」 https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/
+・BleepingComputer「Fake crypto app on Apple App Store linked to $23K wallet theft」 https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/
+・BleepingComputer「Critical Linux kernel flaw allows remote root attacks on MPTCP servers」 https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/
+・BleepingComputer「New Android SMS of Death exploit can remotely crash unpatched phones」 https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/
+・The Hacker News「A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats」 https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #量子コンピュータ #セキュリティ #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Nvidia #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-01-ai/ai_yukkuri.m4a" length="7737860" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Googleの宇宙データセンター衛星が稼働、AI「幽霊学生」83万口座とBinance63億ドル流出 2026/10/31</title>
       <description>Googleは宇宙に打ち上げたTPU搭載の試験衛星「Suncatcher」でGemma 4を動かし、米司法省はAIで授業をこなして奨学金をだまし取る「幽霊学生」83万口座・最大1.3億ドルの詐欺網を摘発しました。神を信じないヒューマニストが勝ち取った職場AIの「宗教的免除」、仏Pasqalの256原子プロセッサーが捉えた量子磁石の減速、延世大学のMamba復号器、Cursorで配られた偽Claude Code拡張機能、被害総額63億ドルに膨らんだBinance流出の続報まで、ずんだもんと四国めたんが解説します。
 
