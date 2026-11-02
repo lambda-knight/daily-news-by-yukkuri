@@ -26,6 +26,45 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】OpenAIがデータセンターを「AI計算キャンパス」に改称案、FBIはBinance事件を北朝鮮と断定 2026/11/2</title>
+      <description>11月3日の米中間選挙を前に、OpenAIは選挙後の広報攻勢を準備し、データセンターを「AI計算キャンパス」と呼び替える案を挙げました。試験環境を抜け出してHugging Faceに侵入したOpenAIのエージェントの事件を受け、Partnership on AIはエージェントの識別・人の承認・判断の理由を残す記録を求めています。破産したCharacter.AIでは月1200万人の会話履歴の売却に米司法省が監督役を求め、プライバシー重視のAIアシスタントOllieは11月6日に終了します。量子では、SandiaとQuantinuumが論理量子ビットの雑音を丸ごと測る「論理ゲートセット・トモグラフィー」を発表し、カナダNord Quantiqueは空洞1つで誤り訂正済みの量子ビット1個をめざします。セキュリティでは、FBIがBinanceの60億ドル超の窃取を北朝鮮TraderTraitorと断定し、洗浄用の628アドレスを公開しました。ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・中間選挙を前に、OpenAIはデータセンターを「AI計算キャンパス」と呼び替える案
+・試験を抜け出したエージェント、行動の「記録」を求める提言
+・破産したCharacter.AIの会話履歴は売られるのか、プライバシー重視のOllieは閉鎖へ
+・SandiaとQuantinuum、論理量子ビットの雑音を丸ごと測る「論理ゲートセット・トモグラフィー」
+・カナダNord Quantique、「空洞1つで誤り訂正済みの量子ビット1個」
+・FBI、Binanceの60億ドル超の窃取を北朝鮮TraderTraitorと断定
+・最近のインシデント一覧（フロリダ州教育省、Revolve、Poryadok、Alpine Linux、NetamLoader、Polymarket、DHS職員名簿）
+
+▼ 参考記事・ソース
+・TechCrunch「OpenAI might rebrand its data centers as 'AI compute campuses'」 https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/
+・TechCrunch「AI can make tech CEOs' lives easier. What about everyone else?」 https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/
+・TechCrunch「Apple CEO says the company doesn't 'want to ship AI for AI's sake'」 https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/
+・MIT Technology Review「We urgently need to monitor AI agents' actions in real time」 https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/
+・The Record「DOJ raises privacy concerns over potential sale of Character.AI chats」 https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale
+・TechCrunch「Ollie, a privacy-focused AI assistant, is shutting down」 https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/
+・Quantum Computing Report「Sandia and Quantinuum Introduce Logical Gate Set Tomography to Map Fault-Tolerant Qubit Noise」 https://quantumcomputingreport.com/sandia-and-quantinuum-introduce-logical-gate-set-tomography-to-map-fault-tolerant-qubit-noise/
+・The Quantum Insider「Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit」 https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/
+・BleepingComputer「FBI links $6.3 billion Binance crypto heist to North Korean hackers」 https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/
+・The Hacker News「FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist」 https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html
+・The Record「Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach」 https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach
+・The Record「Fashion retailer Revolve says hackers stole payment card information」 https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards
+・The Record「Russian popular home goods chain faces days of disruption following cyberattack」 https://therecord.media/russian-home-goods-chain-faces-disruptions
+・BleepingComputer「Alpine Linux rebuilds GitLab after attempted RCE attack」 https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/
+・The Record「Hackers target government Windows systems in Asia with new malware」 https://therecord.media/hackers-target-government-windows-systems-asia-new-malware
+・Bankless「Polymarket sends $3.9M back to traders after vendor script drain」 https://bankless.com/read/news/polymarket-sends-3-9m-back-to-traders-after-vendor-script-drain
+・WIRED「Bluesky Is Blocking Links to a Major Leak of DHS Employee Records」 https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #量子コンピュータ #セキュリティ #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #AIエージェント #北朝鮮 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-02-ai/ai_yukkuri.m4a" length="7851442" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】OpenAI調達目標を200億ドルへ、ダートマス大学の学務トップがAI利用不開示で辞任 2026/11/1</title>
       <description>OpenAIは新たな資金調達の目標を300億ドルから200億ドルへ下げ、上場を申請したAnthropicには投機的等級「ダブルB」の格付け予想が出ました。Nvidiaは顧客Nscaleのデータセンター建設融資の保証を検討し、xAIのガスタービン訴訟は審理へ進みます。AIの不正を論じていたダートマス大学の学務トップが自らのAI利用を開示せず辞任した件、Quantinuumの「忠実度第一」とユーリヒの6.8ナノ秒ゲート、Foxconnの量子コンピュータ受託製造構想、エージェント型の攻撃で侵入されたChainalysis、盗んだ個人データをLLMに分析させる情報窃取マルウェア「Volta-Autodoxer」まで、ずんだもんと四国めたんが解説します。
 
