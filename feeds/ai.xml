@@ -26,6 +26,52 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】中間選挙でAI株から数兆ドル消失、マスク氏サイバートラック終了・AI支出1.5％増に急減速 2026/11/07</title>
+      <description>11月3日の米中間選挙での民主党勝利とデータセンター規制への警戒から、世界の株式市場でハイテク株が売られ、一時数兆ドルの時価総額が失われました。一方、米上院は11月9日に417ページの超党派エネルギー許認可改革法案（BAAJA）を採決します。選挙に約5億ドルを投じて敗れたイーロン・マスク氏は、政治介入への反発の象徴となった「サイバートラック」の生産終了を発表し、自動運転ロボタクシー「サイバーキャブ」へ生産枠を移します。データセンター反対運動はオランダ・アムステルダムのマイクロソフト建設現場への100人超の乱入と16カ国一斉抗議に発展しました。ほかに、企業のAI支出が8〜9月に1.5％増へ急減速したRampの調査、米下院3委員会によるエヌビディアCEOの召喚、32MBの音声・音楽モデル「Woof」、韓国・延世大学でのIBM新型量子計算機「Nighthawk r2」稼働、Cursorの偽Claude拡張機能と130万台TVボックスのボットネット解体をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・米中間選挙とAI：数兆ドルが消えたAI株急落と、11月9日の上院エネルギー許認可法案
+・米中間選挙とAI：マスク氏、政治反発の象徴となったサイバートラック生産終了へ
+・米中間選挙とAI：アムステルダムでマイクロソフト建設現場に100人超が乱入、16カ国で抗議
+・生成AIと市場：Ramp調査で企業のAI支出が頭打ち、8〜9月は1.5％増に急減速
+・生成AIと安全保障：米下院3委員会、エヌビディアのフアンCEOを中国スパイ懸念で召喚
+・生成AIと小型モデル：Underdog、ブラウザーで声と音楽を作る32MBの「Woof」を公開
+・量子コンピュータ：韓国・延世大学でIBMの新型機「Nighthawk r2」が米国外初の稼働
+・セキュリティ：Cursorに偽のClaude拡張機能が11時間掲載、最大5000人にバックドア
+・最近のインシデント一覧（130万台Android TVボットネット解体、Binance 63.4億ドル流出の調査報告、WindowsペイントRCE、QNAP NAS Plex2Shell、D-Linkスイッチゼロデイ、OpenSSH SSHole悪用、AI情報窃取マルウェアVolta-Autodoxer）
+
+▼ 参考記事・ソース
+・BBC「Could the US midterms burst the AI bubble?」 https://www.bbc.co.uk/news/articles/crlykkzwwpydo
+・BBC「AI stocks climb after trillions wiped from market values」 https://www.bbc.co.uk/news/articles/c35ynnpzdq51o
+・The Guardian「Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph」 https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph
+・MIT Technology Review「A new bill could change how the US builds energy infrastructure」 https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/
+・MIT Technology Review「What’s next for US energy policy after the midterm elections?」 https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/
+・Al Jazeera「Musk says Tesla to wind down polarising Cybertruck production as sales lag」 https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag
+・Ars Technica「No more Cybertrucks; Musk moves on from the angular metallic flop」 https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/
+・WIRED「Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes」 https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/
+・Al Jazeera「Protesters break into Microsoft AI data centre site in Amsterdam」 https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam
+・TechCrunch「Ramp data shows AI spending stalling just as Anthropic nears its IPO」 https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/
+・Ars Technica「Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns」 https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/
+・TechCrunch「Underdog shows off a 32MB speech model in new demo」 https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/
+・Quantum Computing Report「Yonsei University Brings IBM Quantum Nighthawk r2 Online」 https://quantumcomputingreport.com/yonsei-university-brings-ibm-quantum-nighthawk-r2-online/
+・WIRED「A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices」 https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/
+・The Hacker News「Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers」 https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html
+・KrebsOnSecurity「Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies」 https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/
+・WIRED「Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist」 https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/
+・The Hacker News「Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It」 https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html
+・BleepingComputer「QNAP says hackers breaching NAS devices in Plex2Shell attacks」 https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/
+・BleepingComputer「D-Link warns of multiple zero-days in DGS-3130 Series switches」 https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/
+・The Hacker News「Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot」 https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html
+・WIRED「Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims」 https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/
+
+#生成AI #中間選挙 #データセンター #イーロン・マスク #NVIDIA #Anthropic #Claude #AI #人工知能 #量子コンピュータ #セキュリティ #ゆっくり解説 #ずんだもん #四国めたん #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-07-ai/ai_yukkuri.m4a" length="8408114" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-07</guid>
+      <pubDate>Sat, 07 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】中間選挙でデータセンターに「NO」、住民投票41件中40件で反対側が勝利、マスク氏の4億7400万ドルも空振り ほか 2026/11/6</title>
       <description>11月3日の米中間選挙で、民主党が連邦議会と多くの州知事を握りました。勝った知事34人のうち32人がデータセンターの規制強化を支持し、テキサスの新知事ヒノホサ氏は新規建設の一時停止、税優遇の廃止、電気代の開発側負担を掲げています。モルガン・スタンレーはテキサスの結果を、データセンター開発にとって「最も重要な選挙結果」と呼びました。最大の献金者イーロン・マスク氏は少なくとも4億7400万ドルを投じましたが、ほぼ半分を注いだテキサスで上院・知事の両方を落としました。データセンターをめぐる住民投票は41件中40件で反対側が勝ち、反対は党派を越えていました。ほかに、Axiom MathによるStacks Projectの形式検証、ChatGPTが毒殺未遂に加担したとする訴訟、超伝導量子ビットの周波数のずれを計算前に測り直して誤りを54％減らした研究、ホワイトハウスのネットワークが住宅用プロキシで第三者に貸し出されていた問題を扱います。ずんだもんと四国めたんが解説します。
 
