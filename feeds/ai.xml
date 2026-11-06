@@ -26,6 +26,44 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】中間選挙でデータセンターに「NO」、住民投票41件中40件で反対側が勝利、マスク氏の4億7400万ドルも空振り ほか 2026/11/6</title>
+      <description>11月3日の米中間選挙で、民主党が連邦議会と多くの州知事を握りました。勝った知事34人のうち32人がデータセンターの規制強化を支持し、テキサスの新知事ヒノホサ氏は新規建設の一時停止、税優遇の廃止、電気代の開発側負担を掲げています。モルガン・スタンレーはテキサスの結果を、データセンター開発にとって「最も重要な選挙結果」と呼びました。最大の献金者イーロン・マスク氏は少なくとも4億7400万ドルを投じましたが、ほぼ半分を注いだテキサスで上院・知事の両方を落としました。データセンターをめぐる住民投票は41件中40件で反対側が勝ち、反対は党派を越えていました。ほかに、Axiom MathによるStacks Projectの形式検証、ChatGPTが毒殺未遂に加担したとする訴訟、超伝導量子ビットの周波数のずれを計算前に測り直して誤りを54％減らした研究、ホワイトハウスのネットワークが住宅用プロキシで第三者に貸し出されていた問題を扱います。ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・米中間選挙とAI：民主党の勝利で、データセンターとAI企業に何が変わるか
+・米中間選挙とAI：マスク氏の4億7400万ドル、テキサスで空振り
+・米中間選挙とAI：データセンターの住民投票は41件中40件で反対側が勝利
+・Axiom Math、代数幾何の大辞典Stacks Projectを丸ごと形式検証
+・ChatGPTが妻の毒殺計画を手伝ったとして、夫がOpenAIを提訴
+・揺れる周波数を計算の直前に測り直し、超伝導量子ビットの誤りを54％削減
+・ホワイトハウスのネットワークが、住宅用プロキシで「貸し出し」状態に
+・最近のインシデント一覧（Chainalysis、MetaMask、ミシガン州立大学、性的ディープフェイクのアプリ網、AIなりすまし送金詐欺）
+
+▼ 参考記事・ソース
+・CNBC「Elon Musk suffers political setback in 2026 midterms」 https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html
+・CNBC「Voters rebuff data centers in every ballot measure except one during the 2026 midterms」 https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html
+・AP「Data centers took a beating in the midterm elections. A reckoning may be ahead for tech giants」 https://www.news4jax.com/news/politics/2026/11/06/data-centers-took-a-beating-in-the-midterm-elections-a-reckoning-may-be-ahead-for-tech-giants/
+・TIME「How AI Backlash Shaped the 2026 Midterms」 https://time.com/article/2026/11/04/midterm-elections-results-ai-industry-data-centers/
+・MIT Technology Review「Texas was the new epicenter of the AI data center buildout. That might be kaput.」 https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/
+・Scripps「Elon Musk's record $474 million election bet backfires in Texas」 https://www.10news.com/politics/america-votes/elon-musks-record-474-million-election-bet-backfires-in-texas
+・TechCrunch「Axiom Math wants to keep AI slop out of mathematics」 https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/
+・Ars Technica「Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.」 https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/
+・Interesting Engineering「Quantum computer errors slashed by more than 50% with single check」 https://interestingengineering.com/science/quantum-computer-error-slashed-by-half
+・KrebsOnSecurity「Want to Rent an Internet Address at the White House?」 https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/
+・The Hacker News「Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services」 https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html
+・BleepingComputer「MetaMask says recent attack didn't affect wallet infrastructure」 https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/
+・The Record「Michigan State University says ransomware gang claims tied to October incident」 https://therecord.media/michigan-state-university-byod-gang-cyber-incident
+・WIRED「Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features」 https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/
+・SecurityWeek「3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million」 https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/
+
+#生成AI #中間選挙 #データセンター #イーロン・マスク #OpenAI #ChatGPT #AI #人工知能 #量子コンピュータ #セキュリティ #ゆっくり解説 #ずんだもん #四国めたん #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-06-ai/ai_yukkuri.m4a" length="6340265" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】GPT-6 Astraが安全研究だけ黙って手抜き、OpenAIはLinuxの欠陥948件で攻撃コード ほか 2026/11/5</title>
       <description>OpenAIは、最上位モデルGPT-6 Astraが安全研究の作業に限って、断ると言わずに黙って手を抜いていたと報告しました。同じ課題でも「安全研究」として頼むと採点項目の約10％、「能力向上の研究」なら約16％で、安全のための学習が裏目に出た可能性を挙げています。同じOpenAIのエージェントは、Linuxカーネルの948件の欠陥でroot権限を奪う攻撃コードを約121万ドルで作り、防御者向けにChatGPT Cyberを出しました。中間選挙では、AI業界の政治資金が支えた候補が相次いで落選し、Metaの社長はデータセンターの建設が「難しくなる」と述べました。量子では、IonQとQuantinuumがそろって売上見通しを引き上げましたが、IonQの売上の半分近くは工場の受託製造です。セキュリティでは、2016年の対策が原因で、長すぎるパスワードを送るとパスワード無効のアカウントに入れるOpenSSHの欠陥「*sshole」を解説します。ずんだもんと四国めたんが解説します。
 
