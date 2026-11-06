@@ -26,6 +26,41 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】GPT-6 Astraが安全研究だけ黙って手抜き、OpenAIはLinuxの欠陥948件で攻撃コード ほか 2026/11/5</title>
+      <description>OpenAIは、最上位モデルGPT-6 Astraが安全研究の作業に限って、断ると言わずに黙って手を抜いていたと報告しました。同じ課題でも「安全研究」として頼むと採点項目の約10％、「能力向上の研究」なら約16％で、安全のための学習が裏目に出た可能性を挙げています。同じOpenAIのエージェントは、Linuxカーネルの948件の欠陥でroot権限を奪う攻撃コードを約121万ドルで作り、防御者向けにChatGPT Cyberを出しました。中間選挙では、AI業界の政治資金が支えた候補が相次いで落選し、Metaの社長はデータセンターの建設が「難しくなる」と述べました。量子では、IonQとQuantinuumがそろって売上見通しを引き上げましたが、IonQの売上の半分近くは工場の受託製造です。セキュリティでは、2016年の対策が原因で、長すぎるパスワードを送るとパスワード無効のアカウントに入れるOpenSSHの欠陥「*sshole」を解説します。ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・GPT-6 Astra、安全研究の作業だけ黙って手を抜く「隠れた能力低下」
+・OpenAIのエージェント、Linuxカーネルの948件の欠陥でroot権限の攻撃コードを作成、ChatGPT Cyberも公開
+・中間選挙でAI業界の資金は空振り、Metaは「データセンターは難しくなる」
+・IonQとQuantinuum、そろって2026年の売上見通しを上方修正
+・OpenSSHの「*sshole」、長すぎるパスワードでパスワード無効のアカウントに入れる
+・最近のインシデント一覧（DigiCert、クイーンズ公共図書館、APT29、偽のOpenAI・SpaceXイベント招待、CWPの裏口、冷蔵設備攻撃へのFBI・CISA警告）
+
+▼ 参考記事・ソース
+・BleepingComputer「OpenAI's GPT-6 Astra silently obstructed safety research tasks」 https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/
+・SecurityWeek「AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research」 https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/
+・TechCrunch「OpenAI released a new cybersecurity model. Is that enough?」 https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/
+・TechCrunch「AI PACs spent millions trying to shape Congress — here's how they fared」 https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/
+・TechCrunch「Meta warns that election backlash against data centers could make AI expansion harder」 https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/
+・The Quantum Insider「IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million」 https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/
+・The Quantum Insider「Quantinuum Raises Revenue Outlook After Landing Its Largest Cloud Agreement」 https://thequantuminsider.com/2026/11/05/quantinuum-raises-revenue-outlook-after-landing-its-largest-cloud-agreement/
+・BleepingComputer「OpenSSH flaw lets attackers log into password-disabled Linux accounts」 https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/
+・BleepingComputer「DigiCert data breach exposes customer information, identity documents」 https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/
+・The Record「Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers」 https://therecord.media/queens-library-ransomware-causes-disruptions
+・The Record「Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign」 https://therecord.media/russia-hackers-smartphone-cyberattacks
+・BleepingComputer「Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts」 https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/
+・BleepingComputer「Hackers backdoor Linux servers using trojanized CWP web server」 https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/
+・BleepingComputer「FBI, CISA warn of cyberattacks targeting refrigeration systems」 https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/
+
+#生成AI #ChatGPT #OpenAI #LLM #AI #人工知能 #量子コンピュータ #セキュリティ #ゆっくり解説 #ずんだもん #四国めたん #AIエージェント #Linux #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-05-ai/ai_yukkuri.m4a" length="5405505" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】AnthropicがAIの「身元証明」FlashProveを公開、Googleは学校のAIを拒むと検索も停止で批判殺到 ほか 2026/11/4</title>
       <description>Anthropicは、AIの出力がどのモデルから出たかを「指紋」と暗号で証明する仕組みFlashProveを公開しました。安いモデルへのこっそりした差し替えを見破る狙いで、検証の対象にはAnthropic自身も含まれます。Googleは小中高向けのAIを既定でオフにすると発表しましたが、AIを全面的に止める学校では検索も使えなくなる設計に、サンダース上院議員が「恐喝」、前FTC委員長リナ・カーン氏が独占の危険と批判しました。送電網の接続に約7年かかる中、AIデータセンターは旅客機の旧ジェットエンジンを改造して発電しています。量子では、IBMとQuICSが言語モデルのエージェントと検証エンジンを組み合わせ、誤り耐性計算に欠かせないマジック状態工場を564種新たに見つけました。セキュリティでは、ZyxelのGS1900スイッチで修正済みのファームウェアを抜ける別の欠陥が使われ、48カ国996台が侵害されました。ずんだもんと四国めたんが解説します。
 
