@@ -26,6 +26,40 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】AnthropicがAIの「身元証明」FlashProveを公開、Googleは学校のAIを拒むと検索も停止で批判殺到 ほか 2026/11/4</title>
+      <description>Anthropicは、AIの出力がどのモデルから出たかを「指紋」と暗号で証明する仕組みFlashProveを公開しました。安いモデルへのこっそりした差し替えを見破る狙いで、検証の対象にはAnthropic自身も含まれます。Googleは小中高向けのAIを既定でオフにすると発表しましたが、AIを全面的に止める学校では検索も使えなくなる設計に、サンダース上院議員が「恐喝」、前FTC委員長リナ・カーン氏が独占の危険と批判しました。送電網の接続に約7年かかる中、AIデータセンターは旅客機の旧ジェットエンジンを改造して発電しています。量子では、IBMとQuICSが言語モデルのエージェントと検証エンジンを組み合わせ、誤り耐性計算に欠かせないマジック状態工場を564種新たに見つけました。セキュリティでは、ZyxelのGS1900スイッチで修正済みのファームウェアを抜ける別の欠陥が使われ、48カ国996台が侵害されました。ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Anthropic、出力したモデルを暗号で証明する「FlashProve」を公開
+・Google、学校のAIを既定でオフに、ただしAIを拒めば検索も使えない
+・送電網を待てないデータセンター、旅客機の旧ジェットエンジンで発電
+・IBMとQuICS、AIエージェントで「マジック状態工場」564種を新発見
+・ZyxelのGS1900スイッチ、修正済みのファームを抜けた別の欠陥で48カ国996台が侵害
+・最近のインシデント一覧（DreamHost、フランス血液公社EFS、mSecure、NIKKEのPCランチャー、米大学への侵入でカナダ人2人を起訴、SonicWall GMS）
+
+▼ 参考記事・ソース
+・TechCrunch「Anthropic is working on a system to prove AI models' identity」 https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/
+・TechCrunch「Google will let schools disable its AI tools, but not without sacrificing Search」 https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/
+・TechCrunch「Google faces backlash for plan that would turn off Search for schools that restrict AI」 https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/
+・TechCrunch「DuckDuckGo pitches itself to schools amid backlash over Google's AI policy」 https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/
+・TechCrunch「Data centers are turning to old jet engines as the wait for power grows」 https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/
+・Quantum Computing Report「IBM Quantum and QuICS Deploy AI Agents to Discover Over 500 High-Efficiency Magic-State Factories」 https://quantumcomputingreport.com/ibm-quantum-and-quics-deploy-ai-agents-to-discover-over-500-high-efficiency-magic-state-factories/
+・BleepingComputer「Zyxel fixes zero-day exploited to hack nearly 1,000 network switches」 https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/
+・TechCrunch「Hackers stole DreamHost customer files and inboxes during months-long attack」 https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/
+・BleepingComputer「Cyberattack disrupts blood storage refrigeration systems in France」 https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/
+・BleepingComputer「mSecure password manager hack prompts password reset warnings」 https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/
+・BleepingComputer「NIKKE PC game launcher hacked to spread remote access, data-stealing malware」 https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/
+・BleepingComputer「US charges two Canadians accused of hacking US universities」 https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/
+・BleepingComputer「SonicWall warns of unpatched flaws in end-of-life GMS software」 https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #量子コンピュータ #セキュリティ #ゆっくり解説 #ずんだもん #四国めたん #Anthropic #Google #AIエージェント #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-04-ai/ai_yukkuri.m4a" length="5088188" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-04</guid>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Grok Botが「費用が持続不能」で上限引き締め、NYTはBraveを提訴 ほか今週のAI業界まとめ 2026/11/3</title>
       <description>イーロン・マスク氏は、SpaceXのAIエージェントGrok Botの利用上限を「提供費用が収入に比べて持続不能なほど高い」として引き締め、OpenAIはChatGPTとCodexを同じトークンの利用枠にまとめます。New York Timesは、300億ページ超の索引の記事をAnthropicやPerplexityなどAI企業5社に流したとして、Braveを「盗品の故買屋」と提訴しました。イスラエルの42AIは、約3000万人分の行動の記録から個人投資家の売買を予測する「行動の世界モデル」を証券会社10社に提供しています。量子では、仏Alice &amp; Bobの猫型量子ビットが待機中に最長約4.2時間ビット反転を起こしませんでした。セキュリティでは、CrowdStrikeが中国系Vapor PandaによるAIエージェント「ARTEX」を使った14カ国200超の組織への攻撃を報告しました。ずんだもんと四国めたんが解説します。
 
