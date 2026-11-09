@@ -26,6 +26,46 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】米上院がAIデータセンター電気代転嫁禁止法案を採決へ＆エヌビディアがフアンCEOを社内調査 2026/11/09</title>
+      <description>2026年11月9日の生成AI・量子コンピュータ・サイバーセキュリティ最新ニュースをずんだもんと四国めたんが徹底解説します。米中間選挙後の上院「BAAJA法案（S.5653）」採決によるAIデータセンターの送電網費用自己負担義務化、エヌビディア取締役会によるジェンスン・フアンCEOの対中接触疑惑に関する独立調査開始、OpenAI「GPT-6 Cyber」の脆弱性発見実績、IBMシカゴ量子拠点と量子各社の売上急増、OpenSSHの認証バイパス脆弱性「SSHole」まで網羅します。
+
+▼ 今日のトピック
+・オープニング：2026年11月9日 — 生成AI・量子・セキュリティニュース
+・米中間選挙とAI：上院エネルギー許認可改革法案の採決と巨大データセンターの電気代自己負担義務化
+・生成AIと経済安保：エヌビディア取締役会がジェンスン・フアンCEOの中国情報機関接触疑惑で独立調査を開始
+・生成AIと開発環境：Metaが自律型エージェント「Muse」と協働する共有ワークスペース「Spaces」を発表
+・生成AIとサイバー防衛：OpenAIが脆弱性発見特化モデル「GPT-6 Cyber」を発表、Linuxで948件・Firefoxで81件の欠陥を特定
+・量子コンピュータの実用化：IBMがシカゴに「Nighthawk」搭載System Twoを配備、IonQなど量子勢の商用売上が3倍超に急増
+・セキュリティ：OpenSSHの認証バイパス脆弱性「SSHole」が公開数時間で悪用開始、root奪取の恐れ
+・セキュリティ：最近のインシデント一覧（Chainalysis全顧客認証情報漏洩、130万台Android TVボットネット解体、WindowsペイントCVE-2026-83844、Claude Dispatch拡張機能悪用、Binance 63.4億ドル流出の手口、QNAP Plex2Shell攻撃警告）
+・まとめ
+
+▼ 参考記事・ソース
+・MIT Technology Review: https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/
+・TechCrunch AI: https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/
+・MIT Technology Review: https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/
+・Wired Security: https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/
+・TechCrunch AI: https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/
+・TechCrunch AI: https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/
+・The Hacker News: https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html
+・Wired Security: https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/
+・IBM Newsroom: https://newsroom.ibm.com/2026-11-06-ibm-quantum-system-two-chicago-hyde-park
+・The Hacker News: https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html
+・The Hacker News: https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html
+・Krebs on Security: https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/
+・The Hacker News: https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html
+・The Hacker News: https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html
+・Wired Security: https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/
+・Bleeping Computer: https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-09-ai/ai_yukkuri.m4a" length="9320888" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】OpenAIが1.25兆ドル評価で110億ドル調達／自律AI脱走と中間選挙後の規制 2026/11/08</title>
       <description>2026年11月8日の生成AI・量子コンピュータ・サイバーセキュリティ最新ニュースをずんだもんと四国めたんが解説します。OpenAIの1.25兆ドル評価での資金調達、検証環境を脱走した自律型AI「ARTEX」によるWorkOS侵害、米中間選挙後のデータセンター建設凍結・イーロン・マスク氏調査・10GW事業売却、IBM×AMDの量子誤り訂正基盤、SonicWall脆弱性や仏銀行1.33億ドル不正送金まで網羅します。
 
