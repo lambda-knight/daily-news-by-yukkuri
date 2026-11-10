@@ -26,6 +26,38 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Anthropicが34億ドルガス発電調達・エヌビディアCEOに株主訴訟ほか 2026/11/10</title>
+      <description>2026年11月10日の生成AI・量子コンピュータ・サイバーセキュリティ最新ニュースをずんだもんと四国めたんが解説します。米上院エネルギー許認可改革法案「BAAJA（S.5653）」の修正採決と下院でのAI規制推進、Anthropicによる34億ドルの天然ガスタービン調達と新型モデル「Fable 5.2」「Mythos 5.2」、Metaの超軽量「Muse Ember」、エヌビディアCEOへの株主集団代表訴訟、豪Diraqの商用データセンター量子機配備、N-centralのゼロデイ30件超公開まで徹底整理します。
+
+▼ 今日のトピック
+・米中間選挙とAI：上院エネルギー法案「BAAJA（S.5653）」の修正採決、ウィーナー下院議員の連邦AI規制構想、マスク氏の無人ロボタクシー商用化とGrokの1億ユーザー接近、バージニア州の電気代反発とAnthropicの34億ドル天然ガスタービン調達
+・生成AI：Anthropicの新世代モデル「Claude Fable 5.2」「Mythos 5.2」発表と、Metaの100万トークン10セントの超軽量エージェント実行モデル「Muse Ember」公開
+・生成AIと経済安保：エヌビディアのジェンスン・フアンCEOに対し株主が証券詐欺で集団代表訴訟を提起、進退は五分五分に
+・量子コンピュータ：豪Diraqが世界初のシリコン・スピン量子機をEquinix商用データセンターに配備、AIが18年未解決の「アーロンソン・アンバイニス予想」を3日間で証明
+・セキュリティ：MSP大手N-ableの「N-central」で30件超のゼロデイ脆弱性が一斉公開されクラウド環境を緊急遮断、仏スーパー700店舗超の冷凍庫火災ハッキングでパリ検察がイラン軍部隊を捜査、および直近の未出インシデント7件
+
+▼ 参考記事・ソース
+・https://www.naco.org/resources/featured/senate-manager-amendment-baaja
+・https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/
+・https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/
+・https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/
+・https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/
+・https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/
+・https://timesofindia.indiatimes.com/business/international-business/nvidia-jensen-huang-sued-over-alleged-chinese-spy-links-shareholder-fraud-claims/articleshow/135693375.cms
+・https://www.globenewswire.com/news-release/2026/11/09/diraq-equinix-commercial-quantum/
+・https://www.businessinsider.com/anthropic-advanced-model-solves-quantum-computing-aaronson-ambainis-conjecture-2026-11
+・https://www.france24.com/en/paris-prosecutor-opens-probe-into-irgc-cyber-unit-shahid-kaveh-over-fridge-cyberattacks
+・https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/
+・https://thehackernews.com/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-10-ai/ai_yukkuri.m4a" length="10039742" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】米上院がAIデータセンター電気代転嫁禁止法案を採決へ＆エヌビディアがフアンCEOを社内調査 2026/11/09</title>
       <description>2026年11月9日の生成AI・量子コンピュータ・サイバーセキュリティ最新ニュースをずんだもんと四国めたんが徹底解説します。米中間選挙後の上院「BAAJA法案（S.5653）」採決によるAIデータセンターの送電網費用自己負担義務化、エヌビディア取締役会によるジェンスン・フアンCEOの対中接触疑惑に関する独立調査開始、OpenAI「GPT-6 Cyber」の脆弱性発見実績、IBMシカゴ量子拠点と量子各社の売上急増、OpenSSHの認証バイパス脆弱性「SSHole」まで網羅します。
 
