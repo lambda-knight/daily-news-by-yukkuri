@@ -26,6 +26,42 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Anthropic上場で創業者7人が各2.5億ドル・NY州AI安全法始動ほか 2026/11/11</title>
+      <description>2026年11月11日の生成AI・量子コンピュータ・サイバーセキュリティ最新ニュースをずんだもんと四国めたんが解説します。ペロシ氏後任ウィーナー氏の連邦AI規制構想、ニューヨーク州RAISE法の登録開始、Anthropic上場計画の中身、Quantinuum・IQMの業績、Microsoft 11月パッチ1,235件とOutlookゼロデイ、Railway侵害によるAI不正利用74万ドルを整理します。
+
+▼ 今日のトピック
+・米中間選挙とAI：ウィーナー氏の連邦規制構想（規制当局・内部告発者保護・キルスイッチ）、NY州RAISE法の登録開始と72時間報告義務、データセンター反対住民投票41件中40件可決
+・生成AI：Anthropic上場（1株70〜78ドル、企業価値約1.4兆ドル）、創業者7人が各約2.5億ドル分売却、議決権51.1%を維持／Claude Meetings
+・量子コンピュータ：Quantinuum Q3売上910万ドル・Nexus利用215組織超、IQM受注4,220万ユーロ・受注残1.025億ユーロ
+・セキュリティ：Microsoft 11月月例パッチ1,235件とOutlookゼロデイCVE-2026-124194、Railway侵害で約74万ドルの不正AI利用
+・最近のインシデント一覧：ニトリ最大3,762万件、Zyxelスイッチ約1,000台、Xen Orchestra、Git、NEAR AI、Binanceの警告
+
+▼ 参考記事・ソース
+・https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/
+・https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/
+・https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/
+・https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/
+・https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/
+・https://quantumzeitgeist.com/quantum-zeitgeist-weekly-digest-nov-9/
+・https://www.quantinuum.com/press-releases/quantinuum-breaks-error-correction-world-record-by-10x-validating-its-leading-path-to-fault-tolerant-quantum-computing-by-2029
+・https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/
+・https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/
+・https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/
+・https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/
+・https://bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches
+・https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html
+・https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html
+・https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html
+・https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-11-ai/ai_yukkuri.m4a" length="5787921" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Anthropicが34億ドルガス発電調達・エヌビディアCEOに株主訴訟ほか 2026/11/10</title>
       <description>2026年11月10日の生成AI・量子コンピュータ・サイバーセキュリティ最新ニュースをずんだもんと四国めたんが解説します。米上院エネルギー許認可改革法案「BAAJA（S.5653）」の修正採決と下院でのAI規制推進、Anthropicによる34億ドルの天然ガスタービン調達と新型モデル「Fable 5.2」「Mythos 5.2」、Metaの超軽量「Muse Ember」、エヌビディアCEOへの株主集団代表訴訟、豪Diraqの商用データセンター量子機配備、N-centralのゼロデイ30件超公開まで徹底整理します。
 
