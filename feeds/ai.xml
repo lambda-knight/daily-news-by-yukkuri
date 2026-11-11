@@ -26,6 +26,51 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】OpenAI四半期売上100億ドル超／TSMCが10億ドル出資 ほか今週のAI業界まとめ 2026/11/12</title>
+      <description>OpenAIの売上が四半期で初の100億ドル超と報道、TSMCはAnthropicとOpenAIへ出資。一方でデータセンターは選挙後も足踏みし、AIエージェントを使った攻撃やGrok製アプリの公開事故も起きています。ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・米中間選挙とAI：民主党勝利後もデータセンターが進まない理由（反対・許認可・電力）
+・AIと政治：下院共和党がエヌビディアのフアンCEOに非公開説明を要求
+・生成AIのお金：OpenAI四半期売上100億ドル、TSMCが10億ドル出資、CoreWeaveは前払い頼み、Fractileが7.2億ドル調達
+・AIとサイバー防衛：DeepMindがSignalプロトコルを形式検証、中国の無料モデルDeepSeek・GLMが攻撃能力で迫る
+・量子コンピュータ：IBMが2027年に2プロセッサー構成の量子システムを提供へ（Nighthawk 1,080量子ビット計画）
+・セキュリティ：AIペンテスト基盤AntiFoxが攻撃に転用、AWSの秘密情報を窃取
+・セキュリティ：Grokで作られたアプリ3万5,578件が認証なしで公開
+・セキュリティ：最近のインシデント一覧（マースク、Notion、Cisco BroadWorks、eMudhra、Zoom、Qilin、ホワイトハウスの住宅用プロキシ）
+
+▼ 参考記事・ソース
+https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/
+https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/
+https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/
+https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/
+https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
+https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/
+https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/
+https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
+https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/
+https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/
+https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/
+https://www.ibm.com/roadmaps/quantum/2027/
+https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/
+https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html
+https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html
+https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/
+https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/
+https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/
+https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html
+https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html
+https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/
+https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-12-ai/ai_yukkuri.m4a" length="4719044" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Anthropic上場で創業者7人が各2.5億ドル・NY州AI安全法始動ほか 2026/11/11</title>
       <description>2026年11月11日の生成AI・量子コンピュータ・サイバーセキュリティ最新ニュースをずんだもんと四国めたんが解説します。ペロシ氏後任ウィーナー氏の連邦AI規制構想、ニューヨーク州RAISE法の登録開始、Anthropic上場計画の中身、Quantinuum・IQMの業績、Microsoft 11月パッチ1,235件とOutlookゼロデイ、Railway侵害によるAI不正利用74万ドルを整理します。
 
