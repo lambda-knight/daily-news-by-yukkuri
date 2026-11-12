@@ -26,6 +26,47 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】フアン氏がNvidia CEO辞任／Gemini 4で検索刷新 ほかAI業界まとめ 2026/11/13</title>
+      <description>エヌビディアのジェンスン・フアン氏が辞任し、オープンソースAI支援とチップ輸出管理の行方が焦点に。Google検索はGemini 4 Hydrogenで刷新、ソフトバンクはガスタービンで損失、AIが証明つきで量子アルゴリズムを設計しました。ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・AIと政治：フアン氏がNvidia CEOを辞任、Hugging Face買収とオープンソース支援に揺らぎ
+・AIと安全保障：チップの所在追跡は「技術的に可能」とNvidiaが非公式に認める（Chip Security Act）
+・生成AI：Gemini 4 HydrogenでGoogle検索のAIモードが刷新（3.8 Flash比2.5倍高速）
+・AIと電力：ソフトバンク、ガスタービンの手付金で30億ドル超の損失、四半期71億ドルの赤字
+・AIと社会：ユナイテッド航空がAIエージェントによる予約を禁止
+・量子コンピュータ：GeminiエージェントがLean 4で証明つきの量子アルゴリズムを発見、IBM Nighthawk r3は520量子ビット
+・セキュリティ：N-centralのゼロデイ、PoC公開当日に悪用
+・セキュリティ：Windows「SignDrop」ゼロデイ、パッチなし
+・セキュリティ：最近のインシデント一覧（Apify、Microsoft 365障害、Gootloader等の基盤押収、Apache HTTP/2、ScreenConnect、Baker Tilly）
+
+▼ 参考記事・ソース
+https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/
+https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/
+https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/
+https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/
+https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/
+https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/
+https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/
+https://quantumcomputingreport.com/google-deepmind-and-google-quantum-ai-use-lean-4-to-discover-formally-verified-quantum-algorithms/
+https://quantumcomputingreport.com/ibm-unveils-520-qubit-nighthawk-r3-processor-1040-qubit-linked-roadmap-and-managed-hybrid-workflows-at-qdc-2026/
+https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/
+https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/
+https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/
+https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/
+https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/
+https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/
+https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/
+https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-13-ai/ai_yukkuri.m4a" length="5446980" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】OpenAI四半期売上100億ドル超／TSMCが10億ドル出資 ほか今週のAI業界まとめ 2026/11/12</title>
       <description>OpenAIの売上が四半期で初の100億ドル超と報道、TSMCはAnthropicとOpenAIへ出資。一方でデータセンターは選挙後も足踏みし、AIエージェントを使った攻撃やGrok製アプリの公開事故も起きています。ずんだもんと四国めたんが解説します。
 
