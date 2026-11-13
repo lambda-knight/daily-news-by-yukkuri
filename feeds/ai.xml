@@ -26,6 +26,39 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】禁輸チップの痕跡が中国AIに／ChatGPTが決済へ ほかAI業界まとめ 2026/11/14</title>
+      <description>中国のオープンモデルの重みにBlackwellで訓練した痕跡、ChatGPT WalletでAIエージェントが決済まで。量子はQ-CTRLの2.9億ドル調達と1万2,000原子超の薬剤結合計算、セキュリティはCheck Pointのゼロデイを、ずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・AIと安全保障：禁輸チップの「指紋」がKimi K3・DeepSeek V4の重みに、約200万個が中国へ（Epoch AI推計）
+・Nvidia：クレス氏の暫定CEO体制、フアン氏は感謝祭前に議会証言へ
+・生成AI：ChatGPT Walletでエージェントが買い物と決済
+・生成AI：LangChainが3億ドル調達、評価額30億ドル
+・量子コンピュータ：Q-CTRLが2.9億ドル調達、ソフト企業で過去最大
+・量子コンピュータ：Cleveland Clinic・理研・IBMが1万2,635原子の薬剤結合を計算
+・セキュリティ：Check PointのゼロデイCVE-2026-123039でroot奪取、ESXiワイパーまで
+・セキュリティ：最近のインシデント一覧（Microsoft 365障害の原因、Quantum Systems、SilentAir、PostgreSQL、Android TVボットネット解体、ダークウェブ354人逮捕、北朝鮮の4億ドル窃取）
+
+▼ 参考記事・ソース
+https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/
+https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
+https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
+https://quantumcomputingreport.com/q-ctrl-raises-290-million-in-series-c-funding-led-by-salesforce-ventures-to-scale-quantum-infrastructure-software/
+https://quantumcomputingreport.com/psiquantum-and-amd-expand-partnership-with-equity-investment-to-co-design-utility-scale-quantum-infrastructure/
+https://quantumcomputingreport.com/cleveland-clinic-riken-and-ibm-cross-12000-atom-barrier-in-heterogeneous-quantum-classical-drug-binding-simulations/
+https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/
+https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/
+https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-14-ai/ai_yukkuri.m4a" length="4833026" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】フアン氏がNvidia CEO辞任／Gemini 4で検索刷新 ほかAI業界まとめ 2026/11/13</title>
       <description>エヌビディアのジェンスン・フアン氏が辞任し、オープンソースAI支援とチップ輸出管理の行方が焦点に。Google検索はGemini 4 Hydrogenで刷新、ソフトバンクはガスタービンで損失、AIが証明つきで量子アルゴリズムを設計しました。ずんだもんと四国めたんが解説します。
 
