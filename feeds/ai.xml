@@ -26,6 +26,39 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】フアン氏退任でAI投資に穴？Character.ai破産・Cursor侵害ほか今週のAI業界まとめ 2026/11/15</title>
+      <description>Nvidiaが今年105件の投資ラウンドに参加していた中でのフアン氏退任、Character.aiの破産申請、量子とセキュリティの最新動向をずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・Nvidia：フアン氏退任でAIスタートアップ投資に穴、復帰請願は11万5,000件超
+・AIと社会：Character.aiの破産、OpenAI Sora・ChatGPT Atlasの終了
+・量子：Atom Computingに米商務省が最大1億ドル
+・量子：Qunova、富岳とIBM機で80量子ビットの化学精度
+・量子：DLR、100量子ビットで低コストの誤り緩和
+・セキュリティ：Cursor侵害で偽のClaude Code拡張（最大5,000人）
+・セキュリティ：北朝鮮FaceStealer、偽ビデオ会議で4億ドル超
+・最近のインシデント一覧：Trezor Safe 5改造品、Microsoft約1,100件修正、Chrome 157ゼロデイほか
+
+▼ 参考記事・ソース
+https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
+https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/
+https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
+https://quantumcomputingreport.com/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-agreement-for-fault-tolerant-quantum-systems/
+https://quantumcomputingreport.com/qunova-computing-achieves-chemical-accuracy-at-80-qubits-on-iron-sulfur-cluster-using-ibm-quantum-system-two-and-fugaku/
+https://quantumcomputingreport.com/german-aerospace-center-dlr-researchers-demonstrate-low-cost-benchmarked-noise-error-mitigation-across-100-qubit-ibm-and-iqm-processors/
+https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/
+https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/
+https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/
+https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-15-ai/ai_yukkuri.m4a" length="5879673" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】禁輸チップの痕跡が中国AIに／ChatGPTが決済へ ほかAI業界まとめ 2026/11/14</title>
       <description>中国のオープンモデルの重みにBlackwellで訓練した痕跡、ChatGPT WalletでAIエージェントが決済まで。量子はQ-CTRLの2.9億ドル調達と1万2,000原子超の薬剤結合計算、セキュリティはCheck Pointのゼロデイを、ずんだもんと四国めたんが解説します。
 
