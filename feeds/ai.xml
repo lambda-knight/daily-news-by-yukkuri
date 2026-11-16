@@ -26,6 +26,37 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】FBIがAI攻撃ツールに警告、AppleがAI健康相談を検証ほか今週のAI業界まとめ 2026/11/16</title>
+      <description>FBIがAIエージェントで侵入を自動化する「ARTEX」に13ページの緊急警告を出した件、AppleのAI健康相談研究、llama.cpp 1.0、量子機9台のもつれ比較、GitHub 4,837アカウント乗っ取りをずんだもんと四国めたんが解説します。
+
+▼ 今日のトピック
+・AIと安全保障：FBIがARTEXに公式警告、ConnectWise供給網攻撃（162テナント侵害）とも結び付く
+・生成AI：AppleとOpenEvidence、AI健康相談を最大20万人・12か月超で研究
+・生成AI：llama.cpp 1.0.0公開、旧API削除とサーバーの安全対策強化
+・量子：クラウド量子機9台のGHZ測定、大型超伝導機のもつれは4分の1未満
+・量子：米国の量子供給網、AI需要が光部品を吸収、連邦予算は12%未満
+・セキュリティ：GitHub 4,837アカウント乗っ取り「wfx-loot」、CIの秘密とAIの鍵を窃取
+・最近のインシデント一覧：TSMC従業員データ、韓国3銀行、韓国警察の7人逮捕、SCKit、Windows認証の不具合
+
+▼ 参考記事・ソース
+https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/
+https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/
+https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0
+https://quantumcomputingreport.com/cross-platform-cloud-benchmark-reveals-wide-gap-between-physical-qubit-counts-and-entangled-ghz-state-sizes/
+https://thequantuminsider.com/2026/11/13/u-s-quantum-ambitions-face-a-supply-chain-test-policy-analysts-warn/
+https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/
+https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/
+https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-16-ai/ai_yukkuri.m4a" length="6246016" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】フアン氏退任でAI投資に穴？Character.ai破産・Cursor侵害ほか今週のAI業界まとめ 2026/11/15</title>
       <description>Nvidiaが今年105件の投資ラウンドに参加していた中でのフアン氏退任、Character.aiの破産申請、量子とセキュリティの最新動向をずんだもんと四国めたんが解説します。
 
