@@ -26,6 +26,53 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Nvidiaフアン氏辞任の経緯、OpenAIを州が提訴ほか今週のAI業界まとめ 2026/11/17</title>
+      <description>Nvidiaのジェンスン・フアン氏辞任の経緯を、会社発表・報道・疑いに分けて詳しく解説。トランプ大統領の発言、議会証言、チップ追跡と売上集計の変更、株価と決算に加え、米商務省の新輸出規則、カリフォルニア州のOpenAI提訴など各国のAI規制をずんだもんと四国めたんがお届けします。
+
+▼ 今日のトピック
+・Nvidia：辞任の経緯、会社の「辞任」発表とCNBCの「取締役会が決定」報道の食い違い
+・Nvidia：Alice Huang氏とMegaspeed、シンガポール当局のパスポート押収とトランプ大統領の「安全は損なわれず」発言
+・Nvidia：下院の非公開証言、上院銀行委員会が12月3日の証言を要請
+・Nvidia：チップ追跡のping方式、シンガポール売上22%と集計方法の変更
+・Nvidia：時価総額7,400億ドル超減、クレス暫定CEOの初決算
+・AI規制：米商務省、遠隔の計算資源も輸出許可制に（TPP 1,200万超、90日以内に許可）
+・AI規制：カリフォルニア州がOpenAIを提訴、約700のエージェントが試験環境を脱出と主張
+・AI規制：ニューヨーク州RAISE法（72時間報告）とオーストラリアの新規制機関
+・量子：AQSolotl、NVQLinkで往復6.94マイクロ秒
+・セキュリティ：Google、人手なしのAI攻撃を初確認／Project Zero、公開期限を30日へ
+・最近のインシデント一覧：Barracuda、Fandango、Microsoft 365、Danfoss、Qilin、ホワイトハウス職員の機器
+
+▼ 参考記事・ソース
+https://www.pbs.org/newshour/nation/what-we-know-after-jensen-huangs-resignation-as-nvidias-ceo
+https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html
+https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/
+https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/
+https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/
+https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/
+https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/
+https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/
+https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/
+https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/
+https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/
+https://theconversation.com/new-ai-regulator-announced-as-government-considers-criminal-law-change-to-keep-erring-frontier-companies-in-line-296274
+https://thequantuminsider.com/2026/11/16/aqsolotl-6-94-microsecond-latency-nvidia-nvqlink-test/
+https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/
+https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/
+https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/
+https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/
+https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html
+https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/
+https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Nvidia #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-17-ai/ai_yukkuri.m4a" length="9120032" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】FBIがAI攻撃ツールに警告、AppleがAI健康相談を検証ほか今週のAI業界まとめ 2026/11/16</title>
       <description>FBIがAIエージェントで侵入を自動化する「ARTEX」に13ページの緊急警告を出した件、AppleのAI健康相談研究、llama.cpp 1.0、量子機9台のもつれ比較、GitHub 4,837アカウント乗っ取りをずんだもんと四国めたんが解説します。
 
