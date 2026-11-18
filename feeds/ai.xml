@@ -26,6 +26,43 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Nvidiaがフアン氏の復帰を否定、Java4Shellほか今週のAI業界まとめ 2026/11/18</title>
+      <description>Nvidia取締役会がフアン氏の復帰を公式に否定し、SECの民事調査も報道。Google Geminiの電話・買い物代行の無料化と会話保存の延長、量子誤り訂正デコードの1マイクロ秒切り、Java4Shellと7.86秒で悪用されるクラウド鍵をずんだもんと四国めたんがお届けします。
+
+▼ 今日のトピック
+・Nvidia：取締役会が全会一致で復帰を否定、SECが開示をめぐり民事調査（WSJ報道）
+・Nvidia：オープンモデル戦略とHugging Face買収129億ドルは維持
+・Google Gemini：電話・Google Pay決済・ログインを代行する「Tasks」を無料ユーザーへ
+・Google Gemini：履歴オフの会話の保存を72時間から約2か月に
+・量子：Quantum Machines、表面符号デコードが距離7・11で1ラウンド1マイクロ秒未満
+・セキュリティ：Java4Shell（CVE-2026-114938）、Jenkins・Jiraなどで認証なしRCE
+・セキュリティ：公開コンテナイメージのクラウド鍵、最速7.86秒で悪用
+・最近のインシデント一覧：富岳、Optimizely、Uber、Coles、Tor、Hugging Face Kokoro
+
+▼ 参考記事・ソース
+https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/
+https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/
+https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/
+https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/
+https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/
+https://quantumcomputingreport.com/quantum-machines-demonstrates-sub-microsecond-surface-code-decoding-on-opx1000-using-nvidia-cuda-q-qec-and-nvqlink/
+https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/
+https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/
+https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/
+https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/
+https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/
+https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/
+https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/
+https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #Google #Nvidia #量子コンピュータ #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-18-ai/ai_yukkuri.m4a" length="6412877" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Nvidiaフアン氏辞任の経緯、OpenAIを州が提訴ほか今週のAI業界まとめ 2026/11/17</title>
       <description>Nvidiaのジェンスン・フアン氏辞任の経緯を、会社発表・報道・疑いに分けて詳しく解説。トランプ大統領の発言、議会証言、チップ追跡と売上集計の変更、株価と決算に加え、米商務省の新輸出規則、カリフォルニア州のOpenAI提訴など各国のAI規制をずんだもんと四国めたんがお届けします。
 
