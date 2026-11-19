@@ -26,6 +26,47 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Metaの「Muse」が他人の残高を表示？Anthropic初値111ドルほか 2026/11/20</title>
+      <description>MetaのAIエージェント「Muse」が他人の会話や銀行残高を混ぜて表示したと社員が報告。Anthropicは上場初日に初値111.50ドル、寄付の試算は約1,560億ドル。GeminiのMac操作、相次ぐ大規模障害、Google Willowの協力ゲーム実験、NGINX「nginx2root」とDrupalの重大な穴をずんだもんと四国めたんがお届けします。
+
+▼ 今日のトピック
+・Anthropic：初値111.50ドルで公開価格を約33%上回る、Amodei氏はペース調整を再表明、寄付は約1,560億ドルの試算
+・Meta：AIエージェント「Muse」で他人の会話・銀行残高が混ざる社内報告
+・Google：Gemini for Macにcomputer use（米国・英語、有料プランのみ）
+・AIと社会：Microsoft・FAAなど大規模障害の連鎖と「AI時代のY2K」論
+・量子：Google Willow、マジックスクエア・ゲームで勝率98.3%（古典上限88.9%）
+・量子：SEALSQ、QuintessenceLabs買収のLOI
+・セキュリティ：NGINX「nginx2root」、約880万サービスが影響の可能性
+・セキュリティ：Drupal install.phpの重大RCE、AnthropicのOSS Scannerが発見
+・最近のインシデント一覧：ロンドン交通局26万5,000人、PHP 18件、VMware vCenter、ASUS、Access Dental 34万人、Cisco Expressway悪用、Infoblox
+
+▼ 参考記事・ソース
+https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/
+https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/
+https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/
+https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/
+https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/
+https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/
+https://thequantuminsider.com/2026/11/19/googles-quantum-chip-beats-classical-limits-in-tests-of-teamwork/
+https://thequantuminsider.com/2026/11/19/sealsq-loi-acquire-quintessencelabs/
+https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/
+https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/
+https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/
+https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/
+https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html
+BleepingComputer「ASUS Control Center Express」脆弱性報道（見出し）
+https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/
+https://securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release
+https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/
+
+#生成AI #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #Anthropic #Meta #Google #量子コンピュータ #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-20-ai/ai_yukkuri.m4a" length="6786149" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Anthropic上場は1株83ドル、米銀がAI代行被害を利用者責任にほか 2026/11/19</title>
       <description>Anthropicが史上最大813億ドルのIPO価格を決定。米大手銀行がAIエージェント経由の被害を利用者責任とする規約を広げ、Nvidiaは四半期報告書の提出を延期。量子はAlice &amp; Bobの前倒し計画と光量子の古典シミュレーション限界、セキュリティはMicrosoft Agent FrameworkのPyPI乗っ取りをずんだもんと四国めたんがお届けします。
 
