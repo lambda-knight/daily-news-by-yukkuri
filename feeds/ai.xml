@@ -26,6 +26,44 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Anthropic上場は1株83ドル、米銀がAI代行被害を利用者責任にほか 2026/11/19</title>
+      <description>Anthropicが史上最大813億ドルのIPO価格を決定。米大手銀行がAIエージェント経由の被害を利用者責任とする規約を広げ、Nvidiaは四半期報告書の提出を延期。量子はAlice &amp; Bobの前倒し計画と光量子の古典シミュレーション限界、セキュリティはMicrosoft Agent FrameworkのPyPI乗っ取りをずんだもんと四国めたんがお届けします。
+
+▼ 今日のトピック
+・Anthropic：IPO価格は1株83ドル、調達額813億ドルで史上最大
+・Nvidia：10-Qの提出延期と、ネオクラウド向け保証の発動条件
+・AIと社会：Citibankなど米大手銀行、AIエージェント経由の被害は利用者の責任に
+・Microsoft：ナデラ氏「重要インフラにはパッチを当てられないものが多い」、6万人の自主退職
+・量子：Alice &amp; Bob、2030年に物理3,600から論理200量子ビットへ前倒し
+・量子：Quandela・CNRS・NVIDIA、光量子計算をH100で再現できる限界は単一光子38.3個
+・セキュリティ：Microsoft Agent FrameworkのPyPI 1.26.1/1.26.2に資格情報窃取コード
+・最近のインシデント一覧：Nvidia（Gentlemen）、ウクライナ・FBI逮捕、N-able、CreditNirvana、Coinbase、Wellington IT
+
+▼ 参考記事・ソース
+https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/
+https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/
+https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/
+https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
+https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/
+https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/
+https://quantumcomputingreport.com/alice-bob-accelerates-modular-cat-qubit-roadmap-to-200-logical-qubits-from-3600-physical-qubits-by-2030/
+https://quantumcomputingreport.com/quandela-and-nvidia-benchmark-photonic-quantum-simulability-frontiers-on-h100-gpus/
+https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/
+https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/
+https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/
+https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html
+Wired「CreditNirvana」脆弱性報道（見出し）
+BleepingComputer「Coinbase」ディープフェイク詐欺報道（見出し）
+BleepingComputer「Wellington IT」アイルランド信用組合報道（見出し）
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #Anthropic #Nvidia #量子コンピュータ #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-19-ai/ai_yukkuri.m4a" length="6609640" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Nvidiaがフアン氏の復帰を否定、Java4Shellほか今週のAI業界まとめ 2026/11/18</title>
       <description>Nvidia取締役会がフアン氏の復帰を公式に否定し、SECの民事調査も報道。Google Geminiの電話・買い物代行の無料化と会話保存の延長、量子誤り訂正デコードの1マイクロ秒切り、Java4Shellと7.86秒で悪用されるクラウド鍵をずんだもんと四国めたんがお届けします。
 
