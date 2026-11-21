@@ -26,6 +26,40 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Signalがスクショ制限、AIは「存亡の脅威」？米政府は量子企業の株を取得ほか 2026/11/22</title>
+      <description>SignalがAIエージェント対策でスクリーンショットを既定制限。Nvidiaの中国向け出荷停止と経営の混乱、米商務省の量子支援で政府が受け取る株式の条件、KTとLG電子のQSDC実証、Optimizely経由で178サイトに配られたマルウェア、Microsoft Entra Connect Healthの情報流出をずんだもんと四国めたんがお届けします。
+
+▼ 今日のトピック
+・Signal：Android/iOSでスクショを既定制限、OS統合AIエージェントへの対策（保護は不完全）
+・Nvidia：認可済みHopper世代の中国向け出荷を停止、Huang氏復帰をめぐる混乱
+・量子：米商務省CHIPS量子支援、Rigetti・D-Wave・Quantinuumの株式と返還条件
+・量子：KTとLG電子、1,024ビットの画像を量子状態で直接送るQSDC実証
+・セキュリティ：Optimizely経由で178組織のサイトに悪意あるJS、CSPで防げたのは約15%
+・セキュリティ：Microsoft Entra Connect Healthの欠陥でテナント情報が流出
+・最近のインシデント一覧：GPGME、FBI NCIC、BADBOX、Qilin、CISA KEV、Meta Muse
+
+▼ 参考記事・ソース
+https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/
+https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html
+https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/
+https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/
+https://thequantuminsider.com/2026/11/20/kt-lg-electronics-quantum-secure-direct-communication/
+https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/
+https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/
+https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html
+https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/
+https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/
+https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html
+https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html
+
+#生成AI #AI #人工知能 #Signal #Nvidia #量子コンピュータ #サイバーセキュリティ #ずんだもん #四国めたん #AIニュース #AI最新情報 #LLM #Microsoft #ゆっくり解説</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-22-ai/ai_yukkuri.m4a" length="5481922" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Claudeと見つけたリーマン予想の証明？AI攻撃ツールCairnが11分で侵入ほか 2026/11/21</title>
       <description>Anthropic所属の数学者がClaudeと見つけたとするリーマン予想の証明をLeanで公開。METRのAI評価グラフ更新、AppleのMac操作エージェント報道、宇宙データセンターの資金問題、古典スパコンがFeMocoを解いたGordon Bell賞、フランスの極低温光配線、AI攻撃ツールCairnとF5 BIG-IPの重大な穴をずんだもんと四国めたんがお届けします。
 
