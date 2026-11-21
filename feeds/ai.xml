@@ -26,6 +26,44 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Claudeと見つけたリーマン予想の証明？AI攻撃ツールCairnが11分で侵入ほか 2026/11/21</title>
+      <description>Anthropic所属の数学者がClaudeと見つけたとするリーマン予想の証明をLeanで公開。METRのAI評価グラフ更新、AppleのMac操作エージェント報道、宇宙データセンターの資金問題、古典スパコンがFeMocoを解いたGordon Bell賞、フランスの極低温光配線、AI攻撃ツールCairnとF5 BIG-IPの重大な穴をずんだもんと四国めたんがお届けします。
+
+▼ 今日のトピック
+・数学：Levent Alpöge氏、Claudeと見つけたリーマン予想の証明をLeanで公開、別に人間の証明も
+・AI評価：METRの時間地平線グラフ更新、判断を要するタスクは人間に届かず
+・Apple：Macを操作するAIエージェントを開発か（Bloomberg報道）
+・AIと社会：Metaのネットゼロ目標見直し、軌道上のチップは担保にならない
+・量子：中国チームがGordon Bell賞、FeMocoをエクサスケール古典計算で解く
+・量子：仏「Qubit Control 2030」、銅ケーブル4万本を光ファイバー32本に
+・セキュリティ：AIツールCairnがMONAI Labelのゼロデイを11分で悪用
+・セキュリティ：F5 BIG-IP、重大5件に緊急パッチ
+・最近のインシデント一覧：Bell Canada、Chase・Visa・Mastercard、SonicWall Gen 6、Linux KVM、WhatsApp
+
+▼ 参考記事・ソース
+https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/
+https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
+https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
+https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/
+https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/
+https://thequantuminsider.com/2026/11/20/10-member-team-drawn-from-chinese-institutions-wins-2026-gordon-bell-prize/
+https://quantumcomputingreport.com/french-national-quantum-strategy-backs-e14m-16m-usd-qubit-control-2030-consortium-to-scale-cryogenic-photonic-interconnects/
+https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/
+https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/
+https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/
+https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/
+https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html
+https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html
+https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html
+
+#生成AI #Claude #LLM #AI #人工知能 #ずんだもん #四国めたん #Anthropic #Apple #量子コンピュータ #サイバーセキュリティ #AIニュース #リーマン予想</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-21-ai/ai_yukkuri.m4a" length="5708851" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Metaの「Muse」が他人の残高を表示？Anthropic初値111ドルほか 2026/11/20</title>
       <description>MetaのAIエージェント「Muse」が他人の会話や銀行残高を混ぜて表示したと社員が報告。Anthropicは上場初日に初値111.50ドル、寄付の試算は約1,560億ドル。GeminiのMac操作、相次ぐ大規模障害、Google Willowの協力ゲーム実験、NGINX「nginx2root」とDrupalの重大な穴をずんだもんと四国めたんがお届けします。
 
