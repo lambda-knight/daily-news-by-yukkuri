@@ -26,6 +26,81 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Amazon75億ドル買収・Nvidia復帰と制裁・660万口座露出ほかAI最新 2026/11/24</title>
+      <description>2026年11月24日の生成AI・量子コンピュータ・サイバーセキュリティの重要ニュースをまとめて解説します。
+AmazonによるDecart最適化技術の大型買収やAnthropicのPR自動承認ツール、NvidiaファンCEO復帰とMegaspeed制裁見通し、米DOEのAI×量子誤り訂正計画、重大脆弱性と最近のインシデントまで網羅しました。
+
+▼ 今日のトピック
+・Amazon：DecartのAI最適化技術「DOS」と研究チームを約75億ドルで買収合意
+・Anthropic：「Claude Ship」発表、PR修正から承認までAIエージェントが自律実行
+・OpenAIとCisco：eBPFでLinuxを無停止防御するAI基盤「Shirudo」を共同発表
+・Nvidia：ジェンセン・ファンCEOが全会一致で復帰決定、Megaspeedのブラックリスト見通しと米上院証言へ
+・量子コンピュータ：QuEra、ハーバード大主導・米DOE1,200万ドルのAI誤り訂正計画「ASQC」に参画
+・セキュリティ：AI債権回収「CreditNirvana」の脆弱性（CVE-2026-110474等）で660万口座・通話録音31万5,000件が露出
+・セキュリティ：Node.js「binary-parser」にコード実行の重大脆弱性CVE-2026-134814（CVSS 9.2）
+・セキュリティ：最近のインシデント一覧（OpenRouter / 韓国電力公社KEPCO / LaLiga / Webworm / ARTEX / Microsoft 11月定例パッチ）
+
+▼ 参考記事・ソース
+・TechCrunch AI — Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips: https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/
+・TechCrunch AI — Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes: https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/
+・OpenAI — Introducing Shirudo: https://openai.com/index/introducing-shirudo/
+・TechCrunch AI — Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal: https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/
+・TechCrunch AI — Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist: https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/
+・TechCrunch AI — Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO: https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/
+・PR Newswire — QuEra Computing Joins Harvard-Led $12 Million DOE Project to Design AI-Driven Error Correction for Fault-Tolerant Quantum Computing: https://www.prnewswire.com/news-releases/quera-computing-joins-harvard-led-12-million-doe-project-to-design-ai-driven-error-correction-for-fault-tolerant-quantum-computing-302964955.html
+・Wired Security — AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings: https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/
+・The Hacker News — Critical binary-parser Flaw Enables Code Injection (CVE-2026-134814): https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html
+・BleepingComputer — OpenRouter drops AI providers over leaked prompts and secrets: https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/
+・BleepingComputer — South Korea's power giant KEPCO confirms data breach impacting 1.5 million: https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/
+・BleepingComputer — Spanish LaLiga confirms hackers stole soccer fans' personal data: https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/
+・The Hacker News — Webworm suspected of modifying SoftEther VPN Bridge: https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html
+・Wired Security — ARTEX AI hacking tools: https://www.wired.com/story/artex-ai-hacking-tools/
+・Krebs on Security — Microsoft fixes nearly 1,100 security vulnerabilities: https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-24-ai/ai_yukkuri.m4a" length="7042306" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】OpenAI事前学習上限提案／韓国〜シンガポール量子網／CVSS9.9脆弱性 2026/11/23</title>
+      <description>2026年11月23日の生成AI・量子コンピュータ・サイバーセキュリティの注目ニュースを、ずんだもんと四国めたんが技術的仕組みと制約までわかりやすく解説します。
+
+▼ 今日のトピック
+・OpenAI主任科学者が「対数パープレキシティ」を基準とした事前学習の共有上限を提案
+・Google Chrome AI Securityチームが自動ブラウジング検証用の隔離ネット環境「Mirror Dimension」を構築
+・Anthropicの「AI意識」リスク開示に哲学者トマス・ネーゲル氏が反発
+・米2州司法長官がGrokの性的ディープフェイク生成を巡りSpaceXなどを提訴
+・韓国SKブロードバンド、海底ケーブルSJC2でQKD＋PQCの国際量子セーフ試験網を構築へ
+・ConnectWise ScreenConnect（CVE-2026-84869、CVSS 9.9）積極悪用とMicrosoft Azure APIM旧階層の脆弱性
+・最近のセキュリティインシデント一覧6件（N-able、Idunno.AntiCsrf、GL.iNet、RansomwareHelp、GlobeTopper、米ホワイトハウス周辺ネットワーク）
+
+▼ 参考記事・ソース
+・OpenAI「Perplexity and Intelligence」: https://openai.com/index/perplexity-and-intelligence/
+・Wired Security「Google Built a Giant 'Mirror Dimension' Internet to Test Its Chrome AI Agents」: https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/
+・MIT Technology Review「A legendary philosopher isn't buying Anthropic's consciousness argument」: https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/
+・Ars Technica「States sue SpaceX to stop Grok from generating child sex images, revenge porn」: https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/
+・Wired Security「States Sue SpaceX Over Grok Deepfakes」: https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/
+・Quantum Computing Report / Light Reading 報道「SK Broadband SJC2 international quantum-security test network（釜山〜シンガポール QKD+PQC 試験網）」
+・The Hacker News「Hackers Exploit Critical ScreenConnect Vulnerability (CVE-2026-84869)」: https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html
+・BleepingComputer「Microsoft Azure flaw exploited to steal customers' API credentials」: https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/
+・The Hacker News「N-able Discloses Critical Mail Assure Vulnerability」: https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html
+・The Hacker News「Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw」: https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html
+・The Hacker News「Hackers Exploited GL.iNet Cloud Flaw to Deploy Malware」: https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html
+・Krebs on Security「CTO of RansomwareHelp Indicted for Wire Fraud」: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/
+・BleepingComputer「GlobeTopper loses $2.5 million after hackers steal $70k in gift cards」: https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/
+・Krebs on Security「Want to Rent an Internet Address at the White House?」: https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/
+
+#生成AI #ChatGPT #Claude #LLM #AI #量子コンピュータ #サイバーセキュリティ #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-23-ai/ai_yukkuri.m4a" length="5764998" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Signalがスクショ制限、AIは「存亡の脅威」？米政府は量子企業の株を取得ほか 2026/11/22</title>
       <description>SignalがAIエージェント対策でスクリーンショットを既定制限。Nvidiaの中国向け出荷停止と経営の混乱、米商務省の量子支援で政府が受け取る株式の条件、KTとLG電子のQSDC実証、Optimizely経由で178サイトに配られたマルウェア、Microsoft Entra Connect Healthの情報流出をずんだもんと四国めたんがお届けします。
 
