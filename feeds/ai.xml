@@ -26,6 +26,44 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Tidalが2,700万曲のAI楽曲削除・Anthropic株IPO割れほかAI最新 2026/11/25</title>
+      <description>2026年11月25日の生成AI・量子コンピュータ・サイバーセキュリティの重要ニュースをまとめて解説します。
+METRのAI能力グラフ更新、Tidalの完全AI生成楽曲禁止、Anthropic株の公開価格割れ、DeepMindのAIエージェントによる量子アルゴリズム改良、英NCSCの警告とCheck Point管理サーバー侵害まで扱いました。
+
+▼ 今日のトピック
+・METR：AIの「時間軸」グラフを更新、判断力の要る課題は人間に届かず
+・Tidal：完全AI生成の楽曲を12月9日から禁止、2,700万曲を削除へ
+・Anthropic：株価がIPO価格（83ドル）を下回り76ドルに
+・Amazon：Decart買収、Anthropicも検討しNvidiaは出資者だった
+・量子コンピュータ：DeepMind、Gemini 4エージェントとLeanで量子アルゴリズムを改良（核融合計算でコスト11.8分の1）
+・セキュリティ：英NCSC、AI駆動の攻撃が長年の弱いセキュリティを露呈と警告
+・セキュリティ：Check Point管理サーバー24台に侵入、17か国22組織（GreyNoise「GT13」）
+・セキュリティ：最近のインシデント一覧（Radware / EU Academy / Turnitin / VMware / WHMCS / Okta）
+
+▼ 参考記事・ソース
+・MIT Technology Review — The most misunderstood graph in AI just got a major update: https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
+・TechCrunch — Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming: https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/
+・Ars Technica — Tidal will ban fully AI-generated music on December 9: https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/
+・TechCrunch — Anthropic shares fall below IPO price, a worrying sign for AI startups: https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/
+・TechCrunch — Amazon's Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race: https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/
+・Google DeepMind — Finding faster quantum algorithms with agents and formal verification: https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/
+・Quantum Zeitgeist — Google quantum circuits, fusion, DeepMind agents: https://quantumzeitgeist.com/google-quantum-circuits-fusion-deepmind-agents/
+・TechCrunch — UK warns AI-driven cyberattacks are exposing years of weak security: https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/
+・BleepingComputer — Hackers compromise Check Point servers in 22 organizations: https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/
+・BleepingComputer — Radware discloses breach exposing customer cloud access keys: https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/
+・BleepingComputer — European Commission confirms data theft in EU Academy breach: https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/
+・BleepingComputer — Turnitin discloses cyberattack affecting customer-facing systems: https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/
+・The Hacker News — VMware vCenter hit by another critical flaw: https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html
+・The Hacker News — WHMCS SQL injection / Okta INCEPTION（要旨のみ）
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-25-ai/ai_yukkuri.m4a" length="6242410" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Amazon75億ドル買収・Nvidia復帰と制裁・660万口座露出ほかAI最新 2026/11/24</title>
       <description>2026年11月24日の生成AI・量子コンピュータ・サイバーセキュリティの重要ニュースをまとめて解説します。
 AmazonによるDecart最適化技術の大型買収やAnthropicのPR自動承認ツール、NvidiaファンCEO復帰とMegaspeed制裁見通し、米DOEのAI×量子誤り訂正計画、重大脆弱性と最近のインシデントまで網羅しました。
