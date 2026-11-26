@@ -26,6 +26,85 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】GPT-6 Astraが量子重力の証明に参加・1Password流出 2026/11/27</title>
+      <description>2026年11月27日の生成AI・量子コンピュータ・サイバーセキュリティの重要ニュースをまとめて解説します。
+GPT-6 Astra と共同で進めた量子重力の研究、インドの「揺りかごから墓場まで」のAI監督構想、ChatGPT の利用枠統合、S&amp;P の Nvidia 格下げ検討、量子誤り訂正レポート、1Password の顧客データ流出まで扱いました。
+
+▼ 今日のトピック
+・研究：Stanfordの物理学者、GPT-6 Astraと量子重力の計算・証明を共同開発（約4億トークン）
+・インド：AIで国民を「揺りかごから墓場まで」把握する構想と、2.4億人向けAIスタック入札
+・OpenAI：ChatGPTのChatとWorkを統合、利用量メーターを共有に
+・Nvidia：S&amp;Pが格下げを検討、Megaspeedは取引制限リストに
+・量子コンピュータ：量子誤り訂正レポート2026、論文と特許が急増
+・量子コンピュータ：Classiq、2048ビットのShorを10秒未満で合成
+・セキュリティ：1Password、従業員のGitHub乗っ取りから顧客データとソースコードが流出
+・セキュリティ：Palo Alto、PAN-OSを狙う脆弱性の連鎖、日本も標的
+・セキュリティ：最近のインシデント一覧（Rackspace Spot / Peninsula Energy / Flight Centre / FinCEN / ARTEX / Gatwick）
+
+▼ 参考記事・ソース
+・The Quantum Insider — Stanford physicist uses AI to tackle quantum gravity problem: https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/
+・Axios — OpenAI Astra（GPT-6）: https://axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman
+・The Register — India's government ponders cradle-to-grave AI oversight: https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275
+・TechCrunch — OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work: https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/
+・TechCrunch — S&amp;P considers Nvidia credit downgrade over governance and key-man risks: https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
+・TechCrunch — The questions Jensen Huang and Nvidia will still have to answer about Megaspeed: https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/
+・Quantum Computing Report — Riverlane and Nature Research Intelligence release 2026 Quantum Error Correction Report: https://quantumcomputingreport.com/riverlane-and-nature-research-intelligence-release-2026-quantum-error-correction-report-highlighting-shift-to-full-stack-engineering/
+・Quantum Computing Report — Classiq updates Qmod compiler to synthesize 2048-bit Shor's algorithm in under 10 seconds: https://quantumcomputingreport.com/classiq-updates-qmod-compiler-to-synthesize-2048-bit-shors-algorithm-in-under-10-seconds/
+・BleepingComputer — 1Password customer data stolen after employee GitHub account breach: https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/
+・The Register — Hackers help themselves to 1Password's source code and customer data: https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317
+・BleepingComputer — Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks: https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/
+・The Register — Rackspace pulls plug on Spot cloud service after security breach: https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352
+・The Register — Wyoming uranium operation shuts down after cyberattack: https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323
+・The Register — Significant number of customer records pwned in Flight Centre Travel Group breach: https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360
+・The Register — US Treasury financial crimes unit becomes latest fed breach victim: https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165
+・The Register — Microsoft: hackers in China, N. Korea using ARTEX AI tool: https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433
+・The Register — Gatwick drop-off customers' personal data exposed in supplier breach（要旨のみ）: https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-27-ai/ai_yukkuri.m4a" length="6001679" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【速報】Amodei氏が制御放棄批判に反論・Character.AI履歴売却に42州反対 2026/11/26</title>
+      <description>2026年11月26日の生成AI・量子コンピュータ・サイバーセキュリティの重要ニュースをまとめて解説します。
+Anthropic の Amodei CEO の反論、AIによる情報公開請求の急増、Character.AI のチャット履歴売却問題、NY州のAIおもちゃ禁止、EUの量子法案、イタリア・スイスが警告した自律型AIエージェント攻撃まで扱いました。
+
+▼ 今日のトピック
+・Anthropic：Amodei氏、「人間の制御をAIに明け渡す」批判を「ばかげている」と反論（コードの80%超をClaudeが作成）
+・情報公開制度：AIによる大量請求で米国の自治体・機関が圧迫（連邦の請求は過去最多170万件）
+・Character.AI：破産売却で2,100万アカウントのチャット履歴、42州司法長官が反対
+・ニューヨーク州：AIチャットボット搭載おもちゃを5年間禁止
+・量子コンピュータ：欧州委員会、Quantum Actと主権技術ファンドを提案
+・量子コンピュータ：IQM、ソウルのデータセンターに54量子ビット機
+・セキュリティ：イタリアとスイス、自律型AIエージェントによる重要インフラ攻撃を警告
+・セキュリティ：最近のインシデント一覧（FinCEN / Hex.pm / Drupal / GeoServer / 30億件露出 / Com系vishing / フランスのスーパー）
+
+▼ 参考記事・ソース
+・TechCrunch — Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd': https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/
+・MIT Technology Review — AI is straining America's open records systems: https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/
+・TechCrunch — State AGs fight Character.AI's plan to auction off users' private chats: https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/
+・TechCrunch — Want to buy your kid an AI toy this Christmas? Not in New York: https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/
+・The Quantum Insider — European Commission proposes Quantum Act and new Sovereign Tech Equity Fund: https://thequantuminsider.com/2026/11/25/european-commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund/
+・The Quantum Insider — QuIC welcomes the European Quantum Act: https://thequantuminsider.com/2026/11/25/quic-welcomes-the-european-quantum-act-pledges-to-mobilize-industry/
+・The Quantum Insider — IQM to deploy 54-qubit quantum computer in South Korea data centre: https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/
+・BleepingComputer — Italy and Switzerland warn of autonomous AI-driven cyberattacks: https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/
+・The Hacker News — Drupal exploit details: https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html
+・BleepingComputer — Hackers now exploit critical Drupal RCE flaw to hijack sites: https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/
+・Wired — 3 billion usernames, passwords, and documents leaked online: https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/
+・The Hacker News — FinCEN / Hex.pm / GeoServer / Unit 42 Com vishing（要旨のみ）
+・Ars Technica — フランス、イラン系サイバー部隊によるスーパーの冷凍庫妨害を非難（要旨のみ）
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-26-ai/ai_yukkuri.m4a" length="6183650" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】Tidalが2,700万曲のAI楽曲削除・Anthropic株IPO割れほかAI最新 2026/11/25</title>
       <description>2026年11月25日の生成AI・量子コンピュータ・サイバーセキュリティの重要ニュースをまとめて解説します。
 METRのAI能力グラフ更新、Tidalの完全AI生成楽曲禁止、Anthropic株の公開価格割れ、DeepMindのAIエージェントによる量子アルゴリズム改良、英NCSCの警告とCheck Point管理サーバー侵害まで扱いました。
