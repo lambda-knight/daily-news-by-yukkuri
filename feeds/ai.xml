@@ -26,6 +26,46 @@
       <link>https://lambda-knight.github.io/daily-news-by-yukkuri</link>
     </image>
     <item>
+      <title>【速報】Nvidiaが東南アジア4か国へ出荷停止・米空軍クラウド侵害 2026/11/28</title>
+      <description>2026年11月28日の生成AI・量子コンピュータ・サイバーセキュリティの重要ニュースをまとめて解説します。
+Nvidia の東南アジア向け出荷停止（中国のAI計算能力の約24%を担う遠隔利用の抜け道）、AIブームで急増する天然ガス発電、英国のデータセンター政策、通信機器の最大18か月待ち、qLDPC 向けマジックステート工場、米空軍 Cloud One の侵害報道まで扱いました。
+
+▼ 今日のトピック
+・Nvidia：東南アジア4か国向けサーバー出荷を一時停止
+・米国：AIブームが天然ガス発電を押し上げる（PJM 715件・オフグリッド115GW）
+・英国：AIデータセンターの全国協議を政府が拒否
+・通信網：AIブームで光伝送機器が最大18か月待ち
+・量子コンピュータ：Harvard・QuEra・Caltech、qLDPC符号向けの単発マジックステート工場（時空間コスト10〜40分の1）
+・量子コンピュータ：Equal1・NVIDIA・Dell、ラック型の量子古典ハイブリッドをSC26で実演
+・セキュリティ：米空軍のクラウド基盤Cloud Oneが侵害されたと報道
+・セキュリティ：Cactiにパッチのないゼロデイ、攻撃コードも公開
+・セキュリティ：最近のインシデント一覧（pCloud Pass / Boston Scientific / Drupal / FBI NCIC / PolinRider / Q-Dir・DesktopOK）
+
+▼ 参考記事・ソース
+・TechCrunch — Nvidia hits pause on chip shipments to Southeast Asia: https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/
+・MIT Technology Review — Data centers and gas power plants: https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/
+・The Register — UK government rejects national consultation on AI datacenters: https://www.theregister.com/off-prem/2026/11/27/uk-government-rejects-national-consultation-on-ai-datacenters/5312501
+・The Register — AI boom leaves network operators waiting up to 18 months for kit: https://www.theregister.com/networks/2026/11/27/ai-boom-leaves-network-operators-waiting-up-to-18-months-for-kit/5312366
+・Quantum Computing Report — Harvard, QuEra and Caltech design single-shot magic state factories for quantum LDPC codes: https://quantumcomputingreport.com/harvard-quera-and-caltech-design-single-shot-magic-state-factories-for-quantum-ldpc-codes-with-10-40x-lower-overhead/
+・Quantum Computing Report — Equal1, NVIDIA and Dell Technologies demonstrate real-time hybrid quantum-classical rack integration at SC26: https://quantumcomputingreport.com/equal1-nvidia-and-dell-technologies-demonstrate-real-time-hybrid-quantum-classical-rack-integration-at-sc26/
+・BleepingComputer — US Air Force cloud platform reportedly hacked in latest federal breach: https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/
+・BleepingComputer — Unpatched Cacti zero-day with public PoC gives remote code execution: https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/
+・The Hacker News — Unpatched Cacti zero-day enables RCE（要旨のみ）: https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html
+・BleepingComputer — pCloud confirms password manager hack after suspicious login alerts: https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/
+・BleepingComputer — New Boston Scientific data breach exposes personal, medical info: https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/
+・BleepingComputer — Drupal warns of new access bypass flaw exploited in attacks: https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/
+・BleepingComputer — FBI NCIC への侵入報道（2026年11月21日、要旨のみ）
+・The Hacker News — North Korea-linked PolinRider poisons GitHub repositories（要旨のみ）: https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html
+・The Hacker News — Hackers trojanize official Q-Dir and DesktopOK downloads（要旨のみ）: https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html
+
+#生成AI #ChatGPT #Claude #LLM #AI #人工知能 #ゆっくり解説 #ずんだもん #四国めたん #OpenAI #Anthropic #Google #AI最新情報 #AIニュース</description>
+      <enclosure url="https://archive.org/download/news-pickup-2026-11-28-ai/ai_yukkuri.m4a" length="6056436" type="audio/mp4"/>
+      <guid isPermaLink="false">ai-2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 07:00:00 +0900</pubDate>
+      <itunes:author>daily-news-by-yukkuri</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>【速報】GPT-6 Astraが量子重力の証明に参加・1Password流出 2026/11/27</title>
       <description>2026年11月27日の生成AI・量子コンピュータ・サイバーセキュリティの重要ニュースをまとめて解説します。
 GPT-6 Astra と共同で進めた量子重力の研究、インドの「揺りかごから墓場まで」のAI監督構想、ChatGPT の利用枠統合、S&amp;P の Nvidia 格下げ検討、量子誤り訂正レポート、1Password の顧客データ流出まで扱いました。
